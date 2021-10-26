@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124.815" height="124.848" viewBox="0 0 124.815 124.848">
+  <defs>
+    <linearGradient id="linear-gradient-lklp" x1="0.5" y1="0.026" x2="0.5" y2="0.979" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#14b0f5"/>
+      <stop offset="1" stop-color="#9191ff"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(-869.712 -766.934)">
+    <g>
+      <path d="M208.057,263.606c1.235-4.224,7.657-4.414,9.047,0,7.23,23.072,22.717,29.358,22.717,45.644,0,14.406-12.181,26.051-27.25,26.051s-27.25-11.663-27.25-26.051C185.321,292.873,200.772,286.787,208.057,263.606Zm26.65-1.471c0-7.43,6.767-10.2,9.946-20.737a2.063,2.063,0,0,1,3.951,0c3.179,10.5,9.946,13.353,9.946,20.737a11.922,11.922,0,0,1-23.844,0Zm36.043,20.138c3.17,10.5,9.946,13.353,9.946,20.737a11.922,11.922,0,0,1-23.844,0c0-7.43,6.767-10.2,9.937-20.737A2.069,2.069,0,0,1,270.75,282.273Z" transform="translate(684.391 527.004)" fill="url(#linear-gradient-lklp)"/>
+      <text data-name="$" transform="translate(888.279 844.343)" fill="#fff" font-size="27" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">$</tspan></text>
+    </g>
+    <g transform="translate(875.113 762.583)">
+      <ellipse cx="36.72" cy="36.719" rx="36.72" ry="36.719" transform="translate(45.974 55.76)" fill="#fff"/>
+      <circle cx="31.037" cy="31.037" r="31.037" transform="translate(51.657 61.442)" fill="#F5BB07"/>
+      <path d="M25.824,8.337H24.275V3.688a9.813,9.813,0,0,0-19.627,0V8.337H3.1a3.1,3.1,0,0,0-3.1,3.1v12.4a3.1,3.1,0,0,0,3.1,3.1H25.824a3.1,3.1,0,0,0,3.1-3.1v-12.4A3.1,3.1,0,0,0,25.824,8.337Zm-6.714,0h-9.3V3.688a4.648,4.648,0,1,1,9.3,0Z" transform="translate(68.772 79.958)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
