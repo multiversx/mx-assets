@@ -1,5 +1,6 @@
 {
   "website": "https://maiar.exchange",
   "description": "MEX is the utility token of the Maiar Exchange.",
+  "ledgerSignature": "3044022076b7216cc07b827d5dec0468db31d9393b0028dcd5c81bcdc4f5371e0386061f022013f51d51c1421fbf67771a1edc1f607d750cf366392c5c09216fecb61e350f73",
   "status": "active"
 }
