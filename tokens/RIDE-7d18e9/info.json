@@ -1,5 +1,8 @@
 {
-  "website": "https://www.holoride.com/",
+  "website": "https://www.holoride.com",
   "description": "The RIDE token is essential for building a vibrant and sustainable economy for the holoride ecosystem, connecting car manufacturers, content creators, brands, and passengers and enabling them to capture value along the way.",
+  "social": {
+    "twitter": "https://twitter.com/holoride"
+  },
   "status": "active"
 }
