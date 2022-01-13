@@ -3,7 +3,11 @@
   "description": "The RIDE token is essential for building a vibrant and sustainable economy for the holoride ecosystem, connecting car manufacturers, content creators, brands, and passengers and enabling them to capture value along the way.",
   "ledgerSignature": "3044022012d2b0996189be93713d5d5a444b1d7fcaeb513d7ab3c79f9146ecab627a486202206e61d878b3c67b72d202af841f0ff8f676e427738086807dce7f255f63c9bef3",
   "social": {
-    "twitter": "https://twitter.com/holoride"
+    "blog": "https://www.holoride.com/newsroom",
+    "twitter": "https://twitter.com/holoride",
+    "whitepaper": "https://a.storyblok.com/f/113424/x/334861532d/holoride_litepaper_v2-1_nov21.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/holoride/",
+    "coingecko": "https://www.coingecko.com/en/coins/holoride"
   },
   "status": "active"
 }
