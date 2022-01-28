@@ -1,0 +1,13 @@
+{ 
+"website": "https://www.blockbank.ai",
+"description": "One-stop solution that combines the power of decentralized & centralized technology.",  "ledgerSignature": "",
+"social": {
+    "email": "support@blockbank.ai",
+    "blog": "https://blog.blockbank.ai",
+    "twitter": "https://twitter.com/Blockbankapp",
+    "whitepaper": "https://blockbank.ai/pdf/whitepaper",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/blockbank/",
+    "coingecko": "https://www.coingecko.com/en/coins/blockbank"
+  },
+"status": "active"
+}
