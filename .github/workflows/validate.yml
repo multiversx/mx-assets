@@ -1,0 +1,17 @@
+name: Validate JSON
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  verify-json-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_JSONS: ./tokens/**/info.json,./devnet/tokens/**/info.json,./testnet/tokens/**/info.json
