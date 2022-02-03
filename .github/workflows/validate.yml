@@ -11,11 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+      - name: Collection file paths
+        run: |
+          # export FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,')
+          echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,')" >> $GITHUB_ENV
+        shell: bash
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./schema.json
-          INPUT_JSONS: ./
-        run: |
-          export INPUT_JSONS=$(find ./tokens -type f -name '*info.json' -printf '%p,')
-        shell: bash
+          INPUT_JSONS: ${{ env.FILE_PATHS }}
+        
