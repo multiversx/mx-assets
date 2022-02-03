@@ -15,4 +15,4 @@ jobs:
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./schema.json
-          INPUT_JSONS: ./tokens/AERO-458bbf/info.json
+          INPUT_JSONS: ./**
