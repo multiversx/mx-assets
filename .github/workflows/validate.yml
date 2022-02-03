@@ -10,9 +10,12 @@ jobs:
   verify-json-validation:
     runs-on: ubuntu-latest
     steps:
+      - name: Run integration tests
+        run: |
+          export INPUT_JSONS=$(find ./tokens -type f -name '*info.json' -printf '%p,')
+        shell: bash
       - uses: actions/checkout@v1
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./schema.json
-          INPUT_JSONS: ./**
