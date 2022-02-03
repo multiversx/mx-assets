@@ -13,8 +13,9 @@ jobs:
       - uses: actions/checkout@v1
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schema.json
+          INPUT_JSONS: ./
         run: |
           export INPUT_JSONS=$(find ./tokens -type f -name '*info.json' -printf '%p,')
         shell: bash
-        env:
-          INPUT_SCHEMA: ./schema.json
