@@ -26,9 +26,6 @@
           "type": "string"
         }
       },
-      "required": [
-        "twitter"
-      ],
       "additionalProperties": true
     }
   },
