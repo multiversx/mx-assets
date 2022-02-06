@@ -2,7 +2,8 @@
     "website": "https://www.fivetogo.ro",
     "description": "5togo Token is the utility token of the 5 to go coffee chain.",
     "social": {
-        "email": "hello@fivetogo.ro"
+        "email": "hello@fivetogo.ro",
+        "twitter": "https://twitter.com/5togoOfficial"
     },
     "status": "active"
 }
