@@ -1,0 +1,15 @@
+{ 
+  "website": "https://elrond-space.com",
+  "description": "$SPACIUM is a crypto currency attached to Elrond Space Project.",
+  "ledgerSignature": "",
+  "social": {
+      "email": "team@elrond-space.com",
+      "blog": "https://elrond-space.com",
+      "twitter": "https://twitter.com/ElrondSpace",
+      "whitepaper": "https://elrondspace-1.gitbook.io/elrond-space/",
+      "coinmarketcap": "",
+      "coingecko": ""
+    },
+  "status": "active"
+  }
+  
