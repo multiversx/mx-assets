@@ -1,0 +1,13 @@
+{
+  "website": "https://www.wwwine.io",
+  "description": "GRAPES is the token that will ensure the durability and security of WWW decentralized system.",
+  "social": {
+    "email": "samuel@wwwine.io",
+    "blog": "",
+    "twitter": "https://twitter.com/wwwinenft",
+    "whitepaper": "https://bit.ly/3696loE",
+    "coinmarketcap": "",
+    "coingecko": ""
+  },
+  "status": "active"
+}
