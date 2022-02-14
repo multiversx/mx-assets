@@ -4,7 +4,8 @@
   "social": {
     "email": "hello@superciety.com",
     "twitter": "https://twitter.com/supercietyhq",
-    "whitepaper": "https://github.com/superciety/litepaper"
+    "whitepaper": "https://github.com/superciety/litepaper",
+    "coingecko": "https://www.coingecko.com/en/coins/superciety"
   },
   "status": "active"
 }
