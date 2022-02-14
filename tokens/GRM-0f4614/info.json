@@ -1,10 +1,10 @@
-{
-  "website": "https://Grammawines.ro/nft",
-  "description": "The Wine token is the utility token of Gramma projects.",
-  "social": {
-    "email": "nft@grammawines.ro",
-    "instagram": "https://instagram.com/grammawines",
-    "twitter": "https://twitter.com/VinulGramma",
-  },
-  "status": "active"
+  {
+    "website": "https://Grammawines.ro/nft",
+    "description" : "The Wine token is the utility token of Gramma projects",
+    "social" : {
+        "email" : "nft@grammawines.ro",
+        "instagram": "https://instagram.com/grammawines",
+        "twitter": "https://twitter.com/VinulGramma",
+   },
+   "status" : "active" 
 }
