@@ -1,9 +1,7 @@
 {
-
-"description": "Yield aggregator with high APY. High rewards for the token holders: 80% of fees will be distributed to holders and 15% for burning",
-"social": {https://twitter.com/OdinDefi
-"twitter": "https://twitter.com/OdinDefi",
-1644145516227
-
-},
-"status": "active"
+  "description": "Yield aggregator with high APY. High rewards for the token holders: 80% of fees will be distributed to holders and 15% for burning",
+  "social": {
+    "twitter": "https://twitter.com/OdinDefi",
+  },
+  "status": "active"
+}
