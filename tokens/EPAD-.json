@@ -1,13 +1,14 @@
 {
-    "website": "https://www.elrondlaunchpad.io",
-    "description": "The official token of Elrond Launchpad",
+    "website": "https://www.epad.network",
+    "description": "The official token of ePAD Network",
     "social": {
-        "email": "elrondpad@gmail.com",
+        "email": "support@epad.network",
         "blog": "",
-        "twitter": "https://twitter.com/Elrond_Pad",
-        "whitepaper": "https://elrondlaunchpad.medium.com/elrond-launchpad-white-paper-d94cdf81b33",
+        "twitter": "https://twitter.com/ePADNetwork",
+        "whitepaper": "https://epadnetwork.medium.com/epad-network-white-paper-324f40b1fc53",
         "coinmarketcap": "",
         "coingecko": ""
     },
     "status": "active"
 }
+ 
