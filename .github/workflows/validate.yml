@@ -18,17 +18,13 @@ jobs:
       - id: files
         name: Validate json filenames
         uses: jitterbit/get-changed-files@v1
-        env:
-          JSON_PATTERN: /info.json
-          PNG_PATTERN: /logo.png
-          SVG_PATTERN: /logo.svg
         with:
           format: 'json'
       - run: |
-          readarray -t added_files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added }}')"
-          for added_file in ${added_files[@]}; do
-            if [[ ${added_file} != *"${{ env.JSON_PATTERN }}"* && ${added_file} != *"${{ env.PNG_PATTERN }}"* && ${added_file} != *"${{ env.SVG_PATTERN }}"* ]]; then
-              echo "Filename ${added_file} isn't expected!"
+          readarray -t files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.all }}')"
+          for file in ${files[@]}; do
+            if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* ]]; then
+              echo "Filename ${file} isn't expected!"
               exit 1
             fi
           done
