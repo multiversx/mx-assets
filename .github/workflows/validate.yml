@@ -16,6 +16,7 @@ jobs:
           echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
         shell: bash
       - id: files
+        name: Validate json filenames
         uses: jitterbit/get-changed-files@v1
         with:
           format: 'json'
@@ -24,6 +25,7 @@ jobs:
             if [[ ${changed_file} =~ ^*/info.json$ ]]; then
               echo "Match"
             else
+              echo "Filename ${changed_file} isn't expected!"
               exit 1
             fi
           done
