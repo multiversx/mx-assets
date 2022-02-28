@@ -16,7 +16,7 @@ jobs:
           echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
         shell: bash
       - id: files
-        name: Validate json filenames
+        name: Validate filenames
         uses: jitterbit/get-changed-files@v1
         with:
           format: 'json'
