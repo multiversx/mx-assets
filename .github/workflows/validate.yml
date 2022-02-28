@@ -23,7 +23,7 @@ jobs:
       - run: |
           readarray -t added_files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added }}')"
           for added_file in ${added_files[@]}; do
-            if [[ ${added_file} != *"/info.json"* || ${added_file} != *"/logo.png"* || ${added_file} != *"/logo.svg"* ]]; then
+            if [[ ${added_file} != *"/info.json"* && ${added_file} != *"/logo.png"* && ${added_file} != *"/logo.svg"* ]]; then
               echo "Filename ${added_file} isn't expected!"
               exit 1
             fi
