@@ -21,7 +21,7 @@ jobs:
         with:
           format: 'json'
       - run: |
-          readarray -t files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.all }}')"
+          readarray -t files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added }}')"
           for file in ${files[@]}; do
             if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* ]]; then
               echo "Filename ${file} isn't expected!"
