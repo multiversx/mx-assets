@@ -18,9 +18,8 @@ jobs:
       - name: Validate filenames
         uses: jitterbit/get-changed-files@v1
       - run: |
-          jsonpattern = "*info.json"
           for changed_file in ${{ steps.files.outputs.added }}; do
-            if [[${changed_file} != ${jsonpattern}]] then
+            if [[${changed_file} != "*info.json"]] then
               echo "Match"
             else
               echo "No match"
