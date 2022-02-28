@@ -24,9 +24,7 @@ jobs:
           readarray -t added_files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added }}')"
           for added_file in ${added_files[@]}; do
             echo "Do something with this ${added_file}."
-            if [[ ${added_file} =~ ^*/info.json$ ]]; then
-              echo "Match"
-            else
+            if [[ ${added_file} != *"/info.json"* ]]; then
               echo "Filename ${added_file} isn't expected!"
               exit 1
             fi
