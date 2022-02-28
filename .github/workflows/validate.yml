@@ -15,11 +15,16 @@ jobs:
         run: |
           echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
         shell: bash
-      - id: files
+      - name: Validate filenames
         uses: jitterbit/get-changed-files@v1
       - run: |
+          jsonpattern = "*info.json"
           for changed_file in ${{ steps.files.outputs.added }}; do
-            echo "Do something with this ${changed_file}."
+            if [[${changed_file} != ${jsonpattern}]] then
+              echo "Match"
+            else
+              echo "No match"
+            fi
           done
         shell: bash
       - name: Validate JSON
