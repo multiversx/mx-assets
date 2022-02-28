@@ -1,11 +1,9 @@
-{ 
-"description": "BitX is a wealth securement token that aims to help inverstors secure their wealth in the futre on the Elrond Blockchain",  "ledgerSignature": "",
-"social": {
-
-    "Website": "https://www.bitxfinance.online",
+"website": "https://www.bitxfinance.online",
+  "description": "BitX is the future of wealth securement for the digital space",
+  "social": {
+    "email": "admin@bitxfinance.online",
     "twitter": "https://twitter.com/bitxfinance",
-    "coinmarketcap": "",
-    "coingecko": ""
+    "Telegram": "https://t.me/+TjHtXJUc2bg5N2M1",
   },
-"status": "active"
+  "status": "active"
 }
