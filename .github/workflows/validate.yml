@@ -11,10 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Collection file paths
+      - name: Collecting file paths
         run: |
           echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
         shell: bash
+      - name: Validate filenames
+        uses: batista/lint-filenames@v1
+        with:
+          path: './tokens'
+          pattern: '\\info.json$'
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
