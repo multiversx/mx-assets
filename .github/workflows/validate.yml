@@ -22,7 +22,7 @@ jobs:
             if [["$changed_file" =~ ^*/info.json$ ]]; then
               echo "Match"
             else
-              echo "No match"
+              exit 1
             fi
           done
         shell: bash
