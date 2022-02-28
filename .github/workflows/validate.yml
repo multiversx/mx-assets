@@ -19,7 +19,7 @@ jobs:
         uses: jitterbit/get-changed-files@v1
       - run: |
           for changed_file in ${{ steps.files.outputs.added }}; do
-            if [["${changed_file}" =~ ^*/info.json$ ]]; then
+            if [[${changed_file} =~ ^*/info.json$ ]]; then
               echo "Match"
             else
               exit 1
