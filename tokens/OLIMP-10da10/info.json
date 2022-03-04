@@ -1,0 +1,13 @@
+{
+    "website": "https://www.olimpnft.com/",
+    "description": "The OLIMP token is the utility token of OLIMP NFT MARKETPLACE",
+    "social": {
+        "email": "olimpnft@gmail.com",
+        "blog": "https://medium.com/@olimpnft",
+        "twitter": "https://twitter.com/OlimpNft",
+        "whitepaper": "https://www.olimpnft.com/files/Whitepaper.pdf",
+        "coinmarketcap": "https://coinmarketcap.com/",
+        "coingecko": "https://www.coingecko.com/"
+    },
+    "status": "active"
+}
