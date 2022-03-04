@@ -1,0 +1,37 @@
+name: Validate filenames & JSON informations
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Collecting file paths
+        run: |
+          echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
+        shell: bash
+      - id: files
+        name: Validate filenames
+        uses: jitterbit/get-changed-files@v1
+        with:
+          format: 'json'
+      - run: |
+          readarray -t files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added }}')"
+          for file in ${files[@]}; do
+            if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* ]]; then
+              echo "Filename ${file} isn't expected!"
+              exit 1
+            fi
+          done
+        shell: bash
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schema.json
+          INPUT_JSONS: ${{ env.FILE_PATHS }}
+        
