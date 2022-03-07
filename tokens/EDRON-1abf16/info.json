@@ -1,10 +1,10 @@
 {
-    "website": "",
-    "description" : "$EARTH to preserve the Earth",
-    "social" : {
-        "email" : "earthweb3@gmail.com",
-        "discord" : "discord.gg/zghmmrxUvd",
-        "twitter" : "https://twitter.com/web3earth"
-   },
-   "status" : "active" 
+  "website": "https://eduverse.network",
+  "description": "First ever school fundraising and education management powered with Edron. Even the Smallest Giant can make a huge impact. EDRON - Education Development and Research by Open Network.",
+  "status": "active",
+  "social": {
+	"email": "contact@eduverse.network",
+    "facebook": "https://www.facebook.com/SmallGiants.ro",
+    "twitter": "https://twitter.com/SmallGiants_ro"
+  }
 }
