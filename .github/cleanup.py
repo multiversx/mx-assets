@@ -1,5 +1,3 @@
-from ast import Str
-import os
 import os
 import requests
 import shutil
