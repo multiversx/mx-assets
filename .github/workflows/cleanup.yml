@@ -1,0 +1,20 @@
+name: Cleanup
+    
+on:
+  schedule:
+    - cron: "0 0 * * *" #runs at 00:00 UTC everyday
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2 
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Execute cleanup script
+        run: |
+          python3 cleanup.py
