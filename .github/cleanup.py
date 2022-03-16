@@ -9,11 +9,11 @@ def clean(dir, api_url):
       continue
 
     token_response = requests.head(api_url + '/tokens/' + token)
-    if token_response.status_code == 200:
+    if token_response.status_code != 404:
       continue
 
     collection_response = requests.head(api_url + '/collections/' + token)
-    if collection_response.status_code == 200:
+    if collection_response.status_code != 404:
       continue
 
     shutil.rmtree(dir + "/" + token)
