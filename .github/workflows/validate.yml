@@ -27,7 +27,9 @@ jobs:
               echo "Filename ${file} isn't expected!"
               exit 1
             fi
+            DIR=`dirname $file`
           done
+          echo $DIR
         shell: bash
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
