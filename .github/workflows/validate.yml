@@ -27,7 +27,7 @@ jobs:
               echo "Filename ${file} isn't expected!"
               exit 1
             fi
-            DIR=`dirname $file`
+            DIR=`basename $file`
           done
           urls=( "https://api.elrond.com/" "https://testnet-api.elrond.com/" "https://devnet-api.elrond.com/")
           for url in ${urls[@]}; do
