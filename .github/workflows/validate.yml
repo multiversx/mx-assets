@@ -51,6 +51,7 @@ jobs:
             echo "Failed fetching from $API_COLLECTION_URL"
           done
 
+          echo "Invalid token $DIR"
           exit 1
         shell: bash
       - name: Validate JSON
