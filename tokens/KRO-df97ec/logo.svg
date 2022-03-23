@@ -12,7 +12,7 @@
     <g id="LandingPage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Font-Test-Copy">
             <g id="Group">
-                <circle id="Oval-Copy" fill="#262C32" cx="500" cy="500" r="500"></circle>
+                <circle id="Oval-Copy" fill="#0A0B0C" cx="500" cy="500" r="500"></circle>
                 <circle id="Oval" fill="url(#radialGradient-1)" opacity="0.500102452" cx="500" cy="500" r="500"></circle>
                 <g id="Logo2" transform="translate(259.786477, 209.964413)" fill="#FF672A">
                     <polygon id="Path-2" points="0 373.902439 106.783217 252.215432 106.783217 186.95122 0 313.771849"></polygon>
