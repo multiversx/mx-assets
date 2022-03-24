@@ -19,8 +19,8 @@ def clean(dir, api_url):
     shutil.rmtree(dir + "/" + token)
     print("Removed token " + token  + " " + dir + "/" + token)
 
-clean("../tokens", "https://api.elrond.com")
-clean("../testnet/tokens", "https://testnet-api.elrond.com")
-clean("../devnet/tokens", "https://devnet-api.elrond.com")
+clean("tokens", "https://api.elrond.com")
+clean("testnet/tokens", "https://testnet-api.elrond.com")
+clean("devnet/tokens", "https://devnet-api.elrond.com")
   
 
