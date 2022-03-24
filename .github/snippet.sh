@@ -11,9 +11,6 @@ validate_filenames() {
   done
 }
 
-API_TOKEN_URL=""
-API_COLLECTION_URL=""
-HTTP_STATUS=""
 validate_token_existence() {
   urls=( "https://api.elrond.com/" "https://testnet-api.elrond.com/" "https://devnet-api.elrond.com/")
   for url in ${urls[@]}; do
