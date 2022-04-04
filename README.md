@@ -1,3 +1,5 @@
+![Logo](https://user-images.githubusercontent.com/102875789/161566065-833e69b0-5999-4c40-acfd-5722e4d05f4d.png)
+![Logo](https://user-images.githubusercontent.com/102875789/161566614-f517f07d-e5cb-4f7a-ae14-319dceefd30c.svg)
 # Introduction
 
 This repository holds a list of whitelisted tokens in the Elrond web tools. A whitelisted token can have website and socials URLs, a logo or a description, that will be displayed on Elrond products, such as the Elrond Explorer or the Web Wallet. The logos are also used in the Maiar App.
