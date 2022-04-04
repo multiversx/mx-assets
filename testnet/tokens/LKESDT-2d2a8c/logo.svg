@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="74.921" height="74.921" viewBox="0 0 74.921 74.921">
+  <defs>
+    <filter id="Ellipse_88" x="0" y="0" width="74.921" height="74.921" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1452" data-name="Group 1452" transform="translate(-899.579 -440.844)">
+    <g id="Group_1450" data-name="Group 1450" transform="translate(51.079 -304.062)">
+      <g transform="matrix(1, 0, 0, 1, 848.5, 744.91)" filter="url(#Ellipse_88)">
+        <g id="Ellipse_88-2" data-name="Ellipse 88" transform="translate(5.5 3.5)" fill="#fff" stroke="#49494d" stroke-width="1">
+          <circle cx="31.96" cy="31.96" r="31.96" stroke="none"/>
+          <circle cx="31.96" cy="31.96" r="32.46" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_579" data-name="Group 579" transform="translate(869.825 758.393)">
+        <path id="Path_1839" data-name="Path 1839" d="M325.727,271.184l-6.89,9.163h-23.8l6.892-9.163Z" transform="translate(-295.04 -253.792)" fill="#c41ff6" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_1430" data-name="Group 1430" transform="translate(886.848 779.036)">
+        <ellipse id="Ellipse_110" data-name="Ellipse 110" cx="11.841" cy="11.841" rx="11.841" ry="11.841" transform="translate(0 0)" fill="#fff"/>
+        <ellipse id="Ellipse_99" data-name="Ellipse 99" cx="10.008" cy="10.009" rx="10.008" ry="10.009" transform="translate(1.776 1.775)" fill="#f5bb07"/>
+        <path id="Path_1853" data-name="Path 1853" d="M8.328-1.462h-.5v-1.5A3.168,3.168,0,0,0,4.663-6.125,3.168,3.168,0,0,0,1.5-2.961v1.5H1a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1H8.328a1,1,0,0,0,1-1v-4A1,1,0,0,0,8.328-1.462Zm-2.165,0h-3v-1.5a1.5,1.5,0,0,1,1.5-1.5,1.5,1.5,0,0,1,1.5,1.5Z" transform="translate(7.121 12.58)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
