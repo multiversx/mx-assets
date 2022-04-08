@@ -1,5 +1,5 @@
 {
   "website": "https://testnet.maiar.exchange",
-  "description": "Locked ESDT. Can contain any other ESDT. Not tradeable.",
+  "description": "Locked ESDT. Can contain any other ESDT. Cannot be swapped.",
   "status": "active"
 }
