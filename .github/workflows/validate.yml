@@ -1,4 +1,4 @@
-name: Validate JSON
+name: Validate filenames & JSON informations
 
 on:
   push:
@@ -7,13 +7,22 @@ on:
     branches: [ master ]
 
 jobs:
-  verify-json-validation:
+  validation:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Collection file paths
+      - name: Collecting file paths
         run: |
           echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
+        shell: bash
+      - id: files
+        name: Validate filenames
+        uses: jitterbit/get-changed-files@v1
+        with:
+          format: 'json'
+      - run: |
+          source .github/snippet.sh; validate_filenames
+          source .github/snippet.sh; validate_token_existence
         shell: bash
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
