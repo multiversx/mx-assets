@@ -1,13 +1,4 @@
 {
-    "website": "https://erdlaunchpad.com",
-    "description": "The LPAD token is the utility token of ErdLaunchpad",
-    "social": {
-        "email": "contact@erdlaunchpad.com",
-        "twitter": "https://twitter.com/ErdLaunchpad",
-    },
-    "status": "active"
-}
-{
   "website": "https://www.erdlaunchpad.com/",
   "description": "The $LPAD token is the utility token of Erdlaunchpad, decentralized launchpad on Elrond",
   "social": {
