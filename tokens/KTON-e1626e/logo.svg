@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="800"
+   viewBox="0 0 211.66666 211.66667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   sodipodi:docname="logo-final-round.svg"
+   inkscape:export-filename="/home/masterh/projects/katon/logo-final-round.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="800px"
+     inkscape:snap-global="true"
+     height="800px"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="103.9447"
+     inkscape:cy="362.74578"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid147" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4490">
+      <stop
+         style="stop-color:#212121;stop-opacity:1"
+         offset="0"
+         id="stop4486" />
+      <stop
+         style="stop-color:#009b79;stop-opacity:1"
+         offset="1"
+         id="stop4488" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient28719">
+      <stop
+         style="stop-color:#212121;stop-opacity:1"
+         offset="0"
+         id="stop28715" />
+      <stop
+         style="stop-color:#009b79;stop-opacity:1"
+         offset="1"
+         id="stop28717" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4490"
+       id="linearGradient22862"
+       x1="-258.25391"
+       y1="218.41641"
+       x2="-171.55371"
+       y2="87.646126"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95997064,-0.00463631,0.00470637,0.94568185,254.31014,20.810279)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28719"
+       id="linearGradient28721"
+       x1="-179.15257"
+       y1="128.97844"
+       x2="-131.21832"
+       y2="27.60137"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95998219,0,0,0.94569316,254.41969,21.730452)" />
+  </defs>
+  <rect
+     style="display:none;fill:#212121;stroke:none;stroke-width:0.201262"
+     id="rect868"
+     width="214.61984"
+     height="215.31955"
+     x="-0.069930993"
+     y="-0.13325946" />
+  <circle
+     style="display:inline;fill:#212121;stroke:none;stroke-width:0.222159"
+     id="path1072"
+     inkscape:export-filename="/home/masterh/projects/katon/logo-final-round.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     r="105.83334"
+     cy="105.83334"
+     cx="105.83345" />
+  <path
+     id="path16495"
+     style="fill:url(#linearGradient28721);fill-opacity:1;stroke:none;stroke-width:0.215949"
+     inkscape:transform-center-x="7.6547332"
+     inkscape:transform-center-y="24.041719"
+     d="m 109.60136,39.170897 c -15.697573,-0.03547 -33.220529,1.093669 -50.173909,4.61768 L 109.7907,105.12988 162.88496,43.55123 c 0,0 -23.31551,-4.312625 -53.2836,-4.380333 z" />
+  <path
+     id="path16495-0"
+     style="display:inline;fill:url(#linearGradient22862);fill-opacity:1;stroke:none;stroke-width:0.215336;stroke-miterlimit:4;stroke-dasharray:none"
+     inkscape:transform-center-x="7.56076"
+     inkscape:transform-center-y="-24.038843"
+     d="m 59.427452,43.788577 c -5.347436,9.871086 -8.992152,114.163073 3.61008,123.624013 13.418461,10.0737 99.236688,1.64114 99.236688,1.64114 z"
+     sodipodi:nodetypes="cscc" />
+</svg>

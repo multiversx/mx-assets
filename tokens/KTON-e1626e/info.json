@@ -1,0 +1,12 @@
+{
+    "website": "https://katon.io",
+    "description": "Katon.io is a platform dedicated to seamless blockchain integration. The various APIs & SDKs we developed abstract the complexity of managing wallets & transactions on public decentralized networks.",
+    "social": {
+        "email": "founders@katon.io",
+        "twitter": "https://twitter.com/io_katon",
+        "whitepaper": "https://katon.io/whitepaper.pdf",
+        "blog": "https://bloc.katon.io",
+        "telegram": "https://t.me/+ivTPijYU_ZRjZTkx"
+    },
+    "status": "active"
+}
