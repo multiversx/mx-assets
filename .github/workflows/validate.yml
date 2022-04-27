@@ -21,13 +21,8 @@ jobs:
         with:
           format: 'json'
       - run: |
-          readarray -t files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added }}')"
-          for file in ${files[@]}; do
-            if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* ]]; then
-              echo "Filename ${file} isn't expected!"
-              exit 1
-            fi
-          done
+          source .github/snippet.sh; validate_filenames
+          source .github/snippet.sh; validate_token_existence
         shell: bash
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
