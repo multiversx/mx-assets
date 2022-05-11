@@ -1,0 +1,12 @@
+{
+    "website": "https://startpad.icu/",
+    "description": "A Decentralized Launchpad built on Elrond Blockchain for Start-ups.",
+    "ledgerSignature": "",
+    "social": {
+      "twitter": "https://twitter.com/esdtstartpad",
+      "whitepaper": "https://whitepaper.startpad.icu/",
+      "coinmarketcap": "",
+      "coingecko": ""
+    },
+    "status": "active"
+  }
