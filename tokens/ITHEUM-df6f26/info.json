@@ -8,5 +8,17 @@
     "discord": "https://itheum.io/discord",
     "whitepaper": "https://itheum.io/whitepaper"
   },
-  "status": "active"
+  "status": "active",
+  "lockedAccounts": {
+    "erd1fasw55a2zfztcy7e8424g9kn8clwnksjl7mlw9zdpkl473m9pljsmwpkw2": "Ecosystem, Community, Treasury",
+    "erd1m38hwpeq9x5m9l5cckxfmrsmnxmsm5gwv5atymqp84y988t5haasn4u0cg": "Investors, Team"
+  },
+  "extraTokens": [
+    "ITHWEGLD-1adc53",
+    "METAITHLK-25c96a",
+    "METAITH-0993f6",
+    "ITHWEGLDFL-332f38",
+    "ITHWEGLDF-8fd842",
+    "SITHEUM-e05083"
+  ]
 }
