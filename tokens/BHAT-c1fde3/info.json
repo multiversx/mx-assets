@@ -19,7 +19,8 @@
     "erd1qqqqqqqqqqqqqpgqe38ry6970g72mkc9achtlh5th42kz8hgm0qstluvzw": "TeamUnvested",
     "erd1qqqqqqqqqqqqqpgqw26kqrsjz9jclhwyyllytvaw0w3wtdttm0qs7vrez8": "AdvisorsUnvested",
     "erd1qqqqqqqqqqqqqpgq628kr49cdx47ek6txz5xcll9a4mzzvrkm0qslrx6e6": "MarketingUnvested",
-    "erd1qqqqqqqqqqqqqpgqwz6sk8cw8xyqvzgq59zty2cs7zvn2hfzm0qscrspuw": "ProjectTreasuryMetabondingUnvested"
+    "erd1qqqqqqqqqqqqqpgqwz6sk8cw8xyqvzgq59zty2cs7zvn2hfzm0qscrspuw": "ProjectTreasuryMetabondingUnvested",
+    "erd1qqqqqqqqqqqqqpgq50dge6rrpcra4tp9hl57jl0893a4r2r72jpsk39rjj": "ElrondMetabondingSC"
   },
   "extraTokens": [
     "SBHAT-89efd3"
