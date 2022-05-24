@@ -2,13 +2,26 @@
   "website": "https://bh.network/",
   "description": "The BHAT Token is the epicenter of the BH Network web3 hub and allows access and interaction with all DeFi modules within the hub.",
   "social": {
-	"email": "contact@bh.network",
+    "email": "contact@bh.network",
     "blog": "https://bh.network/blog",
     "twitter": "https://twitter.com/BlackHatNetwork",
     "telegram": "https://t.me/bhnetwork",
     "whitepaper": "https://bh.network/Whitepaper.pdf",
-	"coinmarketcap": "",
-    "coingecko": ""
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bh-network/",
+    "coingecko": "https://www.coingecko.com/en/coins/bhnetwork"
   },
-  "status": "active"
+  "status": "active",
+  "lockedAccounts": {
+    "erd1qqqqqqqqqqqqqpgqrg6hj7pvwvu8ph0wjnj57mn8hwl4a9xdm0qsp0e4a6": "StakingUnvested",
+    "erd1qqqqqqqqqqqqqpgq58gew3q4mldmu9ggwtvx6ygfhe728fdfm0qsgcmdhu": "LiquidityAndExchangeListingsUnvested",
+    "erd1qqqqqqqqqqqqqpgq562wlzndcxjjf5mfrhlxxkkyq0j5f7tfm0qscdrau6": "PublicSaleUnvested",
+    "erd1qqqqqqqqqqqqqpgqkl242f8m3tkd5cgvstjkwfzvu93try0em0qsdejff7": "PrivateSaleUnvested",
+    "erd1qqqqqqqqqqqqqpgqe38ry6970g72mkc9achtlh5th42kz8hgm0qstluvzw": "TeamUnvested",
+    "erd1qqqqqqqqqqqqqpgqw26kqrsjz9jclhwyyllytvaw0w3wtdttm0qs7vrez8": "AdvisorsUnvested",
+    "erd1qqqqqqqqqqqqqpgq628kr49cdx47ek6txz5xcll9a4mzzvrkm0qslrx6e6": "MarketingUnvested",
+    "erd1qqqqqqqqqqqqqpgqwz6sk8cw8xyqvzgq59zty2cs7zvn2hfzm0qscrspuw": "ProjectTreasuryMetabondingUnvested"
+  },
+  "extraTokens": [
+    "SBHAT-89efd3"
+  ]
 }
