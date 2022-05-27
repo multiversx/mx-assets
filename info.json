@@ -2,10 +2,10 @@
   "website": "https://www.step-x.app/",
   "description": "The STEPX is the Move-To-Earn (M2E) utility token on Elrond Network",
   "social": {
-    "twitter": "https://twitter.com/stepXelrond",
-    "telegram": "https://t.me/stepx_elrond",
-    "discord": "https://discord.gg/tXzH3F7gJP",
-    "whitepaper": "https://www.step-x.app/litepaper-v-1-3/"
+      "telegram": "https://t.me/stepx_elrond",
+      "twitter": "https://twitter.com/stepXelrond",
+      "whitepaper": "https://www.step-x.app/litepaper-v-1-3/",
+      "discord": "https://discord.com/invite/pDwANTGkN5",
   },
   "status": "active"
 }
