@@ -1,0 +1,13 @@
+{ 
+"website": "https://www.buysellrent.space",
+"description": "Buy Sell Rent is the place where you can buy, rent or sell a property in the best way",  "ledgerSignature": "",
+"social": {
+    "email": "bsr@buysellrent.space",
+    "blog": "https://buysellrent.space/blog",
+    "twitter": "https://twitter.com/buysellrent",
+    "whitepaper": "https://www.buysellrent.space/BSR_whitepaper",
+    "coinmarketcap": "",
+    "coingecko": ""
+  },
+"status": "active"
+}
