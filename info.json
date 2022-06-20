@@ -1,11 +1,11 @@
 {
-    "website": "https://www.naturalborndegenz.art",
-    "description": "The NGMI token is the utility token of the Natural Born Degenz NFT project on Elrond.",
-    "social": {
-        "email": "NaturalBornDegenz@protonmail.com",
-        "twitter": "https://twitter.com/NaturalDegenz",
-        "whitepaper": "https://tinyurl.com/NaturalBornDegenz",
-        "discord": "https://dsc.gg/degenz"
-    },
-    "status": "active"
+  "website": "https://www.stridecoin.app",
+  "description": "Stridecoin is the governance token of Stride App. Stride is a blockchain based web3, health and fitness app that guides and helps users achieve their body fitness goals",
+  "social": {
+    "email": "admin@stridecoin.app",
+    "discord": "https://discord.gg/y9BMKHVxUE",
+    "twitter": "https://twitter.com/Stridecoinapp",
+    "whitepaper": "https://stridecoin.app/wp-content/uploads/2022/06/Stride-Whitepaper_.pdf"
+  },
+  "status": "active"
 }
