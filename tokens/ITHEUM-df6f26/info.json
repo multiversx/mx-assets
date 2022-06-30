@@ -1,6 +1,7 @@
 {
   "website": "https://itheum.io",
   "description": "The ITHEUM token forms the foundation for a decentralized web3 data economy, enabling vibrant and personalized metaverse worlds where data is traded with shared value between data creators and data consumers.",
+  "ledgerSignature": "304402202a59477deed3f19e4abd33be2c857f45cddc5f8020853816e7ff72d288db94c102200a9f9309dbeb9ede330299f9faf950d39a1e5ab1e1c14d5c046403bb9af6602a",
   "social": {
     "blog": "https://itheum.medium.com",
     "twitter": "https://twitter.com/itheum",
