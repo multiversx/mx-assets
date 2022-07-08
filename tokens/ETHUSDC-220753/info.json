@@ -1,5 +1,5 @@
 {
-  "description": "USDC stablecoin originating on Ethereum.",
-  "website": "https://bridge.elrond.com",
+  "description": "A token tracking the amount of ERC20 USDC tokens currently deposited in the Ethereum side of the Ad Astra Portal bridge.",
+  "website": "https://ad-astra.elrond.com",
   "status": "active"
 }
