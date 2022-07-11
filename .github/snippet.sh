@@ -16,6 +16,7 @@ validate_file_size() {
   readarray -t files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added }}')"
   for file in ${files[@]}; do
     file_size_kb = $(ls -s --block-size=K ${file} | grep -o -E '[0-9]+')
+    file_size_kb = $(expr ${file_size_kb})
 
     echo "File size: ${file_size_kb}"
     if [[ ${file_size_kb} -gt 64 ]]; then
