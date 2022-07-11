@@ -22,10 +22,11 @@ jobs:
           format: 'json'
       - run: |
           source .github/snippet.sh; validate_filenames
-      # - name: Validate file size
-      #   run: |
-      #     source .github/snippet.sh; validate_file_size
-      #   shell: bash
+        shell: bash
+      - name: Validate file size
+        run: |
+          source .github/snippet.sh; validate_file_size
+        shell: bash
       - name: Validate token existence
         run: |
           source .github/snippet.sh; validate_token_existence
