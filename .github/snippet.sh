@@ -1,8 +1,7 @@
 DIR=""
 
 validate_filenames() {
-  readarray -t files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added }}')"
-  for file in ${files[@]}; do
+  for file in ${{ steps.files.outputs.added }}; do
     if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* ]]; then
       echo "Filename ${file} isn't expected!"
       exit 1
@@ -13,8 +12,7 @@ validate_filenames() {
 }
 
 validate_file_size() {
-  readarray -t files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added }}')"
-  for file in ${files[@]}; do
+  for file in ${{ steps.files.outputs.added }}; do
     file_size_kb=$(ls -s --block-size=K ${file} | grep -o -E '^[0-9]+')
 
     echo "File size: ${file_size_kb}"

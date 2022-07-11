@@ -18,8 +18,6 @@ jobs:
       - id: files
         name: Validate files
         uses: jitterbit/get-changed-files@v1
-        with:
-          format: 'json'
       - run: |
           source .github/snippet.sh; validate_filenames
           source .github/snippet.sh; validate_file_size
