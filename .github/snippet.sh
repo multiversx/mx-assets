@@ -17,7 +17,6 @@ validate_file_size() {
   for file in $ADDED_FILES; do
     file_size_kb=$(ls -s --block-size=K ${file} | grep -o -E '^[0-9]+')
 
-    echo "File size: ${file_size_kb}"
     if [[ ${file_size_kb} -gt 64 ]]; then
       echo "File ${file} is too large! (${file_size_kb} KB)"
       exit 1
