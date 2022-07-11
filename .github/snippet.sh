@@ -3,7 +3,7 @@ DIR=""
 
 validate_filenames() {
   #readarray -t files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added }}')"
-  echo "${{ steps.files.outputs.added }}"
+  echo "${steps.files.outputs.added}"
   for file in ${{ steps.files.outputs.added }}; do
     if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* ]]; then
       echo "Filename ${file} isn't expected!"
