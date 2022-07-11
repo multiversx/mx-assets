@@ -22,7 +22,6 @@ jobs:
           format: 'json'
       - run: |
           source .github/snippet.sh; validate_filenames
-        shell: bash
       # - name: Validate file size
       #   run: |
       #     source .github/snippet.sh; validate_file_size

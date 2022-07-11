@@ -2,7 +2,7 @@
 DIR=""
 
 validate_filenames() {
-  echo "${{ steps.files.outputs.added }}" | jq -r '.[]' >> "added.txt"
+  jq -r '.[]' ${{ steps.files.outputs.added }} >> "added.txt"
   readarray -t files < "added.txt"
   for file in ${files[@]}; do
     if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* ]]; then
