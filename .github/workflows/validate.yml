@@ -18,10 +18,19 @@ jobs:
       - id: files
         name: Validate filenames
         uses: jitterbit/get-changed-files@v1
-        with:
-          format: 'json'
+        # with:
+        #   format: 'json'
       - run: |
-          source .github/snippet.sh; validate_filenames
+          readarray -t files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added }}')"
+          for file in ${{ steps.files.outputs.added }}; do
+            echo "$file added"
+            if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* ]]; then
+              echo "Filename ${file} isn't expected!"
+              exit 1
+            fi
+
+            DIR=`basename $(dirname $file)`
+          done
         shell: bash
       - name: Validate file size
         run: |
