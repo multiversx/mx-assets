@@ -16,23 +16,12 @@ jobs:
           echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
         shell: bash
       - id: files
-        name: Validate filenames
+        name: Validate files
         uses: jitterbit/get-changed-files@v1
-        # with:
-        #   format: 'json'
+        with:
+          format: 'json'
       - run: |
-          for file in ${{ steps.files.outputs.added }}; do
-            echo "$file added"
-            if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* ]]; then
-              echo "Filename ${file} isn't expected!"
-              exit 1
-            fi
-
-            DIR=`basename $(dirname $file)`
-          done
-        shell: bash
-      - name: Validate file size
-        run: |
+          source .github/snippet.sh; validate_filenames
           source .github/snippet.sh; validate_file_size
         shell: bash
       - name: Validate token existence
