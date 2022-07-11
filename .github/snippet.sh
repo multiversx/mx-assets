@@ -1,7 +1,7 @@
 DIR=""
 
 validate_filenames() {
-  ADDED_FILES=$1
+  ADDED_FILES=$@
   for file in $ADDED_FILES; do
     if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* ]]; then
       echo "Filename ${file} isn't expected!"
@@ -13,7 +13,7 @@ validate_filenames() {
 }
 
 validate_file_size() {
-  ADDED_FILES=$1
+  ADDED_FILES=$@
   for file in $ADDED_FILES; do
     file_size_kb=$(ls -s --block-size=K ${file} | grep -o -E '^[0-9]+')
 
