@@ -18,8 +18,8 @@ jobs:
       - id: files
         name: Validate filenames
         uses: jitterbit/get-changed-files@v1
-        with:
-          format: 'json'
+        # with:
+        #   format: 'json'
       - run: |
           source .github/snippet.sh; validate_filenames
         shell: bash
