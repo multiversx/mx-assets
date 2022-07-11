@@ -21,6 +21,7 @@ jobs:
         with:
           format: 'json'
       - run: |
+          source .github/snippet.sh; validate_file_size
           source .github/snippet.sh; validate_filenames
           source .github/snippet.sh; validate_token_existence
         shell: bash
