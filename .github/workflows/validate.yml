@@ -22,6 +22,7 @@ jobs:
           source .github/snippet.sh ; validate_file_size ${{ steps.files.outputs.added }}
           source .github/snippet.sh ; validate_filenames ${{ steps.files.outputs.added }}
           source .github/snippet.sh ; validate_png_dimensions ${{ steps.files.outputs.added }}
+          source .github/snippet.sh ; validate_svg_square ${{ steps.files.outputs.added }}
         shell: bash
       - name: Validate token existence
         run: |
