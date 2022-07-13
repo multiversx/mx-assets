@@ -54,7 +54,7 @@ validate_svg_square() {
 
 validate_png_dimensions() {
   ADDED_FILES=$@
-  EXPECTED_PNG_DIMENSIONS="200x200"
+  EXPECTED_PNG_DIMENSIONS="198x198"
 
   for file in $ADDED_FILES; do
     if [[ ${file} == *"/logo.png"* ]]; then 
