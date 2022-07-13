@@ -24,6 +24,33 @@ validate_file_size() {
   done
 }
 
+validate_svg_square() {
+  ADDED_FILES=$@
+
+  for file in $ADDED_FILES; do
+    if [[ ${file} == *"/logo.svg"* ]]; then
+      view_box=$(cat $SVG | grep -E " viewBox" | grep -E -o "(([0-9]*\.[0-9]+|[0-9]+) ){3,3}([0-9]*\.[0-9]+|[0-9]+)" | head -1)
+
+      if [[ $view_box != "" ]]; then
+        echo "Extracting width and height from view box: $view_box"
+
+        width=$(echo $view_box | grep -E -o "([0-9]*\.[0-9]+|[0-9]+)" | tail -2 | head -1)
+        echo "Width:$width"
+
+        height=$(echo $view_box | grep -E -o "([0-9]*\.[0-9]+|[0-9]+)" | tail -2 | tail -1)
+        echo "Height:$height"
+
+        if [[ $width != $height ]];then
+          echo "SVG not a square!( w:$width h:$height )"
+          exit 1
+        fi
+
+        exit 0
+      fi
+    done 
+  done
+}
+
 validate_token_existence() {
   urls=( "https://api.elrond.com/" "https://testnet-api.elrond.com/" "https://devnet-api.elrond.com/")
   for url in ${urls[@]}; do
