@@ -1,0 +1,9 @@
+{
+  "name": "Staking Pool",
+  "description": "Smart contract containing all staked eGLD on the network",
+  "tags": [
+    "staking",
+    "elrond"
+  ],
+  "icon": "elrond"
+}
