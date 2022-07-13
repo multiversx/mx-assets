@@ -16,12 +16,15 @@ jobs:
           echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
         shell: bash
       - id: files
-        name: Validate filenames
+        name: Validate files
         uses: jitterbit/get-changed-files@v1
-        with:
-          format: 'json'
       - run: |
-          source .github/snippet.sh; validate_filenames
+          source .github/snippet.sh ; validate_file_size ${{ steps.files.outputs.added }}
+          source .github/snippet.sh ; validate_filenames ${{ steps.files.outputs.added }}
+          source .github/snippet.sh ; validate_png_dimensions ${{ steps.files.outputs.added }}
+        shell: bash
+      - name: Validate token existence
+        run: |
           source .github/snippet.sh; validate_token_existence
         shell: bash
       - name: Validate JSON

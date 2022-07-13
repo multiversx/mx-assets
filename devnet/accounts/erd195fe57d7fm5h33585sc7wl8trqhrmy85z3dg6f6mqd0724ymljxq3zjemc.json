@@ -1,0 +1,10 @@
+{
+  "name": "Team Vested Tokens",
+  "description": "All team tokens with a vesting period lasting until 2023",
+  "tags": [
+    "elrond",
+    "team",
+    "vesting"
+  ],
+  "icon": "elrond"
+}
