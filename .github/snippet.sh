@@ -14,12 +14,56 @@ validate_filenames() {
 
 validate_file_size() {
   ADDED_FILES=$@
+  SIZE_LIMIT=100
   for file in $ADDED_FILES; do
     file_size_kb=$(ls -s --block-size=K ${file} | grep -o -E '^[0-9]+')
 
-    if [[ ${file_size_kb} -gt 64 ]]; then
+    if [[ ${file_size_kb} -gt $SIZE_LIMIT ]]; then
       echo "File ${file} is too large! (${file_size_kb} KB)"
       exit 1
+    fi
+  done
+}
+
+validate_svg_square() {
+  ADDED_FILES=$@
+
+  for file in $ADDED_FILES; do
+    if [[ ${file} == *"/logo.svg"* ]]; then
+      view_box=$(cat $file | grep -E " viewBox" | grep -E -o "(([0-9]*\.[0-9]+|[0-9]+) ){3,3}([0-9]*\.[0-9]+|[0-9]+)" | head -1)
+
+      if [[ $view_box != "" ]]; then
+        echo "Extracting width and height from view box: $view_box"
+
+        width=$(echo $view_box | grep -E -o "([0-9]*\.[0-9]+|[0-9]+)" | tail -2 | head -1)
+        echo "Width:$width"
+
+        height=$(echo $view_box | grep -E -o "([0-9]*\.[0-9]+|[0-9]+)" | tail -1)
+        echo "Height:$height"
+
+        if [[ $width != $height ]];then
+          echo "SVG not a square!( w:$width h:$height )"
+          exit 1
+        fi
+
+        exit 0;
+      fi
+    fi
+  done 
+}
+
+validate_png_dimensions() {
+  ADDED_FILES=$@
+  EXPECTED_PNG_DIMENSIONS="200x200"
+
+  for file in $ADDED_FILES; do
+    if [[ ${file} == *"/logo.png"* ]]; then 
+      png_dimensions=$(identify $file | grep -E -o "[0-9]+x[0-9]+" | head -1)
+
+      if [[ $png_dimensions != $EXPECTED_PNG_DIMENSIONS ]]; then
+        echo "Invalid dimensions for PNG! ( $png_dimensions )"
+        exit 1
+      fi
     fi
   done
 }
