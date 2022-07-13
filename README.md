@@ -53,13 +53,15 @@ Here’s a prefilled template for the .json file to get you started:
 - mandatory when opening a pull request
 - must have a resolution of 200x200 pixels
 
-Example: 
-![RIDE png](https://github.com/ElrondNetwork/assets/blob/master/tokens/RIDE-7d18e9/logo.png?raw=true)
+| ![RIDE png](https://github.com/ElrondNetwork/assets/blob/master/tokens/RIDE-7d18e9/logo.png?raw=true) | 
+|:--:| 
+| *Example* |
 
 ## logo.svg
 
 - mandatory when opening a pull request
 - must have a square format
 
-Example:
-![RIDE png](https://github.com/ElrondNetwork/assets/blob/master/tokens/RIDE-7d18e9/logo.svg?raw=true)
+| ![RIDE svg](https://github.com/ElrondNetwork/assets/blob/master/tokens/RIDE-7d18e9/logo.svg?raw=true) | 
+|:--:| 
+| *Example* |
