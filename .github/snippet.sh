@@ -24,6 +24,22 @@ validate_file_size() {
   done
 }
 
+validate_png_dimensions() {
+  ADDED_FILES=$@
+  EXPECTED_PNG_DIMENSIONS="200x200"
+
+  for file in $ADDED_FILES; do
+    if [[ ${file} == *"/logo.png"* ]]; then 
+      png_dimensions=$(identify $file | grep -E -o "[0-9]+x[0-9]+" | head -1)
+
+      if [[ $png_dimensions != $EXPECTED_PNG_DIMENSIONS ]]; then
+        echo "Invalid dimensions for PNG! ( $png_dimensions )"
+        exit 1
+      fi
+    fi
+  done
+}
+
 validate_token_existence() {
   urls=( "https://api.elrond.com/" "https://testnet-api.elrond.com/" "https://devnet-api.elrond.com/")
   for url in ${urls[@]}; do
