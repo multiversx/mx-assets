@@ -46,7 +46,7 @@ validate_svg_square() {
           exit 1
         fi
 
-        return;
+        exit 0;
       fi
     fi
   done 
