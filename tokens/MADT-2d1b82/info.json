@@ -1,0 +1,15 @@
+{
+  "website": "https://maddapp.tech",
+  "description": "MADT is the governance token of the MAD GameFi. It is used for locking for DAO, swap with MADC and will be used in game.",
+  "ledgerSignature": "",
+  "social": {
+    "telegram":"https://t.me/MADinvite",
+    "blog": "",
+    "twitter": "https://twitter.com/MAD_Token",
+    "instagram": "",
+    "whitepaper": "https://docs.madtoken.tech/mad-multiplayer-arcade-developers/mad-whitepaper",
+    "coinmarketcap": "",
+    "coingecko": ""
+  },
+  "status": "active"
+}
