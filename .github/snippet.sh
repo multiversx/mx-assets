@@ -14,7 +14,7 @@ validate_filenames() {
 
 validate_file_size() {
   ADDED_FILES=$@
-  SIZE_LIMIT=100
+  SIZE_LIMIT=300
   for file in $ADDED_FILES; do
     file_size_kb=$(ls -s --block-size=K ${file} | grep -o -E '^[0-9]+')
 
