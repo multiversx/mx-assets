@@ -54,7 +54,7 @@ Here’s a prefilled template for the .json file to get you started:
 - must have a resolution of 200x200 pixels
 
 Example: 
-![RIDE png](https://github.com/ElrondNetwork/assets/blob/master/tokens/SRIDE-4ab1d4/logo.png?raw=true)
+![RIDE png](https://github.com/ElrondNetwork/assets/blob/master/tokens/RIDE-7d18e9/logo.png?raw=true)
 
 ## logo.svg
 
@@ -62,4 +62,4 @@ Example:
 - must have a square format
 
 Example:
-![RIDE png](https://github.com/ElrondNetwork/assets/blob/master/tokens/SRIDE-4ab1d4/logo.svg?raw=true)
+![RIDE png](https://github.com/ElrondNetwork/assets/blob/master/tokens/RIDE-7d18e9/logo.svg?raw=true)
