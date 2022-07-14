@@ -7,7 +7,7 @@ Amplify your brand via the Elrond Network web tools & the Maiar App.
 
 Add a logo, description & socials for your ESDT token.
 
-Project owners can create a PR to this repo with the logo in .png and .svg format, as well as a .json file containing all the relevant information, as following:
+Project owners can create a PR to this repo. Create a folder named exactly as your ESDT ID or NFT Collection ID, i.e. TOKEN-abcc123. Add 2 files for the logo: logo.png and logo.svg. Also add an info.json file containing all the relevant information, as following:
 
 ## info.json
 
