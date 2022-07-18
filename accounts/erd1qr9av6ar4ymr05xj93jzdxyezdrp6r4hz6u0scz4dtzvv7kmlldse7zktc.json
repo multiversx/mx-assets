@@ -1,0 +1,9 @@
+{
+  "name": "Crypto.com",
+  "description": "Account containing capital used on the Crypto platform",
+  "tags": [
+    "wallet",
+    "crypto.com"
+  ],
+  "icon": "crypto.com"
+}
