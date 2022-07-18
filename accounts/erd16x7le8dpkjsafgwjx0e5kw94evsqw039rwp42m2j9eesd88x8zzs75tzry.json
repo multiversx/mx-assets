@@ -1,0 +1,9 @@
+{
+  "name": "Binance.com",
+  "description": "Account containing capital used on the Binance platform",
+  "tags": [
+    "wallet",
+    "binance"
+  ],
+  "icon": "binance"
+}
