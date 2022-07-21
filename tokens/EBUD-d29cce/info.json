@@ -7,5 +7,8 @@
         "twitter": "https://twitter.com/eBudsNFT",
         "whitepaper": "https://elrondbuds.pages.dev/",
     },
+    "lockedAccounts": {
+"erd1qqqqqqqqqqqqqpgqt3tr3hdzyaum90nvauzgc0gzr63gz98r5w4sq5l3js": "Staking SC",
+},
     "status": "active"
 }
