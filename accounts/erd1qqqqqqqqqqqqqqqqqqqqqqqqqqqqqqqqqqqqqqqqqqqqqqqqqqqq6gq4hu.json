@@ -1,0 +1,9 @@
+{
+  "name": "System: Contract deploy",
+  "description": "",
+  "tags": [
+    "system",
+    "deploy"
+  ],
+  "icon": "elrond"
+}
