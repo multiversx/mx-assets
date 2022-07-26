@@ -1,9 +1,10 @@
 {
-  "name": "Elrond Foundation",
+  "name": "Elrond Bridge: BEP2 Swap Bridge",
   "description": "",
   "tags": [
     "elrond",
-    "foundation"
+    "bridge",
+    "swap"
   ],
   "icon": "elrond"
 }
