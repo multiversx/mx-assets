@@ -1,9 +1,10 @@
 {
-  "name": "Staking: Binance",
+  "name": "Exchange: Binance Stakig",
   "description": "Account containing all staked amounts on the Binance platform",
   "tags": [
-    "staking",
-    "binance"
+    "exchange",
+    "binance",
+    "staking"
   ],
   "icon": "binance"
 }
