@@ -1,0 +1,10 @@
+{
+  "name": "Elrond Bridge: ERC20 Swap Bridge",
+  "description": "",
+  "tags": [
+    "elrond",
+    "bridge",
+    "swap"
+  ],
+  "icon": "elrond"
+}
