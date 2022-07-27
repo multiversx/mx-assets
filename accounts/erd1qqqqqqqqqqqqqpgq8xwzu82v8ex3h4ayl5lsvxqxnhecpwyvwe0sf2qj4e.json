@@ -1,9 +1,8 @@
 {
-  "name": "Elrond NFT Swap: Marketplace",
+  "name": "Krogan: NFT Marketplace",
   "description": "Sell, Auction, Swap, Lend NFTs",
   "tags": [
     "krogan",
     "marketplace"
-  ],
-  "icon": "krogan"
+  ]
 }
