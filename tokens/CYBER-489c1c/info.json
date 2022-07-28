@@ -11,4 +11,10 @@
         "whitepaper": "https://cyberpunkcity.com/whitepaper"
     },
     "status": "active"
+    "lockedAccounts": {
+    "erd1vh30dhaz85lz4mpyenxexnju6uypgareuy0zd82jt3u6pm4lgjtqwlvlmm": "CommunityRewards",
+    "erd1nj7470xzm04c3rsdtxcn7fx43ktm80jgujchjd8ds0tcj7sjxy7qajpt6u": "Marketing",
+    "erd1zukw5k2mhgt5l90azcdktm4ffwnmknawsjxdrzukrjf8e28gr3qqvwr03q": "Treasury",
+    "erd1d9hx3g0qazqxc4rstpqewhmvsq38wmyc053y56tnkr787850j6hst4xhfq": "Team"
+  }
 }
