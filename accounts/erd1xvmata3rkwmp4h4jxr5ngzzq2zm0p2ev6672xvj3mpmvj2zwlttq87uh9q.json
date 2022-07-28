@@ -1,9 +1,9 @@
 {
-  "name": "Maiar: Relayer Shard 0",
+  "name": "Maiar: Relayer Shard 2",
   "description": "",
   "tags": [
     "maiar",
     "relayer"
   ],
-  "icon": "elrond"
+  "icon": "maiar"
 }
