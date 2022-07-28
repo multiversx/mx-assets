@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="71pt" height="71pt" viewBox="0 0 71 71">
+<g enable-background="new">
+<path transform="matrix(1,0,0,-1,0,71)" d="M 31.68866 71 L 39.31134 71 C 48.24801 71 53.04037 69.76426 57.379259 67.443798 C 61.718149 65.12334 65.12334 61.718149 67.443798 57.379259 C 69.76426 53.040369 71 48.24801 71 39.31134 L 71 31.68866 C 71 22.751992 69.76426 17.95963 67.443798 13.620743 C 65.12334 9.281853 61.718149 5.876663 57.379259 3.556206 C 53.04037 1.235741 48.24801 0 39.31134 0 L 31.68866 0 C 22.75199 0 17.959631 1.235741 13.620742 3.556206 C 9.281853 5.876663 5.876667 9.281853 3.556204 13.620743 C 1.235741 17.95963 0 22.751992 -0 31.68866 L -0 39.31134 C -0 48.24801 1.235741 53.040369 3.556204 57.379259 C 5.876667 61.718149 9.281853 65.12334 13.620742 67.443798 C 17.959631 69.76426 22.75199 71 31.68866 71 Z " fill="#1a45c2" fill-rule="evenodd"/>
+<clipPath id="cp0">
+<path transform="matrix(1,0,0,-1,20.115357,51.5)" d="M 0 0 L 7.746037 8.027939 L 15.384615 15.981373 L 0 32 L 0 0 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp0)">
+<image x="20" y="19" width="16" height="33" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAhCAYAAADQ1StpAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAr0lEQVR4nO2VMQ4DIQwE4/9/FoQAAQInICXiAEc2FJciW9HM2OsG
+wFceB4FbBaWUfUGFtwVvuKJiQQ+LNxhh0QYjKBKMk0U3WMH9+6tg1Zl9RKoz6wZc
+uGYSUJ17sEcuAqozBV8EK5haexJIOk+CnDOupnLgJkgpoaTzJIgxThU4kz+CEAJ5
+A07Ae7+swA0453A8nCRgrcVduAmMMbgLN4HW+uhrAKXU2cfyF/yA4AkAGkD6C/Od
+cQAAAABJRU5ErkJggg=="/>
+</g>
+<clipPath id="cp1">
+<path transform="matrix(1,0,0,-1,43.19226,51.5)" d="M 7.692307 0 L 0 7.999999 L 7.692307 16 L 7.692307 0 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp1)">
+<image x="43" y="35" width="8" height="17" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAgAAAARCAYAAADg1u3YAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAAYklEQVR4nM2PQQrAMAgEG/X/Xw0EL8GDTQVF0thzF7xkZg223rte
+H2l/FxCxFoioFhweBQdHwR8BwLY8E0Je6xNXZOjtOHOMobmVoQnMrA52aMKcU/Of
+L0FE9NQMQVdKunIDm6xCfkRUhpAAAAAASUVORK5CYII="/>
+</g>
+<path transform="matrix(1,0,0,-1,27.81665,51.5)" d="M 7.68335 0 L 0 7.999998 L 23.067959 32 L 23.067959 16 L 7.68335 0 Z " fill="#ffffff" fill-rule="evenodd"/>
+</g>
+</svg>
