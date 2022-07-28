@@ -1,9 +1,9 @@
 {
-  "name": "Maiar: Attestation Shard 2 (1)",
+  "name": "Maiar: Relayer Shard 1",
   "description": "",
   "tags": [
     "maiar",
-    "attestation"
+    "relayer"
   ],
   "icon": "elrond"
 }
