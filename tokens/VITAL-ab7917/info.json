@@ -12,7 +12,10 @@
     "coingecko": ""
   },
   "lockedAccounts": {
-    "erd1r0s6ss90ktgtk6eytdskpkndl6ke4y75t0c8fq2mj7zumyncmtrsx9ud2u": "Vesting schedule"
+    "erd1r0s6ss90ktgtk6eytdskpkndl6ke4y75t0c8fq2mj7zumyncmtrsx9ud2u": "Vesting schedule",
+    "erd1qqqqqqqqqqqqqpgqv46l2jdwysy9px6x823254fyrw057ztp6egs9d9xxc": "Waiting to migrate",
+    "erd1qqqqqqqqqqqqqpgqrv03edn2cx7sg04flpt2gp2cy69kppml6egsxg0srn": "Locked Staking SC",
+    "erd1qqqqqqqqqqqqqpgqem25lr6q2ugnyhgvxmxgnvppg92050uj6egs03qwtd": "Unlocked Staking SC"
   },
   "status": "active"
 }
