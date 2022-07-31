@@ -1,9 +1,9 @@
 {
-  "name": "Maiar: Attestation",
+  "name": "Maiar: Funding",
   "description": "",
   "tags": [
     "maiar",
-    "attestation"
+    "funding"
   ],
   "icon": "maiar"
 }

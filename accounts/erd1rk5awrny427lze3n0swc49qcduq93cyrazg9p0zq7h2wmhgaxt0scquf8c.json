@@ -1,9 +1,10 @@
 {
-  "name": "Maiar: Attestation",
+  "name": "Maiar: Referral Rewards",
   "description": "",
   "tags": [
     "maiar",
-    "attestation"
+    "rewards",
+    "referral"
   ],
   "icon": "maiar"
 }

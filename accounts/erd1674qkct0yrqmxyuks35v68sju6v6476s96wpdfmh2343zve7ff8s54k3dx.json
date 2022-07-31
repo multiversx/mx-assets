@@ -1,9 +1,10 @@
 {
-  "name": "Maiar: Attestation",
+  "name": "Maiar: Cashback Rewards",
   "description": "",
   "tags": [
     "maiar",
-    "attestation"
+    "rewards",
+    "cashback"
   ],
   "icon": "maiar"
 }
