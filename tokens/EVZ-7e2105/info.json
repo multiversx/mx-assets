@@ -1,0 +1,16 @@
+{
+  "website": "https://www.evoluzion.life",
+  "description": "A next level collection - bridging boundaries",
+  "social": {
+    "email": "contact@evoluzion.life",
+    "blog": "https://www.evoluzion.life/blog",
+    "twitter": "https://www.evoluzion.life/blog",
+    "telegram": "EvoluzionLife",
+    "Laboratory": "https://laboratory.evoluzion.life/",
+    "Staking pool LKMEX": "https://eneftor.com/stakeableCollection?ticker=EVZ-7e2105&reward=LKMEX-aab910-37e485",
+    "Staking pool ZPAY": "https://eneftor.com/stakeableCollection?ticker=EVZ-7e2105&reward=ZPAY-247875",
+    "Staking pool WATER":"https://eneftor.com/stakeableCollection?ticker=EVZ-7e2105&reward=WATER-9ed400",
+    "Staking pool BNI":"https://eneftor.com/stakeableCollection?ticker=EVZ-7e2105&reward=BNI-bb0a30"
+  },
+  "status": "active"
+}
