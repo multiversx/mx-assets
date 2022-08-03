@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="70.4309559%" id="radialGradient-1">
+            <stop stop-color="#02080C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#02080C" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="LandingPage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Font-Test-Copy">
+            <g id="Group">
+                <circle id="Oval-Copy" fill="#0A0B0C" cx="500" cy="500" r="500"></circle>
+                <circle id="Oval" fill="url(#radialGradient-1)" opacity="0.500102452" cx="500" cy="500" r="500"></circle>
+                <g id="Logo2" transform="translate(259.786477, 209.964413)" fill="#FF672A">
+                    <polygon id="Path-2" points="0 373.902439 106.783217 252.215432 106.783217 186.95122 0 313.771849"></polygon>
+                    <polygon id="Path-2" points="0 279.536585 106.783217 157.849578 106.783217 92.5853659 0 219.405995"></polygon>
+                    <polygon id="Path-2" points="0 186.95122 106.783217 65.2642124 106.783217 0 0 126.820629"></polygon>
+                    <polygon id="Path-3" points="9.02897069e-13 584 193.528218 366.185617 363.667701 584 509 584 264.736241 292 509 0 372.805913 0 1.88494719e-12 430.191503"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
