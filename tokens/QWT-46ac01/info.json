@@ -5,7 +5,8 @@
     "email": "esdt@qowatt.com",
     "twitter": "https://twitter.com/QoWattEcosystem",
     "whitepaper": "https://qowatt.network/wp-content/uploads/2022/01/QoWatt_Whitepaper_EN_1.2.pdf",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/qowatt/"
+    "coinmarketcap": "https://coinmarketcap.com/currencies/qowatt",
+    "coingecko":  "https://www.coingecko.com/en/coins/qowatt"
   },
   "status": "active"
 }
