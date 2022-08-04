@@ -11,13 +11,13 @@
 		"github": "https://github.com/elrondangels"
     },
     "lockedAccounts": {
-        "erd1ev05hd5jwzvlc7t9ul874jpde42ht00udz6yr63wtt47apl640nshcaxjp": "The Angels Community - Mint Account",
-        "erd17quvgdj63lde5ujjvqj3y6tz446y9c3x0gtc0wpjrx290u0nc6dqwzzcya": "The Angels Community - Charity Account",
-	"erd1vlz902r46z0s0zaxuxmeqm8x3hzuakdezwh2mq8r9ewlpqll6xnsw7rlwf": "The Angels Community - Community Account",
-	"erd1sdfn89ddr8kt3spfk94pvkav60phjn82xrwx4q3tp4mecqk3yujs67wrlf": "The Angels Community - Treasury Account",
-	"erd1yvjgq36zrc66lpag3jr63y4sdtp3e79950kqsy98tsk5rrzwcxeqmd5nzm": "The Angels Community - Development Account",
-	"erd1l8ckw2uck3twh73ytm8zv0qejmd258aspqps380sk6c0cdtxpjnq78q5t9": "The Angels Community - Operations Account",
-	"erd1unwuuc20kqqjf5lmxgufqueljk4h05e8et9c8da5uu227ufzn60s7sa7ua": "The Angels Community - Team's Account"
+        "erd1ev05hd5jwzvlc7t9ul874jpde42ht00udz6yr63wtt47apl640nshcaxjp": "NFTs Mint",
+        "erd17quvgdj63lde5ujjvqj3y6tz446y9c3x0gtc0wpjrx290u0nc6dqwzzcya": "Charity",
+	"erd1vlz902r46z0s0zaxuxmeqm8x3hzuakdezwh2mq8r9ewlpqll6xnsw7rlwf": "Community",
+	"erd1sdfn89ddr8kt3spfk94pvkav60phjn82xrwx4q3tp4mecqk3yujs67wrlf": "Treasury",
+	"erd1yvjgq36zrc66lpag3jr63y4sdtp3e79950kqsy98tsk5rrzwcxeqmd5nzm": "Development",
+	"erd1l8ckw2uck3twh73ytm8zv0qejmd258aspqps380sk6c0cdtxpjnq78q5t9": "Operations",
+	"erd1unwuuc20kqqjf5lmxgufqueljk4h05e8et9c8da5uu227ufzn60s7sa7ua": "Team"
     },
     "extraTokens": [
         "BJOY-7c1940"
