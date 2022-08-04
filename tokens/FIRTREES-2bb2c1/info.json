@@ -1,0 +1,20 @@
+{
+"website": "https://www.elrondtrees.com/",
+"description": "ElrondTrees is an ecological NFT project that focuses on the reforestation of our forests.",
+"social": {
+"email": "elrondtrees@gmail.com",
+"twitter": "https://twitter.com/ElrondTrees",
+"whitepaper": "https://wp.elrondtrees.com/elrond-trees-project/presentation",
+},
+"extraTokens": [
+"PLOTSTREES-1f4889",
+"BONSTREES-ffac5d",
+"PLOTSTREES-39bd27",
+"BAOBTREES-2bb398",
+"SEED-4bca86",
+"VINE-dfbb1b",
+"CORAL-48e058",
+"PALMTREES-12c9d5"
+],
+"status": "active"
+}
