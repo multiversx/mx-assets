@@ -1,0 +1,9 @@
+{
+  "name": "ErdLaunchpad: Staking",
+  "description": "Staking smart contract of ErdLaunchpad",
+  "tags": [
+    "launchpad",
+    "staking",
+    "nft"
+  ]
+}

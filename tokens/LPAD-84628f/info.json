@@ -6,7 +6,8 @@
         "twitter": "https://twitter.com/ErdLaunchpad",
         "telegram": "https://t.me/ErdLaunchpad",
         "discord": "https://discord.com/invite/8q5rUGmQnM",
-        "whitepaper": "https://erd-launchpad.gitbook.io/"
+        "whitepaper": "https://erd-launchpad.gitbook.io/",
+        "coingecko": "https://www.coingecko.com/en/coins/erdlaunchpad"
     },
     "status": "active"
 }
