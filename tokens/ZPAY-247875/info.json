@@ -1,13 +1,17 @@
 {
-    "website": "https://www.zoidpay.com",
-    "description": "Shop Anything from Anywhere with Crypto",
-    "social": {
-        "email": "hello@zoidpay.com",
-        "blog": "https://medium.com/zoidcoin-network",
-        "twitter": "https://twitter.com/zoidpay",
-        "whitepaper": "https://drive.google.com/file/d/1ZRwyAikfe22v9treyjeJoKi83W5U0y1j/view?usp=sharing",
-        "coinmarketcap": "https://coinmarketcap.com/currencies/zoidpay/",
-        "coingecko": "https://www.coingecko.com/en/coins/zoid-pay"
-    },
-    "status": "active"
+  "website": "https://www.zoidpay.com",
+  "description": "Shop Anything from Anywhere with Crypto",
+  "social": {
+    "email": "hello@zoidpay.com",
+    "blog": "https://medium.com/zoidcoin-network",
+    "twitter": "https://twitter.com/zoidpay",
+    "whitepaper": "https://drive.google.com/file/d/1ZRwyAikfe22v9treyjeJoKi83W5U0y1j/view?usp=sharing",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/zoidpay/",
+    "coingecko": "https://www.coingecko.com/en/coins/zoid-pay"
+  },
+  "status": "active",
+  "extraTokens": [
+    "ZPAYWEGLD-34e5c1",
+    "SZPAY-9f1b39"
+  ]
 }
