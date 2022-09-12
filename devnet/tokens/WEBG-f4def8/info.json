@@ -1,0 +1,18 @@
+{
+    "social": {
+        "blog": "https://elrond.com/blog/",
+        "twitter": "https://twitter.com/elrondnetwork",
+        "whitepaper": "https://www.elrond.com",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/wrapped-elrond-egld/",
+        "coingecko": "https://www.coingecko.com/en/coins/wrapped-elrond"
+    },
+    "website": "https://www.elrond.com",
+    "description": "Test Assets",
+    "extraTokens": [
+        "WEB-5d08be"
+    ],
+    "lockedAccounts": {
+        "erd1wh9c0sjr2xn8hzf02lwwcr4jk2s84tat9ud2kaq6zr7xzpvl9l5q8awmex": "Account #1"
+    },
+    "status": "active"
+}
