@@ -10,5 +10,18 @@
         "telegram": "https://t.me/SuperRareBears",
         "whitepaper": "https://medium.com/@superrarebears/srb-rarenomics-esdt-token-rare-distribution-v3-a2cf8b0e7090"
     },
+    "lockedAccounts": {
+        "erd1qn2wtcw2qnhus50lng4n5jscxhehph4zqurw32nknz9e6ulzzefsh2gqh4": "Team",
+        "erd1u7v3sxcvf3dc7u4xehf864at9m2dwn0v8tsfhkc0wsc87vs5wlwqvn93w5": "DAO",
+        "erd12zeuza7afjrctuvyfus9wgx49lj3ml0pmvtdglmsxvhtxc472mqqry0lzy": "Additional pools",
+        "erd1qfdsw0q57y7n2g3htl3fwdgkav6aux9wf6e8ejphy83p3nqjgy9qv8njzw": "Brand growth and exposure",
+        "erd1epts6wahntlk90u93r93hkyjsvx95wxf7k6qcjaeydnap5h6q7es2helzm": "Development",
+        "erd12czfetn9lxktp6h2wf0cusr0afyeg497fjs0twrqd0ksa8mvzcysndv8q8": "NFT staking",
+        "erd12qzctt8rucgev08w0xdsunu4zlghlq07tas3349jk5x0f09hp27sdhhrnf": "ESDT staking",
+        "erd1phgh4y5euel8258ugpnj06l8x4gfaqaallenp0q4a55hfl2l8wtqcnaza9": "LKMEX listing",
+        "erd1ltnjupzzks86zgckquawr0ej7rvz8dqvtecd7kdh4wmu0xkgp33qepq9va": "Excess NFT pool RARE",
+        "erd1hnqhqupzxe55xz9tj44l4n3d0zrtqge8pvx03ksfeeee2kcv6k8qzn9tam": "Burn wallet",
+        "erd1qqqqqqqqqqqqqpgqvpkd3g3uwludduv3797j54qt6c888wa59w2shntt6z": "Xoxno Staking"
+    },
     "status": "active"
 }
