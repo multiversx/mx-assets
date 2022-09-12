@@ -1,0 +1,22 @@
+{
+    "website": "https://linktr.ee/blazzord",
+    "description": "BLZ is the utility token related to the Blazzord NFT Collection",
+    "ledgerSignature": "1234",
+    "social": {
+        "email": "",
+        "blog": "",
+        "twitter": "https://twitter.com/BlazzordNFT",
+        "whitepaper": "",
+        "coinmarketcap": "",
+        "coingecko": ""
+    },
+    "lockedAccounts": {
+        "erd1alice": "",
+        "erd1bob": ""
+    },
+    "extraTokens": [
+        "",
+        ""
+    ],
+    "status": "active"
+}
