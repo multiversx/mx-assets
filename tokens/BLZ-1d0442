@@ -1,0 +1,22 @@
+{
+    "website": "https://linktr.ee/blazzord",
+    "description": "BLZ-1d0442 is the official NFT Collection created by Blazzord",
+    "ledgerSignature": "1234",
+    "social": {
+        "email": "",
+        "blog": "",
+        "twitter": "https://twitter.com/BlazzordNFT",
+        "whitepaper": "",
+        "coinmarketcap": "",
+        "coingecko": ""
+    },
+    "lockedAccounts": {
+        "erd1alice": "",
+        "erd1bob": ""
+    },
+    "extraTokens": [
+        "",
+        ""
+    ],
+    "status": "active"
+}
