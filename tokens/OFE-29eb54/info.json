@@ -9,12 +9,10 @@
     "instagram": "https://www.instagram.com/ofero_network",
     "whitepaper": "https://ofero.network/documents/whitepaper.pdf"
   },
-
   "lockedAccounts": {
     "erd1jxfnycawgvss4hkssh3rd2m4s3lel8qkweq7e8yk3e8kaszsn8lsktkn5s": "Team",
     "erd1y65083ylrncluszxf628ucr5l4fd0yza507t6myph9fgn5atkynsf5md28": "Staking"
   },
-
   "status": "active",
   "extraTokens": [
     "OFEWEGLD-73840b",
