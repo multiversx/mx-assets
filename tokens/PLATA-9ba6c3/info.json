@@ -1,15 +1,12 @@
 {
   "website": "https://plata.network",
   "description": "PLATA is the utility token of Plata Network. The blockchain is yours.",
-  "ledgerSignature": "",
   "social": {
-    "telegram":"https://t.me/plataNetwork",
-    "blog": "https://getplata.network",
-    "twitter": "https://twitter.com/platanetwork",
-    "instagram": "https://instagram.com/platanetwork/",
     "whitepaper": "https://plata.network/whitepaper",
-    "coinmarketcap": "",
-    "coingecko": ""
+    "twitter": "https://twitter.com/platanetwork",
+    "telegram":"https://t.me/plataNetwork",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/plata-network/",
+    "coingecko": "https://www.coingecko.com/en/coins/plata-network"
   },
   "status": "active"
 }
