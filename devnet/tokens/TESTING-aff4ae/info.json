@@ -1,0 +1,12 @@
+{
+    "social": {
+        "blog": "https://elrond.com/",
+        "twitter": "https://twitter.com/ccorcov/status/1571462253949452289",
+        "whitepaper": "https://elrond.com/assets/files/elrond-whitepaper.pdf",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/elrond-egld/",
+        "coingecko": "https://www.coingecko.com/en/coins/elrond"
+    },
+    "website": "https://elrond.com/",
+    "description": "Elrond Testing",
+    "status": "active"
+}
