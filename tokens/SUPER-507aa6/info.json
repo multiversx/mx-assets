@@ -1,13 +1,13 @@
 {
   "website": "https://superciety.com",
-  "description": "SUPER is the utility token of services provided by Superciety.",
+  "description": "SUPER is the utility & governance token of Superciety.",
   "social": {
     "email": "hello@superciety.com",
     "twitter": "https://twitter.com/supercietyhq",
     "whitepaper": "https://github.com/superciety/litepaper",
     "coingecko": "https://www.coingecko.com/en/coins/superciety",
     "discord": "https://discord.gg/sDeejyk3VR",
-    "telegram": "https://t.me/SupercietyENOfficial"
+    "telegram": "https://t.me/SupercietyCommunity"
   },
   "status": "active"
 }
