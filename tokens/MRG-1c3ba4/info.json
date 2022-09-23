@@ -1,15 +1,12 @@
-{ 
-"website": "https://gokai.org/",
-"description": "MaiarGhosts is a collection of 8658 unique Mr Ghost NFTs haunting the Elrond blockchain.",
-"social": {
-    "email": "message@gokai.org",
-    "blog": "https://medium.com/@GokaiLabs",
-    "twitter": "https://twitter.com/GokaiLabs",
-    "discord": "https://discord.gg/tXSeJfVVnH",
-    "whitepaper": "https://docs.gokai.org/"
-  },
-  "extraTokens": [
-    "MRG-e5b3d9"
-  ],
-"status": "active"
+{
+    "social": {
+        "email": "message@gokai.org",
+        "blog": "https://medium.com/@GokaiLabs",
+        "twitter": "https://twitter.com/GokaiLabs",
+        "discord": "https://discord.gg/tXSeJfVVnH",
+        "whitepaper": "https://docs.gokai.org/"
+    },
+    "website": "https://gokai.org/",
+    "description": "MaiarGhosts is a collection of 8658 unique Mr Ghost NFTs haunting the Elrond blockchain.",
+    "status": "active"
 }
