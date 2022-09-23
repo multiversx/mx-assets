@@ -1,0 +1,10 @@
+{
+  "name": "System: Staking nodes manager",
+  "description": "",
+  "tags": [
+    "system",
+    "staking",
+    "nodes"
+  ],
+  "icon": "elrond"
+}
