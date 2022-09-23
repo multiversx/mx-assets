@@ -1,0 +1,12 @@
+{
+    "social": {
+        "twitter": "https://twitter.com/caviar_token"
+    },
+    "website": "https://linktr.ee/caviar_nft",
+    "description": "Caviar Token, the utility token of the Caviar Ecosystem, exclusively on Elrond network, taste it, it's so rare.",
+    "lockedAccounts": {
+        "erd1deaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaqtv0gag": "Burned Tokens",
+        "erd1u56jnt0l5sw6f92swd4eshyfchsr48sqrdh4tfxptayw6e42vfnsvdez3m": "Team"
+    },
+    "status": "active"
+}
