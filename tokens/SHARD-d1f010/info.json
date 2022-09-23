@@ -1,13 +1,8 @@
-{ 
-"website": "https://www.battleofnodes.io",
-"description": "Shards is the in-game currecny powering the Battle of Nodes ecosystem. Play to earn Shard tokens inside a competitive TCG built on the Elrond Network",
-"social": {
-    "email": "battleofnodes@gmail.com",
-    "blog": "",
-    "twitter": "https://twitter.com/battleofnodenft",
-    "whitepaper": "https://drive.google.com/file/d/19Ot716PLrt0JrLAWyHj8jjyofDUnFXwx/view",
-    "coinmarketcap": "",
-    "coingecko": ""
-  },
-"status": "active"
+{
+    "website": "https://www.battleofnodes.io/",
+    "description": "Shard is the in-game currency & reward token powering the F2P P2E Battle of Nodes ecosystem. Play to earn Shard tokens inside a competitive TCG built on the Elrond Network.",
+    "social": {
+        "twitter": "https://twitter.com/BattleOfNodeNFT"
+    },
+    "status": "active"
 }
