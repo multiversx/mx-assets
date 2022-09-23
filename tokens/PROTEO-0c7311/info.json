@@ -1,0 +1,17 @@
+{
+    "website": "https://proteodefi.com/",
+    "description": "EXCLUSIVE ELROND DEFI SUITE",
+    "social": {
+        "twitter": "https://twitter.com/proteodefi",
+        "whitepaper": "https://proteodefi.com/download/PROTEO-WHITEPAPER-EN-1.0.pdf"
+    },
+    "status": "active",
+    "lockedAccounts": {
+        "erd1tye3f5w7957eh3z83d7fjll6zkwdfs48h6p7nq93sgxsa9dvn66swvmjtc": "DAO Treasury",
+        "erd1j35wnhst63s44xt9hpjf3fjkf8ptav6lzgvajcnecrlssmaw830q4zcpl3": "Liquidity + Team + Seed",
+        "erd1q3elczhw8txrsmuav9j75evxmfveq48j2kz8l8pc6yqhj4jhzxes70vwus": "Development",
+        "erd1qqqqqqqqqqqqqpgqhas2k56eggg5rkqqjzlxjmsu380ds03dznyq6ksr8a": "Bonds",
+        "erd1qqqqqqqqqqqqqpgqkfg8hm9nwwfl7sg52y0mg529vjgvwm49znyq4nm5kg": "Staking Rewards Boost",
+        "erd1qqqqqqqqqqqqqpgqrpgclqhqjz8084jhn5p3tg6wecr9ezxkznyqck8kmr": "Raffles"
+    }
+}

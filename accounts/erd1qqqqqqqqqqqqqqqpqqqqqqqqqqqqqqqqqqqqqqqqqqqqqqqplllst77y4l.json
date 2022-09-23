@@ -1,0 +1,9 @@
+{
+  "name": "System: Staking module",
+  "description": "Smart contract containing all staked eGLD on the network",
+  "tags": [
+    "system",
+    "staking"
+  ],
+  "icon": "elrond"
+}
