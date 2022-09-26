@@ -1,12 +1,9 @@
 {
-  "website": "https://defi-jungle.com",
-  "description": "DeFi Jungle is a decentralized platform on the Elrond blockchain that brings the public and project developers certain tools that can help them organize presale rounds.",
-  "ledgerSignature": "",
-  "social": {
-    "twitter": "https://twitter.com/jungle_defi",
-    "whitepaper": "https://defi-jungle.com/#/faq",
-    "coinmarketcap": "",
-    "coingecko": ""
-  },
-  "status": "active"
+    "social": {
+        "twitter": "https://twitter.com/jungle_defi",
+        "whitepaper": "https://defi-jungle.com/#/faq"
+    },
+    "website": "https://defi-jungle.com",
+    "description": "DeFi Jungle is a decentralized platform on the Elrond blockchain that brings the public and project developers certain tools that can help them organize presale rounds.",
+    "status": "active"
 }
