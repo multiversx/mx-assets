@@ -1,0 +1,13 @@
+{
+    "social": {
+        "twitter": "https://twitter.com/MooiarNFT"
+    },
+    "website": "https://mooiarbulls.com/",
+    "description": "The MOO token is the utility and game currency token of Mooiar ecosystem.",
+    "lockedAccounts": {
+        "erd1dpul7ptq29z0w44nqq5v0zrsn7gzuhgl43hystlqt52hp62wlg2swu0jmf": "main walet",
+        "erd1s04uphmap7cnzxrrdgecrxwnsw7sj8dhs4ud7n69qxujgxm3m5pqkduts9": "SC owner",
+        "erd1qqqqqqqqqqqqqpgq2hmzw55mzjuukxz9uxfq9lwp8t00hw99m5pq3xydlv": "NFT staking SC"
+    },
+    "status": "active"
+}
