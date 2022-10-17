@@ -3,7 +3,7 @@ DIR=""
 validate_filenames() {
   ADDED_FILES=$@
   for file in $ADDED_FILES; do
-    if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* && ${file} != *"accounts/"* && ${file} != *".github/"* ]]; then
+    if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* && ${file} != *"accounts/"* && ${file} != *".github/"* && ${file} != *"/ranks.json"*]]; then
       echo "Filename ${file} isn't expected!"
       exit 1
     fi
