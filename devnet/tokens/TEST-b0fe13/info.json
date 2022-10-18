@@ -2,5 +2,5 @@
   "website": "https://inspire.art",
   "description": "Test collection.",
   "status": "active",
-  "preferredRankAlgorithm": "custom"
+  "preferredRankAlgorithm": "openRarity"
 }
