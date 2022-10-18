@@ -1,15 +1,10 @@
 {
-  "website": "https://play.jcorpbattleofgods.com/",
-  "description": "The JCORP Token is the utility coin for the J-Corp | Battle of Gods environment. Play the game, earn rewards, spend them.",
-  "ledgerSignature": "",
-  "social": {
-    "telegram":"",
-    "blog": "",
-    "twitter": "https://twitter.com/JCorpBattle",
-    "instagram": "",
-    "whitepaper": "",
-    "coinmarketcap": "",
-    "coingecko": ""
-  },
-  "status": "active"
+    "social": {
+        "blog": "https://linktr.ee/JCorpBattleofGods",
+        "twitter": "https://twitter.com/JCorpBattle",
+        "whitepaper": "https://jcorp-wiki.gitbook.io/whitepaper/"
+    },
+    "website": "https://play.jcorpbattleofgods.com/",
+    "description": "Play Rise of Factions and start to earn now! Collect heroes and villains, join a faction and fight to take over the city of Reiwa.",
+    "status": "active"
 }
