@@ -1,11 +1,11 @@
 {
-  "website": "https://captainplanet.space",
-  "description": "The first meme coin on Elrond.Let our powers combine ! ",
-  "social": {
-    "email": "planet@captainplanet.space",
-    "twitter": "https://twitter.com/PlanetCapitan",
-    "discord": "https://discord.gg/dm4zHb2pY6",
-	"telegram":"https://t.me/CapitainPlanet"
-  },
-  "status": "active"
+    "website": "https://seedcaptain.io/",
+    "description": "Incubator - From an idea to a project\nWe help ideas to become projects. Seed Captain is the first incubator in the Elrond ecosystem, the place where quality ideas can find the necessary financing at the beginning of their journey. Seed Captain offers its community the possibility to invest and support projects in their earliest stages.",
+    "status": "active",
+    "social": {
+        "email": "info@seedcaptain.io",
+        "twitter": "https://twitter.com/PlanetCapitan",
+        "discord": "https://discord.gg/dm4zHb2pY6",
+        "telegram": "https://t.me/CapitainPlanet"
+    }
 }
