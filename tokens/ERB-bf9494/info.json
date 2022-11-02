@@ -1,0 +1,13 @@
+{
+  "website": "https://explorer.elrond.com/tokens/ERB-bf9494",
+  "description": "The ERB token is necessarly to power the in-game utilities of the Erebor Servers. Such as stacking, NFT's and unlocking in-game assets inside of Erebor ecosystem.",
+  "ledgerSignature": "",
+  "social": {
+    "discord": "https://discord.gg/KDf78kud"
+  },
+  "lockedAccounts": {
+    "erd1dkdlcttvpnk6l5s6lmj0zcxkpqkdvzjcjgdmucd9g64vzj0gy09qu42sjp": "Marketing, Partners, Ecosystem, Players, Community",
+    "erd16qd8acasqtq9d46yjs6j6uw284u3s7sf6jnpz06yg2vj0c37z0wqcre3es": "Treasury"
+  },
+  "status": "active"
+}
