@@ -1,8 +1,10 @@
 {
     "social": {
-        "twitter": "https://twitter.com/AgoraXGroup"
+        "twitter": "https://twitter.com/AgoraXGroup",
+		"telegram": "https://t.me/AgoraXGroup",
+		"email": "elrondagora@gmail.com",
     },
-    "website": "https://t.me/AgoraXGroup",
+    "website": "https://agorax.info/",
     "description": "AgoraX Group is the perfect place to discuss everything about #MultiversX!",
     "status": "active"
 }
