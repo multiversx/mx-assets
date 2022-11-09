@@ -1,5 +1,5 @@
 {
   "website": "https://maiar.exchange",
-  "description": "This token tracks your locked LP on the Maiar DEX.",
+  "description": "Liquidity Provider (LP) Token obtained by adding liquidity using LKMEX in the EGLD/MEX pool on the Maiar DEX.",
   "status": "active"
 }
