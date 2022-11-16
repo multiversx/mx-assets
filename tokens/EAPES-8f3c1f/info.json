@@ -8,5 +8,6 @@
     "telegram": "https://t.me/ElrondAPEs",
     "discord": "http://discord.gg/elrondapes"
   },
-  "status": "active"
+  "status": "active",
+  "preferredRankAlgorithm": "custom"
 }
