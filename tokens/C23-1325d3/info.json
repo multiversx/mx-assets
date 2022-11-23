@@ -1,0 +1,24 @@
+{
+
+"website": "https://c23token.net.",
+
+"description": "Aerovek is a social economic platform that aims to elevate the aviation industry using web3 technologies built on the Elrond Blockchain",
+
+"social": {
+    "email": "support@23co.in",
+    "website": "https://c23token.net.",
+    "instagram": "https://www.instagram.com/C23token/",
+    "twitter": "https://twitter.com/C23token",
+    "telegram": "https://https://t.me/C23TOKEN_NET",
+    "github": "https://github.com/C23token",
+          },
+
+"lockedAccounts": {
+    "erd134hqafduq7kslfhrggsy9jhxu4cgu5m6tagkrjq630hgp204fd7szc5r3q": "Locked Supply",
+    "erd1vdhpzr6v6gcu8hdsq94usy7syn5yem2fav26a9g54pwuf3tqmejqcxqp4v": "Locked Faucet Allocation",
+    "erd1ncewucnlcmns37wfpf8llymw90evp8st02pudwzwsclzt2t9awmsqyhux7": "Locked Other Platforms Allocation",
+                  },
+
+"status": "active"
+
+}
