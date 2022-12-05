@@ -1,0 +1,20 @@
+{
+    "website": "https://superrarebears.com",
+    "description": "RARE is a token which is used within the SuperRareBears Ecosystem, an NFT project built on Elrond. Usecase includes NFT sales, Staking rewards & Governance",
+    "status": "active",
+    "social": {
+        "email": "superrarebears@gmail.com",
+        "blog": "https://medium.com/@superrarebears",
+        "twitter": "https://twitter.com/SuperRare_Bears",
+        "discord": "https://discord.gg/SuperRareBears",
+        "telegram": "https://t.me/SuperRareBears",
+        "whitepaper": "https://medium.com/@superrarebears/srb-rarenomics-esdt-token-rare-distribution-v3-a2cf8b0e7090"
+    },
+    "lockedAccounts": {
+        "erd1qn2wtcw2qnhus50lng4n5jscxhehph4zqurw32nknz9e6ulzzefsh2gqh4": "Team",
+        "erd12zeuza7afjrctuvyfus9wgx49lj3ml0pmvtdglmsxvhtxc472mqqry0lzy": "Additional Pools ",
+        "erd1epts6wahntlk90u93r93hkyjsvx95wxf7k6qcjaeydnap5h6q7es2helzm": "Development",
+        "erd12czfetn9lxktp6h2wf0cusr0afyeg497fjs0twrqd0ksa8mvzcysndv8q8": "NFT Staking",
+        "erd12qzctt8rucgev08w0xdsunu4zlghlq07tas3349jk5x0f09hp27sdhhrnf": "ESDT Staking"
+    }
+}
