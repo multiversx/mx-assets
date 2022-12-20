@@ -1,0 +1,14 @@
+{
+  "website": "https://cyberpunkcity.com",
+  "description": "",
+  "social": {
+		"email": "info@cyberpunkcity.com",
+		"blog": "https://cyberpunkcity.com/news",
+		"twitter": "https://twitter.com/CyberpunkCity_",
+		"discord": "https://discord.gg/cyberpunkcity",
+		"telegram": "https://t.me/cyberpunkcity",
+		"youtube": "https://www.youtube.com/CyberpunkCity",
+		"whitepaper": "https://cyberpunkcity.com/whitepaper"
+	},
+  "status": "active"
+}
