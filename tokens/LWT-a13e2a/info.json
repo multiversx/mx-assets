@@ -1,0 +1,18 @@
+{
+  "website": "https://lwtoken.xyz/",
+  "description": "Receive passive income holding $LWT and wrapped tokens(lwts) collateralized 1:1",
+  "ledgerSignature": "",
+  "social": {
+    "email": "developers@lwtoken.xyz",
+    "github": "https://github.com/lwt-org",
+    "twitter": "https://twitter.com/lwt_token",
+    "whitepaper": "https://crustwebsites.net/ipfs/QmUHGtjW3iTw5gDRTW9569Vo61JmsX7VW6bVnTwJ9QoAcc?filename=Litepaper%20LWT%20-%20v2%202022-07-12.pdf",
+    "telegram": "https://t.me/lwt_community"
+  },
+  "lockedAccounts": {
+    "erd193y8z4c3dslrecsr34we9n8jv7606l4vp66jy02efw23rdven0vs64z08q": "Future Usage",
+    "erd10690k4ek2thslce52szzr4py4zntwp6l960acz556rrkc5gq4p3sywzpls": "Team"
+  },
+  "extraTokens": [],
+  "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+  "website": "https://lwtoken.xyz/",
+  "description": "Receive passive income holding Lended Wrapped Token Bitcoin (lwtBTC) collateralized 1:1 with Bitcoin(BTC).",
+  "ledgerSignature": "",
+  "social": {
+    "email": "developers@lwtoken.xyz",
+    "github": "https://github.com/lwt-org",
+    "twitter": "https://twitter.com/lwt_token",
+    "whitepaper": "https://crustwebsites.net/ipfs/QmUHGtjW3iTw5gDRTW9569Vo61JmsX7VW6bVnTwJ9QoAcc?filename=Litepaper%20LWT%20-%20v2%202022-07-12.pdf",
+    "telegram": "https://t.me/lwt_community"
+  },
+  "extraTokens": [],
+  "status": "active"
+}
