@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-_WAT">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="_WAT" data-name="$WAT" clip-path="url(#clip-_WAT)">
+    <g id="logo" transform="translate(66.004 49.093)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="99" cy="99" r="99" transform="translate(-65.004 -48.093)" stroke="#21f1d9" stroke-width="2"/>
+      <path id="Tracé_40" data-name="Tracé 40" d="M959.567-2244.373v5.627H948.314v11.313H937v11.253h11.314v67.761h11.253v-11.313h22.567v11.313h11.314v-22.627h-33.88V-2182.3H970.88v-11.314h22.567v11.314h11.314v-11.314H993.447v-11.253h-33.88v-11.314H970.88v-11.253H959.567v-11.313h33.88V-2250h-33.88Zm0,22.567v5.627H948.314v-11.253h11.253Z" transform="translate(-937 2250)" fill="#21f1d9"/>
+      <path id="Tracé_41" data-name="Tracé 41" d="M1687-1869.373v5.627h11.313V-1875H1687Z" transform="translate(-1641.866 1897.567)" fill="#21f1d9"/>
+    </g>
+  </g>
+</svg>
