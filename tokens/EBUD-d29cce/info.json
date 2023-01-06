@@ -5,8 +5,6 @@
     },
     "website": "https://ebuds.netlify.app/",
     "description": "eBuds is built on MultiversX and is a decentralized autonomous organization that is governed by the eBuds Community. It’s one of the first DAOs powered by @SUPERCIETY. The eBudsDAO manages the $EBUD Token, a cryptocurrency that is used to power the eBuds ecosystem.",
-      "lockedAccounts": {
-        "erd1qqqqqqqqqqqqqpgqt3tr3hdzyaum90nvauzgc0gzr63gz98r5w4sq5l3js": "distribution SC",
-    },
    "status": "active"
 }
+
