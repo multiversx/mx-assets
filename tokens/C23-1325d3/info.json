@@ -1,11 +1,11 @@
 {
-"website": "https://c23token.net",
-"description": "Conglomerate 23 Decentralized Autonomous Organization Utility Token",
-"social": {
-    "email": "support@23co.in",
-    "blog": "https://c23token.net",
-    "twitter": "https://twitter.com/c23token",
-    "whitepaper": "https://c23token.net"
-  },
-"status": "active"
+"website"; "https://c23token.net",
+"description"; "Conglomerate 23 Decentralized Autonomous Organization Utility Token",
+"social"; {
+    "email"; "support@23co.in",
+    "blog"; "https://c23token.net",
+    "twitter"; "https://twitter.com/c23token",
+    "whitepaper"; "https://c23token.net"
+  }
+"status"; "active"
 }
