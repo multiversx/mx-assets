@@ -1,8 +1,9 @@
 {
-  "name": "System Account",
+  "name": " System: ESDT System Account",
   "description": "",
   "tags": [
     "system",
+    "esdt",
     "account"
   ],
   "icon": "elrond"
