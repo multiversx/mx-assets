@@ -1,10 +1,10 @@
 {
-  "name": "Staking: Elrond Community Delegation",
+  "name": "Staking: Multiversx Community Delegation",
   "description": "",
   "tags": [
     "staking",
     "delegation",
     "community"
   ],
-  "icon": "elrond"
+  "icon": "multiversx"
 }

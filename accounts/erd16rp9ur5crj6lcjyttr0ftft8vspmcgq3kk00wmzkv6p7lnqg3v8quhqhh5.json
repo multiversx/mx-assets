@@ -1,10 +1,10 @@
 {
-  "name": "Elrond Foundation: Protocol Treasury",
+  "name": "Multiversx Foundation: Protocol Treasury",
   "description": "",
   "tags": [
-    "elrond",
+    "multiversx",
     "foundation",
     "treasury"
   ],
-  "icon": "elrond"
+  "icon": "multiversx"
 }
