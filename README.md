@@ -16,15 +16,15 @@ Here’s a prefilled template for the .json file to get you started:
 ```JSON
 {
     "website": "https://www.multiversxtoken.com",
-    "description": "The ERD token is the utility token of MultiversX Token",
+    "description": "The EGLD token is the utility token of MultiversX Token",
     "ledgerSignature": "1234",
     "social": {
-        "email": "erd-token@multiversx.com",
-        "blog": "https://www.multiversxtoken.com/ERD-token-blog",
-        "twitter": "https://twitter.com/ERD-token-twitter",
-        "whitepaper": "https://www.multiversxtoken.com/ERD-token-whitepaper.pdf",
-        "coinmarketcap": "https://coinmarketcap.com/currencies/ERD-token",
-        "coingecko": "https://www.coingecko.com/en/coins/ERD-token"
+        "email": "egld-token@multiversx.com",
+        "blog": "https://www.multiversxtoken.com/EGLD-token-blog",
+        "twitter": "https://twitter.com/EGLD-token-twitter",
+        "whitepaper": "https://www.multiversxtoken.com/EGLD-token-whitepaper.pdf",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/EGLD-token",
+        "coingecko": "https://www.coingecko.com/en/coins/EGLD-token"
     },
     "lockedAccounts": {
         "erd1alice": "Team vesting",
