@@ -1,9 +1,8 @@
 {
-  "name": "Maiar Exchange: Router",
+  "name": "xExchange: Router",
   "description": "",
   "tags": [
-    "maiar",
-    "exchange",
+    "xexchange",
     "router"
   ],
   "icon": "elrond"
