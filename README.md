@@ -1,6 +1,6 @@
 # Introduction
 
-This repository holds a list of whitelisted tokens in the MultiversX web tools. A whitelisted token can have website and socials URLs, a logo or a description, that will be displayed on MultiversX products, such as the MultiversX Explorer or the Web Wallet. The logos are also used in the Maiar App.
+This repository holds a list of whitelisted tokens in the MultiversX web tools. A whitelisted token can have website and socials URLs, a logo or a description, that will be displayed on MultiversX products, such as the MultiversX Explorer or the Web Wallet. The logos are also used in the xPortal App.
 
 # Custom ESDT logo & description
 Amplify your brand via the MultiversX Network web tools & the Mobile Wallet.
