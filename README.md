@@ -27,8 +27,8 @@ Here’s a prefilled template for the .json file to get you started:
         "coingecko": "https://www.coingecko.com/en/coins/EGLD-token"
     },
     "lockedAccounts": {
-        "erd1alice": "Team vesting",
-        "erd1bob": "Locked private sale"
+        "egld1alice": "Team vesting",
+        "egld1bob": "Locked private sale"
     },
     "extraTokens": [
         "LPTOKEN-1234",
