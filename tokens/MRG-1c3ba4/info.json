@@ -1,0 +1,15 @@
+{
+  "website": "https://ghostverse.org",
+  "description": "The NFT DAO where ghosts govern.",
+  "social": {
+    "email": "message@gokai.org",
+    "twitter": "https://twitter.com/GhostverseOrg",
+    "discord": "https://discord.gg/tXSeJfVVnH",
+    "whitepaper": "https://docs.ghostverse.org"
+  },
+  "status": "active",
+  "extraTokens": [
+    "MRG-e5b3d9",
+    "MRG-6540da"
+  ]
+}
