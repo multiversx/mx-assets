@@ -1,10 +1,10 @@
 {
-  "name": "Maiar Exchange: XMEX Unstake",
+  "name": "xExchange: XMEX Unstake",
   "description": "",
   "tags": [
-    "maiarexchange",
+    "xexchange",
     "energy",
     "unstake"
   ],
-  "icon": "elrond"
+  "icon": "multiversx"
 }
