@@ -1,9 +1,12 @@
 {
     "website": "https://www.nutstoken.net",
-    "description": "Providing liqudity for the new Web3 ERA",
+    "description": "Providing liquidity for the new Web3 ERA",
     "social": {
         "email": "contact@nutstoken.net",
         "twitter": "https://twitter.com/token_nuts"
     },
+    "extraTokens": [
+        "METASNUTS-496432"
+    ],
     "status": "active"
 }
