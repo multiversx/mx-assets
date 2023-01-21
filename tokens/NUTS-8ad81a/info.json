@@ -3,7 +3,10 @@
     "description": "Providing liquidity for the new Web3 ERA",
     "social": {
         "email": "contact@nutstoken.net",
-        "twitter": "https://twitter.com/token_nuts"
+        "twitter": "https://twitter.com/token_nuts",
+		"whitepaper": "https://docs.nutstoken.net",
+		"telegram": "https://t.me/memeverce",
+        "discord": "https://discord.gg/tDwRvzwyJK"
     },
     "extraTokens": [
         "METASNUTS-496432"
