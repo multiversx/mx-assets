@@ -1,9 +1,10 @@
 {
-  "name": "JEXchange: P2P swaps module",
+  "name": "JEXchange: Fees Wallet",
   "description": "",
   "tags": [
     "jexchange",
-    "swap"
+    "fees",
+    "earning"
   ],
   "icon": "jexchange"
 }
