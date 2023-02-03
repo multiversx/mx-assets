@@ -1,0 +1,14 @@
+{
+    "website": "https://ebuds.netlify.app/",
+    "description": "eBuds is a decentralized autonomous organization (DAO) and community focused on the creation and distribution of non-fungible tokens (NFTs)",
+    "social": {
+        "email": "ebuds.dao@gmail.com",
+        "blog": "https://ebuds.medium.com/",
+        "twitter": "https://twitter.com/eBudsNFT",
+        "whitepaper": "https://ebuds.netlify.app/"
+    },
+    "lockedAccounts": {
+        "erd1qqqqqqqqqqqqqpgqt3tr3hdzyaum90nvauzgc0gzr63gz98r5w4sq5l3js": "distribution sc"
+         },
+    "status": "active"
+}
