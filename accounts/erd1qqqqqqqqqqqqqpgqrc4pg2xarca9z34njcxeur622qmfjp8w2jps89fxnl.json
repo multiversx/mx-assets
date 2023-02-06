@@ -1,10 +1,9 @@
 {
-  "name": "Maiar Exchange: Proxy",
+  "name": "xExchange: Proxy",
   "description": "",
   "tags": [
-    "maiar",
-    "exchange",
+    "xexchange",
     "proxy"
   ],
-  "icon": "elrond"
+  "icon": "multiversx"
 }
