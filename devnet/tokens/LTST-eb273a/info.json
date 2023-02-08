@@ -1,0 +1,12 @@
+{
+    "social": {
+        "blog": "https://test.com",
+        "twitter": "https://twitter.com/test",
+        "whitepaper": "https://test.com",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/test",
+        "coingecko": "https://coingecko.com/en/coins/test"
+    },
+    "website": "https://test.com",
+    "description": "test",
+    "status": "active"
+}
