@@ -1,11 +1,10 @@
 {
-    "website": "https://ebuds.netlify.app/",
-    "description": "eBuds is a decentralized autonomous community focused on the creation and distribution of non-fungible tokens (NFTs)",
     "social": {
-        "email": "ebuds.dao@gmail.com",
-        "blog": "https://ebuds.medium.com/",
+        "blog": "https://ebuds.netlify.app/#blog",
         "twitter": "https://twitter.com/eBudsNFT",
         "whitepaper": "https://ebuds.netlify.app/"
     },
+    "website": "https://ebuds.netlify.app/",
+    "description": "eBuds is a decentralized autonomous community focused on the creation and distribution of non-fungible tokens (NFTs)",
     "status": "active"
 }
