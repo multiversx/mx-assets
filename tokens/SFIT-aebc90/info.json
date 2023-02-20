@@ -1,0 +1,24 @@
+{
+  "website": "https://sense4fit.io/",
+  "description": "SFIT is the utility token for the entire Sense4FIT Ecosystem.",
+  "social": {
+    "twitter": "https://twitter.com/sense4fit",
+    "telegram": "https://t.me/Sense4FIT_Official",
+    "whitepaper": "https://sense4fit.gitbook.io/whitepaper"
+  },
+  "status": "active",
+  "lockedAccounts": {
+    "erd1qqqqqqqqqqqqqpgqz88aj0jnyk2245qdckqlr0u3esrkm227up4sduprh7": "PrivateSeedTeamAdvisorVestingModule",
+    "erd1qqqqqqqqqqqqqpgquef97h66mjmgghdglpkjllamt2hjz2zcaykqpwwurh": "StakingModule",
+    "erd1qqqqqqqqqqqqqpgqmazld0dz27axdf8acslqkncdcrjrqpav548spxdtm9": "BHeroLaunchpad",
+    "erd1qqqqqqqqqqqqqpgq50dge6rrpcra4tp9hl57jl0893a4r2r72jpsk39rjj": "Metabonding",
+    "erd13u0axantgkhfdl3y9wnuve6sk5g7ax87698rkc492mf7neaung5s9gvwg8": "PrivateTokens",
+    "erd19nx7n7ktyzus32wf0zh6a9t5x0ssy72k8tsnwnhp57jt3jx0vx6sylrzn3": "AdvisorTokens",
+    "erd1n5zpnws389s854rjsgpsw5hdk0p4umetewpcv4xa4e8u0pwunuask26u72": "MarketingTokens",
+    "erd19pfa9pzmect3lzwelv6xhdv2t3em8ljgq5h5vwlgnac8j0mry58s0ecaf3": "TreasuryTokens",
+    "erd1cp4fguy8nyr7n0hfs3nzl8expd8mthe3x7zrn2gcx4zclsunempq7ld8t4": "StakingTokens",
+    "erd16ak04re87er9kalkn8vna65z4c6aw846r33w82lfwqy30jm0ntussd9r0u": "StrategyTokens",
+    "erd1l8c82zv0z55qy5zprkgece0w9ukwck5e7pkqtjcytzjxvjvpwu8qpzm95u": "RewardsTokens",
+    "erd1tq6308sklqtfd3kh6ac5y2sactjg0j88k9sn2msdkg2s3g8fx0hs7wn2wj": "LiquidityTokens"
+  }
+}
