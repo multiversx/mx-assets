@@ -1,13 +1,13 @@
 {
-  "website": "https://superciety.com",
-  "description": "SUPER is the utility token of services provided by Superciety.",
+  "website": "https://peerme.io",
+  "description": "SUPER is the utility & governance token of PeerMe.",
   "social": {
-    "email": "hello@superciety.com",
-    "twitter": "https://twitter.com/supercietyhq",
-    "whitepaper": "https://github.com/superciety/litepaper",
-    "coingecko": "https://www.coingecko.com/en/coins/superciety",
-    "discord": "https://discord.gg/sDeejyk3VR",
-    "telegram": "https://t.me/SupercietyENOfficial"
+    "email": "hello@peerme.io",
+    "twitter": "https://twitter.com/PeerMeHQ",
+    "coingecko": "https://www.coingecko.com/en/coins/peerme-super",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superciety",
+    "discord": "https://discord.peerme.io",
+    "telegram": "https://telegram.peerme.io"
   },
   "status": "active"
 }
