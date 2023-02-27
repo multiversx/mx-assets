@@ -1,6 +1,7 @@
 {
   "website": "https://peerme.io",
   "description": "SUPER is the utility & governance token of PeerMe.",
+  "ledgerSignature": "30450221008301715e7ddb7efb2cce9bf0ac48367a03b90bbd50e90453827033bb086feb680220716c749f95d178c12f30adc96bf395353a1dd37fbe57243abaa1c13a43d79e6a",
   "social": {
     "email": "hello@peerme.io",
     "twitter": "https://twitter.com/PeerMeHQ",
