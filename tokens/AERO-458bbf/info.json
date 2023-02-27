@@ -1,7 +1,8 @@
-{ 
-"website": "https://aerovek.com",
-"description": "Aerovek is a social economic platform that aims to elevate the aviation industry using web3 technologies built on the Elrond Blockchain",  "ledgerSignature": "",
-"social": {
+{
+  "website": "https://aerovek.com",
+  "description": "Aerovek is a social economic platform that aims to elevate the aviation industry using web3 technologies built on the Elrond Blockchain",
+  "ledgerSignature": "3045022100ba6735ab8da2adcb980edc76edf5405102d971cda21252d314e4f14b1739948a0220192ecef920188c68bbd08830adcaf7600af3896d0e913d5a7e343d95d3d02941",
+  "social": {
     "email": "support@aerovek.com",
     "blog": "https://www.aerovek.io/blog",
     "twitter": "https://twitter.com/AerovekAviation",
@@ -9,5 +10,5 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/aerovek-aviation/",
     "coingecko": "https://www.coingecko.com/en/coins/aerovek-aviation"
   },
-"status": "active"
+  "status": "active"
 }
