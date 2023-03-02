@@ -1,6 +1,7 @@
 {
   "website": "https://bh.network/",
   "description": "The BHAT Token is the epicenter of the BH Network web3 hub and allows access and interaction with all DeFi modules within the hub.",
+  "ledgerSignature": "30450221009bd94edb228d0810881b22f3e89a2d5617077ade5329e5ff2d9332cd179beb7f02205f15419fa374050b8d0dc38182ccf310e8f6cf8ea7a79eac64a5e20eec28ff7f",
   "social": {
     "email": "contact@bh.network",
     "blog": "https://bh.network/blog",
