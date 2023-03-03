@@ -1,11 +1,20 @@
 {
-  "website": "https://captainplanet.space",
-  "description": "The first meme coin on Elrond.Let our powers combine ! ",
-  "social": {
-    "email": "planet@captainplanet.space",
-    "twitter": "https://twitter.com/PlanetCapitan",
-    "discord": "https://discord.gg/dm4zHb2pY6",
-	"telegram":"https://t.me/CapitainPlanet"
-  },
-  "status": "active"
+    "website": "https://seedcaptain.io/",
+    "description": "Incubator - From an idea to a project\nWe help ideas to become projects. Seed Captain is the first incubator in the MultiversX ecosystem, the place where quality ideas can find the necessary financing at the beginning of their journey. Seed Captain offers its community the possibility to invest and support projects in their earliest stages.",
+    "status": "active",
+    "social": {
+        "email": "info@seedcaptain.io",
+        "twitter": "https://twitter.com/SeedCaptainX",
+        "discord": "https://discord.gg/dm4zHb2pY6",
+        "telegram": "https://t.me/CapitainPlanet"
+    },
+    "status": "active",
+    "lockedAccounts": {
+        "erd1m053c2x47e8dv5jjuyzw75jmv0ugrnh5rfcascaczu55wyz72pxskk060c": "To burn",
+        "erd1see5h2966pfwt8c9mkjfltcuq06pqjf2mm9ds5m0tgd0pez9weqsm4mc3j": "Marketing",
+        "erd1qqqqqqqqqqqqqpgqhd2u0lx5085fx85n0xallfyxxmul60zt697q3x7kew": "Team + Advisors vesting SC",
+        "erd1m8lknh4ylx3sszr20zjmy8z0dkp8hx5z8ledeqtazrjwwcrh6lpsk3xh99": "Liquidity providing",
+        "erd1c5xv9p3aayvhxypa2d89pfv8jc8hlw2p8kngfnqjufejl5d7zmzqmsek9n": "CTP staking rewards",
+        "erd1f5pneudyk3e9j49p0q4gawy0ekn0gaxhjdwy8mw700uc877c7d5q0p0tte": "NFT staking rewards"
+    }
 }

@@ -1,0 +1,6 @@
+{
+  "website": "https://xexchange.com",
+  "description": "USDT stablecoin originating on Ethereum, bridged as an ESDT token on MultiversX. 1 USDT = 1 WrappedUSDT",
+  "ledgerSignature": "304502210094238f50b4f64f9b68ff8b38429ffc8bb0bd27ca21fdf758953843e4420cb273022010024029457a028b5a358c8f56b0dff27400321f7b999bd717844021d21fe77b",
+  "status": "active"
+}
