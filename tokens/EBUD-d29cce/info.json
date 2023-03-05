@@ -7,4 +7,7 @@
     "website": "https://ebuds.netlify.app/",
     "description": "eBuds is a decentralized autonomous community focused on the creation and distribution of non-fungible tokens (NFTs)",
     "status": "active"
+    "lockedAccounts": {
+        "erd1qqqqqqqqqqqqqpgqt3tr3hdzyaum90nvauzgc0gzr63gz98r5w4sq5l3js": "distribution_sc"
+    }
 }
