@@ -1,10 +1,8 @@
-
 {
-"website": "https://www.bitxfinance.net",
-"description": "Utility token in BitX Finance ecosystem!",
-"social": {
-"email": "admin@bitxfinance.net",
-"twitter": "https://twitter.com/bitxfinance",
-},
-"status": "active"
+    "social": {
+        "twitter": "https://twitter.com/BitXFinanceOfficial"
+    },
+    "website": "https://bitxfinance.net/",
+    "description": "BitXCOIN is an additional coin of BTX platform that offers impressive staking rewards, early access to staking, and priority for new project presales. Additionally, by burning 80% of the BTX supply, the remaining tokens become scarcer, potentially increasing their value and making them more valuable for those who continue to hold them.",
+    "status": "active"
 }
