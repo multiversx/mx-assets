@@ -1,11 +1,14 @@
 {
 "website": "https://c23token.net",
 "description": "Conglomerate 23 Decentralized Autonomous Organization",
+"status": "active",
 "social": {
     "email": "support@23co.in",
     "blog": "https://c23token.net",
     "twitter": "https://twitter.com/c23token",
     "whitepaper": "https://c23token.net/whitepaper.pdf"
   },
-"status": "active"
+"lockedAccounts": {
+        "erd134hqafduq7kslfhrggsy9jhxu4cgu5m6tagkrjq630hgp204fd7szc5r3q": "distribution_sc"
+   }
 }
