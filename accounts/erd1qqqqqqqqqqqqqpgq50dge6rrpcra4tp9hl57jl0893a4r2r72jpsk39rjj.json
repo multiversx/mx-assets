@@ -1,9 +1,9 @@
 {
-  "name": "Metabonding: Rewards",
+  "name": "xExchange: Metabonding Rewards",
   "description": "",
   "tags": [
+    "mex",
     "metabonding",
     "rewards"
-  ],
-  "icon": "elrond"
+  ]
 }
