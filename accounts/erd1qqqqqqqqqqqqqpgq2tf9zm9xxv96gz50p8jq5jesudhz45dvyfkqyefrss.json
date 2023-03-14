@@ -1,9 +1,9 @@
 {
-  "name": "xBridge: Ethereum Safe",
+  "name": "xBridge: Bsc Safe",
   "description": "",
   "tags": [
     "xbridge",
-    "ethereum",
+    "bsc",
     "safe"
   ],
   "icon": "multiversx"
