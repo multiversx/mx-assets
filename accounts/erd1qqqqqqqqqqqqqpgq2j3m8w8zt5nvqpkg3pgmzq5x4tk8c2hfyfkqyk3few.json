@@ -1,9 +1,9 @@
 {
-  "name": "xBridge: Ethereum MultiTransfer",
+  "name": "xBridge: Bsc MultiTransfer",
   "description": "",
   "tags": [
     "xbridge",
-    "ethereum",
+    "bsc",
     "multitransfer"
   ],
   "icon": "multiversx"
