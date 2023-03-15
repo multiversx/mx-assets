@@ -2,5 +2,8 @@
   "website": "https://xexchange.com",
   "description": "BUSD stablecoin originating on Ethereum, bridged as an ESDT token on MultiversX. 1 BUSD = 1 WrappedBUSD",
   "ledgerSignature": "3044022028c5f58c74c99b905fe0d12bbd431d37f3ba395741c9f92cffedc1954b5fc9b6022076fd13b7fd1d193c038b6eab3662b3a1572db4ddc805d3c6369c4f1c8a86d618",
-  "status": "active"
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
 }
