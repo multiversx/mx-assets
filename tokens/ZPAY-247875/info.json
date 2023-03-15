@@ -10,6 +10,9 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/zoidpay/",
     "coingecko": "https://www.coingecko.com/en/coins/zoid-pay"
   },
+  "lockedAccounts": {
+    "erd136kalm60ndyyps7paexvz38pf09f58f7nzqg8tw60p9pq7ygyspsx6ux89": "Owner Account"
+  },
   "status": "active",
   "extraTokens": [
     "ZPAYWEGLD-34e5c1",
