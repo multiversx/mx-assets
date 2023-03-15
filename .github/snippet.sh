@@ -68,6 +68,8 @@ validate_png_dimensions() {
         echo "Invalid dimensions for PNG! ( $png_dimensions )"
         exit 1
       fi
+
+      exit 0;
     fi
   done
 }
