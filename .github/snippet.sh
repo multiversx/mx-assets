@@ -56,11 +56,13 @@ validate_svg_square() {
 
 validate_png_dimensions() {
   ADDED_FILES=$@
-  EXPECTED_PNG_DIMENSIONS="200x200"
+  EXPECTED_PNG_DIMENSIONS="200 x 200"
 
   for file in $ADDED_FILES; do
     if [[ ${file} == *"/logo.png"* ]]; then 
-      png_dimensions=$(identify $file | grep -E -o "[0-9]+x[0-9]+" | head -1)
+      png_dimensions=$(file $file | grep -E -o "[0-9]+ x [0-9]+" | head -1)
+
+      echo "PNG dimensions: $png_dimensions"
 
       if [[ $png_dimensions != $EXPECTED_PNG_DIMENSIONS ]]; then
         echo "Invalid dimensions for PNG! ( $png_dimensions )"
