@@ -1,10 +1,18 @@
 {
-  "website": "https://www.ofero.network/",
-  "description": "The OFERO Token is the utility coin of the Ofero Network.",
-  "social": {
-    "email": "contact@ofero.network",
-    "twitter": "https://twitter.com/oferonetwork",
-    "whitepaper": "https://ofero.network/documents/whitepaper.pdf"
-  },
-  "status": "active"
+    "website": "https://www.ofero.network/",
+    "description": "The OFERO Token is the utility coin of the Ofero Network.",
+    "social": {
+        "email": "contact@ofero.network",
+        "twitter": "https://twitter.com/oferonetwork",
+        "whitepaper": "https://ofero.network/documents/whitepaper.pdf"
+    },
+    "status": "active",
+    "extraTokens": [
+        "OFEWEGLD-73840b",
+        "LKOFE-f982bc"
+    ],
+    "lockedAccounts": {
+        "erd1jxfnycawgvss4hkssh3rd2m4s3lel8qkweq7e8yk3e8kaszsn8lsktkn5s": "Team",
+        "erd1y65083ylrncluszxf628ucr5l4fd0yza507t6myph9fgn5atkynsf5md28": "Staking"
+    }
 }
