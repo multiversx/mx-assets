@@ -1,11 +1,14 @@
 {
     "website": "https://www.elrond-football.com",
-    "description": "The $eFOO token is the utility token of Elrond Football project.",
+    "description": "The $eFOO token is the utility token of EFootball-X project.",
     "social": {
         "email": "elrondfootballnfts@gmail.com",
         "twitter": "https://twitter.com/EFootball_X",
         "telegram": "https://t.me/elrondfootball",
         "whitepaper": "https://medium.com/@elrondfootball/elrond-football-projects-whitepaper-5184093adb20"
+    },
+    "lockedAccounts": {
+        "erd1qqqqqqqqqqqqqpgqxqnap2d90f0sj0v34a0duaqq78x3q2pr3qmq9gadg4": "Team and Treasury Vesting"
     },
     "status": "active"
 }
