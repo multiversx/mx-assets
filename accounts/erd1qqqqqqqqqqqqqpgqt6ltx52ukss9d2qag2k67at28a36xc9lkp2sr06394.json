@@ -1,10 +1,10 @@
 {
-  "name": "Maiar Exchange: XMEX Proxy",
+  "name": "xExchange: XMEX Proxy",
   "description": "",
   "tags": [
-    "maiarexchange",
+    "xexchange",
     "energy",
     "proxy"
   ],
-  "icon": "elrond"
+  "icon": "xexchange"
 }

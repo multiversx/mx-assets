@@ -1,12 +1,11 @@
 {
-  "name": "Maiar Exchange: Legacy Simple Lock",
+  "name": "xExchange: Legacy Simple Lock",
   "description": "",
   "tags": [
-    "maiar",
-    "exchange",
+    "xexchange",
     "simple",
     "lock",
     "legacy"
   ],
-  "icon": "elrond"
+  "icon": "xexchange"
 }

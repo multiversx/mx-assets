@@ -1,11 +1,11 @@
 {
-  "name": "Maiar Exchange: Fees Collector",
+  "name": "xExchange: Fees Collector",
   "description": "",
   "tags": [
-    "maiarexchange",
+    "xexchange",
     "energy",
     "fees",
     "collector"
   ],
-  "icon": "elrond"
+  "icon": "xexchange"
 }
