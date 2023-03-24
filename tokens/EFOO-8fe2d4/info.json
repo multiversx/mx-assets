@@ -1,11 +1,16 @@
 {
-    "website": "https://www.elrondfootball.com",
-    "description": "The EFOO token is the utility token of ElrondFootballNFTs project.",
+    "website": "https://www.elrond-football.com",
+    "description": "The EFOO token is associated with the ⚽EFootball-X project, allowing users to participate in the project and contribute to the community's development.",
     "social": {
         "email": "elrondfootballnfts@gmail.com",
-        "twitter": "https://twitter.com/Elrond_Football",
+        "blog": "https://medium.com/@elrondfootball",
+        "twitter": "https://twitter.com/EFootball_X",
+        "whitepaper": "https://medium.com/@elrondfootball/elrond-football-projects-whitepaper-5184093adb20",
         "telegram": "https://t.me/elrondfootball",
-        "whitepaper": "https://www.elrondfootball.com"
+        "discord": "https://discord.gg/c4ds7WzvKc",
     },
+    "lockedAccounts": {
+        "erd1g9cva5mrgv698ehuc5dggkn8tuda7jxmz07zfljrv20s580pr0gsm6je3v": "Team and Treasury vesting",
+        },
     "status": "active"
 }
