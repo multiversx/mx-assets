@@ -2,15 +2,19 @@ name: Validate filenames & JSON informations
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   pull_request:
-    branches: [ master ]
+    branches: [master]
 
 jobs:
   validation:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+      - name: Install Dependencies
+        run: |
+          sudo apt install imagemagick-6.q16
+        shell: bash
       - name: Collecting file paths
         run: |
           echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
@@ -19,10 +23,10 @@ jobs:
         name: Validate files
         uses: jitterbit/get-changed-files@v1
       - run: |
-          source .github/snippet.sh ; validate_file_size ${{ steps.files.outputs.added }}
-          source .github/snippet.sh ; validate_filenames ${{ steps.files.outputs.added }}
-          source .github/snippet.sh ; validate_png_dimensions ${{ steps.files.outputs.added }}
-          source .github/snippet.sh ; validate_svg_square ${{ steps.files.outputs.added }}
+          source .github/snippet.sh ; validate_file_size ${{ steps.files.outputs.added_modified }}
+          source .github/snippet.sh ; validate_filenames ${{ steps.files.outputs.added_modified }}
+          source .github/snippet.sh ; validate_png_dimensions ${{ steps.files.outputs.added_modified }}
+          source .github/snippet.sh ; validate_svg_square ${{ steps.files.outputs.added_modified }}
         shell: bash
       - name: Validate token existence
         run: |
@@ -33,4 +37,3 @@ jobs:
         env:
           INPUT_SCHEMA: ./schema.json
           INPUT_JSONS: ${{ env.FILE_PATHS }}
-        
