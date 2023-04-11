@@ -1,0 +1,15 @@
+{ 
+    "website": "https://superrarebears.com",
+    "description": "SuperRareBears is a fun generative NFT Project based on Bear characters roaming freely on the MultiversX Blockchain. The Collection is made out of 10k unique NFTs with 672 hand drawn traits, of which there are 137 Ultra Rare Bears that have a distinctive Diamond in the bottom right corner.",
+    "ledgerSignature": "",
+    "social": {
+        "email": "superrarebears@gmail.com",
+        "blog": "https://medium.com/@superrarebears",
+        "twitter": "https://twitter.com/SuperRare_Bears",
+        "discord": "https://discord.gg/SuperRareBears",
+        "telegram": "https://t.me/SuperRareBears",
+        "whitepaper": "https://medium.com/@superrarebears/srb-rarenomics-esdt-token-rare-distribution-v3-a2cf8b0e7090"
+    },
+    "status": "active",
+    "preferredRankAlgorithm": "custom"
+}

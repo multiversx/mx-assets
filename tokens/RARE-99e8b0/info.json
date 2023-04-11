@@ -1,0 +1,22 @@
+{
+    "website": "https://superrarebears.com",
+    "description": "RARE is a token which is used within the SuperRareBears Ecosystem, an NFT project built on MultiversX.",
+    "status": "active",
+    "lockedAccounts": {
+        "erd12njzs9fqa4mmukqy32582j9nhx84tssqyptatz62gxnv99hmhexszsveuv": "Team",
+        "erd1x8yenyr0l7e062g79xaznqs65ft85x4tx8hmkfxp5dncry0jk2zscz7g4j": "Additional Pools",
+        "erd1l63sp5kk6l6s8cudscrv252ugnatf2jlq4dh2k5rgyf0lwh0ggzsw94wha": "Brand Growth",
+        "erd13dccscsc0ucf4kd5j84n97tch0wt5mjc2ct62mpe4dwcj2mwq0uql7mvpz": "Development",
+        "erd1s4jjkv4fsrw5yu27ues5vddv2g6q4glp3gp60nuz03ulkqc45mzqx4rd00": "NFT Staking",
+        "erd1clfhpd08rkjdta7ap9tzdn07tg97h4vp7e3gfx64j6vauurnmktq6lcuus": "ESDT Staking and Farming"
+    },
+    "social": {
+        "email": "superrarebears@gmail.com",
+        "blog": "https://medium.com/@superrarebears",
+        "twitter": "https://twitter.com/SuperRare_Bears",
+        "discord": "https://discord.gg/SuperRareBears",
+        "telegram": "https://t.me/SuperRareBears",
+        "whitepaper": "https://medium.com/@superrarebears/srb-rarenomics-esdt-token-rare-distribution-v3-a2cf8b0e7090",
+        "coingecko": "https://www.coingecko.com/en/coins/superrarebears-rare"
+    }
+}

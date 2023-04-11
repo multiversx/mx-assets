@@ -1,11 +1,13 @@
 {
   "website": "https://qowatt.network",
   "description": "QoWatt Tokens, first EV charging network using Blockchain in Europe",
+  "ledgerSignature": "3045022100e43c1ad7d3e4a5439e2ff7b97bb7901ca1a36a130b0e6e74464d65cc8d282bbb02206d318a05ff0dde6148856fc8391f1878cbdea591db47a74ad117a6a821e835f2",
   "social": {
     "email": "esdt@qowatt.com",
-    "twitter": "https://twitter.com/QoWatt_Token",
+    "twitter": "https://twitter.com/QoWattEcosystem",
     "whitepaper": "https://qowatt.network/wp-content/uploads/2022/01/QoWatt_Whitepaper_EN_1.2.pdf",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/qowatt/"
+    "coinmarketcap": "https://coinmarketcap.com/currencies/qowatt",
+    "coingecko": "https://www.coingecko.com/en/coins/qowatt"
   },
   "status": "active"
 }

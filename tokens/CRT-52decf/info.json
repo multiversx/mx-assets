@@ -1,0 +1,20 @@
+{
+  "website": "https://cantinaroyale.io",
+  "description": "The CRT token is essential for powering in-game utilities like NFT character progression, NFT recruiting, staking, and unlocking in-game assets inside of the Cantina Royale ecosystem.",
+  "ledgerSignature": "",
+  "social": {
+    "blog": "https://blog.cantinaroyale.io",
+    "twitter": "https://twitter.com/CantinaRoyale",
+    "whitepaper": "https://whitepaper.cantinaroyale.io",
+    "telegram": "https://t.me/CantinaRoyale",
+    "discord": "https://discord.gg/cantinaroyale"
+  },
+  "lockedAccounts": {
+    "erd1s9gcnzgjyzdn205xdy3gy3jtm8yl95k4g3kq54ryprs0h486v7dqw2zjrf": "Investors",
+    "erd1xaa6p8uxtzrzq7s2khy9q6kqzka5f3pu8t5rmrz0nm804lvn5z2qg8xev4": "Team",
+    "erd1hs6a3uhtc8chgm4k3wgamxue7fjnga4k5dsstvlgmhf6w9ph9zzswhq64c": "Ecosystem, Players, Community",
+    "erd1avld7x8wvmvu0ryzythw4khkwfpmzvuf70fp5z8f72nxysa6uq7qae3w0m": "Marketing, Partners",
+    "erd102975u07wnv0t8pl389l6dag2r9ca8ql2dsjvgc8jp59a39ycd4q4dsfdw": "Treasury"
+  },
+  "status": "active"
+}
