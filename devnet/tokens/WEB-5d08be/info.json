@@ -1,5 +1,10 @@
 {
-  "website": "https://www.multiversx.com",
-  "description": "WEB is a test token for testing ESDT functionality.",
-  "status": "active"
+    "website": "https://www.multiversx.com",
+    "description": "WEB is a test token for testing ESDT functionality.",
+    "status": "active",
+    "social": {
+        "blog": "https://www.multiversx.com",
+        "twitter": "https://twitter.com/home",
+        "whitepaper": "https://www.multiversx.com"
+    }
 }
