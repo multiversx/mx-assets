@@ -1,4 +1,4 @@
-name: Code Review
+name: Identities
 
 permissions:
   contents: read
@@ -7,7 +7,7 @@ permissions:
 on: [pull_request, issue_comment]
 
 jobs:
-  test:
+  check-signature:
     runs-on: ubuntu-latest
     steps:
       - uses: multiversx/mx-assets-checker@init
