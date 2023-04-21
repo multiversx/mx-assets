@@ -4,7 +4,9 @@ permissions:
   contents: read
   pull-requests: write
 
-on: [issue_comment]
+on:
+  issue_comment:
+    types: [created]
 
 jobs:
   test:
