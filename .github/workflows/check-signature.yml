@@ -13,4 +13,3 @@ jobs:
       - uses: tanghel/ChatGPT-CodeReview@check-signature
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
