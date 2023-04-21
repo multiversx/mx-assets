@@ -10,7 +10,7 @@ jobs:
   check-signature:
     runs-on: ubuntu-latest
     steps:
-      - uses: multiversx/mx-assets-checker@init
+      - uses: multiversx/mx-assets-checker@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
