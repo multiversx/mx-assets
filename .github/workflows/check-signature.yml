@@ -3,6 +3,7 @@ name: Identities
 permissions:
   contents: read
   pull-requests: write
+  actions: write
 
 on: [pull_request, issue_comment]
 
@@ -12,6 +13,6 @@ jobs:
     steps:
       - uses: multiversx/mx-assets-checker@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
 
