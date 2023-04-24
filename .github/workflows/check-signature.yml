@@ -13,6 +13,6 @@ jobs:
       - uses: multiversx/mx-assets-checker@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ADMIN_ADDRESS: "::add-mask::${{ secrets.ADMIN_ADDRESS }}"
+          ADMIN_ADDRESS: ${{ secrets.ADMIN_ADDRESS }}
 
 
