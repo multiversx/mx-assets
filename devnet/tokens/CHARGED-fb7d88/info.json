@@ -1,0 +1,21 @@
+{
+    "website": "https://goCharge.tech/",
+    "description": "Utility token that unlocks payments for power bank rentals and charging E.V. in our ecosystem.",
+    "social": {
+        "email": "contact@gocharge.tech",
+        "blog": "https://goCharge.tech/blog",
+        "twitter": "https://twitter.com/goChargeHQ",
+        "telegram": "https://t.me/goChargeTech",
+        "whitepaper": "https://gocharge.tech/wp-content/uploads/files/whitepaper.pdf"
+    },
+    "status": "active",
+    "lockedAccounts": {
+        "erd1qqqqqqqqqqqqqpgqmrnn27pfclgx9nnfh03qc8zp3fsekzk6ungsj7u6g7": "Liquidity and Exchanges",
+        "erd1qqqqqqqqqqqqqpgqmdxtfyp24wjd7c0grw6ceqr5wls0rzxjungserfm7j": "Staking Rewards",
+        "erd1qqqqqqqqqqqqqpgqn84wtl0rexfqq298hjgcz2epwdn5wdsnungs3ap2mt": "Marketing",
+        "erd1qqqqqqqqqqqqqpgqykmnn8r7xsz8m3pkmxuev3pc6qw6k8v2ungsnvh8p8": "Advisors",
+        "erd1qqqqqqqqqqqqqpgqcjk0mun3xxrq6e36rqg0ckls2a4f00fjungsmcacj5": "Treasury",
+        "erd1qqqqqqqqqqqqqpgqr6qec2mx3ct7u220en47x4d69xaq3cx2ungskewcss": "Presale",
+        "erd1qqqqqqqqqqqqqpgqyn49a3xk5lrg36hhhcp90rm08f53d8jjungscng4xx": "Team"
+    }
+}
