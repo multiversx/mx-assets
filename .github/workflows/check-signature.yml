@@ -14,5 +14,6 @@ jobs:
       - uses: multiversx/mx-assets-checker@main
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          TEST: 'hello world'
 
 
