@@ -1,0 +1,10 @@
+{
+  "name": "xExchange: XMEX Escrow Contract",
+  "description": "Move XMEX tokens between accounts",
+  "tags": [
+    "xexchange",
+    "energy",
+    "escrow"
+  ],
+  "icon": "xexchange"
+}
