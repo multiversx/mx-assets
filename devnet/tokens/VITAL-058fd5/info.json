@@ -12,10 +12,5 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/vital/",
     "coingecko": "https://www.coingecko.com/en/coins/vital-network"
   },
-  "lockedAccounts": {
-    "erd1r0s6ss90ktgtk6eytdskpkndl6ke4y75t0c8fq2mj7zumyncmtrsx9ud2u": "Vesting schedule",
-    "erd1qqqqqqqqqqqqqpgqv46l2jdwysy9px6x823254fyrw057ztp6egs9d9xxc": "V2 Migration",
-    "erd1qqqqqqqqqqqqqpgqtejne9fc8xfptxjg5mvttkk5sscdqtpz408qdzspg4": "NFT Staking SC"
-  },
   "status": "active"
 }
