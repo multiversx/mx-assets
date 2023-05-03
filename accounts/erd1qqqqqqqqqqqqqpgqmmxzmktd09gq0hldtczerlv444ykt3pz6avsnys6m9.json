@@ -1,0 +1,10 @@
+{
+  "name": "JEXchange: orderbook module",
+  "description": "",
+  "tags": [
+    "jexchange",
+    "orderbook",
+    "swap"
+  ],
+  "icon": "jexchange"
+}
