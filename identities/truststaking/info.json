@@ -1,0 +1,11 @@
+{
+  "description": "We are running nodes for PoS on Elrond Network",
+  "name": "Trust Staking",
+  "website": "https://truststaking.com",
+  "twitter": "truststaking",
+  "location": "Romania",
+  "owners": [
+    "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqzhllllsp9wvyl",
+    "erd1d8qcftee9a4r4ttvcpdn2rwammc28pe6knte5580tckcn8dhayfsgl2mf8"
+  ]
+}
