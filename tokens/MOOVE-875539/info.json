@@ -1,11 +1,14 @@
 {
-    "website": "https://www.cowcow.io/",
-    "description": "MOOVE is the utility token placed at the epicenter of Moove Protocol, representing the main pillar in the Cow Cow ecosystem.",
-    "social": {
-      "email": "support@cowcow.io",
-      "blog": "https://medium.com/@wecowcow",
-      "twitter": "https://twitter.com/wecowcow",
-      "discord": "http://discord.gg/cowcow"
-    },
-    "status": "active"
+  "website": "https://www.cowcow.io/",
+  "description": "MOOVE is the utility token placed at the epicenter of Moove Protocol, representing the main pillar in the Cow Cow ecosystem.",
+  "social": {
+    "email": "support@cowcow.io",
+    "blog": "https://medium.com/@wecowcow",
+    "twitter": "https://twitter.com/wecowcow",
+    "discord": "http://discord.gg/cowcow"
+  },
+  "status": "active",
+  "lockedAccounts": {
+    "erd1qqqqqqqqqqqqqpgqqgzzsl0re9e3u0t3mhv3jwg6zu63zssd7yqs3uu9jk": "Staking"
   }
+}
