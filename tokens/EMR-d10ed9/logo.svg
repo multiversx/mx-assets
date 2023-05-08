@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-365.9663" y1="-293.1573" x2="-122.0562" y2="-293.1573">
+	<stop  offset="0" style="stop-color:#33269B"/>
+	<stop  offset="1" style="stop-color:#0063DC"/>
+</linearGradient>
+<path class="st0" d="M-134.1-203.4H-354c-6.6,0-12-5.4-12-12V-371c0-6.6,5.4-12,12-12h219.9c6.6,0,12,5.4,12,12v155.6
+	C-122.1-208.8-127.5-203.4-134.1-203.4z"/>
+<circle cx="100" cy="100" r="100"/>
+<g>
+	<g>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="25.486" y1="121.4633" x2="95.3978" y2="121.4633">
+			<stop  offset="0" style="stop-color:#0946B8"/>
+			<stop  offset="1" style="stop-color:#3CF0AE"/>
+		</linearGradient>
+		<polygon class="st1" points="63,89.1 25.5,153.8 41.1,153.8 62.9,115.9 67.5,123.7 50.1,153.5 65.3,153.5 75,136.8 79.8,144.8 
+			74.6,153.8 90.6,153.8 95.4,145.4 70.7,102.4 		"/>
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="67.3054" y1="89.9392" x2="124.0754" y2="89.9392">
+			<stop  offset="0" style="stop-color:#0946B8"/>
+			<stop  offset="1" style="stop-color:#3CF0AE"/>
+		</linearGradient>
+		<polygon class="st2" points="87.3,73.6 99.3,94.5 107.1,80.8 95.1,59.9 99.5,52.2 111.6,73.1 119.2,59.7 99.5,26.1 67.3,81.7 
+			108.6,153.7 124.1,153.7 82.6,81.6 		"/>
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="103.8574" y1="110.8223" x2="174.514" y2="110.8223">
+			<stop  offset="0" style="stop-color:#0946B8"/>
+			<stop  offset="1" style="stop-color:#3CF0AE"/>
+		</linearGradient>
+		<path class="st3" d="M157.9,153.8h16.6l-23.9-40.6l-7.6-0.1l1.1-10.9l-20.2-34.4l-20.1,34.8l29.5,51.2H149L136.5,132l4.5-7.7
+			L157.9,153.8z M131.8,123.8l-12-20.9l4.5-7.7l12,20.9L131.8,123.8z"/>
+	</g>
+</g>
+</svg>
