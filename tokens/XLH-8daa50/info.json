@@ -1,12 +1,10 @@
 {
-  "website": "https://x-launcher.com/",
-  "description": "A Decentralized Launchpad Platform built on MultiversX Blockchain where the future projects will be launched.",
-  "ledgerSignature": "",
+  "website": "https://app.x-launcher.com/",
+  "description": "Decentralized Launchpad on #MultiversX and DeFi Suite, meant to enrich and enlarge the Ecosystem capabilities, prioritizing the Community!",
   "social": {
-    "twitter": "https://twitter.com/XLauncher2022",
-    "whitepaper": "https://x-launcher.com/files/Litepaper.pdf",
-    "coinmarketcap": "",
-    "coingecko": ""
+    "twitter": "https://twitter.com/XLauncher_",
+    "telegram": "https://t.me/XLauncherChat",
+    "whitepaper": "https://x-launcher.com/files/Whitepaper.pdf"
   },
   "status": "active"
 }
