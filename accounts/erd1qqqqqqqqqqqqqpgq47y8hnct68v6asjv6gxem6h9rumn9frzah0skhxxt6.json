@@ -1,0 +1,5 @@
+{
+  "name": "XOXNO: P2P",
+  "description": "The main contract which handles all the P2P swaps!",
+  "tags": ["xoxno", "p2p", "swaps"]
+}
