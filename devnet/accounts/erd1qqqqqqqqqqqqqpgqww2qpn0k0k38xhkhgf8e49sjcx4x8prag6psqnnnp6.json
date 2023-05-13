@@ -1,0 +1,11 @@
+{
+    "name": "Wallee's Marketplace",
+    "description": "Wallee's marketplace contract, powered by Katon.io",
+    "tags": [
+      "katon.io",
+      "wallee",
+      "marketplace",
+      "wallet"
+    ],
+    "icon": "wallee"
+  }
