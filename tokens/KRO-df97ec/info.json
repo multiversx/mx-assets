@@ -10,5 +10,12 @@
         "discord": "http://discord.gg/9JvyyaYyTZ",
         "coinmarketcap": "https://coinmarketcap.com/currencies/krogan/"
     },
-    "status": "active"
+    "status": "active",
+    "lockedAccounts": {
+        "erd1j05km0q9rqnkwk9t9cv8w70r0yssek9fzgqw0w979h9a4gz2edss8mv7x6": "CommunityRewards",
+        "erd1jgwnnkx0hqvn080qrqhy7qljp2un2rjf0hg5c4zau4p42357894q5g24dr": "Marketing",
+        "erd1u8qhgprj92h6exr6aufysjus6j3nl5unup6pnu8hvx3wy46wf8csrtlyfp": "Treasury",
+        "erd1frtehuhjj9rchy76qd8c7k4lfq4es4jkhmshzd9yre4lqv96h8dsk2j8eu": "Team",
+        "erd1amtjw4s4j60ucl9fjeu4x5elhdlhml4654uhg77ll4p93u4afa8s9lsrwq": "Root"
+    }
 }
