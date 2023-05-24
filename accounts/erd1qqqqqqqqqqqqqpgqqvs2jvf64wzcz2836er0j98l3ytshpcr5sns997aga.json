@@ -1,0 +1,11 @@
+{
+    "name": "JEXchange: swap aggregator",
+    "description": "",
+    "tags": [
+      "aggregator",
+      "jexchange",
+      "router",
+      "swap"
+    ],
+    "icon": "jexchange"
+  }

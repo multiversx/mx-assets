@@ -1,10 +1,10 @@
 {
-  "name": "Ad Astra Portal: Gas price aggregator",
+  "name": "xBridge: Gas price aggregator",
   "description": "",
   "tags": [
-    "adastra",
+    "xbridge",
     "gas",
     "aggregator"
   ],
-  "icon": "elrond"
+  "icon": "multiversx"
 }

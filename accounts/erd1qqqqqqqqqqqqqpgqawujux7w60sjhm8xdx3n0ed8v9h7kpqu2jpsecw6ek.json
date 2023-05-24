@@ -1,0 +1,11 @@
+{
+  "name": "xExchange: AshSwap locking SC",
+  "description": "LKASH locking and proxy contract",
+  "tags": [
+    "xexchange",
+    "ashswap",
+    "locking",
+    "proxy"
+  ],
+  "icon": "xexchange"
+}

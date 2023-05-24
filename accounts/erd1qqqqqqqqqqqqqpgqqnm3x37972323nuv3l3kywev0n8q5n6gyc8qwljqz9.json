@@ -1,0 +1,6 @@
+{
+  "name": "CoinDrip: Streaming Protocol",
+  "description": "Token streaming protocol.",
+  "tags": ["coindrip", "esdt streaming", "token streaming"],
+  "icon": "coindrip"
+}
