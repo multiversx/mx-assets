@@ -1,0 +1,5 @@
+{
+  "name": "PeerMe: DAO Manager",
+  "description": "Deploys, upgrades & performs further management operations for DAOs.",
+  "tags": ["peerme", "dao", "governance"]
+}
