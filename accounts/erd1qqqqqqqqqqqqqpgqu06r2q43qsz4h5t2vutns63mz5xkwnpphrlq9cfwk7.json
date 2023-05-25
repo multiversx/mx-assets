@@ -1,8 +1,9 @@
 {
-  "name": "UPARK: Forwarder shard 2",
+  "name": "UPARK: Forwarder Shard 2",
   "description": "",
   "tags": [
     "upark",
-    "forwarder"
+    "forwarder",
+    "shard"
   ]
 }

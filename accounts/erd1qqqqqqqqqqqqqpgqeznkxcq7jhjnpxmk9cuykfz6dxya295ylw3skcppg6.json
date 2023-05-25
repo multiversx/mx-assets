@@ -1,6 +1,6 @@
 {
-  "name": "UPARK: Staking contract for UPARK with locked rewards",
-  "description": "",
+  "name": "UPARK: Staking",
+  "description": "Contract for UPARK with locked rewards",
   "tags": [
     "upark",
     "staking"
