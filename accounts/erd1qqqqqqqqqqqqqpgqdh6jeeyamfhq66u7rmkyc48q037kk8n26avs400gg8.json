@@ -1,11 +1,11 @@
 {
-    "name": "JEXchange: stable swap module",
-    "description": "",
-    "tags": [
-      "jexchange",
-      "stablecoin",
-      "stableswap",
-      "swap"
-    ],
-    "icon": "jexchange"
-  }
+  "name": "JEXchange: Stable Swap Module",
+  "description": "",
+  "tags": [
+    "jexchange",
+    "stablecoin",
+    "stableswap",
+    "swap"
+  ],
+  "icon": "jexchange"
+}
