@@ -1,6 +1,9 @@
 {
   "name": "AshSwap: USDT/ASH LP Stake Farm",
   "description": "",
-  "tags": ["ashswap", "farm"],
+  "tags": [
+    "ashswap",
+    "farm"
+  ],
   "icon": "ashswap"
 }
