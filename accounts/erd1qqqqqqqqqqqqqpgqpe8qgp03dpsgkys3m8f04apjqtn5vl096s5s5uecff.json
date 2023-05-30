@@ -1,0 +1,11 @@
+{
+  "name": "Elrond City: City Wallet Staking Module",
+  "description": "Staking module of the City Wallet DAO. Lock your $ECITY to get voting power and rewards.",
+  "tags": [
+    "elrondcity",
+    "dao",
+    "staking",
+    "ecity"
+  ],
+  "icon": "ecity"
+}
