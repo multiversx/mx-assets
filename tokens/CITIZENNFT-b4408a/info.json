@@ -1,7 +1,7 @@
 {
-  "website": "https://cyberpunkcity.com",
-  "description": "",
-  "social": {
+	"website": "https://cyberpunkcity.com",
+	"description": "",
+	"social": {
 		"email": "info@cyberpunkcity.com",
 		"blog": "https://cyberpunkcity.com/news",
 		"twitter": "https://twitter.com/cyberpunkcity",
@@ -10,5 +10,5 @@
 		"youtube": "https://www.youtube.com/CyberpunkCity",
 		"whitepaper": "https://cyberpunkcity.com/whitepaper"
 	},
-  "status": "active"
+	"status": "active"
 }
