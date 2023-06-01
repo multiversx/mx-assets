@@ -1,0 +1,8 @@
+{
+  "name": "UPARK: Staking",
+  "description": "Contract for LKUPARK with unlocked rewards",
+  "tags": [
+    "upark",
+    "staking"
+  ]
+}

@@ -1,12 +1,19 @@
 {
   "website": "https://checkerchain.com",
-  "description": "A Decentralized Review Aggregator Platform built on Elrond Blockchain for empowering review to earn ecosystem.",
+  "description": "A Decentralized Review Aggregator Platform built on MultiversX (previously Elrond Blockchain) for empowering review to earn ecosystem.",
   "ledgerSignature": "",
   "social": {
     "twitter": "https://twitter.com/checker_chain",
     "whitepaper": "https://docs.checkerchain.com/whitepaper/checkerchain-whitepaper",
-    "coinmarketcap": "",
-    "coingecko": ""
+    "coinmarketcap": "https://coinmarketcap.com/currencies/checkerchain/",
+    "coingecko": "https://www.coingecko.com/en/coins/checkerchain"
   },
-  "status": "active"
+  "status": "active",
+  "lockedAccounts": {
+    "erd1etc40u484jry3wtu0ch5hzndhs87xuvd6wwcu92wnleau3vgp8dsg77rmm": "Ecosystem, Community, Treasury, Team"
+  },
+  "extraTokens": [
+    "CHECKREGLD-73c669",
+    "CHECKRUSDC-615100"
+  ]
 }
