@@ -3,6 +3,7 @@
     "description": "High Yield Farming Meme token by SuperRareBears 😵‍💫",
     "status": "active",
     "lockedAccounts": {
+        "erd1vudplk63q6fph97suwkqeafw2hmlgctp2aqszsxhv5ur3lkvgrmscg53uk": "Foundation Reserve",
         "erd1xp56hq0vk3y4h35xsnsdm6pdgne4pq0rd3l4lt3rm2cdsufpy79svafv5f": "Farming/Staking",
         "erd140n7j696la4xja3zeafvmnnh0cjrhp98xw328e9kznewvtv2qjcsg4jkla": "Development",
         "erd1hre8xwf4a8tmhps05hvqj8l76wtj5y6m92lg8t7zs3nqqteyguzs3k3s83": "Brand Growth",
