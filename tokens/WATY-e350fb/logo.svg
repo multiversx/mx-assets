@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-Coin_4">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="Coin_4" data-name="Coin – 4" clip-path="url(#clip-Coin_4)">
+    <circle id="bg" cx="100" cy="100" r="100"/>
+    <g id="yeti" transform="translate(61.29 41.969)">
+      <path id="Tracé_40" data-name="Tracé 40" d="M962.784-2243.571v6.429H949.926v12.927H937v12.857h12.926v77.421h12.858v-12.926h25.784v12.926h12.926v-25.853h-38.71v-12.858H975.71v-12.926h25.784v12.926h12.926v-12.926h-12.926v-12.858h-38.71v-12.927H975.71v-12.857H962.784v-12.927h38.71V-2250h-38.71Zm0,25.784v6.429H949.926v-12.857h12.858Z" transform="translate(-937 2250)" fill="#21f1d9"/>
+      <path id="Tracé_41" data-name="Tracé 41" d="M1687-1868.571v6.429h12.926V-1875H1687Z" transform="translate(-1635.432 1900.784)" fill="#21f1d9"/>
+    </g>
+  </g>
+</svg>
