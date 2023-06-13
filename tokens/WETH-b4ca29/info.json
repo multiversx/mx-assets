@@ -1,0 +1,8 @@
+{
+  "website": "https://xexchange.com",
+  "description": "WETH originating on Ethereum, bridged as an ESDT token on MultiversX. 1 WETH = 1 WrappedEth",
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}
