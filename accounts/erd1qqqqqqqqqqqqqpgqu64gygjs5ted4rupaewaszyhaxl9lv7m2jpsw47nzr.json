@@ -1,0 +1,11 @@
+{
+  "name": "xExchange: XMEX Wrapper Contract",
+  "description": "Energize / Unergize XMEX tokens",
+  "tags": [
+    "xexchange",
+    "energy",
+    "wrap",
+    "unwrap"
+  ],
+  "icon": "xexchange"
+}

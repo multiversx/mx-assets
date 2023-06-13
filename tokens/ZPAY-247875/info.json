@@ -1,6 +1,7 @@
 {
   "website": "https://www.zoidpay.com",
   "description": "Shop Anything from Anywhere with Crypto",
+  "ledgerSignature": "3045022100c550c564fa528e4087296b00cbf8d71262905e86fa61707d654013ac2b9f613f02202e28ea538cb0dcef9c65c2d9d22991604dd5b1f29a19365943c49f41a8c36eb0",
   "social": {
     "email": "hello@zoidpay.com",
     "blog": "https://medium.com/zoidcoin-network",
@@ -8,6 +9,9 @@
     "whitepaper": "https://drive.google.com/file/d/1ZRwyAikfe22v9treyjeJoKi83W5U0y1j/view?usp=sharing",
     "coinmarketcap": "https://coinmarketcap.com/currencies/zoidpay/",
     "coingecko": "https://www.coingecko.com/en/coins/zoid-pay"
+  },
+  "lockedAccounts": {
+    "erd136kalm60ndyyps7paexvz38pf09f58f7nzqg8tw60p9pq7ygyspsx6ux89": "Owner Account"
   },
   "status": "active",
   "extraTokens": [

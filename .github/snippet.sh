@@ -3,7 +3,7 @@ DIR=""
 validate_filenames() {
   ADDED_FILES=$@
   for file in $ADDED_FILES; do
-    if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* ]]; then
+    if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* && ${file} != *"accounts/"* && ${file} != *".github/"* && ${file} != *"/ranks.json"* && ${file} != *"README.md"* ]]; then
       echo "Filename ${file} isn't expected!"
       exit 1
     fi
@@ -16,11 +16,13 @@ validate_file_size() {
   ADDED_FILES=$@
   SIZE_LIMIT=100
   for file in $ADDED_FILES; do
-    file_size_kb=$(ls -s --block-size=K ${file} | grep -o -E '^[0-9]+')
+    if [[ ${file} == *"/logo.svg"* || ${file} == *"/logo.svg"* ]]; then
+      file_size_kb=$(ls -s --block-size=K ${file} | grep -o -E '^[0-9]+')
 
-    if [[ ${file_size_kb} -gt $SIZE_LIMIT ]]; then
-      echo "File ${file} is too large! (${file_size_kb} KB)"
-      exit 1
+      if [[ ${file_size_kb} -gt $SIZE_LIMIT ]]; then
+        echo "File ${file} is too large! (${file_size_kb} KB)"
+        exit 1
+      fi
     fi
   done
 }
@@ -54,16 +56,20 @@ validate_svg_square() {
 
 validate_png_dimensions() {
   ADDED_FILES=$@
-  EXPECTED_PNG_DIMENSIONS="200x200"
+  EXPECTED_PNG_DIMENSIONS="200 x 200"
 
   for file in $ADDED_FILES; do
-    if [[ ${file} == *"/logo.png"* ]]; then 
-      png_dimensions=$(identify $file | grep -E -o "[0-9]+x[0-9]+" | head -1)
+    if [[ ${file} == *"/logo.png"* && ${file} == *"tokens/"* ]]; then 
+      png_dimensions=$(file $file | grep -E -o "[0-9]+ x [0-9]+" | head -1)
+
+      echo "PNG dimensions: $png_dimensions"
 
       if [[ $png_dimensions != $EXPECTED_PNG_DIMENSIONS ]]; then
         echo "Invalid dimensions for PNG! ( $png_dimensions )"
         exit 1
       fi
+
+      exit 0;
     fi
   done
 }
