@@ -1,0 +1,11 @@
+{
+    "name": "JEXchange: JIUSDT-USDT LP",
+    "description": "JIUSDT-USDT liquidity pool on JEXchangeDefi",
+    "tags": [
+        "jexchange",
+        "jewelswap",
+        "liquidity",
+        "swap"
+    ],
+    "icon": "jexchange"
+}
