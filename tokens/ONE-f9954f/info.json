@@ -1,10 +1,9 @@
 {
+    "website": "https://onedex.app",
+    "description": "OneDEX is a Decentralized Exchange made for everybody - Owned By no One, Owned By Everyone",
     "social": {
         "twitter": "https://twitter.com/OneDex_X"
     },
-    "website": "https://onedex.app",
-    "description": "OneDEX is a Decentralized Exchange made for everybody - Owned By no One, Owned By Everyone",
-    "status": "active",
     "lockedAccounts": {
         "erd1qqqqqqqqqqqqqpgqlvm3ntf9eyurenmdvl4celvlck7dn6gqmvlscg8r3m": "Private Sale Vesting",
         "erd1qqqqqqqqqqqqqpgq49xdh8493ms6qnlc3svkx46vs528jjhsmvlsc2tuk5": "Public Sale Staking",
@@ -14,5 +13,6 @@
         "erd1xkflzkx3hp52szy26zh9m5ts3v3j4dxhqkpxzj9npzp7wyp6qeysfpqz2m": "Burn",
         "erd14kgwftd9gtrweqr0fw6g38lwuaa3cre8vxk0nse7stvu2s5jxagq2l4wj5": "Treasury",
         "erd1qqqqqqqqqqqqqpgqqnm3x37972323nuv3l3kywev0n8q5n6gyc8qwljqz9": "Team Token Coindrip"
-    }
+    },
+    "status": "active"
 }

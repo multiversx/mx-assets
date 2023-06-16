@@ -1,0 +1,18 @@
+name: Check identities signature
+
+permissions:
+  contents: read
+  pull-requests: write
+
+on: [pull_request]
+
+jobs:
+  check-signature:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: multiversx/mx-assets-checker@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ADMIN_ADDRESS: ${{ secrets.ADMIN_ADDRESS }}
+
+

@@ -49,7 +49,7 @@ Here’s a prefilled template for the .json file to get you started:
 - projects need to have a minimum of 1000 token holders and token transactions
 - projects need to have a minimum of 1000+ Twitter, Discord or TG official channel followers
 - projects need to have a working website
-- max pic size 100kb (.png, .jpg)
+- max pic size 100kb (.png)
 
 ## Logos general requirements
 
