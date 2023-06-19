@@ -1,8 +1,9 @@
 {
-  "name": "Buidly: XDustConverter",
+  "name": "buidly: xDustConverter",
   "description": "",
   "tags": [
     "buidly",
     "xdustconverter"
-  ]
+  ],
+  "icon": "buidly"
 }
