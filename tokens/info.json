@@ -1,0 +1,16 @@
+{
+   "website":"https://www.wavenode.io",
+   "description":"The eDIA token is the utility token of Wavenode, you can earn it by staking a WDiamond NFT",
+   "social":{
+      "email":"wdiamond@wavenode.io",
+      "blog":"https://www.wavenode.io",
+      "twitter":"https://twitter.com/wavenodevalid",
+      "whitepaper":"https://www.wavenode.io",
+      "coinmarketcap":"",
+      "coingecko":""
+   },
+   "extraTokens":[
+      "EDIAWBTC-ef5d24"
+   ],
+   "status":"active"
+}
