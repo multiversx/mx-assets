@@ -17,7 +17,8 @@ validate_file_size() {
   SIZE_LIMIT=100
   for file in $ADDED_FILES; do
     if [[ ${file} == *"/logo.svg"* || ${file} == *"/logo.svg"* ]]; then
-      file_size_kb=$(ls -s --block-size=K ${file} | grep -o -E '^[0-9]+')
+      file_size_blocks=$(ls -sh ${file} | grep -o -E '^[0-9]+')
+      file_size_kb=$(expr ${file_size_blocks} / 2)
 
       if [[ ${file_size_kb} -gt $SIZE_LIMIT ]]; then
         echo "File ${file} is too large! (${file_size_kb} KB)"
