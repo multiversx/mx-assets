@@ -2,10 +2,9 @@
     "name": "Burnify: Minter",
     "description": "",
     "tags": [
-        "Burnify",
-        "Minter",
-        "Burn",
-        "Proof of burn"
+        "burnify",
+        "minter",
+        "burn"
     ],
     "icon": "burnify"
 }

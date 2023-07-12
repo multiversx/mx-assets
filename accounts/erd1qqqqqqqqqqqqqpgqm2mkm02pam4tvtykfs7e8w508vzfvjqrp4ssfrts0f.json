@@ -2,10 +2,9 @@
     "name": "Burnify: Staking",
     "description": "",
     "tags": [
-        "Burnify",
-        "Staking",
-        "Burn",
-        "Proof of burn"
+        "burnify",
+        "staking",
+        "burn"
     ],
     "icon": "burnify"
 }
