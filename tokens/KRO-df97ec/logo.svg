@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1500px" height="1500px" viewBox="0 0 1500 1500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>newlogo</title>
     <desc>Created with Sketch.</desc>
@@ -12,20 +12,20 @@
             <stop stop-color="#FF986E" offset="0%"></stop>
             <stop stop-color="#FF672A" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="24.1231708%" y1="15.8138994%" x2="74.730842%" y2="85.1161326%" id="linearGradient-3">
+        <linearGradient x1="23.8094953%" y1="15.8138994%" x2="75.030626%" y2="85.1161326%" id="linearGradient-3">
             <stop stop-color="#000000" offset="0%"></stop>
             <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
         </linearGradient>
     </defs>
     <g id="newlogo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <circle id="Oval" fill="#111112" cx="750" cy="750" r="750"></circle>
-        <g id="Logo2" transform="translate(332.000000, 282.000000)">
+        <circle id="Oval" fill="#111112" cx="500" cy="500" r="500"></circle>
+        <g id="Logo2" transform="translate(221.333333, 188.000000)">
             <g>
-                <polygon id="Path-2" fill="url(#linearGradient-1)" points="0 602.55 175.384615 408.353254 175.384615 304.2 0 506.589345"></polygon>
-                <polygon id="Path-2" fill="url(#linearGradient-1)" points="0 450.45 175.384615 256.253254 175.384615 152.1 0 354.489345"></polygon>
-                <polygon id="Path-2" fill="url(#linearGradient-1)" points="0 298.35 175.384615 104.153254 175.384615 0 0 202.389345"></polygon>
-                <polygon id="Path-3" fill="url(#linearGradient-2)" points="1.48295079e-12 936 317.857742 586.900235 597.300978 936 836 936 434.812372 468 836 0 612.309909 0 3.09590541e-12 689.485012"></polygon>
-                <polygon id="Path" fill="url(#linearGradient-3)" opacity="0.368431455" points="315.692308 587.202759 432.184446 468 666.458879 743.056529 532.91267 859.95"></polygon>
+                <polygon id="Path-2" fill="url(#linearGradient-1)" points="0 400.448598 117.263158 271.387417 117.263158 202.168224 0 336.674123"></polygon>
+                <polygon id="Path-2" fill="url(#linearGradient-1)" points="0 299.364486 117.263158 170.303305 117.263158 101.084112 0 235.590011"></polygon>
+                <polygon id="Path-2" fill="url(#linearGradient-1)" points="0 198.280374 117.263158 69.2191924 117.263158 0 0 134.505899"></polygon>
+                <polygon id="Path-3" fill="url(#linearGradient-2)" points="9.91509385e-13 622.056075 212.521506 390.047924 399.358853 622.056075 558.954386 622.056075 290.718041 311.028037 558.954386 0 409.39391 0 2.06994008e-12 458.224722"></polygon>
+                <polygon id="Path" fill="url(#linearGradient-3)" opacity="0.368431455" points="211.073684 390.248978 288.960995 311.028037 445.598222 493.827808 356.308462 571.514019"></polygon>
             </g>
         </g>
     </g>
