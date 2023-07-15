@@ -1,0 +1,6 @@
+{
+  "name": "Hatom: Controller",
+  "description": "Hatom's Lending & Borrowing Protocol Controller",
+  "tags": ["hatom", "money-market", "lending", "borrowing"],
+  "icon": "hatom-lending"
+}
