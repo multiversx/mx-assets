@@ -1,0 +1,13 @@
+{
+  "name": "Hatom: Oracle",
+  "description": "Hatom's Lending & Borrowing Protocol Oracle",
+  "tags": [
+    "hatom",
+    "money-market",
+    "lending",
+    "borrowing",
+    "oracle",
+    "pricing"
+  ],
+  "icon": "hatom-lending"
+}
