@@ -1,0 +1,10 @@
+{
+    "name": "JEXchange: WETH-WBTC LP",
+    "description": "WETH-WBTC liquidity pool on JEXchangeDefi",
+    "tags": [
+        "jexchange",
+        "liquidity",
+        "swap"
+    ],
+    "icon": "jexchange"
+}
