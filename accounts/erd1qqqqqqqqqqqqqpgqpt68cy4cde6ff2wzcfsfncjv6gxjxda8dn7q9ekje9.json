@@ -1,5 +1,7 @@
 {
-    "name": "Home X Game",
-    "description": "Home X: A story-driven Play & Earn game.",
-    "tags": ["home x"]
+    "name": "Home X: Game",
+    "description": "A story-driven Play & Earn game.",
+    "tags": [
+        "homex"
+    ]
 }
