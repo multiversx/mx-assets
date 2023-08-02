@@ -9,8 +9,12 @@
         "discord": "https://discord.gg/47FhZ4z4Mq"
     },
     "lockedAccounts": {
-        "erd1qqqqqqqqqqqqqpgq8rl3293f5cus8u9scmdu796qycjnqgw9dn3qztkevg": "Token staking ",
-        "erd1qqqqqqqqqqqqqpgqk4pp8f5742f2w5nrz0zynnmwe0utp2gcdn3qhgh4xr": "Locked token staking ",
-        "erd1qqqqqqqqqqqqqpgq670k8nj8vukwn8vmldtjhv7h806h4rky27rsg3rsrz": "PeerMe DAO"
-    }
+        "erd1qqqqqqqqqqqqqpgq8rl3293f5cus8u9scmdu796qycjnqgw9dn3qztkevg": "Token staking",
+        "erd1qqqqqqqqqqqqqpgqk4pp8f5742f2w5nrz0zynnmwe0utp2gcdn3qhgh4xr": "Locked token staking",
+        "erd1qqqqqqqqqqqqqpgqpt97ps7w69ng3ynxpn3lq9fc0wj5u9hddn3qp4lqzu": "NFT staking",
+        "erd1qqqqqqqqqqqqqpgqwcywk6z2mx6apxcyy6ngkxene9844lahdn3qczrxkf": "Vested tokens"
+    },
+    "extraTokens": [
+        "LKCUMB-583f38"
+    ]
 }
