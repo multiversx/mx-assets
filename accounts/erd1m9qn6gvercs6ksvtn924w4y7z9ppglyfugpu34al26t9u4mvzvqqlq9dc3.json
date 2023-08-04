@@ -1,0 +1,9 @@
+{
+  "name": "Exchange: Coinbase",
+  "description": "",
+  "tags": [
+    "coinbase",
+    "exchange"
+  ],
+  "icon": "coinbase"
+}
