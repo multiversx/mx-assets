@@ -1,8 +1,9 @@
 {
-  "name": "JEXchange: Staking module",
+  "name": "JEXchange: Staking Module (deprecated)",
   "description": "",
   "tags": [
     "jexchange",
     "staking"
-  ]
+  ],
+  "icon": "jexchange"
 }

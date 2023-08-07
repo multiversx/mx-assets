@@ -1,13 +1,14 @@
 {
-    "website": "https://estar.games",
-    "description": "The utility token for the ESTAR.GAMES Ecosystem, built around blockchain gaming and NFTs.",
+    "website": "https://swap.estar.games",
+    "description": "Swap for ESTAR-461bab",
+    "status": "active",
     "social": {
         "email": "contact@estar.games",
         "blog": "https://blog.estar.games",
         "twitter": "https://twitter.com/estartoken",
-        "whitepaper": "http://whitepaper.estar.games/",
-        "coinmarketcap": "",
-        "coingecko": ""
+        "whitepaper": "https://whitepaper.estar.games/"
     },
-    "status": "active"
+    "extraTokens": [
+        "ESTAR-461bab"
+    ]
 }

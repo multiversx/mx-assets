@@ -1,13 +1,14 @@
 {
   "website": "https://wam.app",
   "description": "WAM is the first play-to-earn hypercasual gaming platform where users compete in tournaments to earn crypto rewards like NFTs and the WAM token.",
+  "ledgerSignature": "3044022008f62bace38ce4cea98376818e519f6e03ba770e939c799117af8445de6125f7022020c1870a6c5685e8bf8ef0713c1b8dbe19faaf43bee8e66a63dd0fcfb0b0a6ca",
   "social": {
-      "email": "token@wam.app",
-      "blog": "https://blog.wam.app",
-      "twitter": "https://twitter.com/wamcoin",
-      "whitepaper": "https://whitepaper.wam.app",
-      "coinmarketcap": "https://coinmarketcap.com/currencies/wam-app/",
-      "coingecko": "https://www.coingecko.com/en/coins/wam"
+    "email": "token@wam.app",
+    "blog": "https://blog.wam.app",
+    "twitter": "https://twitter.com/wamcoin",
+    "whitepaper": "https://whitepaper.wam.app",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wam-app/",
+    "coingecko": "https://www.coingecko.com/en/coins/wam"
   },
   "status": "active"
 }
