@@ -1,0 +1,9 @@
+{
+  "website": "https://hatom.com/",
+  "description": "HLSR stands for Hatom's Liquid Staking Receipt. This token represents an unstake or undelegation from Hatom's Liquid Staking Protocol. It can be redeemed for EGLD once the cooldown period ends.",
+  "social": {
+    "blog": "https://blog.hatom.com/",
+    "twitter": "https://twitter.com/HatomProtocol"
+  },
+  "status": "active"
+}
