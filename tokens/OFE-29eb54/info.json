@@ -1,6 +1,7 @@
 {
     "website": "https://www.ofero.network/",
     "description": "The OFERO Token is the utility coin of the Ofero Network.",
+    "ledgerSignature": "3045022100a7b92f1fbd418e42d551a81d9b1c090e4e5bc620669ef3df2454e8711bda345e02205a023ef734acefdaf243dcaa6652e8486e2e8d3ec6d097305e6dd03155965ff2",
     "social": {
         "email": "contact@ofero.network",
         "twitter": "https://twitter.com/oferonetwork",

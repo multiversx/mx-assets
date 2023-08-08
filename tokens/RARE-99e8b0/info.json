@@ -1,6 +1,7 @@
 {
     "website": "https://superrarebears.com",
     "description": "RARE is a token which is used within the SuperRareBears Ecosystem, an NFT project built on MultiversX.",
+    "ledgerSignature": "30440220298935989db63853adc895bee7356a05771ba41d82c3fe04c3bdc4699fbf30d7022051cdd8e17cc6777b351feede775c82c8518acc150a2eccf9e8d0c7168e7afa89",
     "status": "active",
     "lockedAccounts": {
         "erd12njzs9fqa4mmukqy32582j9nhx84tssqyptatz62gxnv99hmhexszsveuv": "Team",
