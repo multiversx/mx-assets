@@ -1,0 +1,6 @@
+{
+  "name": "Hatom: BUSD Money Market",
+  "description": "Hatom's BUSD Lending & Borrowing Protocol Money Market",
+  "tags": ["hatom", "money-market", "lending", "borrowing"],
+  "icon": "hatom-lending"
+}
