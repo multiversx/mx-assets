@@ -1,0 +1,16 @@
+{
+"website": "https://elrondcity.com/",
+    "description": "The ECITY token is the utility and governance token of the Elrond City ecosystem.",
+    "social": {
+      "email": "elrondcity@gmail.com",
+      "blog": "",
+      "twitter": "https://twitter.com/ElrondCity",
+      "whitepaper": "https://wp.elrondcity.com/",
+      "coinmarketcap": "",
+      "coingecko": ""
+    },
+    "lockedAccounts": {
+    	"erd1qqqqqqqqqqqqqpgqyf48tkz8dz2prpxlt23z8xknd9maxss79npstlk0vy": "Team's locked tokens"
+    },
+    "status": "active"  
+}
