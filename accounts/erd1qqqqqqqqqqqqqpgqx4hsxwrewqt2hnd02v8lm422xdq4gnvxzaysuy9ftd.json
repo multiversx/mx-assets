@@ -1,0 +1,13 @@
+{
+    "name": "Knights of Cathena: Locked CGO Transfer",
+    "description": "Smart contract to handle locked CGO Transfers",
+    "tags": [
+        "koc",
+        "knights",
+        "cathena",
+        "knights of cathena",
+        "locked",
+        "cgo"
+    ],
+    "icon": "knightsofcathena"
+}
