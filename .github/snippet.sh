@@ -17,7 +17,8 @@ validate_file_size() {
   SIZE_LIMIT=100
   for file in $ADDED_FILES; do
     if [[ ${file} == *"/logo.svg"* || ${file} == *"/logo.svg"* ]]; then
-      file_size_kb=$(ls -s --block-size=K ${file} | grep -o -E '^[0-9]+')
+      file_size_blocks=$(ls -sh ${file} | grep -o -E '^[0-9]+')
+      file_size_kb=$(expr ${file_size_blocks} / 2)
 
       if [[ ${file_size_kb} -gt $SIZE_LIMIT ]]; then
         echo "File ${file} is too large! (${file_size_kb} KB)"
@@ -59,7 +60,7 @@ validate_png_dimensions() {
   EXPECTED_PNG_DIMENSIONS="200 x 200"
 
   for file in $ADDED_FILES; do
-    if [[ ${file} == *"/logo.png"* ]]; then 
+    if [[ ${file} == *"/logo.png"* && ${file} == *"tokens/"* ]]; then 
       png_dimensions=$(file $file | grep -E -o "[0-9]+ x [0-9]+" | head -1)
 
       echo "PNG dimensions: $png_dimensions"

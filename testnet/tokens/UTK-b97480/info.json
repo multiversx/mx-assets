@@ -1,0 +1,22 @@
+{
+  "website": "https://utrust.com/",
+  "description": "Web3 L1 Payments Technology",
+  "ledgerSignature": "304402204f2f6035dccb8c5e16698a1a8cfd0c0d4203e9a31103147e286fa1c1ea829c16022003284c1f3c8cb23b6587c5dee3187feb1e0663b15ffbffa89dbe07e7a766eff2",
+  "social": {
+    "email": "",
+    "blog": "https://medium.com/utrust",
+    "twitter": "https://twitter.com/utrust",
+    "whitepaper": "",
+    "coinmarketcap": "",
+    "coingecko": ""
+  },
+  "status": "active",
+  "extraTokens": [
+    "UTKWEGLD-c960d1",
+    "METAUTKLK-e6a445",
+    "METAUTK-291e0e",
+    "SUTK-ba35f3",
+    "UTKWEGLDFL-082aec",
+    "UTKWEGLDF-5b9d50"
+  ]
+}
