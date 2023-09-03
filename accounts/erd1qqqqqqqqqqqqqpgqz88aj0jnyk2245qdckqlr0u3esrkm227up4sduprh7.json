@@ -1,8 +1,9 @@
 {
-  "name": "SFIT: Vesting module",
+  "name": "SFIT: Vesting Module",
   "description": "",
   "tags": [
     "sfit",
-    "vesting"
+    "vesting",
+    "module"
   ]
 }
