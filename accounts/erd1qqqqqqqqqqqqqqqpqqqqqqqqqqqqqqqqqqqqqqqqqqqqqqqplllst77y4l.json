@@ -1,0 +1,10 @@
+{
+  "name": "System: Staking Module",
+  "description": "Smart contract containing all staked eGLD on the network",
+  "tags": [
+    "system",
+    "staking",
+    "module"
+  ],
+  "icon": "multiversx"
+}

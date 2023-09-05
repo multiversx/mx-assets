@@ -1,0 +1,11 @@
+{
+  "name": "PeerMe: Earn Module",
+  "description": "Enables the stake-for-profit-share program by PeerMe and feeds the official PeerMe DAO with voting power information.",
+  "tags": [
+    "peerme",
+    "dao",
+    "governance",
+    "staking",
+    "profitshare"
+  ]
+}

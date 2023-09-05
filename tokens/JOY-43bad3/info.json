@@ -1,0 +1,26 @@
+{
+    "website": "https://www.elrond-angels.com",
+    "description": "The JOY token is the utility token of Angels NFTs and The Angels Community. A Charity and Community focused NFT Project.",
+    "social": {
+        "email": "joy@elrond-angels.com",
+        "twitter": "https://twitter.com/ElrondAngelsNFT",
+		"telegram": "https://t.me/elrondangels",
+		"discord": "https://discord.com/invite/WcMXwDVw2F",
+		"facebook": "https://www.facebook.com/ElrondAngels",
+		"instagram": "https://www.instagram.com/elrondangels",
+		"github": "https://github.com/elrondangels"
+    },
+    "lockedAccounts": {
+        "erd1ev05hd5jwzvlc7t9ul874jpde42ht00udz6yr63wtt47apl640nshcaxjp": "NFTs Mint",
+        "erd17quvgdj63lde5ujjvqj3y6tz446y9c3x0gtc0wpjrx290u0nc6dqwzzcya": "Charity",
+		"erd1vlz902r46z0s0zaxuxmeqm8x3hzuakdezwh2mq8r9ewlpqll6xnsw7rlwf": "Community",
+		"erd1sdfn89ddr8kt3spfk94pvkav60phjn82xrwx4q3tp4mecqk3yujs67wrlf": "Treasury",
+		"erd1yvjgq36zrc66lpag3jr63y4sdtp3e79950kqsy98tsk5rrzwcxeqmd5nzm": "Development",
+		"erd1l8ckw2uck3twh73ytm8zv0qejmd258aspqps380sk6c0cdtxpjnq78q5t9": "Operations",
+		"erd1unwuuc20kqqjf5lmxgufqueljk4h05e8et9c8da5uu227ufzn60s7sa7ua": "Team"
+    },
+    "extraTokens": [
+        "BJOY-7c1940"
+    ],
+    "status": "active"
+}
