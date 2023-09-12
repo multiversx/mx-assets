@@ -1,0 +1,15 @@
+{
+    "website": "https://emorya.com",
+    "description": "Emorya is the governance token of the Emorya Ecosystem",
+    "social": {
+        "email": "support@emorya.com",
+        "twitter": "https://twitter.com/EmoryaFinance",
+        "telegram": "https://t.me/EmoryaFinanceRO",
+        "whitepaper": "https://emorya.com/emorya-white-paper"
+    },
+    "lockedAccounts": {
+        "erd1w5a7rcnqnq4vd8hfn44zk30rw9rzv25cdghtamhttrqm7s7xp4hqsyjlna": "Master Wallet",
+        "erd1qqqqqqqqqqqqqpgq8htndxghegm95nnxgvn8easss4kw7dc5p4hqk9g2qc": "Vesting"
+    },
+    "status": "active"
+}
