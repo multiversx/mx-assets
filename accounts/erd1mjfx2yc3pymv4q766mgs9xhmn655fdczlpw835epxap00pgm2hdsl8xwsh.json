@@ -1,5 +1,5 @@
 {
-    "name": "JEXchange: Arbitror",
+    "name": "JEXchange: orderbook arbitrageur",
     "description": "This account is able to use liquidity from the market to fill limit orders on JEXchangeDefi",
     "tags": [
         "arbitrage",
