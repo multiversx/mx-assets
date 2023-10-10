@@ -6,5 +6,6 @@
         "dao",
         "governance",
         "nft"
-    ]
+    ],
+    "icon": "peerme"
 }
