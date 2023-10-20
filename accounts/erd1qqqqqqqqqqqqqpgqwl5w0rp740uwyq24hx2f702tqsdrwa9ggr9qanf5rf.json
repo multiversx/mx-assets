@@ -1,5 +1,9 @@
 {
     "name": "Plata Network 29% Stake",
     "description": "Pionner ESDT Stake Smart Contract on MultiversX",
-    "tags": []
+    "tags": [
+        "PLATA",
+        "MultiversX"
+    ],
+    "icon": "plata"
 }
