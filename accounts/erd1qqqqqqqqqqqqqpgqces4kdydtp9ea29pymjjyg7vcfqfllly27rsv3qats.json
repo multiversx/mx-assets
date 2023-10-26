@@ -1,0 +1,5 @@
+{
+  "name": "PeerMe: DAO Template",
+  "description": "Template used by the PeerMe DAO Manager to deploy fresh DAOs.",
+  "tags": ["peerme", "dao", "governance"]
+}

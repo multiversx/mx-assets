@@ -1,10 +1,20 @@
 {
   "website": "https://jexchange.io/",
-  "description": "A P2P decentralized exchange built on Elrond",
+  "description": "A P2P decentralized exchange built on MultiversX",
   "social": {
-    "blog": "https://medium.com/@jexchangep2p",
-    "twitter": "https://twitter.com/jexchangeP2P",
-    "whitepaper": "https://medium.com/@jexchangep2p/jex-litepaper-b5d48e69b084"
+    "blog": "https://medium.com/@JEXchangeDefi",
+    "twitter": "https://twitter.com/JEXchangeDefi",
+    "whitepaper": "https://medium.com/@JEXchangeDefi/jex-litepaper-b5d48e69b084"
+  },
+  "extraTokens": [
+    "LPJEXWEGLD-2bccc4",
+    "LPJEXUSDT-732142",
+    "LPJEXWETH-2a2e52",
+    "JEXWEGLD-15791b"
+  ],
+  "lockedAccounts": {
+    "erd1qqqqqqqqqqqqqpgqxetccmv9rjefu2fwtw7a6kkx0tsqtqxpp4ssj8shz4": "Burnify: Minter",
+    "erd1rn79sxfs2ytqg60jy7mmu8gs37562ze7stm0tplrwglk7nnjm5uqzzmnc4": "Burn Wallet"
   },
   "status": "active"
 }

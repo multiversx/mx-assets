@@ -1,0 +1,10 @@
+{
+    "name": "PeerMe: CPA Investment Division",
+    "description": "Created to facilitate decision-making through the vote of investors.~Analysts will bring proposals to the vote;~Investors will vote;~Leaders will implement the vote through multisig.",
+    "tags": [
+        "peerme",
+        "dao",
+        "governance"
+    ],
+    "icon": "peerme"
+}

@@ -1,10 +1,10 @@
 {
-  "name": "System: Delegation manager",
+  "name": "System: Delegation Manager",
   "description": "",
   "tags": [
     "system",
     "delegation",
     "manager"
   ],
-  "icon": "elrond"
+  "icon": "multiversx"
 }

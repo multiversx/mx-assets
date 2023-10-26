@@ -1,9 +1,9 @@
 {
-  "name": "System: Governance module",
+  "name": "System: Governance Module",
   "description": "",
   "tags": [
     "system",
     "governance"
   ],
-  "icon": "elrond"
+  "icon": "multiversx"
 }
