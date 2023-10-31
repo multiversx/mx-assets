@@ -1,0 +1,19 @@
+name: Check signature rerun on comment
+
+permissions:
+  contents: read
+  actions: write
+
+on: [issue_comment]
+
+jobs:
+  check-signature:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: multiversx/mx-workflow-rerun-on-comment@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          REGEX: '[0-9a-fA-F]{64}$|^[0-9a-fA-F]{128}'
+          NAME: 'Check identities signature'
+
+

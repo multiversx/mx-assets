@@ -1,6 +1,7 @@
 {
   "website": "https://efforteconomy.io/",
   "description": "The EFFORT token is the utility token of the Effort Economy where the community can play, collect, compete, DeFi, learn and many more activities to earn",
+  "ledgerSignature": "3045022100a769bdd805036ebaf6a18bebf656d3aedbfbb21be270b74493a3d06bcaba66aa02202a1140f782718d24a472d5e5ba7e2826f110bdfe2d271a7f0760b1609e3add8b",
   "social": {
     "email": "contact@efforteconomy.io",
     "telegram": "https://t.me/EffortEconomy",
