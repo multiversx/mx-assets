@@ -6,5 +6,8 @@
     "twitter": "https://twitter.com/XBid_MVX",
     "whitepaper": "https://xbid.gitbook.io/xbid/"
   },
-  "status": "active"
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
 }
