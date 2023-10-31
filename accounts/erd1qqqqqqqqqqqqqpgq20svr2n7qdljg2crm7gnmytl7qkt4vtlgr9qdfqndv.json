@@ -1,0 +1,9 @@
+{
+    "name": "Plata Network: Multisig xSafe",
+    "description": "Multisig Locked Plata Network Liquidity/Assets Vault",
+    "tags": [
+        "PLATA",
+        "MultiversX"
+    ],
+    "icon": "plata"
+}
