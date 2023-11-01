@@ -1,8 +1,8 @@
 {
+    "website": "https://plata.network/gcc",
+    "description": "The Council",
+    "status": "active",
     "social": {
         "twitter": "https://twitter.com/gccmmxxi"
-    },
-    "website": "https://linktr.ee/gccmmxxi",
-    "description": "Company Business Assets",
-    "status": "active"
+    }
 }
