@@ -1,7 +1,7 @@
 {
     "website": "https://www.oddapesgang.com/",
     "description": "OddApesGang is an NFT Collection of 3335 unique 3D APES living in the MultiversX jungle!",
-    "ledgerSignature": "1234",
+    "status": "active",
     "social": {
         "email": "oddapesnft@gmail.com",
         "twitter": "https://twitter.com/OddApesGang",
@@ -9,3 +9,4 @@
         "discord": "https://discord.gg/odd-apes-gang-948853306388774933"
     }
 }
+
