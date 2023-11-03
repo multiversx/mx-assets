@@ -1,0 +1,21 @@
+{
+    "website": "https://knights-of-cathena.com",
+    "description": "Cathena Gold is the main driving factor and in-game currency for Knights of Cathena. Use it to collect NFT, increase your armies strength and raise in the ranks.",
+    "ledgerSignature": "",
+    "social": {
+        "email": "info@knights-of-cathena.com",
+        "blog": "https://knights-of-cathena.com/blog",
+        "twitter": "https://twitter.com/CathenaKnights",
+        "telegram": "https://t.me/fivefingergames",
+        "discord": "https://discord.com/invite/r8BwB8UaWx"
+    },
+    "status": "active",
+    "lockedAccounts": {
+        "erd1qqqqqqqqqqqqqpgq7rwhny4mx6dhuzcsymrhdsv2vmvarecgh4vq687aqr": "Reward Pool",
+        "erd1qqqqqqqqqqqqqpgqn4tjulgcqmauestxq8pdp4q6vm0xry8kh4vqfdjt2m": "Locked CGO Vault",
+        "erd1eqqq9lpjyy60kw3hsduulq94x5g6agt59yyq4thlh0ua62ukcmfsnuva6p": "Strategic Sale"
+    },
+    "extraTokens": [
+        "LKCGO-151dd7"
+    ]
+}

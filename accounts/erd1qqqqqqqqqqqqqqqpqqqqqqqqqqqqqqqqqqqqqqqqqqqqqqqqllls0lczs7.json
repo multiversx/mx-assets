@@ -1,10 +1,10 @@
 {
-  "name": "System: Staking nodes manager",
+  "name": "System: Staking Nodes Manager",
   "description": "",
   "tags": [
     "system",
     "staking",
     "nodes"
   ],
-  "icon": "elrond"
+  "icon": "multiversx"
 }
