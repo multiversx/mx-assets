@@ -1,0 +1,12 @@
+{
+    "name": "JEXchange: USDC-USDT LP",
+    "description": "USDC-USDT liquidity pool on JEXchangeDefi",
+    "tags": [
+        "jexchange",
+        "liquidity",
+        "stablecoins",
+        "stableswap",
+        "swap"
+    ],
+    "icon": "jexchange"
+}
