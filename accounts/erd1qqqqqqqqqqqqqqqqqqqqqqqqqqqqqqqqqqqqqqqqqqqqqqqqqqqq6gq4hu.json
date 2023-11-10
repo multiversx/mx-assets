@@ -1,0 +1,9 @@
+{
+  "name": "System: Contract Deploy",
+  "description": "",
+  "tags": [
+    "system",
+    "deploy"
+  ],
+  "icon": "multiversx"
+}
