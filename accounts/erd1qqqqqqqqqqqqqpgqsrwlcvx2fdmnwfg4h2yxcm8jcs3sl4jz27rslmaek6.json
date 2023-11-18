@@ -1,0 +1,10 @@
+{
+    "name": "PeerMe: Test DAO",
+    "description": "for testing purposes",
+    "tags": [
+        "peerme",
+        "dao",
+        "governance"
+    ],
+    "icon": "peerme"
+}
