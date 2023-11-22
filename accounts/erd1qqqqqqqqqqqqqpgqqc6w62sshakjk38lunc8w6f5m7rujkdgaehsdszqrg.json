@@ -1,0 +1,9 @@
+{
+  "name": "DX25: Concentrated Liquidity",
+  "description": "DX25 main smart contract providing concentrated liquidity",
+  "tags": [
+    "dx25",
+    "concentrated liquidity"
+  ],
+  "icon": ""
+}
