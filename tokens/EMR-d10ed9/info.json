@@ -1,6 +1,6 @@
 {
     "website": "https://emorya.com",
-    "description": "Emorya is the governance token of the Emorya Ecosystem",
+    "description": "Governance token of the Emorya Ecosystem",
     "social": {
         "email": "support@emorya.com",
         "twitter": "https://twitter.com/EmoryaFinance",
@@ -9,8 +9,9 @@
     },
     "lockedAccounts": {
         "erd1w5a7rcnqnq4vd8hfn44zk30rw9rzv25cdghtamhttrqm7s7xp4hqsyjlna": "Master Wallet",
-        "erd1qqqqqqqqqqqqqpgq8htndxghegm95nnxgvn8easss4kw7dc5p4hqk9g2qc": "Vesting",
-        "erd1pyqrh68pn2g5enk89g0974cheksyv6cn2wyxuql99ntfa7ahdm5q8esnhl": "Guarantee Fund" 
+        "erd1pyqrh68pn2g5enk89g0974cheksyv6cn2wyxuql99ntfa7ahdm5q8esnhl": "Guarantee Wallet",
+        "erd1qqqqqqqqqqqqqpgq8htndxghegm95nnxgvn8easss4kw7dc5p4hqk9g2qc": "Vesting Contract",
+        "erd1qqqqqqqqqqqqqpgqa2tacur9e9ujfht5dp49v5e98mz70jnpp4hqr6h40d": "Locking Contract"
     },
     "status": "active"
 }
