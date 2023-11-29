@@ -15,7 +15,9 @@
       "erd1h3xymqt2kmmhlzyg0syuywzjz40mv0qjlfwymtq0m950kz4vy0ms3k27rv":	"Globeesincentiv",
       "erd1qqqqqqqqqqqqqpgqrxmnuq6y62ecsqgznp896lgxl7dpjanpjn5qsd4dtn":	"SC Vesting",
       "erd1qqqqqqqqqqqqqpgqtst0lxugvt5e2c3lm8fq6r003qau8uszjn5qlwstfy":	"SC MINT",
-      "erd1qqqqqqqqqqqqqpgqm3vlm4cs7m0wc26hh0emx24zacwqehesjn5qg7qcvh":	"SC Distrib rewards"
+      "erd1qqqqqqqqqqqqqpgqm3vlm4cs7m0wc26hh0emx24zacwqehesjn5qg7qcvh":	"SC Distrib rewards",
+      "erd1ukd4kd2p5x7fh7qnehct550z9clrznjpes9fxfccq5wyuphgft3sqx9qmt":	"Globeesowner",
+      "erd1l2dqkd5hkg4fqgekq3u7lzq8qrr9a4jw5sdcxsjgdk58rqzs9c8s3v07vc":	"GlobeesLiquidity"
   },
     "status": "active"
 }
