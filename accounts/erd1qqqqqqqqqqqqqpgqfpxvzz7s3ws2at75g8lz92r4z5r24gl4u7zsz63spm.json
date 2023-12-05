@@ -1,0 +1,10 @@
+{
+    "name": "QuantumX: AshSwap Aggregator",
+    "description": "The bridge between QuantumX DeFi universe and AshSwap swap aggregator.",
+    "tags": [
+        "quantumx",
+        "swap",
+        "ashswap",
+        "defi"
+    ]
+}
