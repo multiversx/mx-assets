@@ -9,11 +9,10 @@
         "whitepaper": "https://aironetwork.gitbook.io/airo-network-whitepaper-v1.5",
     },
     "lockedAccounts": {
-        "nvyc93erd1qqqqqqqqqqqqqpgqpt8qksprd987dyy3fqzxuqr9yde7el3q8chqnvyc93": "Miner Rewards and Team Vesting",
+        "erd1qqqqqqqqqqqqqpgqpt8qksprd987dyy3fqzxuqr9yde7el3q8chqnvyc93": "Miner Rewards and Team Vesting",
         "erd1khx8yznaucxq0xfxd37tsavv0wnvq50u7z6564nua7a8han33k8qu3gace": "Staking Rewards",
         "erd19fh2k00mgzfx07j8ch9l5p850fn5vjdmwws4j4czsrj70j5qrw5qg2s4z6": "AIRO DAO",
-        "erd1pnz5n9eq5hunnj6veh5qjqa6pmwjzj5625543gx4eusumkfwlwrqzgcs3e" : "Token Sale",
-        "d1ngj2ezctw2nuj0z8uau7mcpz7gdv4rk2u550nuxeq0t7g084cajqa9musr" : "Development Fund",
+        "erd1ngj2ezctw2nuj0z8uau7mcpz7gdv4rk2u550nuxeq0t7g084cajqa9musr" : "Development Fund",
         
     "status": "active"
 }
