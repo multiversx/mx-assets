@@ -3,11 +3,8 @@
   "description": "The xBID token: Your digital key to thrilling auctions and lottery excitement.",
   "ledgerSignature": "",
   "social": {
-    "twitter": "https://twitter.com/XBid_MVX",
+    "twitter": "https://twitter.com/app_xbid",
     "whitepaper": "https://xbid.gitbook.io/xbid/"
   },
-  "status": "active",
-  "priceSource": {
-    "type": "dataApi"
-  }
+  "status": "active"
 }
