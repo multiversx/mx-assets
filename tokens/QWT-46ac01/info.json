@@ -1,12 +1,20 @@
 {
-  "website": "https://qowatt.network",
-  "description": "QoWatt Tokens, first EV charging network using Blockchain in Europe",
+  "website": "https://qowatt.com",
+  "description": "QoWatt | 1st European public EV charging operator powered by Web3",
+  "ledgerSignature": "3045022100e43c1ad7d3e4a5439e2ff7b97bb7901ca1a36a130b0e6e74464d65cc8d282bbb02206d318a05ff0dde6148856fc8391f1878cbdea591db47a74ad117a6a821e835f2",
   "social": {
     "email": "esdt@qowatt.com",
+    "blog": "https://medium.com/qowatt",
     "twitter": "https://twitter.com/QoWattEcosystem",
-    "whitepaper": "https://qowatt.network/wp-content/uploads/2022/01/QoWatt_Whitepaper_EN_1.2.pdf",
+    "whitepaper": "https://qowatt.network/_doc/QoWatt_Whitepaper_EN.pdf",
     "coinmarketcap": "https://coinmarketcap.com/currencies/qowatt",
-    "coingecko":  "https://www.coingecko.com/en/coins/qowatt"
+    "coingecko": "https://www.coingecko.com/en/coins/qowatt"
+  },
+  "lockedAccounts": {
+    "erd1kpc8u0fzxj20vgnjcqem8p6fm46jq5t74esfepy42j22g3cy9hgqawhqyh": "Treasury",
+    "erd1nu0xq58kdevp48mkrjdg8kqdtnx8qny2pgun0kq9ee624q5kly6qa6jrx5": "Team/Marketing",
+    "erd16utyd55gt2a4lwcdcdhe48u6yjmfx77ea447xz6u8n8k0qw5mt8sy3h9rw": "Ready to burn",
+    "erd1qqqqqqqqqqqqqpgqdwl289cgfjd7pxxsjmxpkkrvfm3vj3xnr2jqxl5au2": "Staking Rewards"
   },
   "status": "active"
 }
