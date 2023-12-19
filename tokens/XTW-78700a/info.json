@@ -1,8 +1,8 @@
 {
-    "social": {
-        "twitter": "https://twitter.com/TikawMvx"
-    },
-    "website": "https://tikaw.net/",
-    "description": "TikawAI is your prompt expert in creating any kind of content or NFT.\nMint your #TikawPassUltra or #TikawPassLite on Frameit to get free credits.",
-    "status": "active"
-}
+        "website": "https://tikaw.net/",
+        "description": "TikawAI is an AI prompt mastering tool built by Sensei Ecosystem.",
+        "social": {
+        "twitter": "https://twitter.com/SenseiEcosystem",
+        },
+        "status": "active"
+        }
