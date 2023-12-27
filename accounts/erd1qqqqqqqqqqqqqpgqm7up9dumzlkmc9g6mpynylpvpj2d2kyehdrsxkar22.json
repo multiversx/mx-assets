@@ -1,0 +1,12 @@
+{
+  "name": "MateriaPrima: Laboratory",
+  "description": "Laboratory is a SC that allows the transmutation of resources into Homunculi for the MateriaPrima game.",
+  "tags": [
+    "materiaprima",
+    "laboratory",
+    "transmutation",
+    "resources",
+    "homunculi"
+  ],
+  "icon": "materiaprima"
+}
