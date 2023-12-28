@@ -1,0 +1,10 @@
+{
+  "name": "MateriaPrima: Peddler",
+  "description": "Peddler is a SC that allows users to purchase resources for the MateriaPrima game.",
+  "tags": [
+    "materiaprima",
+    "peddler",
+    "resources"
+  ],
+  "icon": "materiaprima"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MateriaPrima: Item Minter",
+  "description": "Item Minter is a SC that allows the minting of resources for the MateriaPrima game.",
+  "tags": [
+    "materiaprima",
+    "item",
+    "minter",
+    "resources"
+  ],
+  "icon": "materiaprima"
+}
