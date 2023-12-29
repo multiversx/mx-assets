@@ -1,0 +1,10 @@
+{
+    "name": "PeerMe: AIRO Network DAO",
+    "description": "The AIRO Network DAO. Vote on governance proposals using your $AIRO.",
+    "tags": [
+        "peerme",
+        "dao",
+        "governance"
+    ],
+    "icon": "peerme"
+}
