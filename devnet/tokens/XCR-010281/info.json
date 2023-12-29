@@ -1,6 +1,6 @@
 {
     "website": "https://pub-devnet.cryptgain.com",
-    "description": "Cryptgains are the rewards token on the CryptGain platform; A liquidity accelerator and maintainer for DeFi Platforms and security of MultiversX blockchain. It is the bases for the minting of the GToken",
+    "description": "Cryptgains are the Reward tokens for Delegators and Liquidity Providers on the CryptGain Platform. It is the basis for the minting of the GToken. CryptGain is a Liquidity Accelerator and Maintainer for DeFi on and Security of MultiversX blockchain.",
     "status": "active",
     "social": {
         "blog": "https://stakeafrik.com/blog",
