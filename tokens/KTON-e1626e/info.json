@@ -1,0 +1,16 @@
+{ 
+  "website": "https://katon.io",
+  "description": "Katon.io helps companies unlock new revenue streams in the Web3 thanks to its high frequency blockchain API and quick onboarding solutions.",  
+  "social": {
+      "email": "hello@katon.io",
+      "blog": "https://blog.katon.io",
+      "twitter": "https://twitter.com/io_katon",
+      "instagram": "https://www.instagram.com/walleebykatonio/",
+      "tiktok": "https://www.tiktok.com/@walleebykatonio",
+      "linkedin": "https://www.linkedin.com/company/katon-io",
+      "youtube": "https://www.youtube.com/@WalleeByKatonIo",
+      "telegram": "https://t.me/katon_io",
+      "whitepaper": "https://static.katon.io/whitepaper.pdf"
+    },
+  "status": "active"
+}
