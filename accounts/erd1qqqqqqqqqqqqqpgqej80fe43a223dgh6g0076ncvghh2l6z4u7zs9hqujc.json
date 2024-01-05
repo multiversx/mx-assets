@@ -2,10 +2,10 @@
   "name": "Hoot Network",
   "description": "",
   "social": {
-    "website": "https://www.quantumx.network/",
+    "website": "https://www.quantumx.network",
     "twitter": "https://twitter.com/QuantumXnetwork",
     "telegram": "https://t.me/quantumxnetwork",
-    "blog": "http://docs.quantumx.network/"
+    "blog": "http://docs.quantumx.network"
   },
   "tags": [
     "hoot",

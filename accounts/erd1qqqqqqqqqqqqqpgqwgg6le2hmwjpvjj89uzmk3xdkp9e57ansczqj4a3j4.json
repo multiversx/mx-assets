@@ -2,7 +2,7 @@
   "name": "TRO - swap - NFT",
   "description": "swap egld for tro / tro for egld",
   "social": {
-    "website": "https://tro-dapp.netlify.app/"
+    "website": "https://tro-dapp.netlify.app"
   },
   "tags": [
     "tro"

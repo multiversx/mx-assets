@@ -1,12 +1,6 @@
 {
   "name": "Exchange: Exbi",
   "description": "",
-  "social": {
-    "website": "https://xexchange.com",
-    "twitter": "https://twitter.com/xExchangeApp",
-    "telegram": "https://t.me/xExchangeApp",
-    "blog": "https://multiversx.com/blog/maiar-exchange-mex-tokenomics"
-  },
   "tags": [
     "exbi",
     "exchange"
