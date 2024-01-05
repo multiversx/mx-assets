@@ -1,6 +1,13 @@
 {
   "name": "System: Staking Module",
   "description": "Smart contract containing all staked eGLD on the network",
+  "social": {
+    "website": "http://multiversx.com",
+    "twitter": "https://twitter.com/intent/user?screen_name=multiversx",
+    "telegram": "https://t.me/MultiversX",
+    "youtube": "https://youtube.com/@MultiversXOfficial",
+    "github": "https://github.com/MultiversX"
+  },
   "tags": [
     "system",
     "staking",

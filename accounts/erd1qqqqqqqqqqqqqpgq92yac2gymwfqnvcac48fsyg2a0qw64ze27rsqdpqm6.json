@@ -1,11 +1,23 @@
 {
-    "name": "PeerMe: Orcpunks DAO",
-    "description": "Orcpunks NFT on @Elrondnetwork.Passive income $LKMEX and $ZOG.Orcpunks is a fantasy steampunk world concentrated on Orcs in a diverse world populated by humans, elfs, dwarves and many diferent races",
-    "tags": [
-        "peerme",
-        "dao",
-        "governance",
-        "nft"
-    ],
-    "icon": "peerme"
+  "name": "PeerMe: Orcpunks DAO",
+  "description": "Orcpunks NFT on @Elrondnetwork.Passive income $LKMEX and $ZOG.Orcpunks is a fantasy steampunk world concentrated on Orcs in a diverse world populated by humans, elfs, dwarves and many diferent races",
+  "social": {
+    "website": "https://peerme.io",
+    "email": "hello@peerme.io",
+    "twitter": "https://twitter.com/PeerMeHQ",
+    "coingecko": "https://www.coingecko.com/en/coins/peerme-super",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superciety",
+    "discord": "https://discord.peerme.io",
+    "telegram": "https://telegram.peerme.io",
+    "youtube": "https://www.youtube.com/@peerme",
+    "github": "https://github.com/PeerMeHQ",
+    "community": "https://egld.community/projects/PeerMe"
+  },
+  "tags": [
+    "peerme",
+    "dao",
+    "governance",
+    "nft"
+  ],
+  "icon": "peerme"
 }
