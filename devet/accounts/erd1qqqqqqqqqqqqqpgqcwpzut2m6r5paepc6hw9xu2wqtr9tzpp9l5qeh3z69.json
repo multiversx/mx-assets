@@ -1,0 +1,10 @@
+{
+    "name": "Just a Name",
+    "description": "Just a description",
+    "website": "https://multiversx.com/",
+    "social": {
+        "blog": "https://multiversx.com/blog",
+        "twitter": "https://twitter.com/MultiversX"
+    },
+    "tags": []
+}
