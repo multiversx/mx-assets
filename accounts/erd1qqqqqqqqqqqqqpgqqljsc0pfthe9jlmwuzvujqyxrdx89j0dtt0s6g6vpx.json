@@ -2,13 +2,13 @@
     "name": "Xloans: Lending Platform",
     "description": "Smart Contract for Xloans Lending Platform",
     "tags": [
-        "Xloans",
-        "Lending",
-        "NFT",
-        "Mortgage",
-        "Borrow",
-        "Crosschain",
-        "Gamification",
-        "Multichain"
+        "xloans",
+        "lending",
+        "nft",
+        "mortgage",
+        "borrow",
+        "crosschain",
+        "gamification",
+        "multichain"
     ]
 }
