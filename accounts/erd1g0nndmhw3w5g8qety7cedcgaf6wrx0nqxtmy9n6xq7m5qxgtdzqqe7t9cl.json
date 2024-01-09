@@ -1,9 +1,9 @@
 {
-  "name": "Maiar: Registration Funding",
+  "name": "xPortal: Registration Funding",
   "description": "",
   "tags": [
-    "maiar",
+    "xportal",
     "funding"
   ],
-  "icon": "maiar"
+  "icon": "multiversx"
 }

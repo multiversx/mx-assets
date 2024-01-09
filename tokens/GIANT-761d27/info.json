@@ -1,13 +1,20 @@
 {
-  "website": "https://elrondgiants.com",
+  "website": "https://giantsvillage.com",
   "description": "Giants Gold is the utility token of the entire Giants ecosystem.",
   "social": {
     "email": "contact@elrondgiants.com",
-    "blog": "https://blog.elrondgiants.com",
-    "twitter": "https://twitter.com/ElrondGiants",
+    "blog": "https://blog.giantsvillage.com",
+    "twitter": "https://twitter.com/GiantsVillageweb",
     "discord": "https://discord.gg/v23VU2Pw6h",
-    "whitepaper": "https://elrondgiants.com/token",
+    "whitepaper": "https://whitepaper.giantsvillage.com/usdgiant-token",
     "instagram": "https://www.instagram.com/ElrondGiants"
   },
-  "status": "active"
+  "status": "active",
+  "lockedAccounts": {
+    "erd1kvs7mt88m2jjdm2e6s6drch7slshckkzgwtppuwgj5jxs6atx0kqlkvvxu": "Reserve",
+    "erd1qqqqqqqqqqqqqpgq8dw369n8e44l4ka4x8kxqkrlpfk5m2fkx0kq2mf573": "NFT Staking",
+    "erd1xur0qg4058m6ezvhx8ryv77jsukv28a6479rf4fnvpcch2456tqsem7v5m": "Giants Raffle",
+    "erd1m2ptq6938khm368sax8whq9g8vml7df04hz327qjs4s4rqgmjn9qnvn590": "Giants Rewards",
+    "erd1y0lhkumve4vvc5mqvu6temeqcahfqyjegwzaax4mysaskpf3scuq32p5pv": "Game Deployer"
+  }
 }

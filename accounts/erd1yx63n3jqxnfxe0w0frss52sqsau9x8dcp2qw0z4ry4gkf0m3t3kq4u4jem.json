@@ -1,9 +1,9 @@
 {
-  "name": "Maiar: Registration Attester",
+  "name": "xPortal: Registration Attester",
   "description": "",
   "tags": [
-    "maiar",
+    "xportal",
     "attestation"
   ],
-  "icon": "maiar"
+  "icon": "multiversx"
 }

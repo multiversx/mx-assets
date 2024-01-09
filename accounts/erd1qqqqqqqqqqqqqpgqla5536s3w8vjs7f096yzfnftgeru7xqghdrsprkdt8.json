@@ -1,0 +1,10 @@
+{
+  "name": "MateriaPrima: Homunculi Minter",
+  "description": "Homunculi Minter is a SC that allows the minting of homunculi for the MateriaPrima game.",
+  "tags": [
+    "materiaprima",
+    "homunculi",
+    "minter"
+  ],
+  "icon": "materiaprima"
+}

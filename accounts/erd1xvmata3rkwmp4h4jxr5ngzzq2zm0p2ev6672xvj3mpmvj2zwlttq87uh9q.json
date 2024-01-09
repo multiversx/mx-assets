@@ -1,9 +1,9 @@
 {
-  "name": "Maiar: Registration Relayer",
+  "name": "xPortal: Registration Relayer",
   "description": "",
   "tags": [
-    "maiar",
+    "xportal",
     "relayer"
   ],
-  "icon": "maiar"
+  "icon": "multiversx"
 }

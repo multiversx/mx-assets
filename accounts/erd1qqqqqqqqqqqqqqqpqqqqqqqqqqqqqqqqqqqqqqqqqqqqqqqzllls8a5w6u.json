@@ -1,9 +1,9 @@
 {
-  "name": "System: ESDT module",
+  "name": "System: ESDT Module",
   "description": "",
   "tags": [
     "system",
     "esdt"
   ],
-  "icon": "elrond"
+  "icon": "multiversx"
 }

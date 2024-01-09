@@ -1,0 +1,11 @@
+{
+    "name": "JEXchange: Locker",
+    "description": "JEXchangeDefi Locker smart contract used for governance and boosted rewards",
+    "tags": [
+        "jexchange",
+        "locker",
+        "governance",
+        "rewards"
+    ],
+    "icon": "jexchange"
+}

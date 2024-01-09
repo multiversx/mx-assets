@@ -1,0 +1,8 @@
+{
+  "website": "https://xexchange.com",
+  "description": "DAI stablecoin originating on Ethereum, bridged as an ESDT token on MultiversX. 1 DAI = 1 WrappedDAI",
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}

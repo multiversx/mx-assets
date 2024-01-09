@@ -1,8 +1,9 @@
 {
-  "name": "JEXchange: P2P swaps module",
+  "name": "JEXchange: P2P Swaps Module (deprecated)",
   "description": "",
   "tags": [
     "jexchange",
     "swap"
-  ]
+  ],
+  "icon": "jexchange"
 }
