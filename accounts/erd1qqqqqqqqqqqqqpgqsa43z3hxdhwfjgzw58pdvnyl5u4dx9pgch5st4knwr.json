@@ -1,0 +1,9 @@
+{
+  "name": "xLaunchpad: LST Locking Contract",
+  "description": "Contract to facilitate the calculation of user's liquid staking participation in xLaunchpad tiers.",
+  "tags": [
+    "xlaunchpad",
+    "tada"
+  ],
+  "icon": "xlaunchpad"
+}
