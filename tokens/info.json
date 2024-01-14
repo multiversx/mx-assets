@@ -1,0 +1,18 @@
+{
+"website": "https://www.transylvaniachain.com",
+"description": "A historical brand. A legitimate business. An entire service chain. Creating history.",
+"ledgerSignature": "1234",
+"social": {
+"email": "contact@transylvaniachain.com",
+"Facebook": "hhttps://www.facebook.com/transylvaniachain",
+"twitter": "https://twitter.com/Transylvaniaone",
+},
+"lockedAccounts": {
+"transylvaniachainvault": "Team vault",
+"transylvaniachain": "Team Wallet"
+},
+"extraTokens": [
+"NO",
+"NO"
+],
+"status": "active"
