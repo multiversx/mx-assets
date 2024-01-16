@@ -1,6 +1,11 @@
 {
   "name": "Pawn Whale: NFT Lending",
   "description": "",
+  "social": {
+    "website": "https://pawnwhale.com/",
+    "twitter": "https://twitter.com/pawn_whale",
+    "discord": "discord.gg/Sy5fpM7SS9"
+  },
   "tags": [
     "pawn",
     "whale",

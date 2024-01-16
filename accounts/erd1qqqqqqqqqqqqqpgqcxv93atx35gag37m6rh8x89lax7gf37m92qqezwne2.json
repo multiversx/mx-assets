@@ -1,5 +1,11 @@
 {
   "name": "The Round Table: Vote Module",
+  "social": {
+    "website": "https://the-round-table.io",
+    "twitter": "https://twitter.com/TheRound_Table_",
+    "discord": "https://dsc.gg/TheRoundTable",
+    "whitepaper": "https://the-round-table.io/whitepaper"
+  },
   "tags": [
     "vote",
     "trt",

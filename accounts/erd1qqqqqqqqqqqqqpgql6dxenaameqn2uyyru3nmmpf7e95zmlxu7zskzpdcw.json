@@ -1,6 +1,12 @@
 {
   "name": "QuantumX: Staking Pools & Farms",
   "description": "",
+  "social": {
+    "website": "https://www.quantumx.network",
+    "twitter": "https://twitter.com/QuantumXnetwork",
+    "telegram": "https://t.me/quantumxnetwork",
+    "blog": "http://docs.quantumx.network"
+  },
   "tags": [
     "quantumx",
     "quantumxnetwork",
