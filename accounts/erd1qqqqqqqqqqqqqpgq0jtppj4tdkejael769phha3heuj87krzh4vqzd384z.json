@@ -1,13 +1,23 @@
 {
-    "name": "Knights of Cathena: NFT Merger",
-    "description": "Merge 3 NFTs in Knights of Cathena to receive a more powerful version",
-    "tags": [
-        "koc",
-        "knights",
-        "cathena",
-        "knights of cathena",
-        "nft",
-        "merge"
-    ],
-    "icon": "knightsofcathena"
+  "name": "Knights of Cathena: NFT Merger",
+  "description": "Merge 3 NFTs in Knights of Cathena to receive a more powerful version",
+  "social": {
+    "website": "https://knights-of-cathena.com",
+    "email": "info@knights-of-cathena.com",
+    "blog": "https://knights-of-cathena.com/blog",
+    "twitter": "https://twitter.com/CathenaKnights",
+    "telegram": "https://telegram.knights-of-cathena.com",
+    "discord": "https://discord.com/invite/r8BwB8UaWx",
+    "instagram": "https://instagram.knights-of-cathena.com",
+    "community": "https://egld.community/projects/knights-of-cathena"
+  },
+  "tags": [
+    "koc",
+    "knights",
+    "cathena",
+    "knights of cathena",
+    "nft",
+    "merge"
+  ],
+  "icon": "knightsofcathena"
 }
