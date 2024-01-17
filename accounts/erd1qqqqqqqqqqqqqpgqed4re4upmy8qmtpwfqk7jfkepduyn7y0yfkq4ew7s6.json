@@ -1,6 +1,9 @@
 {
   "name": "xBridge: Gas Price Aggregator",
   "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
   "tags": [
     "xbridge",
     "gas",

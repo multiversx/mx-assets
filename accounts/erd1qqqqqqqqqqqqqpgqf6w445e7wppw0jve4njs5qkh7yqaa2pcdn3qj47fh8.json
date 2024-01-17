@@ -1,9 +1,12 @@
 {
-    "name": "xBulk: xKingNFTx",
-    "description": "xKingNFTx distribution contract for xBulk.app",
-    "tags": [
-        "commmunity",
-        "bulk"
-    ],
-    "icon": "xking"
+  "name": "xBulk: xKingNFTx",
+  "description": "xKingNFTx distribution contract for xBulk.app",
+  "social": {
+    "website": "https://xbulk.app"
+  },
+  "tags": [
+    "commmunity",
+    "bulk"
+  ],
+  "icon": "xking"
 }
