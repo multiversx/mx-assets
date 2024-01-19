@@ -1,6 +1,11 @@
 {
   "name": "Exchange: MexC",
   "description": "",
+  "social": {
+    "website": "https://www.mexc.com",
+    "facebook": "https://www.facebook.com/mexcofficial",
+    "telegram": "https://t.me/MEXCEnglish"
+  },
   "tags": [
     "mexc",
     "exchange"

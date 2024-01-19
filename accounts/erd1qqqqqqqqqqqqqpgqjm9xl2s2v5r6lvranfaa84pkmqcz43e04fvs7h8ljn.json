@@ -1,6 +1,21 @@
 {
   "name": "AshSwap: Aggregator v1",
   "description": "",
-  "tags": ["ashswap", "swap", "aggregator", "dexaggregator"],
+  "social": {
+    "website": "https://ashswap.io",
+    "email": "hello@ashswap.io",
+    "blog": "https://medium.com/@ashswap",
+    "twitter": "https://twitter.com/ash_swap",
+    "telegram": "https://t.me/ash_swap",
+    "discord": "https://discord.gg/apmhYCPDbW",
+    "facebook": "https://www.facebook.com/ashswap.io",
+    "commmunity": "https://egld.community/projects/ashswap"
+  },
+  "tags": [
+    "ashswap",
+    "swap",
+    "aggregator",
+    "dexaggregator"
+  ],
   "icon": "ashswap"
 }

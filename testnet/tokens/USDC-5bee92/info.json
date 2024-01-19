@@ -1,0 +1,9 @@
+{
+  "website": "https://xexchange.com",
+  "description": "USDC stablecoin originating on Ethereum, bridged as an ESDT token on MultiversX. 1 USDC = 1 WrappedUSDC",
+  "ledgerSignature": "3045022100f03b1ec0d83d8d75d436f688c2007ffb0c71b39a4f72aba036062ea8d7ade99402203449426b83203617279c04ccb00387a77deffc468c27015bfc1590f1950edde9",
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}
