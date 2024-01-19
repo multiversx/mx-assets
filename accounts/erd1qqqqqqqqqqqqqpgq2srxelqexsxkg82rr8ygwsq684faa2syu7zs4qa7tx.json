@@ -1,11 +1,17 @@
 {
-    "name": "QuantumX: $HYPE Faucet",
-    "description": "",
-    "tags": [
-      "quantumx",
-      "quantumxnetwork",
-      "hype",
-      "faucet"
-    ],
-    "icon": "quantumx"
-  }
+  "name": "QuantumX: $HYPE Faucet",
+  "description": "",
+  "social": {
+    "website": "https://www.quantumx.network",
+    "twitter": "https://twitter.com/QuantumXnetwork",
+    "telegram": "https://t.me/quantumxnetwork",
+    "blog": "http://docs.quantumx.network"
+  },
+  "tags": [
+    "quantumx",
+    "quantumxnetwork",
+    "hype",
+    "faucet"
+  ],
+  "icon": "quantumx"
+}

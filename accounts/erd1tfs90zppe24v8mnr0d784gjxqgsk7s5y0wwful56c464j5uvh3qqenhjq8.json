@@ -1,6 +1,9 @@
 {
   "name": "Exchange: UPbit",
   "description": "",
+  "social": {
+    "website": "https://sg.upbit.com/home"
+  },
   "tags": [
     "upbit",
     "exchange"
