@@ -1,6 +1,15 @@
 {
   "name": "DX25: Estimations viewer",
   "description": "",
+  "social": {
+    "twitter": "https://twitter.com/DX25Labs",
+    "website": "https://dx25.com",
+    "telegram": "https://t.me/dx25labs",
+    "discord": "https://discord.com/invite/nPEvPssGPB",
+    "linkedin": "https://www.linkedin.com/company/dx25labs",
+    "blog": "https://medium.com/@dx25labs",
+    "youtube": "https://www.youtube.com/@dx25labs"
+  },
   "tags": [
     "dx25",
     "estimations",
