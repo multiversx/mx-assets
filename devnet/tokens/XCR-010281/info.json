@@ -1,0 +1,24 @@
+{
+    "website": "https://pub-devnet.cryptgain.com",
+    "description": "Cryptgains are the Reward tokens for Delegators and Liquidity Providers on the CryptGain Platform. It is the basis for the minting of the GToken. CryptGain is a Liquidity Accelerator and Maintainer for DeFi on and Security of MultiversX blockchain.",
+    "status": "active",
+    "social": {
+        "blog": "https://stakeafrik.com/blog",
+        "twitter": "https://x.com/CryptGainSA"
+    },
+    "lockedAccounts": {
+        "erd1qqqqqqqqqqqqqpgqy2h9w4jgy7f4ffrdy6nedgxz7f3srard0fuswqctup": "Cryptgains Coinbase",
+        "erd16myes42p5t6xnxkxw8jghg8sypuammz9fc44g4f2u43dj2hd0fusp9286j": "Prelaunch cryptgains: The GAME | Airdrop | Funding",
+        "erd1qqqqqqqqqqqqqpgqddxe5ltmp8zfl6laxmxjmj87g9rft6670fusjw9zvj": "Postlaunch cryptgains: Delegators | Protocol",
+        "erd1qqqqqqqqqqqqqpgqz0n6qdgvrz4z23rllustjaqa63cegza40fusz30jca": "GToken Rewards"
+    },
+    "extraTokens": [
+        "CEGLD-b22b50",
+        "LKXGT-bad6ad",
+        "AKU-9bac6d",
+        "MUO-e1c908",
+        "CEGLDXCR-701cd5",
+        "XCRONE-4ff4d5",
+        "WEGLDXCR-7f4d4a"
+    ]
+}

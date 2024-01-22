@@ -1,10 +1,22 @@
 {
-    "name": "PeerMe: E V NFT",
-    "description": "Real-world utility project with 10k unique NFTs to reveal, store or stake to earn passive income! E.V Cyborgs build together!",
-    "tags": [
-        "peerme",
-        "dao",
-        "governance"
-    ],
-    "icon": "peerme"
+  "name": "PeerMe: E V Ecosystem",
+  "description": "E.V Ecosystem - Home of E.V Cyborgs & Odd Apes Gang.",
+  "social": {
+    "website": "https://peerme.io",
+    "email": "hello@peerme.io",
+    "twitter": "https://twitter.com/PeerMeHQ",
+    "coingecko": "https://www.coingecko.com/en/coins/peerme-super",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superciety",
+    "discord": "https://discord.peerme.io",
+    "telegram": "https://telegram.peerme.io",
+    "youtube": "https://www.youtube.com/@peerme",
+    "github": "https://github.com/PeerMeHQ",
+    "community": "https://egld.community/projects/PeerMe"
+  },
+  "tags": [
+    "peerme",
+    "dao",
+    "governance"
+  ],
+  "icon": "peerme"
 }
