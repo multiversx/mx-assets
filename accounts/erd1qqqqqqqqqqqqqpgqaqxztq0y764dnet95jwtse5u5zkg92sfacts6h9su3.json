@@ -1,6 +1,13 @@
 {
   "name": "SALSA: Liquid Staking",
   "description": "Staking Agency's Liquid Staking Algorithm",
+  "social": {
+    "website": "https://liquid.staking.agency",
+    "email": "contact@staking.agency",
+    "blog": "https://medium.com/@staking.agency",
+    "twitter": "https://twitter.com/staking_agency",
+    "telegram": "https://t.me/Liquid_eGLD"
+  },
   "tags": [
     "staking",
     "liquid",
