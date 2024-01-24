@@ -1,10 +1,22 @@
 {
-    "name": "PeerMe: PeerMe DAO",
-    "description": "Create & participate in DAOs on MultiversX blockchain \u2013 where people come together to work on something they believe in \ud83c\udf1f",
-    "tags": [
-        "peerme",
-        "dao",
-        "governance"
-    ],
-    "icon": "peerme"
+  "name": "PeerMe: PeerMe DAO",
+  "description": "Create & participate in DAOs on MultiversX blockchain \u2013 where people come together to work on something they believe in \ud83c\udf1f",
+  "social": {
+    "website": "https://peerme.io",
+    "email": "hello@peerme.io",
+    "twitter": "https://twitter.com/PeerMeHQ",
+    "coingecko": "https://www.coingecko.com/en/coins/peerme-super",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superciety",
+    "discord": "https://discord.peerme.io",
+    "telegram": "https://telegram.peerme.io",
+    "youtube": "https://www.youtube.com/@peerme",
+    "github": "https://github.com/PeerMeHQ",
+    "community": "https://egld.community/projects/PeerMe"
+  },
+  "tags": [
+    "peerme",
+    "dao",
+    "governance"
+  ],
+  "icon": "peerme"
 }
