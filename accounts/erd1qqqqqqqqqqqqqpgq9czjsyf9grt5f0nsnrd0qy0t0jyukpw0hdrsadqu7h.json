@@ -1,6 +1,6 @@
 {
-  "name": "MateriaPrima: Peddler",
-  "description": "Peddler is a SC that allows users to purchase resources for the MateriaPrima game by exchanging peddler coins.",
+  "name": "MateriaPrima: Gem Cutter",
+  "description": "Gem Cutter is a SC that allows users to convert element dust and raw gems for resources in the MateriaPrima game.",
   "social": {
     "website": "https://www.materiaprimanft.com",
     "email": "contact@materiaprimanft.com",
@@ -10,8 +10,9 @@
   },
   "tags": [
     "materiaprima",
-    "peddler",
-    "resources"
+    "gemcutter",
+    "resources",
+    "crafting"
   ],
   "icon": "materiaprima"
 }
