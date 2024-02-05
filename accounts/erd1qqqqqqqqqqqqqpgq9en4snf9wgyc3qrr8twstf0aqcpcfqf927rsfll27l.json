@@ -1,10 +1,22 @@
 {
-    "name": "PeerMe: Founding8",
-    "description": "The Founding 8 is made up of 8 Elrond passionate enthusiasts from around the world that have come together with several goals in mind!  Form a strong club invest into MultiversX nft and esdt treasury",
-    "tags": [
-        "peerme",
-        "dao",
-        "governance"
-    ],
-    "icon": "peerme"
+  "name": "PeerMe: Founding8",
+  "description": "The Founding 8 is made up of 8 Elrond passionate enthusiasts from around the world that have come together with several goals in mind!  Form a strong club invest into MultiversX nft and esdt treasury",
+  "social": {
+    "website": "https://peerme.io",
+    "email": "hello@peerme.io",
+    "twitter": "https://twitter.com/PeerMeHQ",
+    "coingecko": "https://www.coingecko.com/en/coins/peerme-super",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superciety",
+    "discord": "https://discord.peerme.io",
+    "telegram": "https://telegram.peerme.io",
+    "youtube": "https://www.youtube.com/@peerme",
+    "github": "https://github.com/PeerMeHQ",
+    "community": "https://egld.community/projects/PeerMe"
+  },
+  "tags": [
+    "peerme",
+    "dao",
+    "governance"
+  ],
+  "icon": "peerme"
 }
