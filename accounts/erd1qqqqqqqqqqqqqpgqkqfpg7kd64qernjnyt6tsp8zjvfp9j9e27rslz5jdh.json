@@ -1,10 +1,22 @@
 {
-    "name": "PeerMe: Blazing Stars DAO",
-    "description": "This means that our community has a say in how the project is run, how. We believe that this democratic approach will foster innovation and creativity, ultimately leading to a better project for all.",
-    "tags": [
-        "peerme",
-        "dao",
-        "governance"
-    ],
-    "icon": "peerme"
+  "name": "PeerMe: Blazing Stars DAO",
+  "description": "This means that our community has a say in how the project is run, how. We believe that this democratic approach will foster innovation and creativity, ultimately leading to a better project for all.",
+  "social": {
+    "website": "https://peerme.io",
+    "email": "hello@peerme.io",
+    "twitter": "https://twitter.com/PeerMeHQ",
+    "coingecko": "https://www.coingecko.com/en/coins/peerme-super",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superciety",
+    "discord": "https://discord.peerme.io",
+    "telegram": "https://telegram.peerme.io",
+    "youtube": "https://www.youtube.com/@peerme",
+    "github": "https://github.com/PeerMeHQ",
+    "community": "https://egld.community/projects/PeerMe"
+  },
+  "tags": [
+    "peerme",
+    "dao",
+    "governance"
+  ],
+  "icon": "peerme"
 }

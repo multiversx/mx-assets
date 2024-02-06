@@ -1,6 +1,13 @@
 {
   "name": "CoinDrip: Streaming Protocol",
   "description": "Token streaming protocol.",
+  "social": {
+    "twitter": "https://twitter.com/CoinDripHQ",
+    "website": "https://coindrip.finance/",
+    "linkedin": "https://www.linkedin.com/company/coindrip",
+    "telegram": "https://t.me/coindrip_finance",
+    "gmail": "contact@coindrip.finance"
+  },
   "tags": [
     "coindrip",
     "esdt streaming",

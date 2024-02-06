@@ -1,9 +1,17 @@
 {
-    "name": "Plata Network: Multisig xSafe",
-    "description": "Multisig Locked Plata Network Liquidity/Assets Vault",
-    "tags": [
-        "PLATA",
-        "MultiversX"
-    ],
-    "icon": "plata"
+  "name": "Plata Network: Multisig xSafe",
+  "description": "Multisig Locked Plata Network Liquidity/Assets Vault",
+  "social": {
+    "website": "https://plata.network",
+    "whitepaper": "https://plata.network/whitepaper",
+    "twitter": "https://twitter.com/platanetwork",
+    "telegram": "https://t.me/plataNetwork",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/plata-network",
+    "coingecko": "https://www.coingecko.com/en/coins/plata-network"
+  },
+  "tags": [
+    "PLATA",
+    "MultiversX"
+  ],
+  "icon": "plata"
 }
