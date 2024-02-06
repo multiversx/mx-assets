@@ -1,0 +1,25 @@
+{
+    "website": "https://globees.fr",
+    "description": "Ecologically responsible and sustainable vacation rentals powered by web3",
+    "social": {
+        "twitter": "https://twitter.com/Globees_Project",
+        "whitepaper": "https://globees.fr/whitepaper-globees"
+    },
+    "lockedAccounts": {
+      "erd17kxr8ewj6gpp3ln4aezl3qdelvk4qncychcfmusplwqq8rg9hvks5ggkp2":	"GlobeesTreasury",
+      "erd1rptvzjrtfdegfpcrakltgf2m9tppxchhj4ytxtcj3kaz0jr8djkqqdgzgj":	"GlobeesMarketing",
+      "erd1q0c3ahqkcch3uh0762eqvs3352w3jl4eg85ucv2dh457t03dpp5qydm32c":	"GlobeesStakingRewards",
+      "erd1c0rm4ecys3zmle7jdnkfs0r64jululaz4r96yleszt3w8tawlctse6l3rq":	"GlobeesBurn",
+      "erd1nlce20ussyh4cnmt4nklem74uuxdn0ku4lndg5af4jsemq4seyqq2wzp6g":	"Globeesteam",
+      "erd1sa6n7d5kwsvyfsgglkhpq9hmpfl8hplhffmm6zdq5s7rhqw4jxfqf6a8cw":	"GlobeesAdPart",
+      "erd1h3xymqt2kmmhlzyg0syuywzjz40mv0qjlfwymtq0m950kz4vy0ms3k27rv":	"Globeesincentiv",
+      "erd1qqqqqqqqqqqqqpgqrxmnuq6y62ecsqgznp896lgxl7dpjanpjn5qsd4dtn":	"SC Vesting",
+      "erd1qqqqqqqqqqqqqpgqtst0lxugvt5e2c3lm8fq6r003qau8uszjn5qlwstfy":	"SC MINT",
+      "erd1qqqqqqqqqqqqqpgqm3vlm4cs7m0wc26hh0emx24zacwqehesjn5qg7qcvh":	"SC Distrib rewards",
+      "erd1ukd4kd2p5x7fh7qnehct550z9clrznjpes9fxfccq5wyuphgft3sqx9qmt":	"Globeesowner",
+      "erd1l2dqkd5hkg4fqgekq3u7lzq8qrr9a4jw5sdcxsjgdk58rqzs9c8s3v07vc":	"GlobeesLiquidity",
+      "erd1qqqqqqqqqqqqqpgqedsn6sfnndtlv5wtpdem2jll72fyprxfjn5qy4g3ps":	"StakingrewardSC",
+      "erd1qqqqqqqqqqqqqpgqujj8lqjhr8sqaqs035awjzx8v6l78tm7jn5qtjspqu":	"MultiplierSC"
+  },
+    "status": "active"
+}
