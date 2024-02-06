@@ -1,6 +1,6 @@
 {
-  "name": "MateriaPrima: Peddler",
-  "description": "Peddler is a SC that allows users to purchase resources for the MateriaPrima game by exchanging peddler coins.",
+  "name": "MateriaPrima: Marketplace",
+  "description": "Marketplace is a SC that allows users to purchase resources for the MateriaPrima game.",
   "social": {
     "website": "https://www.materiaprimanft.com",
     "email": "contact@materiaprimanft.com",
@@ -10,7 +10,7 @@
   },
   "tags": [
     "materiaprima",
-    "peddler",
+    "marketplace",
     "resources"
   ],
   "icon": "materiaprima"
