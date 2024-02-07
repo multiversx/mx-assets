@@ -1,6 +1,13 @@
 {
   "name": "xLauncher: XLH Sale",
   "description": "Round 2",
+  "social": {
+    "website": "https://app.x-launcher.com/",
+    "twitter": "https://twitter.com/XLauncher_",
+    "telegram": "https://t.me/XLauncherChat",
+    "whitepaper": "https://x-launcher.com/files/Whitepaper.pdf",
+    "medium": "https://medium.com/@xlauncher"
+  },
   "tags": [
     "xlauncher",
     "xlh",
