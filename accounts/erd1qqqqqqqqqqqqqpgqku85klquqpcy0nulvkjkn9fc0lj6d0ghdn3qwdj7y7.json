@@ -1,7 +1,14 @@
 {
-    "name": "CucumberX: Raffle",
-    "tags": [
-        "cucumberx",
-        "raffle"
-    ]
+  "name": "CucumberX: Raffle",
+  "social": {
+    "website": "https://www.cucumberx.com",
+    "email": "freshcucumberx@gmail.com",
+    "telegram": "https://t.me/hotcucumberx69",
+    "twitter": "https://twitter.com/freshcucumberx",
+    "discord": "https://discord.gg/47FhZ4z4Mq"
+  },
+  "tags": [
+    "cucumberx",
+    "raffle"
+  ]
 }

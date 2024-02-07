@@ -1,15 +1,21 @@
 {
-    "name": "QuantumX: Proteo Elite Staking",
-    "description": "",
-    "tags": [
-      "quantumx",
-      "quantumxnetwork",
-      "proteo",
-      "staking",
-      "elite",
-      "proteoelite",
-      "farms",
-      "pools"
-    ],
-    "icon": "quantumx"
-  }
+  "name": "QuantumX: Proteo Elite Staking",
+  "description": "",
+  "social": {
+    "website": "https://www.quantumx.network",
+    "twitter": "https://twitter.com/QuantumXnetwork",
+    "telegram": "https://t.me/quantumxnetwork",
+    "blog": "http://docs.quantumx.network"
+  },
+  "tags": [
+    "quantumx",
+    "quantumxnetwork",
+    "proteo",
+    "staking",
+    "elite",
+    "proteoelite",
+    "farms",
+    "pools"
+  ],
+  "icon": "quantumx"
+}
