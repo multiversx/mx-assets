@@ -14,5 +14,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ADMIN_ADDRESS: ${{ secrets.ADMIN_ADDRESS }}
-
-

@@ -1,12 +1,19 @@
 {
-    "name": "JEXchange: USDC-USDT LP",
-    "description": "USDC-USDT liquidity pool on JEXchangeDefi",
-    "tags": [
-        "jexchange",
-        "liquidity",
-        "stablecoins",
-        "stableswap",
-        "swap"
-    ],
-    "icon": "jexchange"
+  "name": "JEXchange: USDC-USDT LP",
+  "description": "USDC-USDT liquidity pool on JEXchangeDefi",
+  "social": {
+    "website": "https://jexchange.io",
+    "blog": "https://medium.com/@JEXchangeDefi",
+    "twitter": "https://twitter.com/JEXchangeDefi",
+    "discord": "https://discord.gg/CuthPz9uxv",
+    "telegram": "https://t.me/JEXAnnouncements"
+  },
+  "tags": [
+    "jexchange",
+    "liquidity",
+    "stablecoins",
+    "stableswap",
+    "swap"
+  ],
+  "icon": "jexchange"
 }

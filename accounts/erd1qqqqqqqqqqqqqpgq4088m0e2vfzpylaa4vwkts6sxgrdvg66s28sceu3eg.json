@@ -1,6 +1,12 @@
 {
   "name": "Exrond: RISA/RISA Farm",
   "description": "",
+  "social": {
+    "website": "https://www.exrond.com/exr",
+    "email": "contact@exrond.com",
+    "twitter": "https://twitter.com/exrond_dex",
+    "telegram": "https://t.me/exrond"
+  },
   "tags": [
     "exrond",
     "finance",
