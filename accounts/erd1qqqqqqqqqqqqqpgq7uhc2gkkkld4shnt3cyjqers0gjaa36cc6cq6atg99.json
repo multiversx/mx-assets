@@ -1,6 +1,9 @@
 {
   "name": "xBridge: Polygon MultiTransfer",
   "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
   "tags": [
     "xbridge",
     "polygon",
