@@ -1,12 +1,11 @@
 {
-  "website": "https://www.beskartoken.com",
-  "description": "The Beskar Token is the fuel that powers the Beskar Community (a DeFi & DAO Think Tank in the new web 3.0 ecosystem)",
+  "website": "https://www.dapfy.com",
+  "description": "BSK fuels the dapfy.com ecosystem.",
   "ledgerSignature": "",
   "social": {
-    "email": "beskartoken@gmail.com",
-    "telegram": "https://t.me/BeskarDAO",
-    "twitter": "https://twitter.com/BeskarDAO",
-    "blog": "https://www.beskartoken.com",
+    "email": "hello@dapfy.com",
+    "telegram": "https://t.me/dapfydotcom",
+    "twitter": "https://twitter.com/DapfyCom",
     "coinmarketcap": "",
     "coingecko": ""
   },

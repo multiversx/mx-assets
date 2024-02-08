@@ -1,0 +1,13 @@
+{
+  "website": "https://bridgemutual.io/",
+  "description": "Bridge Mutual is a decentralized, on-chain insurance marketplace that allows users to create, buy, and sell insurance coverage for other protocols, vote on the outcome of insurance claims, and more.",
+  "social": {
+    "email": "hello@bridgemutual.io",
+    "blog": "https://bridgemutual.medium.com/",
+    "twitter": "https://twitter.com/bridge_mutual",
+    "whitepaper": "https://bridgemutual.io/",
+    "coingecko": "https://www.coingecko.com/en/coins/bridge-mutual",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bridge-mutual/"
+  },
+  "status": "active"
+}
