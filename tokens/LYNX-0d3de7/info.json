@@ -1,0 +1,15 @@
+{
+    "social": {
+        "twitter": "https://twitter.com/lynxmvx",
+        "whitepaper": "https://lynxx.my.canva.site/#whitepaper"
+    },
+    "website": "https://lynxx.my.canva.site/",
+    "description": "The purrfect coin on MultiversX",
+    "extraTokens": [
+        "LYNXONE-da376b"
+    ],
+    "lockedAccounts": {
+        "erd1earzd2k2dn4s0jp25wwu9c0z6lgwavej9w5n5tvlnu44yvjjq5hqh8rpwm": "Locked accounts"
+    },
+    "status": "active"
+}
