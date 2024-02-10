@@ -1,0 +1,19 @@
+{
+    "website": "https://lynxx.my.canva.site",
+    "description": "The purrfect coin on MultiversX Token",
+    "ledgerSignature": {"address":"erd1ehh9gfn3h37asvppr4gyfey9zzrtgeym9m8839pxm70zn9tlm8dqe80z70","message":"0x4920616d207369676e696e672074686973206d65737361676520746f2070726f766520746861742049206f776e20746869732061646472657373200a657264316568683967666e33683337617376707072346779666579397a7a72746765796d396d3838333970786d37307a6e39746c6d3864716538307a3730","signature":"0xa10ba0328ca33337f2159874646ed19070cb2b8ca7a759fdb2b90aa9b9bf23cf56de3f188542421f541b8f21807e5bb3fe78170e23284c4fd11c434dc5e08c07","version":1,"signer":"ErdJS"},
+    "social": {
+        "email": "lynxxfeb@gmail.com",
+        "FAQs": "https://lynxx.my.canva.site/#faqs",
+        "twitter": "https://twitter.com/lynxmvx",
+        "telegram": "https://t.me/LYNXxMVX",
+        "whitepaper": "https://lynxx.my.canva.site/#whitepaper"
+    },
+    "lockedAccounts": {
+        "erd1earzd2k2dn4s0jp25wwu9c0z6lgwavej9w5n5tvlnu44yvjjq5hqh8rpwm ": "locked account"
+    },
+    "extraTokens": [
+        "LYNXONE-da376b"
+    ],
+    "status": "active"
+}
