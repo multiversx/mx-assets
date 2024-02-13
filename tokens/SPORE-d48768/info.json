@@ -1,0 +1,16 @@
+{
+    "website": "https://www.cryptoshrooms.net",
+    "description": "Spores is the currency of the CryptoShrooms universe.",
+    "ledgerSignature": "1234",
+    "social": {
+        "email": "mail@cryptoshrooms.net",
+        "twitter": "https://twitter.com/ShroomsCrypto",
+        "discord": "http://discord.gg/DGTD2kBYMs",
+        "whitepaper": "https://whitepaper.cryptoshrooms.net"
+    },
+    "lockedAccounts": {
+        "erd1zz0wqs8qtuktrzxrrjjtj3sk4xfnh0nc0630ku2ktzzmd0xtcxnqfelxwa": "Game Distribution Wallet",
+        "erd1488vp8naydqtnrtpnsh0jn8awgq7qe0qd0csjnx9kjeagxks0ymsnlqnaw": "Game Deposit Wallet"
+    },
+    "status": "active"
+}
