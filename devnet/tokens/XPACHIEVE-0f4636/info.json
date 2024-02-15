@@ -1,0 +1,10 @@
+{
+    "social": {
+        "blog": "https://test.com",
+        "twitter": "https://twitter.com/test",
+        "whitepaper": "https://test.com"
+    },
+    "website": "https://test.com",
+    "description": "Test",
+    "status": "active"
+}
