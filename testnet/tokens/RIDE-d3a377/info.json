@@ -70,5 +70,11 @@
     "MEXRIDEF-bf0320",
     "EGLDRIDEFL-74b819",
     "EGLDRIDEF-6c5d7c"
+  ],
+  "test": [
+    "test",
+    {
+      "test": "test"
+    }
   ]
 }
