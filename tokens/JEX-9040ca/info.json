@@ -1,6 +1,7 @@
 {
   "website": "https://jexchange.io/",
   "description": "A P2P decentralized exchange built on MultiversX",
+  "ledgerSignature": "3045022100cc28f3a956401b5082db00786ab78898bf745d7b4eb5ba95493c87fcd668510502201e0d2d72431ea20de16234ddf57e4e378291dab2cec2114d70f4c39dcb36343d",
   "social": {
     "blog": "https://medium.com/@JEXchangeDefi",
     "twitter": "https://twitter.com/JEXchangeDefi",
