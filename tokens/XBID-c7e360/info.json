@@ -1,10 +1,11 @@
 {
-  "website": "https://www.xbid.app/auction",
+  "website": "https://www.xbid.app",
   "description": "The xBID token: Your digital key to thrilling auctions and lottery excitement.",
   "ledgerSignature": "",
   "social": {
     "twitter": "https://twitter.com/app_xbid",
-    "whitepaper": "https://xbid.gitbook.io/xbid/"
+    "whitepaper": "https://xbid.gitbook.io/xbid/",
+    "discord": "https://discord.gg/7tMHeBGa"
   },
   "status": "active"
 }
