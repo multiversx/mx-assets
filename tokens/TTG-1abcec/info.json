@@ -1,6 +1,7 @@
 {
   "website": "https://www.trust-trading.group",
   "description": "The TTG token is the utility token of Trust Trading Group on MultiversX Network",
+  "ledgerSignature": "3045022100c603811586547ddfadc96eade9a15a0ce4d2b575e06d76cfd1cbe803450710b102200a300d2e65818aeaa26e8dccdf2855c17aa095970300dc97c69a1ad4f2a089f5",
   "social": {
     "email": "ciprian@trust-trading.group",
     "twitter": "https://twitter.com/trusttradinggr",
