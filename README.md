@@ -111,7 +111,7 @@ Inside the `owners` array, depending on your needs, you should include:
 
 ## logo.png
 
-- must be 500x500
+- must be 200x200
 - must look good also when cropped as a circle
 - must define a transparent background
 - must have sufficiently good contrast both when rendered on a light background, as well as a dark background
