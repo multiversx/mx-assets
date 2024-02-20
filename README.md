@@ -1,6 +1,6 @@
 # Introduction
 
-This repository holds a list of whitelisted tokens in the MultiversX web tools. A whitelisted token can have website and socials URLs, a logo or a description, that will be displayed on MultiversX products, such as the MultiversX Explorer or the Web Wallet. The logos are also used in the xPortal App.
+This repository holds a list of branded assets in the MultiversX web tools. Branded assets (can be a token, an account, or a staking identity) can have website and socials URLS, a logo or a description, that will be displayed on MultiversX products, such as the MultiversX Explorer, Web Wallet, and xPortal App.
 
 # Tokens branding
 
