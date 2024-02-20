@@ -12,8 +12,8 @@ Project owners can create a PR to this repo. Create a folder named exactly as yo
 
 Alternatively, a token owner can use our dApp that facilitates the token branding: https://assets.multiversx.com 
 
-[!IMPORTANT]
-Be aware of the repository's [environments](#environments) and [ownership checks](#ownership-checks).
+| :exclamation:  Be aware of the repository's [environments](#environments) and [ownership checks](#ownership-checks). |
+|----------------------------------------------------------------------------------------------------------------------|
 
 ## info.json
 
@@ -86,8 +86,8 @@ Add a logo, description & socials for your staking identity.
 
 Project owners can create a PR to this repo. Create a folder named as your identity (lowercase, dash-separated. Example: my-staking-identity). Add a logo.png file, sized 500x500. Also add an info.json file containing all the relevant information.
 
-[!IMPORTANT]
-Be aware of the repository's [environments](#environments) and [ownership checks](#ownership-checks).
+| :exclamation:  Be aware of the repository's [environments](#environments) and [ownership checks](#ownership-checks). |
+|----------------------------------------------------------------------------------------------------------------------|
 
 ## info.json
 
@@ -124,8 +124,8 @@ Add a description, an icon & socials for your Smart Contract or address.
 
 Addresses owners can create a PR to this repo. Create a file named as your address with a `json` extenstion (Example: `erd1qyu5wthldzr8wx5c9ucg8kjagg0jfs53s8nr3zpz3hypefsdd8ssycr6th.json`). 
 
-[!IMPORTANT]
-Be aware of the repository's [environments](#environments) and [ownership checks](#ownership-checks).
+| :exclamation:  Be aware of the repository's [environments](#environments) and [ownership checks](#ownership-checks). |
+|----------------------------------------------------------------------------------------------------------------------|
 
 ## <address>.json
 
