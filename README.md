@@ -63,7 +63,7 @@ Here’s a prefilled template for the .json file to get you started:
 ## logo.png
 
 - mandatory when opening a pull request
-- must have a resolution of 500x500 pixels
+- must have a resolution of 200x200 pixels
 
 | ![RIDE png](https://github.com/multiversx/mx-assets/blob/master/tokens/RIDE-7d18e9/logo.png?raw=true) |
 | :---------------------------------------------------------------------------------------------------: |
