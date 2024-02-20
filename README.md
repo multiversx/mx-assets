@@ -127,7 +127,7 @@ Addresses owners can create a PR to this repo. Create a file named as your addre
 | :exclamation:  Be aware of the repository's [environments](#environments) and [ownership checks](#ownership-checks). |
 |----------------------------------------------------------------------------------------------------------------------|
 
-## <address>.json
+## address.json
 
 Example: 
 
