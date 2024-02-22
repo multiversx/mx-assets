@@ -1,10 +1,16 @@
 {
-    "name": "Burnify: Staking",
-    "description": "",
-    "tags": [
-        "burnify",
-        "staking",
-        "burn"
-    ],
-    "icon": "burnify"
+  "name": "Burnify: Staking",
+  "description": "",
+  "social": {
+    "website": "https://burnify.app/",
+    "twitter": "https://twitter.com/BurnifyApp",
+    "whitepaper": "https://litepaper.burnify.app",
+    "telegram": "https://t.me/Burnify"
+  },
+  "tags": [
+    "burnify",
+    "staking",
+    "burn"
+  ],
+  "icon": "burnify"
 }

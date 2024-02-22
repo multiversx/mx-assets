@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: #f15b40;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="745.26" y1="1647.05" x2="745.26" y2="1561.65" gradientTransform="translate(-1459.19 -645.28) rotate(90) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4e9ec8"/>
+      <stop offset="1" stop-color="#292870"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="745.3" y1="1556.75" x2="745.3" y2="1471.36" gradientTransform="translate(-1459.19 -645.28) rotate(90) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d272ab"/>
+      <stop offset=".5" stop-color="#c41789"/>
+      <stop offset="1" stop-color="#9b258c"/>
+    </linearGradient>
+  </defs>
+  <g id="BeaconX_Logo" data-name="BeaconX Logo">
+    <path class="cls-1" d="m143.52,53.59l-15.69,9.06c4.68,3.55,8.67,7.94,11.75,12.95,9.17,14.98,9.17,33.84,0,48.81l-5.94-3.43c7.96-12.85,7.96-29.1,0-41.96-3.13-5.06-7.35-9.37-12.35-12.6l-18.83,10.87c12.54,1.53,21.47,12.93,19.94,25.47-1.27,10.44-9.5,18.67-19.94,19.94l18.84,10.87,6.53,3.78,15.69,9.06c4.2-3.99,7.85-8.52,10.85-13.48,12.22-20.27,12.22-45.63,0-65.9l6.19-3.57c13.5,22.48,13.5,50.57,0,73.05-2.98,4.94-6.54,9.51-10.62,13.6l15.24,8.8c30.22-33.47,30.22-84.38,0-117.84l-15.24,8.8-6.43,3.73Z"/>
+    <path class="cls-2" d="m56.5,146.41l15.69-9.06c-4.68-3.55-8.67-7.94-11.75-12.95-9.17-14.98-9.17-33.84,0-48.81l5.94,3.43c-7.96,12.85-7.96,29.1,0,41.96,3.13,5.06,7.35,9.37,12.35,12.6l18.83-10.87c-12.54-1.53-21.47-12.93-19.94-25.47,1.27-10.44,9.5-18.67,19.94-19.94l-18.83-10.87-6.53-3.78-15.69-9.06c-4.2,3.99-7.85,8.52-10.85,13.48-12.22,20.27-12.22,45.63,0,65.9l-6.19,3.57c-13.5-22.48-13.5-50.57,0-73.05,2.98-4.94,6.54-9.51,10.62-13.6l-15.24-8.8c-30.22,33.47-30.22,84.38,0,117.84l15.24-8.8,6.42-3.73Z"/>
+    <circle class="cls-3" cx="100.01" cy="100" r="17.6"/>
+  </g>
+</svg>
