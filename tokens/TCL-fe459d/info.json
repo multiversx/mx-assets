@@ -1,0 +1,23 @@
+{
+    "website": "https://www.thecursedland.com/",
+    "description": "The TCL token is the utility token of The Cursed Land game",
+    "social": {
+        "whitepaper": "https://whitepaper.thecursedland.com/",
+        "blog": "https://blog.thecursedland.com/",
+        "discord": "https://discord.com/invite/NAbQ5WChrs",
+        "twitter": "https://twitter.com/thecursedland",
+        "telegram": "https://t.me/TheCursedLand_Community",
+        "email": "contact@thecursedland.com"
+    },
+    "lockedAccounts": {
+        "erd1zm4cqdfqy05nczm9nnzxlph7ha8ykfz6mtkdkapuwltrec9wmsesarna0m": "Main wallet",
+        "erd1qqqqqqqqqqqqqpgqk9yf8y32wzwupjy7724j5wm3rk737ph20ufslxuppr": "Seed Zero",
+        "erd1qqqqqqqqqqqqqpgq97axlw2euvr3kenudu6xlch8zwmz2ah50ufspnfks0": "Seed",
+        "erd1qqqqqqqqqqqqqpgq0yy72gqsmpuvlgrpg46q24ftwzax846s0ufssl56zv": "Private Sale",
+        "erd1qqqqqqqqqqqqqpgqd245fd2cycl5u4gj5tgv8n4qzqz5x2us0ufsv3y0sp": "Advisors Team",
+        "erd1qqqqqqqqqqqqqpgqtmsmg5acqn3etmwf9hrv4fcrsctz0lr20ufsgfk023": "Marketing",
+        "erd1qqqqqqqqqqqqqpgqc45lurvvvpldzjkgc3lxueyjvp47mju60ufsmw0law": "Treasury",
+        "erd1qqqqqqqqqqqqqpgqm77vv5dcqs6kuzhj540vf67f90xemypd0ufsygvnvk": "Reward Pool"
+    },
+    "status": "active"
+}

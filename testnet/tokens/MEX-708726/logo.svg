@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="198" height="198" viewBox="0 0 198 198" className="expanded">
+  <defs>
+    <linearGradient id="mex" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a45c2"/>
+      <stop offset="1" stop-color="#001f9c"/>
+    </linearGradient>
+    <linearGradient id="mex-2" x1="0.5" y1="0.491" x2="0.5" y2="0.009" xlink:href="#mex"/>
+  </defs>
+  <g transform="translate(0.237 0.236)">
+    <circle cx="99" cy="99" r="99" transform="translate(-0.237 -0.236)" fill="#fff"/>
+    <g transform="translate(56.084 37.645)">
+      <g>
+        <path d="M378.85,152.213l-10.414,48.375H342.182Z" transform="translate(-323.013 -152.213)" fill-rule="evenodd" fill="url(#mex)"/>
+        <path d="M380.4,271.184l-19.166,25.487H295.04l19.169-25.487Z" transform="translate(-295.04 -222.808)" fill="#1a45c2" fill-rule="evenodd"/>
+        <path d="M404.314,333.864,367.646,382.24l10.414-48.376Z" transform="translate(-338.123 -260.002)" fill-rule="evenodd" fill="url(#mex-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>
