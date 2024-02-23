@@ -5,5 +5,8 @@
     "blog": "https://blog.hatom.com/",
     "twitter": "https://twitter.com/HatomProtocol"
   },
-  "status": "active"
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
 }

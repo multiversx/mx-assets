@@ -1,0 +1,8 @@
+{
+  "website": "https://xexchange.com",
+  "description": "sDAI originating on Ethereum, bridged as an ESDT token on MultiversX. 1 sDAI = 1 WrappedSDAI",
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}
