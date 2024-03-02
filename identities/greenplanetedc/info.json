@@ -1,5 +1,7 @@
 {
-  "owners": [
-    "erd1avgazjlz9g2jl0jelpzq2xvzmrzxa5eexwrpphz2k6nfhk8xtmvqgrvwar"
-  ]
+    "name": "DalasCrypto",
+    "description": "Multiversx Node",
+    "website": "https://explorer.multiversx.com/",
+    "location": "UK",
+    "twitter": ""
 }
