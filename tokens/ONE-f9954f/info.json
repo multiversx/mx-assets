@@ -1,9 +1,9 @@
 {
-    "website": "https://onedex.app",
-    "description": "OneDEX is a Decentralized Exchange made for everybody - Owned By no One, Owned By Everyone",
+    "website": "https://www.onefinity.network",
+    "description": "OneFinity is an EVM-compatible Sovereign Shard: Interchain Innovation, Limitless Expansion, Infinite Scale. Amplify Ethereum’s potential through OneFinity, achieving innovation to the power of X.",
     "ledgerSignature": "3045022100dfef0396a73b5b70409022eb113accc6d6463df97739b4550693ec14c68a2ee20220554243722481f53f7e8eaf7ca630cce6ce03e84f1aaccdfa861705e2be3a4192",
     "social": {
-        "twitter": "https://twitter.com/OneDex_X"
+        "twitter": "https://twitter.com/OneFinityChain"
     },
     "lockedAccounts": {
         "erd1qqqqqqqqqqqqqpgqlvm3ntf9eyurenmdvl4celvlck7dn6gqmvlscg8r3m": "Private Sale Vesting",
