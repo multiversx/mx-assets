@@ -1,0 +1,17 @@
+{
+  "website": "https://hatom.com/",
+  "description": "HTM is the utility and governance token of Hatom, a liquidity protocol that empowers DeFi in the MultiversX blockchain",
+  "ledgerSignature": "304402200efd7cbc3a55b1eecbdd0e53c7c949ab4c39c6359f4d28eb4e3b7257a1bd4e8302204b845636199611baeef599bca3cc1472d53baa7a216046c0f0a7baab34b66e1f",
+  "social": {
+    "blog": "https://blog.hatom.com/",
+    "telegram": "https://t.me/HatomProtocol",
+    "twitter": "https://twitter.com/HatomProtocol",
+    "whitepaper": "https://docs.hatom.com/getting-started/learn-more-about-hatom-token/whitepaper"
+  },
+  "lockedAccounts": {
+    "erd1y5ytj48d9cd9rvgzk7zkth0gerywu2s6y0tpg23c9rrhhg50dtestnvh79": "Minter Account",
+    "erd1qqqqqqqqqqqqqpgq39rqpn2xvm0ykl2ccaa4h5zk5c9r647wdteswmap9l": "Investors Vesting",
+    "erd1qqqqqqqqqqqqqpgq4hl5hdvvxtm987nw5vtczgm8y89ra2hndteshlehgs": "Token Vesting"
+  },
+  "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+  "website": "https://projectx.mx/",
+  "description": "DNA is the next-gen utility token of Project X",
+  "social": {
+    "whitepaper": "https://docs.projectx.mx/dna",
+    "blog": "https://medium.com/@ProjectX_dao",
+    "twitter": "https://twitter.com/ProjectX_DAO",
+    "discord": "https://discord.gg/projectx-dao"
+  },
+  "status": "active",
+  "lockedAccounts": {
+    "erd1lry3xdr8yj6zdp9ey9ekyvhk3ssapnnv5q8p7vcne0jv0ev5q98q9dd2rn": "In-wallet staking"
+  }
+}
