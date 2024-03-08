@@ -8,5 +8,10 @@
     "whitepaper": "https://whitepaper.multi-fights.com/overview/introduction",
     "discord": "https://discord.gg/du8urb6pd6"
   },
-  "tags": ["multifights", "NFT", "staking"]
+  "tags":
+  [
+  "multifights",
+  "nft",
+  "staking"
+  ]
 }
