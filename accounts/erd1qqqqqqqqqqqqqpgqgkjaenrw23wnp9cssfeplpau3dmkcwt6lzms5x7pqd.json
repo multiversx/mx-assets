@@ -1,5 +1,5 @@
 {
-  "name": "MultiFights: NFT Classic Staking",
+  "name": "MultiFights: NFT Staking",
   "description": "",
   "social": {
     "website": "https://www.multi-fights.com",
@@ -8,5 +8,9 @@
     "whitepaper": "https://whitepaper.multi-fights.com/overview/introduction",
     "discord": "https://discord.gg/du8urb6pd6"
   },
-  "tags": ["multifights", "nft", "staking"]
+  "tags": [
+    "multifights",
+    "NFT",
+    "staking"
+  ]
 }
