@@ -1,0 +1,12 @@
+{
+    "social": {
+        "blog": "https://multiversx.com/blog",
+        "twitter": "https://twitter.com/multiversx",
+        "whitepaper": "https://files.multiversx.com/multiversx-whitepaper.pdf",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/multiversx-egld/",
+        "coingecko": "https://www.coingecko.com/fr/pi%C3%A8ces/multiversx"
+    },
+    "website": "https://multiversx.com/",
+    "description": "This is a test, the TJ Token Test",
+    "status": "active"
+}
