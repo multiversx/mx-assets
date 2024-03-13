@@ -1,0 +1,23 @@
+{
+    "website": "https://superrarebears.com/",
+    "description": "High Yield Farming Meme token by SuperRareBears 😵‍💫",
+    "status": "active",
+    "lockedAccounts": {
+        "erd1vudplk63q6fph97suwkqeafw2hmlgctp2aqszsxhv5ur3lkvgrmscg53uk": "Foundation Reserve",
+        "erd1xp56hq0vk3y4h35xsnsdm6pdgne4pq0rd3l4lt3rm2cdsufpy79svafv5f": "Farming/Staking",
+        "erd140n7j696la4xja3zeafvmnnh0cjrhp98xw328e9kznewvtv2qjcsg4jkla": "Development",
+        "erd1hre8xwf4a8tmhps05hvqj8l76wtj5y6m92lg8t7zs3nqqteyguzs3k3s83": "Brand Growth",
+        "erd1lhty9rh9gan9ueyle7rm5n9zn2l2uufq2jtp22rc4whc25emesqsymmnty": "Foundation",
+        "erd1c5zap0gyr9z3sjj3ehc96ztgjdx905ldunz73qq78n4ma3ulg4vqpvtmjh": "Additional Reserve",
+        "erd1aeas6x6dddwjj9stnuurv67y4khkggy0s2dzhf6fxg7w27e6relsef0lph": "Airdrop",
+        "erd1gunq0dvpz847phekwmkkjqw7zzw473vzdy7duqqse7p82ccvecpskh68ww": "Hype Future Pools",
+        "erd1tzyuw5wdtf8n5urf3hz9ujmqdctlylssala05gpq93mz7l4jwc5s0pwxwh": "Burn",
+        "erd1qqqqqqqqqqqqqpgqd6l8ayd0zxfekl53geyxgjzjxu3ceyca60wsje6asx": "HYPE PulsarLock"
+    },
+    "social": {
+        "blog": "https://medium.com/@superrarebears",
+        "twitter": "https://twitter.com/hype_lfg",
+        "telegram": "https://t.me/SRBhype",
+        "coingecko": "https://www.coingecko.com/en/coins/superrarebears-hype"
+    }
+}

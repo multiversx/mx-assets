@@ -1,0 +1,22 @@
+{
+  "website": "https://dustybones.xyz/",
+  "description": "Token from the Shadow Lands game of the Dusty Bones community.",
+  "social": {
+    "twitter": "https://twitter.com/DBones_mvx",
+    "discord": "https://discord.com/invite/B5bYnvjFDP",
+    "whitepaper": "https://whitepaper.dustybones.xyz/"
+  },
+  "lockedAccounts": {
+    "erd1qqqqqqqqqqqqqpgqw02egr4v4wwmaxw7t98ekpyyde4l0g6l3u4s07nfsa": "Team",
+    "erd1hkr89plnuz6drjpy9x3w0hxmdd54n5n9d7s03gxz8yyrva4c3u4sw80sme": "Development",
+    "erd1qqqqqqqqqqqqqpgq6px7uzxhcsagfkguf269kj937dg766282krscvp908": "Stake SL",
+    "erd1qqqqqqqqqqqqqpgqc4s83k0ut7c2p6v3rqlddz4wtz7djhq42krs0m3afj": "Market SL",
+    "erd1qqqqqqqqqqqqqpgqwyxk57xdunghh8cyefwgdzm38wmrlzf62krsz63ft6": "Market DB",
+    "erd1qqqqqqqqqqqqqpgql9z9vm8d599ya2r9seklpkcas6qmude4mvlsgrj7hv": "Stake One Dex",
+    "erd1qqqqqqqqqqqqqpgq5774jcntdqkzv62tlvvhfn2y7eevpty6mvlszk3dla": "Farm One Dex",
+    "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc": "LP One Dex",
+    "erd1qqqqqqqqqqqqqpgqvpthalhn9kcp97gpu6dlkgp8vwqtxa9y2jps2pseau": "LP xEchange"
+  },
+  "extraTokens": ["DUSTWEGLD-a8871a", "DUSTWEGLD-5036b0"],
+  "status": "active"
+}
