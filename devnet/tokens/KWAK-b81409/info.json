@@ -1,8 +1,8 @@
 {
-    "social": {
-        "twitter": "https://twitter.com/kwakdotlol"
-    },
     "website": "https://kwak.lol",
     "description": "HELLO MADAFAKA AM KWAK",
-    "status": "active"
+    "status": "active",
+    "social": {
+        "twitter": "https://twitter.com/kwakdotlol"
+    }
 }
