@@ -4,5 +4,9 @@
         "social":{
            "twitter":"https://twitter.com/SenseiEcosystem"
         },
+        "lockedAccounts": {
+    "erd1jkmk39ts4glsl5tj2ta4qcgt5c60yqv6stgfljmvnwsayhaxyypq3nwjnk": "CrossChain Marketing",
+    "erd13qcj5eck4wrztdrt6cumgnsr4x930efha7v0r8lmx2aa3sqp6lwstwhmaz": "Team Tokens"
+  },
         "status":"active"
      }
