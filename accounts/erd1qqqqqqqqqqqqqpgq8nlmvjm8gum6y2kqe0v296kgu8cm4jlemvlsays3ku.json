@@ -1,6 +1,16 @@
 {
   "name": "OneDex: Boosted Staking",
   "description": "Decentralized Exchange Made For Everybody",
+  "social": {
+    "website": "https://onedex.app",
+    "twitter": "https://twitter.com/OneDex_X",
+    "whitepaper": "https://onedex-docs.gitbook.io/onedex-docs",
+    "telegram": "https://t.me/one_dex_multiversx",
+    "youtube": "https://youtube.com/@OneDex_X",
+    "reddit": "https://www.reddit.com/r/OneDex",
+    "blog": "https://medium.com/@onedexapp",
+    "gmail": "onedex@onedex.app"
+  },
   "tags": [
     "exchange",
     "boosted",
