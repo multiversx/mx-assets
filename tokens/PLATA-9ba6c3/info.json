@@ -1,6 +1,7 @@
 {
   "website": "https://plata.network",
   "description": "The PLATA Token powers the entire Plata Network ecosystem. Pioneer MultiversX Token",
+  "ledgerSignature": "304402203f5ed82a4d2dd6d44799a647c134b63574335a9714cde5f998d153bd4f1e3d22022010154f89087af6bfdf1036467b5fdbc3b747c1e5386637d5b72e8e9309b16498",
   "social": {
     "whitepaper": "https://plata.network/whitepaper",
     "twitter": "https://twitter.com/platanetwork",
