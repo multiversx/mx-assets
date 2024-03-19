@@ -1,0 +1,16 @@
+{
+    "name": "MultiFights: Game",
+    "description": "",
+    "social": {
+      "website": "https://www.multi-fights.com",
+      "blog": "https://medium.com/@multifights",
+      "twitter": "https://twitter.com/MultiFights",
+      "whitepaper": "https://whitepaper.multi-fights.com/overview/introduction",
+      "discord": "https://discord.gg/du8urb6pd6"
+    },
+    "tags":
+    [
+    "multifights",
+    "game"
+    ]
+}
