@@ -1,0 +1,18 @@
+{
+  "name": "MateriaPrima: Gem Cutter",
+  "description": "Gem Cutter is a SC that allows users to convert element dust and raw gems for resources in the MateriaPrima game.",
+  "social": {
+    "website": "https://www.materiaprimanft.com",
+    "email": "contact@materiaprimanft.com",
+    "twitter": "https://twitter.com/MateriaPrimaNFT",
+    "discord": "https://discord.gg/un6hgVdg",
+    "telegram": "https://t.me/MateriaPrimaNFT"
+  },
+  "tags": [
+    "materiaprima",
+    "gemcutter",
+    "resources",
+    "crafting"
+  ],
+  "icon": "materiaprima"
+}
