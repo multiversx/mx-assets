@@ -1,6 +1,17 @@
 {
   "name": "Krogan: Spaceship",
   "description": "Dynamic attributes ( register and upgrade nfts attributes )",
+  "social": {
+    "website": "https://krogancoin.com",
+    "email": "contact@krogancoin.com",
+    "twitter": "https://twitter.com/KroganCoin",
+    "whitepaper": "https://whitepaper.krogancoin.com",
+    "blog": "https://krogancoin.medium.com",
+    "discord": "http://discord.gg/9JvyyaYyTZ",
+    "telegram": "https://t.me/krogancommunity",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/krogan",
+    "commmunity": "https://egld.community/projects/krogan"
+  },
   "tags": [
     "krogan",
     "spaceship"
