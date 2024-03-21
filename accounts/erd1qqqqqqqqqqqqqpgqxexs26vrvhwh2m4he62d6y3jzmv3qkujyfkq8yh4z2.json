@@ -1,0 +1,13 @@
+{
+  "name": "xBridge: Ethereum Multisig",
+  "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
+  "tags": [
+    "xbridge",
+    "ethereum",
+    "multisig"
+  ],
+  "icon": "multiversx"
+}
