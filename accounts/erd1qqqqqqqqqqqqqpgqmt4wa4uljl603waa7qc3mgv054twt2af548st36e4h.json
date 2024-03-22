@@ -1,6 +1,17 @@
 {
   "name": " BHero: SFITLEGEND NFTs Launch",
   "description": "",
+  "social": {
+    "website": "https://bh.network/nft",
+    "blog": "https://blog.bhero.com",
+    "twitter": "https://twitter.com/BlackHatNetwork",
+    "whitepaper": "https://bh.network/nft-litepaper.pdf",
+    "telegram": "https://t.me/bhnetwork",
+    "linkedin": "https://www.linkedin.com/company/bhnetwork",
+    "youtube": "https://www.youtube.com/@bhnetwork",
+    "facebook": "https://www.facebook.com/BHNetworkToken",
+    "discord": "https://discord.gg/bhnetwork"
+  },
   "tags": [
     "bhero",
     "sfitlegend",
