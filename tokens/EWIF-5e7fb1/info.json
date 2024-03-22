@@ -1,8 +1,8 @@
 {
-    "social": {
-        "twitter": "https://twitter.com/ElrondWifHat"
-    },
     "website": "https://twitter.com/ElrondWifHat",
     "description": "Elrond wif a hat",
-    "status": "active"
+    "status": "active",
+    "social": {
+        "twitter": "https://twitter.com/ElrondWifHat"
+    }
 }
