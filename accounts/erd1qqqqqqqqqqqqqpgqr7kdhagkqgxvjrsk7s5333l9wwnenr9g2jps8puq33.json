@@ -1,6 +1,17 @@
 {
   "name": "ZoidPay: Staking 9 (Metastaking) ",
   "description": "",
+  "social": {
+    "website": "https://zoidpay.com/personal/zoidplay",
+    "twitter": "https://twitter.com/ZoidPay",
+    "instagram": "https://www.instagram.com/zoidpay",
+    "telegram": "https://t.me/zoidpay",
+    "discord": "https://discord.gg/FpFjBcw9Y9",
+    "youtube": "https://www.youtube.com/channel/UC4p8OLV3bXetDx76sAIlx5g",
+    "facebook": "https://www.facebook.com/zoidcoinnetwork",
+    "linkedin": "https://www.linkedin.com/company/zoidpay",
+    "tiktok": "https://www.tiktok.com/@zoidpay"
+  },
   "tags": [
     "zoidpay",
     "staking9",

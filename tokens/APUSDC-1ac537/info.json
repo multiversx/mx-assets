@@ -1,0 +1,13 @@
+{
+  "website": "https://ashperp.trade",
+  "description": "apUSDC is an yield-bearing token that LPs receive when staking USDC to AshPerp Perpetual Vault.",
+  "social": {
+    "email": "hello@ashswap.io",
+    "blog": "https://medium.com/@ashswap",
+    "twitter": "https://twitter.com/ash_perp",
+    "telegram": "https://t.me/ash_swap",
+    "discord": "https://discord.gg/apmhYCPDbW"
+  },
+  "status": "active",
+  "extraTokens": []
+}
