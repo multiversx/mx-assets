@@ -22,14 +22,17 @@ jobs:
         uses: jitterbit/get-changed-files@v1
         run: |
           source .github/snippet.sh ; validate_file_size ${{ steps.files.outputs.added_modified }}
+      - id: files
       - name: Validate filenames
         uses: jitterbit/get-changed-files@v1
         run: |
           source .github/snippet.sh ; validate_filenames ${{ steps.files.outputs.added_modified }}
+      - id: files
       - name: Validate png dimensions
         uses: jitterbit/get-changed-files@v1
         run: |
           source .github/snippet.sh ; validate_png_dimensions ${{ steps.files.outputs.added_modified }}
+      - id: files
       - name: Validate svg square
         uses: jitterbit/get-changed-files@v1
         run: |
