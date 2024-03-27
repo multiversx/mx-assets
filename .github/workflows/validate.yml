@@ -18,7 +18,7 @@ jobs:
         run: |
           echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
       - id: files
-      - uses: jitterbit/get-changed-files@v1
+        uses: jitterbit/get-changed-files@v1
       - name: Validate file size
         run: |
           source .github/snippet.sh ; validate_file_size ${{ steps.files.outputs.added_modified }}
