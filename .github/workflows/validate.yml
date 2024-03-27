@@ -20,19 +20,19 @@ jobs:
       - id: files
       - name: Validate file size
         uses: jitterbit/get-changed-files@v1
-      - run: |
+        run: |
           source .github/snippet.sh ; validate_file_size ${{ steps.files.outputs.added_modified }}
       - name: Validate filenames
         uses: jitterbit/get-changed-files@v1
-      - run: |
+        run: |
           source .github/snippet.sh ; validate_filenames ${{ steps.files.outputs.added_modified }}
       - name: Validate png dimensions
         uses: jitterbit/get-changed-files@v1
-      - run: |
+        run: |
           source .github/snippet.sh ; validate_png_dimensions ${{ steps.files.outputs.added_modified }}
       - name: Validate svg square
         uses: jitterbit/get-changed-files@v1
-      - run: |
+        run: |
           source .github/snippet.sh ; validate_svg_square ${{ steps.files.outputs.added_modified }}
       - name: Validate token existence
         run: |
