@@ -71,7 +71,7 @@ validate_png_dimensions() {
 }
 
 validate_token_existence() {
-  urls=( "https://api.multiversx.com/" "https://testnet-api.elrond.com/" "https://devnet-api.elrond.com/")
+  urls=( "https://api.multiversx.com/" "https://testnet-api.multiversx.com/" "https://devnet-api.multiversx.com/")
   for url in ${urls[@]}; do
     API_TOKEN_URL="$url" 
     API_TOKEN_URL+="tokens/"
