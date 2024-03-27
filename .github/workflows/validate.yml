@@ -17,6 +17,7 @@ jobs:
       - name: Collecting file paths
         run: |
           echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
+      - id: files
       - uses: jitterbit/get-changed-files@v1
       - name: Validate file size
         run: |
