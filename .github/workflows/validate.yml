@@ -11,30 +11,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+      - uses: jitterbit/get-changed-files@v1
       - name: Install Dependencies
         run: |
           sudo apt install imagemagick-6.q16
       - name: Collecting file paths
         run: |
           echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
-      - id: files
       - name: Validate file size
-        uses: jitterbit/get-changed-files@v1
         run: |
           source .github/snippet.sh ; validate_file_size ${{ steps.files.outputs.added_modified }}
-      - id: files
       - name: Validate filenames
-        uses: jitterbit/get-changed-files@v1
         run: |
           source .github/snippet.sh ; validate_filenames ${{ steps.files.outputs.added_modified }}
-      - id: files
       - name: Validate png dimensions
-        uses: jitterbit/get-changed-files@v1
         run: |
           source .github/snippet.sh ; validate_png_dimensions ${{ steps.files.outputs.added_modified }}
-      - id: files
       - name: Validate svg square
-        uses: jitterbit/get-changed-files@v1
         run: |
           source .github/snippet.sh ; validate_svg_square ${{ steps.files.outputs.added_modified }}
       - name: Validate token existence
