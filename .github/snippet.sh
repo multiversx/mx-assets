@@ -2,6 +2,7 @@ DIR=""
 
 validate_filenames() {
   for file in "$@"; do
+    echo "Checking filename for $file"
     if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* && ${file} != *"accounts/"* && ${file} != *".github/"* && ${file} != *"/ranks.json"* && ${file} != *"README.md"* ]]; then
       echo "Filename ${file} isn't expected!"
       exit 1
@@ -14,6 +15,7 @@ validate_filenames() {
 validate_file_size() {
   SIZE_LIMIT=100
   for file in "$@"; do
+    echo "Checking file size for $file"
     if [[ ${file} == *"/logo.svg"* || ${file} == *"/logo.svg"* ]]; then
       file_size_blocks=$(ls -sh ${file} | grep -o -E '^[0-9]+')
       file_size_kb=$(expr ${file_size_blocks} / 2)
@@ -28,6 +30,7 @@ validate_file_size() {
 
 validate_svg_square() {
   for file in "$@"; do
+    echo "Checking if SVG is square for $file"
     if [[ ${file} == *"/logo.svg"* ]]; then
       view_box=$(cat $file | grep -E " viewBox" | grep -E -o "(([0-9]*\.[0-9]+|[0-9]+) ){3,3}([0-9]*\.[0-9]+|[0-9]+)" | head -1)
 
@@ -54,6 +57,7 @@ validate_svg_square() {
 validate_png_dimensions() {
   EXPECTED_PNG_DIMENSIONS="200 x 200"
   for file in "$@"; do
+    echo "Checking PNG dimensions for $file"
     if [[ ${file} == *"/logo.png"* && (${file} == *"identities/"* || ${file} == *"tokens/"*) ]]; then
       png_dimensions=$(file $file | grep -E -o "[0-9]+ x [0-9]+" | head -1)
 
