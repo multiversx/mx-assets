@@ -20,14 +20,22 @@ jobs:
           echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
         shell: bash
       - id: files
-        name: Validate files
+        name: Validate file size
         uses: jitterbit/get-changed-files@v1
       - run: |
           source .github/snippet.sh ; validate_file_size ${{ steps.files.outputs.added_modified }}
-          source .github/snippet.sh ; validate_filenames ${{ steps.files.outputs.added_modified }}
-          source .github/snippet.sh ; validate_png_dimensions ${{ steps.files.outputs.added_modified }}
-          source .github/snippet.sh ; validate_svg_square ${{ steps.files.outputs.added_modified }}
         shell: bash
+        name: Validate filenames
+      - run: |
+          source .github/snippet.sh ; validate_filenames ${{ steps.files.outputs.added_modified }}
+        shell: bash
+        name: Validate png dimensions
+      - run: |
+          source .github/snippet.sh ; validate_png_dimensions ${{ steps.files.outputs.added_modified }}
+        shell: bash
+        name: Validate svg square
+      - run: |
+          source .github/snippet.sh ; validate_svg_square ${{ steps.files.outputs.added_modified }}
       - name: Validate token existence
         run: |
           source .github/snippet.sh; validate_token_existence

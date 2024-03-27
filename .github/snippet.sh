@@ -2,6 +2,7 @@ DIR=""
 
 validate_filenames() {
   for file in "$@"; do
+    echo "Checking file $file"
     if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* && ${file} != *"accounts/"* && ${file} != *".github/"* && ${file} != *"/ranks.json"* && ${file} != *"README.md"* ]]; then
       echo "Filename ${file} isn't expected!"
       exit 1
@@ -14,6 +15,7 @@ validate_filenames() {
 validate_file_size() {
   SIZE_LIMIT=100
   for file in "$@"; do
+    echo "Checking file size for $file"
     if [[ ${file} == *"/logo.svg"* || ${file} == *"/logo.svg"* ]]; then
       file_size_blocks=$(ls -sh ${file} | grep -o -E '^[0-9]+')
       file_size_kb=$(expr ${file_size_blocks} / 2)
