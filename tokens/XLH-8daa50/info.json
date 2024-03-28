@@ -1,12 +1,17 @@
 {
-  "website": "https://x-launcher.com/",
-  "description": "A Decentralized Launchpad Platform built on Elrond Blockchain where the future projects will be launched.",
-  "ledgerSignature": "",
+  "website": "https://app.x-launcher.com/",
+  "description": "Decentralized Launchpad on #MultiversX and DeFi Suite, meant to enrich and enlarge the Ecosystem capabilities, prioritizing the Community!",
   "social": {
-    "twitter": "https://twitter.com/XLauncher2022",
-    "whitepaper": "https://x-launcher.com/files/Litepaper.pdf",
-    "coinmarketcap": "",
-    "coingecko": ""
+    "twitter": "https://twitter.com/XLauncher_",
+    "telegram": "https://t.me/XLauncherChat",
+    "whitepaper": "https://x-launcher.com/files/Whitepaper.pdf",
+    "medium": "https://medium.com/@xlauncher"
   },
-  "status": "active"
+  "status": "active",
+  "lockedAccounts": {
+    "erd1xa39h8q20gy25449vw2qt4dm38pp3nnxp7kzga2pt54z4u2rgjlqadlgdl": "XLauncher Main Wallet",
+    "erd1qqqqqqqqqqqqqpgqqnm3x37972323nuv3l3kywev0n8q5n6gyc8qwljqz9": "CoinDrip: Team + FarmOwners",
+    "erd1r8fd08v02ggvf5mprd9uyadx850vl4t4aup979me0nqxp5skxspqja88pn": "Marketing",
+    "erd1qqqqqqqqqqqqqpgqvpkd3g3uwludduv3797j54qt6c888wa59w2shntt6z": "XOXNO: Staking XLHOrigins"
+  }
 }

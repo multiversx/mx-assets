@@ -1,0 +1,10 @@
+{
+    "website": "https://pub-devnet.cryptgain.com",
+    "description": "GToken is the Governance token on CryptGain and CryptGain Partner Projects (CPPs). It is based on cryptgains. Usage in governance is in combination with Aku NFT.",
+    "status": "active",
+    "social": {
+        "blog": "https://stakeafrik.com/blog",
+        "twitter": "https://x.com/CryptGainSA"
+    },
+    "extraTokens": ["XCR-010281", "CEGLD-b22b50", "AKU-9bac6d"]
+}
