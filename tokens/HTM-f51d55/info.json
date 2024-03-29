@@ -10,7 +10,8 @@
   },
   "lockedAccounts": {
     "erd1y5ytj48d9cd9rvgzk7zkth0gerywu2s6y0tpg23c9rrhhg50dtestnvh79": "Minter Account",
-    "erd1qqqqqqqqqqqqqpgq39rqpn2xvm0ykl2ccaa4h5zk5c9r647wdteswmap9l": "Investors Vesting"
+    "erd1qqqqqqqqqqqqqpgq39rqpn2xvm0ykl2ccaa4h5zk5c9r647wdteswmap9l": "Investors Vesting",
+    "erd1qqqqqqqqqqqqqpgq4hl5hdvvxtm987nw5vtczgm8y89ra2hndteshlehgs": "Token Vesting"
   },
   "status": "active"
 }
