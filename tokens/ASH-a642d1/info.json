@@ -1,0 +1,25 @@
+{
+  "website": "https://ashswap.io",
+  "description": "AshSwap is the first stable-swap DEX built on the MultiversX blockchain that allows users to trade stable assets with high volume and small slippage.",
+  "ledgerSignature": "30450221009c58ae35af3a770221bd6e1fd8ad023d23e49e52cbca64f1a225c497935ee30402203fc97dae339a44872bc0415e684c35e0990720ba977ce6dabebfe72e6dc3759a",
+  "social": {
+    "email": "hello@ashswap.io",
+    "blog": "https://medium.com/@ashswap",
+    "twitter": "https://twitter.com/ash_swap",
+    "telegram": "https://t.me/ash_swap",
+    "discord": "https://discord.gg/apmhYCPDbW"
+  },
+  "status": "active",
+  "lockedAccounts": {
+    "erd1w280yjym0xc2aw80dvn2a4ew5vzvtshtr8nux8wa5wzqm78y7nvsq0ktun": "Locked Account #1"
+  },
+  "extraTokens": [
+    "ASHWEGLD-38545c",
+    "METAASHLK-ef49bd",
+    "METAASH-05e858",
+    "SASH-3671bd",
+    "ASHWEGLDFL-cf0194",
+    "ASHWEGLDF-092a4e",
+    "LKASH-10bd00"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "website": "https://liquid.staking.agency",
+  "description": "This is the Liquid EGLD token of SALSA - Staking Agency Liquid Staking Algorithm.",
+  "ledgerSignature": "304402200f7121218e85c5791f28de259d3fa3ee74a8baf186e0aa17c338ba4fa0c10a840220748039df70e1df36914b8e1481cad0ad0a9944773f878f0df67686acb33836f7",
+  "social": {
+    "email": "contact@staking.agency",
+    "blog": "https://medium.com/@staking.agency",
+    "twitter": "https://twitter.com/staking_agency"
+  },
+  "status": "active"
+}
