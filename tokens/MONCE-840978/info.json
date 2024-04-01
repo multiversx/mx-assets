@@ -1,8 +1,9 @@
 {
-    "social": {
-        "twitter": "https://twitter.com/BonjamenMonce"
-    },
-    "website": "https://twitter.com/BonjamenMonce",
+    "website": "https://bonjamenmonce.com/",
     "description": "Beniamin Mincu parody meme token",
-    "status": "active"
+    "status": "active",
+    "social": {
+        "twitter": "https://twitter.com/BonjamenMonce",
+        "telegram": "https://t.me/BonjamenMonce"
+    }
 }
