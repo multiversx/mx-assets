@@ -1,0 +1,10 @@
+{
+    "name": "JEXchange: WETH-WEGLD LP",
+    "description": "",
+    "tags": [
+      "jexchange",
+      "liquidity",
+      "swap"
+    ],
+    "icon": "jexchange"
+  }

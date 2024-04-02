@@ -1,5 +1,24 @@
 {
-	"name": "Pulsar Money - Smart Payments Hub [Social Pay]",
-	"description": "Pulsar Money is a Smart Payments Hub reshaping on-chain payments through advanced transfer modules. Among them, Social Payments brings the convenience of social media to digital payments, while enabling transfers over social media channels.",
-	"tags": ["community", "pulsarmoney", "payments", "smart", "ecosystem", "pulsar", "hub", "social", "transfers"]
+  "name": "Pulsar Money - Smart Payments Hub [Social Pay]",
+  "description": "Pulsar Money is a Smart Payments Hub reshaping on-chain payments through advanced transfer modules. Among them, Social Payments brings the convenience of social media to digital payments, while enabling transfers over social media channels.",
+  "social": {
+    "website": "https://www.pulsar.money",
+    "twitter": "https://twitter.com/PulsarMoneyApp",
+    "reddit": "https://www.reddit.com/user/pulsarmoney",
+    "telegram": "https://t.me/PulsarMoney",
+    "discord": "https://discord.com/invite/UyMvcWnz",
+    "youtube": "https://www.youtube.com/channel/UCLeUlyFSUA1c7_DVQlgaxrQ"
+  },
+  "website": "https://www.pulsar.money/",
+  "tags": [
+    "community",
+    "pulsarmoney",
+    "payments",
+    "smart",
+    "ecosystem",
+    "pulsar",
+    "hub",
+    "social",
+    "transfers"
+  ]
 }

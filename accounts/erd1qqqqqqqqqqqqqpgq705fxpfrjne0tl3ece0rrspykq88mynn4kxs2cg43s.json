@@ -1,6 +1,13 @@
 {
   "name": "Frame It: Marketplace",
   "description": "Smart contract of Frame It Marketplace",
+  "social": {
+    "website": "https://www.frameit.gg",
+    "twitter": "https://twitter.com/frameitnft",
+    "whitepaper": "https://frameit.azureedge.net/media/Whitepaper_FrameIt.pdf",
+    "discord": "https://discord.com/invite/kvdH55qBsP",
+    "commmunity": "https://egld.community/projects/frame-it"
+  },
   "tags": [
     "marketplace"
   ]
