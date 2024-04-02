@@ -1,5 +1,8 @@
 {
-    "website": "https://twitter.com/Artificial_AIX",
-    "description": "AIX represents the token of the Artificial Intelligence X project, an initiative dedicated to the development of non-fungible token (NFT) collections through artificial intelligence technology.",
-    "status": "active"
+    "website": "https://www.multiversaix.com/",
+    "description": "AIX, the meme token developed on MultiversX, with daily rewards for the MultiversX community!  Don't miss out on the fun and rewards",
+    "status": "active",
+    "social": {
+        "twitter": "https://twitter.com/MultiverseAIX"
+    }
 }
