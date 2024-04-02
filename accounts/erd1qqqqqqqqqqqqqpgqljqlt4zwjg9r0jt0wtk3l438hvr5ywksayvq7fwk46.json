@@ -1,0 +1,15 @@
+{
+  "name": "Rug Royalties",
+  "description": "Rug (sell) your NFTs in exchange for a return. Claim tax losses and enter monthly raffles.",
+  "social": {
+    "website": "https://rug.divergentclub.xyz",
+    "twitter": "https://twitter.com/DivergentClub_",
+    "discord": "https://discord.gg/ProjectX-DAO"
+  },
+  "tags": [
+    "smartcontract",
+    "dapp",
+    "projectx"
+  ],
+  "icon": "rugroyalties"
+}

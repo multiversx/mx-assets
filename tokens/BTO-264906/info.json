@@ -8,7 +8,12 @@
         "telegram": "https://t.me/BurnToOne"
     },
     "lockedAccounts": {
-        "erd1rhdsmz4ag4vnkj85gk7q8j5erpzy3f9szyd0ap8ksdgk42xd23dq7jwdsa": "BTO Treasury"
+        "erd1rhdsmz4ag4vnkj85gk7q8j5erpzy3f9szyd0ap8ksdgk42xd23dq7jwdsa": "BTO Treasury",
+        "erd1qqqqqqqqqqqqqpgqxetccmv9rjefu2fwtw7a6kkx0tsqtqxpp4ssj8shz4": "SC Burnify"
     },
+    "extraTokens": [
+        "BTOWEGLD-7a8ff5",
+        "BTOWEGLD-d28cc6"
+    ],
     "status": "active"
 }

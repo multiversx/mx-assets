@@ -1,0 +1,18 @@
+{
+  "website": "https://www.elrondducks.io/",
+  "description": "The Bills token is the utility token of The Ducks in MultiversX",
+  "social": {
+    "email": "deadduck@gmail.com",
+    "twitter": "https://twitter.com/ElrondDucks",
+    "whitepaper": "https://medium.com/@theDucks/",
+    "side": "https://side.xyz/the-ducks",
+    "discord": "https://discord.com/invite/elrond-ducks-904813868138778715",
+    "youtube": "https://www.youtube.com/@ElrondDucks",
+    "tiktok": "https://www.tiktok.com/@ElrondDucks",
+    "merch": "https://elrondducks.threadless.com/"
+  },
+  "lockedAccounts": {
+    "erd1qck4cp7833h88gg7rq6q4w0fnvf3g33v499609z9ehjhqg9uxuhs0zkjpv": "Team"
+  },
+  "status": "active"
+}
