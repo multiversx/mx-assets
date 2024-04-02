@@ -1,8 +1,11 @@
 {
-  "name": "Ad Astra Portal: Ethereum MultiTransfer",
+  "name": "xBridge: Ethereum MultiTransfer",
   "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
   "tags": [
-    "adastra",
+    "xbridge",
     "ethereum",
     "multitransfer"
   ],

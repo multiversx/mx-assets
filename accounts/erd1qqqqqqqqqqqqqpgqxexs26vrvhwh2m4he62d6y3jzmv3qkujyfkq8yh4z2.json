@@ -1,8 +1,11 @@
 {
-  "name": "Ad Astra Portal: Ethereum Multisig",
+  "name": "xBridge: Ethereum Multisig",
   "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
   "tags": [
-    "adastra",
+    "xbridge",
     "ethereum",
     "multisig"
   ],

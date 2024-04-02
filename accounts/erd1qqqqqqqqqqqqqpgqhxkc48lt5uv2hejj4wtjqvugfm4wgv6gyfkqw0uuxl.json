@@ -1,8 +1,11 @@
 {
-  "name": "Ad Astra Portal: Ethereum Safe",
+  "name": "xBridge: Ethereum Safe",
   "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
   "tags": [
-    "adastra",
+    "xbridge",
     "ethereum",
     "safe"
   ],

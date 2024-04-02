@@ -1,8 +1,11 @@
 {
-  "name": "Ad Astra Portal: Tokens wrapper",
+  "name": "xBridge: Tokens Wrapper",
   "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
   "tags": [
-    "adastra",
+    "xbridge",
     "tokens",
     "wrapper"
   ],
