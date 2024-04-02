@@ -1,5 +1,10 @@
 {
-    "name": "Colombia Staking",
-    "description": "first staking provider in Colombia",
+    "name": "UnitedGroupCapital",
+    "description": "UnitedGroupCapital provides Staking Services, Secured Network and the smart way to invest your EGLD !",
+    "website": "https://unitedgroup.capital/",
+    "social": {
+        "blog": "",
+        "twitter": "https://twitter.com/unitedstaking"
+    },
     "tags": []
 }
