@@ -1,4 +1,4 @@
-name: Check identities signature
+name: Check assets ownership
 
 permissions:
   contents: read
@@ -14,5 +14,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ADMIN_ADDRESS: ${{ secrets.ADMIN_ADDRESS }}
-
-

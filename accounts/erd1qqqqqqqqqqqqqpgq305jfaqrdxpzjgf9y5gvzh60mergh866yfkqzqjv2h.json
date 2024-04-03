@@ -1,6 +1,9 @@
 {
   "name": "xBridge: Tokens Wrapper",
   "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
   "tags": [
     "xbridge",
     "tokens",
