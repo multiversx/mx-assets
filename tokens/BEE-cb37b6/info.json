@@ -1,6 +1,7 @@
 {
     "website": "https://globees.fr",
     "description": "Ecologically responsible and sustainable vacation rentals powered by web3",
+    "ledgerSignature": "3045022100becf317b371b3f4c9b388ad85e82e36051f1501a788a448cda5db6cf3b9cc44d022045f5fbef13e07a2af9b0c54946fb0920d8b5c25cdf768e77c6fd33d72c98375e",
     "social": {
         "twitter": "https://twitter.com/Globees_Project",
         "whitepaper": "https://globees.fr/whitepaper-globees"

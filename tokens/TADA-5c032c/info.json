@@ -1,0 +1,15 @@
+{
+  "website": "https://ta-da.io/",
+  "description": "TADA is the utility token of Ta-da, a platform that organizes crowds of users around your needs, providing high-quality data at a fair price with ethical Human In The Loop processes.",
+  "ledgerSignature": "30450221008a20c0737671529f4b1b718de4ca7f295e3fea4a9aab7ad20f603e8b32a64c2902201fe1316a9edb548660b9848b4765c9d11d6e6f3ef607390c4e82420ee6a26444",
+  "status": "active",
+  "social": {
+    "twitter": "https://twitter.com/Ta_da_io",
+    "whitepaper": "https://docs.ta-da.io/introduction/overview"
+  },
+  "lockedAccounts": {
+    "erd1qqqqqqqqqqqqqpgq2jjxnsa025me89a4pe5az9dujz28us7t60wsz3mcxs": "Vesting",
+    "erd1qqqqqqqqqqqqqpgqp8v47r80n2see9a2g77j3qm56gyz279aa7aq460szc": "Launchpad",
+    "erd1ec8xj629h55d7v7s6fz39h690vk9zs5dvdxk8lp4ct9k6vhgttuqaaj34x": "Token"
+  }
+}
