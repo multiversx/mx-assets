@@ -1,6 +1,18 @@
 {
   "name": "Giants: Potions Minter",
   "description": "",
+  "social": {
+    "website": "https://giantsvillage.com",
+    "email": "contact@elrondgiants.com",
+    "blog": "https://blog.giantsvillage.com",
+    "twitter": "https://twitter.com/GiantsVillageweb",
+    "discord": "https://discord.gg/v23VU2Pw6h",
+    "whitepaper": "https://whitepaper.giantsvillage.com/usdgiant-token",
+    "instagram": "https://www.instagram.com/ElrondGiants",
+    "telegram": "https://t.me/thegiantsvillage",
+    "tiktok": "https://www.tiktok.com/@elrondgiants",
+    "facebook": "https://www.facebook.com/elrondgiants"
+  },
   "tags": [
     "giants",
     "potions",
