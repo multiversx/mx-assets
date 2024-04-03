@@ -1,6 +1,7 @@
 {
   "website": "https://xexchange.com",
   "description": "DAI stablecoin originating on Ethereum, bridged as an ESDT token on MultiversX. 1 DAI = 1 WrappedDAI",
+  "ledgerSignature": "3044022022bfd740e0858b2fa77bcecbbeb5b58d23776887ff3fde7969f17a9ebc25305702207482cd48cd36a7f611240955bdfc3ad3b5f86576f69a4b120c8cad156e127dbb",
   "status": "active",
   "priceSource": {
     "type": "dataApi"
