@@ -1,6 +1,6 @@
 {
-  "name": "PeerMe: Orcas gg",
-  "description": "Gamers at heart and strategic investors at mind, we aspire to become the largest Gaming Hub/Guild from MVX, a community-governed organization that focuses to build a sustainable virtual world economy",
+  "name": "PeerMe: MEME Revolution DAO",
+  "description": "The DAO for the MEME Revolution on MultiversX\u2122",
   "social": {
     "website": "https://peerme.io",
     "email": "hello@peerme.io",
@@ -16,7 +16,8 @@
   "tags": [
     "peerme",
     "dao",
-    "governance"
+    "governance",
+    "midas"
   ],
   "icon": "peerme"
 }
