@@ -1,0 +1,11 @@
+{
+    "social": {
+        "twitter": "https://twitter.com/BurnToOne"
+    },
+    "website": "https://bto.gitbook.io/burn-to-one",
+    "description": "BTTM is the reward token for BTO liquidity providers. The goal, as the name suggests, is for it to be burned until only 10 million tokens remain.",
+    "lockedAccounts": {
+        "erd1rhdsmz4ag4vnkj85gk7q8j5erpzy3f9szyd0ap8ksdgk42xd23dq7jwdsa": "Treasury"
+    },
+    "status": "active"
+}
