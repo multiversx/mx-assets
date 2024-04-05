@@ -9,7 +9,8 @@
     },
     "lockedAccounts": {
         "erd1rhdsmz4ag4vnkj85gk7q8j5erpzy3f9szyd0ap8ksdgk42xd23dq7jwdsa": "BTO Treasury",
-        "erd1qqqqqqqqqqqqqpgqxetccmv9rjefu2fwtw7a6kkx0tsqtqxpp4ssj8shz4": "SC Burnify"
+        "erd1qqqqqqqqqqqqqpgqxetccmv9rjefu2fwtw7a6kkx0tsqtqxpp4ssj8shz4": "SC Burnify",
+        "erd1qqqqqqqqqqqqqpgqrq6gv0ljf4y9md42pe4m6mh96hcpqnpuusls97tf33": "SC NFT Staking"
     },
     "extraTokens": [
         "BTOWEGLD-7a8ff5",
