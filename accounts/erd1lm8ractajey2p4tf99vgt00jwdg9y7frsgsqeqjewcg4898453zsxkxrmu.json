@@ -11,8 +11,8 @@
   "tags": [
     "owner",
     "control",
-	"system",
-	"deploy"
+    "system",
+    "deploy"
   ],
   "icon": "quasar"
 }
