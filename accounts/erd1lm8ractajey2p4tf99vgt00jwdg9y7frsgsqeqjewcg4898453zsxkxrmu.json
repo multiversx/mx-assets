@@ -3,10 +3,10 @@
   "description": "The owner address, which holds control over the $QUASAR token smart contracts.",
   "social": {
     "website": "https://quasar-mvx.com/",
-	"whitepaper": "https://docs.quasar-mvx.com/",
-	"twitter": "https://twitter.com/quasar_mvx",
+    "whitepaper": "https://docs.quasar-mvx.com/",
+    "twitter": "https://twitter.com/quasar_mvx",
     "telegram": "https://t.me/+vufLg36aeSE0Mzg8",
-	"github": "https://github.com/QuasarMvX"
+    "github": "https://github.com/QuasarMvX"
   },
   "tags": [
     "owner",
