@@ -6,5 +6,10 @@
         "blog": "https://medium.com/@buidly/memeversx-47fcb591c22e",
         "twitter": "https://twitter.com/memevers_x"
     },
-    "tags": ""
+    "tags": [
+        "memeversx",
+        "fairlaunch",
+        "factory"
+    ],
+    "icon": "memeversx"
 }
