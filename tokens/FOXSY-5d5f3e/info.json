@@ -9,8 +9,7 @@
         "whitepaper": "https://project.docs.foxsy.ai"
     },
     "lockedAccounts": {
-        "erd1m767j3xs0e53kxr797rwl4pchydatcyqu3v09tl8202samrz6cys8rezef": "Token"
-        "erd1qqqqqqqqqqqqqpgqm4kf7968pxm0r9v33wzf4aqtzlk6ypnr6qlsx44wxa": "Vesting",
+        "erd1m767j3xs0e53kxr797rwl4pchydatcyqu3v09tl8202samrz6cys8rezef": "Token",
+        "erd1qqqqqqqqqqqqqpgqm4kf7968pxm0r9v33wzf4aqtzlk6ypnr6qlsx44wxa": "Vesting"
     },
 }
-
