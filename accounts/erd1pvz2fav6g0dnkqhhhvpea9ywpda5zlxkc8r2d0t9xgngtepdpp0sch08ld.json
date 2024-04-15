@@ -1,6 +1,6 @@
 {
-  "name": "Quasar CC: Control Core",
-  "description": "The owner address, which holds control over the $QUASAR token smart contracts.",
+  "name": "Quasar LCV: Liquid Control Vault",
+  "description": "This specialized address facilitates the availability of funds required for trading and contributes to the enhancement of $QUASAR token liquidity.",
   "social": {
     "website": "https://quasar-mvx.com/",
     "whitepaper": "https://docs.quasar-mvx.com/",
@@ -9,10 +9,8 @@
     "github": "https://github.com/QuasarMvX"
   },
   "tags": [
-    "owner",
-    "control",
-    "system",
-    "deploy"
+    "liquidity",
+    "vault"
   ],
   "icon": "quasar"
 }

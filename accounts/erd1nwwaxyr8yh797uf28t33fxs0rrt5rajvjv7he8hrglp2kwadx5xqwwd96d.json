@@ -1,6 +1,6 @@
 {
-  "name": "Quasar CC: Control Core",
-  "description": "The owner address, which holds control over the $QUASAR token smart contracts.",
+  "name": "Quasar RFFT: Reserve Funds & Future listings",
+  "description": "The funds in this portfolio are strategically managed to ensure adequate reserves for unforeseen events and to support our growth and innovation initiatives.",
   "social": {
     "website": "https://quasar-mvx.com/",
     "whitepaper": "https://docs.quasar-mvx.com/",
@@ -9,10 +9,8 @@
     "github": "https://github.com/QuasarMvX"
   },
   "tags": [
-    "owner",
-    "control",
-    "system",
-    "deploy"
+    "reserve",
+    "listings"
   ],
   "icon": "quasar"
 }

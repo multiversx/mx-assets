@@ -1,6 +1,6 @@
 {
-  "name": "Quasar CC: Control Core",
-  "description": "The owner address, which holds control over the $QUASAR token smart contracts.",
+  "name": "Quasar SN: Strategic Nexus",
+  "description": "Strategic partnerships, financial management, effective marketing, and strategic advisory are the cornerstones supporting our project.",
   "social": {
     "website": "https://quasar-mvx.com/",
     "whitepaper": "https://docs.quasar-mvx.com/",
@@ -9,10 +9,8 @@
     "github": "https://github.com/QuasarMvX"
   },
   "tags": [
-    "owner",
-    "control",
-    "system",
-    "deploy"
+    "financial",
+    "marketing"
   ],
   "icon": "quasar"
 }
