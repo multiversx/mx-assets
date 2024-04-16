@@ -1,0 +1,16 @@
+{
+  "name": "Quasar RFFT: Reserve Funds & Future listings",
+  "description": "The funds in this portfolio are strategically managed to ensure adequate reserves for unforeseen events and to support our growth and innovation initiatives.",
+  "social": {
+    "website": "https://quasar-mvx.com/",
+    "whitepaper": "https://docs.quasar-mvx.com/",
+    "twitter": "https://twitter.com/quasar_mvx",
+    "telegram": "https://t.me/+vufLg36aeSE0Mzg8",
+    "github": "https://github.com/QuasarMvX"
+  },
+  "tags": [
+    "reserve",
+    "listings"
+  ],
+  "icon": "quasar"
+}

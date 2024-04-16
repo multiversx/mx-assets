@@ -1,0 +1,12 @@
+{
+  "name": "Demiourgos Autostake Coil/Uncoil SC",
+  "description": "The DH™ Autostake Coil/Uncoil SC is the SC responsible for all function related to the Autostake features, like Coil/Curl/Uncoil of Ouroboros, Auryn and Elite-Auryn Tokens on MultiversX™.",
+  "social": {
+    "website": "https://vestax.finance",
+    "email": "pa.arion@gmail.com",
+    "twitter": "https://www.twitter.com/DemiourgosH",
+    "telegram": "https://t.me/DemiourgosCommunity",
+    "discord": "https://discord.gg/GKKAmPKKNe"
+  },
+  "tags": ["vestax", "liquidstaking", "vegld"]
+}

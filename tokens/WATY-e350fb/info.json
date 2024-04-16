@@ -1,0 +1,13 @@
+{
+    "social": {
+        "blog": "https://discord.gg/pc5qWTYp88",
+        "twitter": "https://twitter.com/WatyDao",
+        "whitepaper": "https://whitepaper.waty.agency"
+    },
+    "website": "https://waty.agency",
+    "description": "First crosschain proof-of-community. Influenced by its holders, Waty is disrupting crypto marketing by putting its community to work.",
+    "lockedAccounts": {
+        "erd17dgu7feqdd5v8nfuy8lr0t70m6srwuk46c6mtczph72v3uz2um7qtf8rvj": "DAO"
+    },
+    "status": "active"
+}
