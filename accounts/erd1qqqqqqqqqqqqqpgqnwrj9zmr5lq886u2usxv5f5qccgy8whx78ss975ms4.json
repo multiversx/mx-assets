@@ -1,6 +1,16 @@
 {
   "name": "Hatom: Oracle",
   "description": "Hatom's Lending & Borrowing Protocol Oracle",
+  "social": {
+    "website": "https://hatom.com",
+    "discord": "https://discord.com/invite/WekwfUDXGp",
+    "github": "https://github.com/HatomProtocol",
+    "blog": "https://blog.hatom.com",
+    "telegram": "https://t.me/HatomProtocol",
+    "twitter": "https://twitter.com/HatomProtocol",
+    "whitepaper": "https://docs.hatom.com/getting-started/learn-more-about-hatom-token/whitepaper",
+    "linkedin": "https://www.linkedin.com/company/hatomlabs"
+  },
   "tags": [
     "hatom",
     "money-market",

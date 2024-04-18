@@ -1,11 +1,24 @@
 {
-    "name": "PeerMe: VestaX Finance DAO",
-    "description": "The planetary scale DEFI Minter Engine operating on MultiversX\u2122",
-    "tags": [
-        "peerme",
-        "dao",
-        "governance",
-        "defi"
-    ],
-    "icon": "peerme"
+  "name": "PeerMe: VestaX Finance DAO",
+  "description": "The planetary scale DEFI Minter Engine operating on MultiversX\u2122",
+  "social": {
+    "website": "https://peerme.io",
+    "email": "hello@peerme.io",
+    "twitter": "https://twitter.com/PeerMeHQ",
+    "coingecko": "https://www.coingecko.com/en/coins/peerme-super",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superciety",
+    "discord": "https://discord.peerme.io",
+    "telegram": "https://telegram.peerme.io",
+    "youtube": "https://www.youtube.com/@peerme",
+    "github": "https://github.com/PeerMeHQ",
+    "community": "https://egld.community/projects/PeerMe"
+  },
+  "tags": [
+    "peerme",
+    "dao",
+    "governance",
+    "defi",
+    "midas"
+  ],
+  "icon": "peerme"
 }

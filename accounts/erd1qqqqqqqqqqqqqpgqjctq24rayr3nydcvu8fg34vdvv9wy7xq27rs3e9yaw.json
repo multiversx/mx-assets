@@ -1,12 +1,24 @@
 {
-    "name": "PeerMe: ArtCPAclub Founders DAO",
-    "description": "ArtCPAclub NFT DAO created for our Founders NFT owners. Shape the future by creating proposals and voting with your NFTs.",
-    "tags": [
-        "peerme",
-        "dao",
-        "governance",
-        "nft",
-        "marketplace"
-    ],
-    "icon": "peerme"
+  "name": "PeerMe: ArtCPAclub Founders DAO",
+  "description": "ArtCPAclub NFT DAO created for our Founders NFT owners. Shape the future by creating proposals and voting with your NFTs.",
+  "social": {
+    "website": "https://peerme.io",
+    "email": "hello@peerme.io",
+    "twitter": "https://twitter.com/PeerMeHQ",
+    "coingecko": "https://www.coingecko.com/en/coins/peerme-super",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superciety",
+    "discord": "https://discord.peerme.io",
+    "telegram": "https://telegram.peerme.io",
+    "youtube": "https://www.youtube.com/@peerme",
+    "github": "https://github.com/PeerMeHQ",
+    "community": "https://egld.community/projects/PeerMe"
+  },
+  "tags": [
+    "peerme",
+    "dao",
+    "governance",
+    "nft",
+    "marketplace"
+  ],
+  "icon": "peerme"
 }
