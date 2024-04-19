@@ -58,7 +58,11 @@ validate_png_dimensions() {
   EXPECTED_PNG_DIMENSIONS="200 x 200"
   for file in "$@"; do
     echo "Checking PNG dimensions for $file"
-    if [[ ${file} == *"/logo.png"* && (${file} == *"identities/"* || ${file} == *"tokens/"*) ]]; then
+    logo_in_tokens="*tokens/*/logo.png"
+    logo_in_identities="*identities/*/logo.png"
+    png_in_accounts="*accounts/*/*.png"
+
+    if [[ ${file} == ${logo_in_tokens} || ${file} == ${logo_in_identities} || ${file} == ${png_in_accounts} ]]; then
       png_dimensions=$(file $file | grep -E -o "[0-9]+ x [0-9]+" | head -1)
 
       echo "PNG dimensions: $png_dimensions"
