@@ -17,7 +17,8 @@
     "peerme",
     "dao",
     "governance",
-    "nft"
+    "nft",
+    "midas"
   ],
   "icon": "peerme"
 }
