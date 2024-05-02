@@ -6,5 +6,7 @@
         "blog": "https://www.monstersquad.io",
         "twitter": "https://twitter.com/MonsterSquadMVX"
     },
-    "tags": ""
+    "extraTokens": [
+        "MON-58cc32"
+    ]
 }
