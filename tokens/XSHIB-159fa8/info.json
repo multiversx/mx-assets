@@ -2,11 +2,12 @@
     "website": "https://www.shibaxnft.com/",
     "description": "XSHIB serves as the lifeblood of the ShibaX ecosystem, empowering users with unique benefits",
     "status": "active",
+    "lockedAccounts": {
+        "erd1g46ukpgsjcgz8gug42vagcc7qrywmgx6q833sul0unkgkg50axpqzf9sjv": "Burn",
+        "erd136737c2s03jkcsuly2fjs8zc5la28f8w6cwq5ncst7p0pdd4mx6qq6nw9x": "ShibaX Drop"
+    },
     "social": {
         "twitter": "https://twitter.com/ShibaXSHIB",
         "telegram": "https://t.me/+mv84eZWSB-MzMGY0"
-    },
-    "lockedAccounts": {
-        "erd1g46ukpgsjcgz8gug42vagcc7qrywmgx6q833sul0unkgkg50axpqzf9sjv": "Burn"
-    }	    
+    }
 }
