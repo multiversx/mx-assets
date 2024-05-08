@@ -1,0 +1,15 @@
+{
+  "name": "QoWatt: Founders",
+  "description": "Contract that manages the founder status of users.",
+  "social": {
+    "website": "https://qowatt.com",
+    "email": "esdt@qowatt.com",
+    "blog": "https://medium.com/qowatt",
+    "twitter": "https://twitter.com/QoWattEcosystem",
+    "whitepaper": "https://qowatt.network/_doc/QoWatt_Whitepaper_EN.pdf",
+    "linkedin": "https://fr.linkedin.com/company/qowatt",
+    "facebook": "https://www.facebook.com/QoWatt"
+  },
+  "tags": ["qowatt", "founders"],
+  "icon": "qowatt"
+}
