@@ -1,0 +1,12 @@
+{
+  "name": "EGLDHeist",
+  "description": "Given the seed-phrase of a wallet, can you access its crypto?",
+  "social": {
+    "website": "https://www.egldheist.com/",
+    "twitter": "https://twitter.com/EgldHeist"
+  },
+  "tags": [
+    "commmunity"
+  ],
+  "icon": "egldheist"
+}
