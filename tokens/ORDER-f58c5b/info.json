@@ -3,6 +3,10 @@
     "description": "ORDER is a digital token backed by the assets of The Order Room investment fund. As a representation of the fund's assets, ORDER provides investors with a unique opportunity to participate in the performance and growth of the underlying investment portfolio.",
     "status": "active",
     "social": {
-        "twitter": "https://twitter.com/alincroman"
-    }
+        "telegram": "https://t.me/theorderroom"
+        "x": "https://x.com/alincroman"
+    },
+    "extraTokens" [
+        "ORDERWEGLD-00aa8a"
+    ]
 }
