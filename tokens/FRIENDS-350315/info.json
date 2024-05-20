@@ -1,0 +1,9 @@
+{
+    "social": {
+        "blog": "http://testing.com",
+        "whitepaper": "http://testing.com"
+    },
+    "website": "http://testing.com",
+    "description": "test 1",
+    "status": "active"
+}
