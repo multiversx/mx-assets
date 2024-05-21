@@ -12,5 +12,6 @@
     "template",
     "liquidity",
     "pool"
-  ]
+  ],
+  "icon": "xexchange"
 }
