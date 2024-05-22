@@ -1,0 +1,16 @@
+{
+  "name": "Hatom: TAO Liquid Staking",
+  "description": "Hatom's TAO Liquid Staking Protocol",
+  "social": {
+    "website": "https://hatom.com",
+    "discord": "https://discord.com/invite/WekwfUDXGp",
+    "github": "https://github.com/HatomProtocol",
+    "blog": "https://mirror.xyz/0xDac8B6141d28C46765255607f3572c73A064383f",
+    "telegram": "https://t.me/HatomProtocol",
+    "twitter": "https://twitter.com/HatomProtocol",
+    "whitepaper": "https://docs.hatom.com/getting-started/learn-more-about-hatom-token/whitepaper",
+    "linkedin": "https://www.linkedin.com/company/hatomlabs"
+  },
+  "tags": ["hatom", "tao", "liquid", "staking"],
+  "icon": "hatom"
+}
