@@ -1,6 +1,6 @@
 {
-  "name": "Giants Village: Marketplace",
-  "description": "Giants Village in-game marketplace",
+  "name": "Giants: Token staking manager",
+  "description": "Token staking pools manager for $GIANT token staking",
   "social": {
     "website": "https://giantsvillage.com",
     "email": "contact@elrondgiants.com",
@@ -13,6 +13,6 @@
     "tiktok": "https://www.tiktok.com/@elrondgiants",
     "facebook": "https://www.facebook.com/elrondgiants"
   },
-  "tags": ["giants", "game", "shop", "marketplace"],
+  "tags": ["giants", "game", "manager"],
   "icon": "giants"
 }
