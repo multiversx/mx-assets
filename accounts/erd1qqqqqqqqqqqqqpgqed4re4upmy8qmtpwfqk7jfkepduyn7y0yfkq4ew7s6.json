@@ -1,10 +1,13 @@
 {
-  "name": "Ad Astra Portal: Gas price aggregator",
+  "name": "xBridge: Gas Price Aggregator",
   "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
   "tags": [
-    "adastra",
+    "xbridge",
     "gas",
     "aggregator"
   ],
-  "icon": "elrond"
+  "icon": "multiversx"
 }

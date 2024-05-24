@@ -1,0 +1,14 @@
+{
+	"website": "https://tigerescrow.io/",
+	"description": "The $TGR token is the utility token of TigerEscrow Community",
+	"ledgerSignature": "68da1e",
+	"social": {
+		"telegram": "https://t.me/tradingnftonline",
+		"twitter": "https://twitter.com/tigerescrow"
+	},
+	"extraTokens": [
+		"TGRWEGLD-f9b007",
+		"TIGERX-fe2ebe"
+	],
+	"status": "active"
+}

@@ -1,0 +1,11 @@
+{
+    "social": {
+        "twitter": "https://twitter.com/solana",
+        "whitepaper": "https://solana.com/solana-whitepaper.pdf",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/solana/",
+        "coingecko": "https://www.coingecko.com/en/coins/solana"
+    },
+    "website": "https://solana.com/",
+    "description": "WSOL",
+    "status": "active"
+}

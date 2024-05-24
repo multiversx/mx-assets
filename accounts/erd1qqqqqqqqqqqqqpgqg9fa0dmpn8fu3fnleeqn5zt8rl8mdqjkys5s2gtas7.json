@@ -1,6 +1,12 @@
 {
   "name": "XOXNO: Minting Manager",
   "description": "",
+  "social": {
+    "website": "https://xoxno.com",
+    "discord": "https://t.co/8Z5dWefkno",
+    "twitter": "https://twitter.com/xoxnoNFTs",
+    "telegram": "https://t.me/xoxnoNFTs"
+  },
   "tags": [
     "xoxno",
     "minting"

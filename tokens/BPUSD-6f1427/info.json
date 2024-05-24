@@ -1,0 +1,16 @@
+{
+  "website": "https://bop.ashswap.io",
+  "description": "Paper USD used in AshPerp's Battle of Perps Trading Competition.",
+  "social": {
+    "email": "hello@ashswap.io",
+    "blog": "https://medium.com/@ashswap",
+    "twitter": "https://twitter.com/ash_perp",
+    "telegram": "https://t.me/ash_swap",
+    "discord": "https://discord.gg/apmhYCPDbW"
+  },
+  "status": "active",
+  "lockedAccounts": {
+    "erd10cct7sf9t4encw458gqm83gew52qtat2jyddq5kr4mjrd9vs2gesk7lsjy": "Locked Account #1"
+  },
+  "extraTokens": []
+}
