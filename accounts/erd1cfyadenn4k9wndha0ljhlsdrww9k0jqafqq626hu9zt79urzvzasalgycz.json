@@ -1,6 +1,6 @@
 {
-  "name": "XOXNO: Launchpad Manager",
-  "description": "XOXNO Launchpad Manager allows creators and organizers to register and deploy their own managed child contracts, enabling them to launch their own events and collectibles.",
+  "name": "XOXNO: Fiat Relayer Executor",
+  "description": "Fiat relayer executor triggers different automated actions for the $XOXNO ecosystem.",
   "social": {
     "email": "contact@xoxno.com",
     "website": "https://xoxno.com",
