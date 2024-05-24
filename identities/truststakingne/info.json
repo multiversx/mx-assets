@@ -1,10 +1,8 @@
 {
-  "description": "Member of the parent company Trust Staking S.R.L",
-  "name": "Trust the Netherlands",
+  "description": "Member of the parent company Trust Staking",
+  "name": "Trust Staking Netherlands",
   "website": "http://truststaking.com",
-  "twitter": "https://twitter.com/truststaking",
+  "twitter": "https://x.com/truststaking",
   "location": "The Netherlands",
-  "owners": [
-    "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqjlllllsuz4lc5"
-  ]
+  "owners": ["erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqjlllllsuz4lc5"]
 }
