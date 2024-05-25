@@ -1,6 +1,6 @@
 {
-  "name": "XOXNO: Peer to Peer",
-  "description": "Peer to Peer allows our users to facilitate private bundle deals, by passing public listings.",
+  "name": "XOXNO: Fiat Relayer",
+  "description": "Fiat relayer process the off chain payments for the XOXNO ecosystem. Briging the real world to the blockchain.",
   "social": {
     "email": "contact@xoxno.com",
     "website": "https://xoxno.com",

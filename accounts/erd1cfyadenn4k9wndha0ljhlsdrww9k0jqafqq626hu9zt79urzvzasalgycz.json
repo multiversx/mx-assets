@@ -1,6 +1,6 @@
 {
-  "name": "XOXNO: Peer to Peer",
-  "description": "Peer to Peer allows our users to facilitate private bundle deals, by passing public listings.",
+  "name": "XOXNO: Fiat Relayer Executor",
+  "description": "Fiat relayer executor triggers different automated actions for the $XOXNO ecosystem.",
   "social": {
     "email": "contact@xoxno.com",
     "website": "https://xoxno.com",
