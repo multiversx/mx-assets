@@ -1,0 +1,5 @@
+{
+  "description": "A token tracking the amount of ERC20 UMB tokens currently deposited in the Ethereum side of the xBridge.",
+  "website": "https://bridge.multiversx.com",
+  "status": "active"
+}
