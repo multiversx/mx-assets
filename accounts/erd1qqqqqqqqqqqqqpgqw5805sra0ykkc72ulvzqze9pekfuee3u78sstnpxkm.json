@@ -6,17 +6,11 @@
     "discord": "https://discord.com/invite/WekwfUDXGp",
     "github": "https://github.com/HatomProtocol",
     "blog": "https://blog.hatom.com",
-    "telegram": "https://t.me/HatomProtocol",
+    "telegram": "https://t.me/HatomLabs",
     "twitter": "https://twitter.com/HatomProtocol",
     "whitepaper": "https://docs.hatom.com/getting-started/learn-more-about-hatom-token/whitepaper",
     "linkedin": "https://www.linkedin.com/company/hatomlabs"
   },
-  "tags": [
-    "hatom",
-    "money-market",
-    "lending",
-    "borrowing",
-    "interest-rate"
-  ],
+  "tags": ["hatom", "money-market", "lending", "borrowing", "interest-rate"],
   "icon": "hatom-lending"
 }
