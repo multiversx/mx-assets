@@ -1,0 +1,23 @@
+{
+    "social": {
+        "blog": "https://eapes.medium.com/",
+        "twitter": "https://twitter.com/EAPESCLUB",
+        "whitepaper": "https://wp.eapes.com/whitepaper"
+    },
+    "website": "https://eapes.com/",
+    "description": "EAPES is the utility token at the core of the EAPES ecosystem that powers the circular economy for EAPES Island and real world applications. It is built on 4 pillars: stability, growth, sustainability and balance.",
+    "lockedAccounts": {
+        "erd1qqqqqqqqqqqqqpgqa4964srzul8ypj48mqpywpregkuvamnwr79qzath5e": "Team",
+        "erd1qqqqqqqqqqqqqpgqtpj585r657jke59sq6kvs2agtcsgenh9r79qm8f3he": "Treasury",
+        "erd1qqqqqqqqqqqqqpgqjekutnefk2lq630h6w4vm32q5g56qz40r79qsgl0km": "Ecosystem",
+        "erd1qqqqqqqqqqqqqpgq7eh9nxvff8vdfzt94fw0ry4fspgltcajr79ql7gats": "DeFi",
+        "erd1qqqqqqqqqqqqqpgqw28s9g6s7539ctclncw9hk35dtpgg8ydr79qt8gjz2": "Liquidity",
+        "erd1qqqqqqqqqqqqqpgq6sgxn583m2aqzchgetk3740l4jaj8rw5r79qwzauqg": "Vesting",
+        "erd1qqqqqqqqqqqqqpgqsneh0jljdsa9vr44pxsfszx89n7ps8qtr79qerutvn": "Community Rewards",
+        "erd1qqqqqqqqqqqqqpgq575mqgaqe4f53rqc5ssczkxtsx4fs26l3azq9zwkaw": "SC BPEP",
+        "erd1qqqqqqqqqqqqqpgqakyx8fks50203l7nnzpnjshx43vf2kwe33cq7aa40x": "SC Vesting",
+        "erd1qqqqqqqqqqqqqpgq8h6stfhdtkr0wwqstz28w2dz9568l4cm33cqyfkn05": "SC Staking",
+        "erd1p86sk7zea3msa9tmf4hrmy500c8qrg6kkrw86lwfxg0nefh0trhqy9mrvp": "Burned"
+    },
+    "status": "active"
+}
