@@ -1,10 +1,10 @@
 {
+    "website": "https://www.qdaxai.com",
+    "description": "$QDAX the adventurous duck with the mission to promote knowledge about #AI, #Web3, #Metaverse and #Crypto.",
+    "status": "active",
     "social": {
-        "blog": "https://qdaxmvx.blogspot.com/",
-        "twitter": "https://twitter.com/QuantumDaxMVX",
-        "whitepaper": "https://qdaxmvx.blogspot.com/p/white-paper.html"
-    },
-    "website": "https://qdaxcoin.com",
-    "description": "The safety of our community is a fundamental principle for our team. We have a long-term goal and intend to contribute to the security of the MultiversX Network through the validation process. This commitment reflects our belief in the power of collaboration and the importance of working together to achieve big goals. As the saying goes: “Alone we go faster, together we go further”. This is the spirit that drives Quantum DAX (QDAX) and its vibrant community. \nTogether, we are building a safer and more prosperous future on the MultiversX Network.\n\nIncentive\nThrough our partners, we intend to provide tools that enable the distribution of rewards to our community, such as Farms, Staking and Airdrops.\n\nSupply\nThere are only 31,415,926 million QDAX tokens, this scarcity makes QDAX a rare gem in the meme world. And also a tribute to the theoretical maximum limit of 31.4 million EGLD.\n\nDistribution\nQuantumDAX - 70% of QDAX supply will be used for liquidity, staking, farming and airdrops. 20% goes to the team, we intend to participate in the validation process on the Multiversx Network, to assist with network security and we intend to reward our delegates with EGLD + QDAX tokens. 10% will be allocated to humanitarian aid (community-driven decision).\n\nConclusion\n$QDAX is an essential component for diversifying your portfolio. With a mission to generate value for the community, QDAX plays a vital role in providing liquidity and distributing rewards to its community. We are convinced that the cryptocurrency industry will become the infrastructure of future financial activities. Join us and be part of this revolution.",
-    "status": "active"
+        "blog": "https://www.qdaxai.com",
+        "twitter": "https://twitter.com/QuantumDaxAI",
+        "whitepaper": "https://www.qdaxai.com"
+    }
 }
