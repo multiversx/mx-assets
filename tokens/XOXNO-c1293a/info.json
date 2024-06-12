@@ -1,0 +1,16 @@
+{
+  "website": "https://xoxno.com",
+  "description": "XOXNO is the utility token of XOXNO Network, a web3 platform that empowers you to explore a new-age economy: collectibles, DeFi and more.",
+  "social": {
+    "email": "contact@xoxno.com",
+    "telegram": "https://xoxno.t.me",
+    "github": "https://github.com/xoxno",
+    "discord": "https://discord.gg/xoxno",
+    "twitter": "https://x.com/XoxnoNetwork",
+    "whitepaper": "https://xoxno.com/whitepaper"
+  },
+  "lockedAccounts": {
+    "erd1u8j90mxv4wvdj265nffuuguwl4gw8e8mvnkuhd0tt34q8fdc45qsg25jyp": "Minter Account"
+  },
+  "status": "active"
+}
