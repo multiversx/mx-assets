@@ -9,6 +9,7 @@
     "twitter": "https://x.com/XoxnoNetwork",
     "whitepaper": "https://xoxno.com/whitepaper"
   },
+  "ledgerSignature": "3045022100d1e85750951a85283f5140193646e50f8674156709f799401287a1d8047b4ed902201f99ff2489b206d25e42feb188d3d0492afc7e5a622d0dbf4c8f87ec1047d0b2",
   "lockedAccounts": {
     "erd1u8j90mxv4wvdj265nffuuguwl4gw8e8mvnkuhd0tt34q8fdc45qsg25jyp": "Minter Account"
   },
