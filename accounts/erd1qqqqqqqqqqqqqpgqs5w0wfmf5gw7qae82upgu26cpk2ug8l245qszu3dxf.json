@@ -1,6 +1,6 @@
 {
-  "name": "XOXNO: Fiat Relayer Executor",
-  "description": "Fiat relayer executor triggers different automated actions for the $XOXNO ecosystem.",
+  "name": "XOXNO: Real Yield Staking",
+  "description": "The XOXNO Liquid Staking contract is central to the XOXNO Network, managing real yield staking and issuing LXOXNO tokens. Users stake XOXNO to receive LXOXNO, which grows daily based on network activity. To unstake, users undergo a 10-day unbound period and receive an NFT as a withdrawal receipt. This NFT can be used to reclaim the original XOXNO tokens after 10 days. Additionally, all royalties are paid in LXOXNO, providing an auto-compounding effect for creators.",
   "social": {
     "email": "contact@xoxno.com",
     "website": "https://xoxno.com",
