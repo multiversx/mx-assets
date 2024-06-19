@@ -1,0 +1,16 @@
+{
+  "website": "https://xoxno.com",
+  "description": "Liquid XOXNO (LXOXNO) is the utility and interest-bearing token of the XOXNO Network, a Web3 platform for collectibles, DeFi, and more. LXOXNO is a staked version of the XOXNO token, with its value increasing daily based on network activity. All royalties are paid in LXOXNO, providing an auto-compounding effect for creators. Holding LXOXNO allows users to benefit from the ecosystem's real yield and growing value.",
+  "social": {
+    "email": "contact@xoxno.com",
+    "telegram": "https://xoxno.t.me",
+    "github": "https://github.com/xoxno",
+    "discord": "https://discord.gg/xoxno",
+    "twitter": "https://x.com/XoxnoNetwork",
+    "coinmarketcap": "https://coinmarketcap.com/community/profile/XOXNO",
+    "coingecko": "https://www.coingecko.com/en/coins/xoxno",
+    "whitepaper": "https://xoxno.com/whitepaper"
+  },
+  "ledgerSignature": "",
+  "status": "active"
+}

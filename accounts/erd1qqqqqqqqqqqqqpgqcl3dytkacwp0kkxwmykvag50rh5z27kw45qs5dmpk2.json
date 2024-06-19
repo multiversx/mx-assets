@@ -1,6 +1,6 @@
 {
-  "name": "XOXNO: Fiat Relayer Executor",
-  "description": "Fiat relayer executor triggers different automated actions for the $XOXNO ecosystem.",
+  "name": "XOXNO: Vested Tokens Manager",
+  "description": "The Vested Tokens Manager is the primary contract responsible for creating, distributing, and releasing vested XOXNO tokens. This contract holds all the real XOXNO tokens that are locked and excluded from the circulating supply.",
   "social": {
     "email": "contact@xoxno.com",
     "website": "https://xoxno.com",

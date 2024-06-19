@@ -1,6 +1,6 @@
 {
-  "name": "XOXNO: Fiat Relayer Executor",
-  "description": "Fiat relayer executor triggers different automated actions for the $XOXNO ecosystem.",
+  "name": "XOXNO: On-Chain Prices Query",
+  "description": "On-Chain Prices Query is a utility smart contract viewer designed to fetch all token pairs listed across different decentralized exchanges (DEXs) and return their liquidity reserves. This contract provides users with real-time data on liquidity pools, facilitating informed trading and investment decisions.",
   "social": {
     "email": "contact@xoxno.com",
     "website": "https://xoxno.com",
