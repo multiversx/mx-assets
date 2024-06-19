@@ -11,6 +11,6 @@
     "coingecko": "https://www.coingecko.com/en/coins/xoxno",
     "whitepaper": "https://xoxno.com/whitepaper"
   },
-  "ledgerSignature": "",
+  "ledgerSignature": "304402205a3d1dd2be889c66ca86cd08f3e6041c08c29bbfd791d048a6835eb736f13b3702201ebfeaa99fcb526210633d62bf6c1f1dbdaab7911795d3c00210a792d9b72cf3",
   "status": "active"
 }
