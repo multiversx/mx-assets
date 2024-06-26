@@ -1,6 +1,13 @@
 {
   "name": "VestaX.Finance™ Liquid Staking SC",
   "description": "VestaX.Finance™ Liquid stake your idle EGLD and enjoy attractive staking APY with auto-compounding. Receive vEGLD for mint, trade, swap, LP pools, farm, invest, reinvest, and stake.",
+  "social": {
+    "website": "https://vestax.finance",
+    "email": "pa.arion@gmail.com",
+    "twitter": "https://www.twitter.com/DemiourgosH",
+    "telegram": "https://t.me/DemiourgosCommunity",
+    "discord": "https://discord.gg/GKKAmPKKNe"
+  },
   "tags": [
     "vestax",
     "liquidstaking",

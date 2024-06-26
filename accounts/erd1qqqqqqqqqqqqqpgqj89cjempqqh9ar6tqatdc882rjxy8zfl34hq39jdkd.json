@@ -1,10 +1,25 @@
 {
-    "name": "GoCharge Tech: Flexible + Ads Staking",
-    "description": "Flexible staking + Advertising Screen Time for CHARGED ESDT token.",
-    "tags": [
-        "GoChargeTech",
-        "GoCharge",
-        "Staking",
-        "CHARGED"
-    ]
+  "name": "GoCharge Tech: Flexible + Ads Staking",
+  "description": "Flexible staking + Advertising Screen Time for CHARGED ESDT token.",
+  "social": {
+    "website": "https://goCharge.tech/",
+    "email": "contact@gocharge.tech",
+    "blog": "https://goCharge.tech/blog",
+    "twitter": "https://twitter.com/goChargeHQ",
+    "telegram": "https://t.me/goChargeTech",
+    "whitepaper": "https://gocharge.tech/wp-content/uploads/files/whitepaper.pdf",
+    "tokenomics": "https://gocharge.tech/tokenomics",
+    "mvp": "https://mvp.gocharge.tech/",
+    "youtube": "https://www.youtube.com/@goChargeTech",
+    "linkedin": "https://www.linkedin.com/company/gochargetech",
+    "tiktok": "https://www.tiktok.com/@gochargetech",
+    "facebook": "https://www.facebook.com/goChargeHQ",
+    "commmunity": "https://egld.community/projects/gocharge"
+  },
+  "tags": [
+    "GoChargeTech",
+    "GoCharge",
+    "Staking",
+    "CHARGED"
+  ]
 }

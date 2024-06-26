@@ -1,0 +1,29 @@
+{
+  "name": "Ofero.me: Referral",
+  "description": "The ofero.me Referral Wallet",
+  "social": {
+    "website": "https://www.ofero.network",
+    "email": "contact@ofero.network",
+    "twitter": "https://twitter.com/oferonetwork",
+    "whitepaper": "https://ofero.network/documents/whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ofero-network",
+    "coingecko": "https://www.coingecko.com/en/coins/ofero",
+    "telegram": "https://t.me/oferonetwork",
+    "youtube": "https://www.youtube.com/@oferonetwork",
+    "facebook": "https://www.facebook.com/oferonetwork",
+    "instagram": "http://instagram.com/oferonetwork",
+    "linkedin": "https://www.linkedin.com/company/oferonetwork",
+    "linktree": "https://linktr.ee/oferonetwork",
+    "discord": "https://discord.gg/PrKZpqbwk4",
+    "blog": "https://medium.com/@oferonetwork",
+    "reddit": "https://www.reddit.com/r/ofero_network"
+  },
+  "tags": [
+    "ofero",
+    "ofero network",
+    "ofero.me",
+    "referral",
+    "community"
+  ],
+  "icon": "oferonetwork"
+}

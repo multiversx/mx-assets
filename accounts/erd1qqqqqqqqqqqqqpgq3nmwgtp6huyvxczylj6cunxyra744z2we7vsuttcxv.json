@@ -1,6 +1,14 @@
 {
-    "name": "eTrees: FarmTrees",
-    "description": "FarmTrees game contract",
-    "tags": ["etrees", "farmtrees"],
-    "icon": "etrees"
+  "name": "eTrees: FarmTrees",
+  "description": "FarmTrees game contract",
+  "social": {
+    "website": "https://www.etrees.green",
+    "twitter": "https://twitter.com/etrees_",
+    "discord": "http://discord.elrondtrees.com"
+  },
+  "tags": [
+    "etrees",
+    "farmtrees"
+  ],
+  "icon": "etrees"
 }
