@@ -1,0 +1,17 @@
+{
+  "name": "Valoro: Fund Template",
+  "description": "Valoro's Fund Template SC for creating new index funds.",
+  "social": {
+    "website": "https://valoro.fund/",
+    "twitter": "https://twitter.com/ValoroFund",
+    "telegram": "https://t.me/valorofund",
+    "whitepaper": "https://docs.valoro.fund/"
+  },
+  "tags": [
+    "valoro",
+    "index-funds",
+    "investments",
+    "fund-template"
+  ],
+  "icon": "valoro"
+}

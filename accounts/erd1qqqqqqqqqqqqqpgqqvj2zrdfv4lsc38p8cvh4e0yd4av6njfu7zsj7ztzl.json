@@ -1,0 +1,17 @@
+{
+  "name": "Valoro: Proxy",
+  "description": "Valoro's Proxy SC for managing the Protocol and handling the Valoro Funds.",
+  "social": {
+    "website": "https://valoro.fund/",
+    "twitter": "https://twitter.com/ValoroFund",
+    "telegram": "https://t.me/valorofund",
+    "whitepaper": "https://docs.valoro.fund/"
+  },
+  "tags": [
+    "valoro",
+    "index-funds",
+    "investments",
+    "proxy"
+  ],
+  "icon": "valoro"
+}

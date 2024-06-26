@@ -1,0 +1,17 @@
+{
+  "name": "Valoro: Protocol Fees",
+  "description": "Valoro's Protocol Fees SC for collecting fees from the Valoro Funds.",
+  "social": {
+    "website": "https://valoro.fund/",
+    "twitter": "https://twitter.com/ValoroFund",
+    "telegram": "https://t.me/valorofund",
+    "whitepaper": "https://docs.valoro.fund/"
+  },
+  "tags": [
+    "valoro",
+    "index-funds",
+    "investments",
+    "protocol-fees"
+  ],
+  "icon": "valoro"
+}
