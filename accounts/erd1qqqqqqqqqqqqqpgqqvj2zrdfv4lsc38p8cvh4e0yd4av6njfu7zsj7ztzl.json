@@ -1,0 +1,18 @@
+{
+    "name": "Valoro: Proxy",
+    "description": "Valoro's SC for managing the Protocol and deploying the Smart Contracts of the Funds.",
+    "social": {
+      "website": "https://valoro.fund/",
+      "twitter": "https://twitter.com/ValoroFund",
+      "telegram": "https://t.me/valorofund",
+      "whitepaper": "https://docs.valoro.fund/"
+    },
+    "tags": [
+        "valoro",
+        "index-funds",
+        "investments",
+        "defi",
+        "proxy"
+    ],
+    "icon": "valoro"
+}
