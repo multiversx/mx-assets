@@ -1,0 +1,12 @@
+{
+    "name": "System: ESDT Global Settings Shard 1",
+    "description": "System Smart Contract",
+    "tags": [
+        "system"
+    ],
+    "social": {
+        "twitter": "string",
+        "blog": "string",
+        "whitepaper": "string"
+    }
+}
