@@ -1,0 +1,12 @@
+{
+    "social": {
+        "blog": "https://multiversx.com/blog",
+        "twitter": "https://twitter.com/multiversx",
+        "whitepaper": "https://files.multiversx.com/multiversx-whitepaper.pdf",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/multiversx-egld/",
+        "coingecko": "https://www.coingecko.com/en/coins/multiversx"
+    },
+    "website": "https://multiversx.com/",
+    "description": "TJalic Test Token\nThis is a test ☺",
+    "status": "active"
+}
