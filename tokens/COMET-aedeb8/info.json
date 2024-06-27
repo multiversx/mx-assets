@@ -1,0 +1,11 @@
+{
+  "website": "https://app.jexchange.io/farms",
+  "description": "Zero-utility farmable token on JEXchangeDefi",
+  "social": {
+    "twitter": "https://app.jexchange.io"
+  },
+  "lockedAccounts": {
+    "erd1deaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaqtv0gag": "Dead Address"
+  },
+  "status": "active"
+}
