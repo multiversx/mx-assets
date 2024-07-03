@@ -10,15 +10,6 @@
     "youtube": "https://www.youtube.com/channel/UCLeUlyFSUA1c7_DVQlgaxrQ"
   },
   "website": "https://www.pulsar.money/",
-  "tags": [
-    "community",
-    "pulsarmoney",
-    "payments",
-    "smart",
-    "ecosystem",
-    "pulsar",
-    "hub",
-    "social",
-    "transfers"
-  ]
+  "tags": ["community", "pulsarmoney", "payments", "smart", "ecosystem", "pulsar", "hub", "social", "transfers"],
+  "icon": "pulsarmoney"
 }
