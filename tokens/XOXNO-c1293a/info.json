@@ -17,5 +17,6 @@
     "erd1qqqqqqqqqqqqqpgqcl3dytkacwp0kkxwmykvag50rh5z27kw45qs5dmpk2": "Vested Tokens Manager",
     "erd1qqqqqqqqqqqqqpgqxxs3etvwccvq9fcg6cxczuvlp47cp8qtgzmqsqvfcg": "xLaunchpad"
   },
+  "extraTokens": ["LXOXNO-0eb983", "LKXOXNO-b06190", "UXOXNO-e17bc8"],
   "status": "active"
 }
