@@ -1,6 +1,8 @@
 {
-  "description": "We are FriendsStaking, a private staking provider of MultiverseX.",
+  "description": "FriendsStaking offers secure and high-performance staking services on the MultiversX network, accessible to everyone. For more information or to get started, contact us at https://t.me/FriendsStaking.",
   "name": "FriendsStaking",
+  "twitter": "friendsstaking",
+  "location": "Europe",
   "owners": [
     "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqs8llllsa3xsu3"
   ]
