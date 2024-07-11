@@ -11,5 +11,8 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/xoxno/",
     "coingecko": "https://www.coingecko.com/en/coins/xoxno"
   },
+  "priceSource": {
+    "url": "https://api.xoxno.com/tokens?identifier=XOXNO-c1293a"
+  },
   "status": "active"
 }
