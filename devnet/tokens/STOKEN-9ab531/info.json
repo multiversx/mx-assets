@@ -1,0 +1,13 @@
+{
+  "website": "https://www.multiversxtoken.com",
+  "description": "The STOKEN token is the utility token of MultiversX Token",
+  "social": {
+    "email": "stoken-token@multiversxtoken.com",
+    "blog": "https://www.multiversxtoken.com/STOKEN-token-blog",
+    "twitter": "https://twitter.com/STOKEN-token-twitter",
+    "whitepaper": "https://www.multiversxtoken.com/STOKEN-token-whitepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/STOKEN-token",
+    "coingecko": "https://www.coingecko.com/en/coins/STOKEN-token"
+  },
+  "status": "active"
+}
