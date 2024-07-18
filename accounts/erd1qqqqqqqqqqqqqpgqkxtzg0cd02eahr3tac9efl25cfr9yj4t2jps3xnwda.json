@@ -1,10 +1,16 @@
 {
-  "name": "Maiar Exchange: Metastaking Cantina Farm",
+  "name": "xExchange: Metastaking Cantina Farm",
   "description": "",
+  "social": {
+    "website": "https://xexchange.com",
+    "twitter": "https://twitter.com/xExchangeApp",
+    "telegram": "https://t.me/xExchangeApp",
+    "blog": "https://multiversx.com/blog/maiar-exchange-mex-tokenomics"
+  },
   "tags": [
-    "maiarexchange",
+    "xexchange",
     "metastaking",
     "cantina"
   ],
-  "icon": "elrond"
+  "icon": "xexchange"
 }
