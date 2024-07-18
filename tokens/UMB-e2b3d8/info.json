@@ -1,0 +1,8 @@
+{
+  "website": "https://umb.network",
+  "description": "Decentralized oracle with an extensive range of data solutions. Real-time, scalable and customizable data",
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}

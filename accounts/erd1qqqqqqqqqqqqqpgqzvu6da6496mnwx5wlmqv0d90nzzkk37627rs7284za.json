@@ -1,0 +1,24 @@
+{
+  "name": "PeerMe: Flames of Dust Clan",
+  "description": "A gaming DAO for FoD clan on vampirewars.ioHere we discuss strategies and propose to commun action inside the gameplay",
+  "social": {
+    "website": "https://peerme.io",
+    "email": "hello@peerme.io",
+    "twitter": "https://x.com/PeerMeHQ",
+    "coingecko": "https://www.coingecko.com/en/coins/peerme-super",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superciety",
+    "discord": "https://discord.peerme.io",
+    "telegram": "https://telegram.peerme.io",
+    "youtube": "https://www.youtube.com/@peerme",
+    "github": "https://github.com/PeerMeHQ",
+    "community": "https://egld.community/projects/PeerMe"
+  },
+  "tags": [
+    "peerme",
+    "governance",
+    "dao",
+    "multisig",
+    "gaming"
+  ],
+  "icon": "peerme"
+}

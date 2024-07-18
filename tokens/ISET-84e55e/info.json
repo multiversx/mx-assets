@@ -1,6 +1,7 @@
 {
   "website": "https://isengard.market",
   "description": "ISET is the Official token of the Isengard Marketplace",
+  "ledgerSignature": "304402201cb6ecc0a50e93cac00a0ba06f8a07efb04803aeb2bf748efd5078efe3b79f8b02204013c555b35f09d4a87ca30483a4f1e996554463c8354cfd80e93d09d4140a00",
   "social": {
     "email": "contact@isengardmarket.com",
     "twitter": "https://twitter.com/IsengardMarket",
