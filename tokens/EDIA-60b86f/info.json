@@ -1,6 +1,6 @@
 {
     "website": "https://wdia.wavenode.io/",
-    "description": "With an initial supply of 3106 tokens, it is distributed for free to WDiamond owners who stake their NFT. The price of eDIA is sustained through the redemption system maintained by WDiamond mints. Ultimately, eDIA aims to be utilized for interaction within the Wavenode ecosystem on MultiversX.",
+    "description": "With an initial supply of 3106 tokens, it is distributed for free to WDiamond owners who stake their NFT during 5 years. The price of eDIA is sustained through the redemption system maintained by WDiamond mints. Ultimately, eDIA aims to be utilized for interaction within the Wavenode ecosystem on MultiversX.",
     "status": "active",
     "lockedAccounts": {
         "erd1uxqsu6pjf760s0rqry57wlctpy75jutk0czhzz3t07xtxnh75egs4c73j0": "Burn Wallet",
@@ -15,5 +15,6 @@
     },
     "extraTokens": [
         "EDIAWBTC-ef5d24"
+        "EDIAWEGLD-c48b5c"
     ]
 }
