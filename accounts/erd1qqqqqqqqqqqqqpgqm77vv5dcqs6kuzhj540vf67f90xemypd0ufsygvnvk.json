@@ -1,0 +1,10 @@
+{
+    "name": "The Cursed Land: Main Contract",
+    "description": "The main contract of \"The Cursed Land\" game.",
+    "website": "https://www.thecursedland.com",
+    "social": {
+        "blog": "https://blog.thecursedland.com",
+        "twitter": "https://x.com/thecursedland"
+    },
+    "tags": "[\"tcl\"]"
+}
