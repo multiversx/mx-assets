@@ -1,8 +1,8 @@
 {
-    "name": "Valoro: DeFi Fund",
-    "description": "Valoro DeFi is a comprehensive fund that includes the top three DeFi projects within the MultiversX ecosystem.",
+    "name": "Valoro: AI Fund",
+    "description": "Valoro AI is a dedicated fund comprising the leading AI-based projects within the MultiversX ecosystem.",
     "social": {
-        "website": "https://valoro.fund/investment-funds/defi",
+        "website": "https://valoro.fund/investment-funds/vlr-ai",
         "twitter": "https://twitter.com/ValoroFund",
         "telegram": "https://t.me/valorofund",
         "whitepaper": "https://docs.valoro.fund/"
@@ -11,7 +11,7 @@
         "valoro",
         "index-fund",
         "investment",
-        "defi"
+        "ai"
     ],
     "icon": "valoro"
 }

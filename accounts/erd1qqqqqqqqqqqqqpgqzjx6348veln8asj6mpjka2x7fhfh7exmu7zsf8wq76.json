@@ -1,8 +1,8 @@
 {
-    "name": "Valoro: DeFi Fund",
-    "description": "Valoro DeFi is a comprehensive fund that includes the top three DeFi projects within the MultiversX ecosystem.",
+    "name": "Valoro: Squeeze Fund",
+    "description": "Valoro Squeeze is a specially curated fund consisting of the three main tokens of the MultiversX ecosystem: EGLD, UTK, and MEX.",
     "social": {
-        "website": "https://valoro.fund/investment-funds/defi",
+        "website": "https://valoro.fund/investment-funds/squeeze",
         "twitter": "https://twitter.com/ValoroFund",
         "telegram": "https://t.me/valorofund",
         "whitepaper": "https://docs.valoro.fund/"
@@ -11,7 +11,7 @@
         "valoro",
         "index-fund",
         "investment",
-        "defi"
+        "squeeze"
     ],
     "icon": "valoro"
 }
