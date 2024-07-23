@@ -1,8 +1,8 @@
 {
-    "name": "Valoro: WAGMI Fund",
-    "description": "Valoro's 'We All Gonna Make It' fund is composed of a diverse range of promising tokens within the MultiversX ecosystem.",
+    "name": "Valoro: Heaven Fund",
+    "description": "Valoro Heaven is the crown jewel of funds, designed for those seeking steady growth with minimal risk.",
     "social": {
-        "website": "https://valoro.fund/investment-funds/wagmi",
+        "website": "https://valoro.fund/investment-funds/heaven",
         "twitter": "https://twitter.com/ValoroFund",
         "telegram": "https://t.me/valorofund",
         "whitepaper": "https://docs.valoro.fund/"
@@ -11,7 +11,7 @@
         "valoro",
         "index-fund",
         "investment",
-        "wagmi"
+        "heaven"
     ],
     "icon": "valoro"
 }
