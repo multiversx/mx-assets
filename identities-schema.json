@@ -1,16 +1,4 @@
 {
   "type": "object",
-  "properties": {
-    "name": {
-      "type": "string"
-    },
-    "owners": {
-      "type": "array"
-    }
-  },
-  "required": [
-    "name",
-    "owners"
-  ],
   "additionalProperties": true
 }
