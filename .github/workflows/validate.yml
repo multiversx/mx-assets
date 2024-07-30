@@ -30,9 +30,9 @@ jobs:
       - name: Validate file size
         run: |
           source .github/snippet.sh ; validate_file_size ${{ steps.files.outputs.added_modified }}
-#      - name: Validate filenames
-#        run: |
-#          source .github/snippet.sh ; validate_filenames ${{ steps.files.outputs.added_modified }}
+      - name: Validate filenames
+        run: |
+          source .github/snippet.sh ; validate_filenames ${{ steps.files.outputs.added_modified }}
       - name: Validate png dimensions
         run: |
           source .github/snippet.sh ; validate_png_dimensions ${{ steps.files.outputs.added_modified }}
