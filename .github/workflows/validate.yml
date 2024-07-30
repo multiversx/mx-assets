@@ -18,7 +18,7 @@ jobs:
       - name: Collecting file paths
         run: |
           # Collect all JSON files in 'tokens' directories
-          echo "TOKENS_FILE_PATHS=$(find . -type f -path '*/tokens/*.json' -printf '%p,' | sed 's/,$//')" >> $GITHUB_ENV
+          echo "TOKENS_FILE_PATHS=$(find . -type f -path '*/tokens/*.json' ! -name 'ranks.json' -printf '%p,' | sed 's/,$//')" >> $GITHUB_ENV
 
           # Collect all JSON files in 'accounts' directories
           echo "ACCOUNTS_FILE_PATHS=$(find . -type f -path '*/accounts/*.json' -printf '%p,' | sed 's/,$//')" >> $GITHUB_ENV
