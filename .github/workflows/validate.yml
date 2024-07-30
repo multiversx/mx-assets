@@ -17,7 +17,7 @@ jobs:
           sudo apt install imagemagick-6.q16
       - name: Collecting file paths
         run: |
-          echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
+          echo "FILE_PATHS=$(find . -type f -name '*.json' -printf '%p,' | sed 's/,$//')" >> $GITHUB_ENV
       - id: files
         uses: jitterbit/get-changed-files@v1
       - name: Validate file size
