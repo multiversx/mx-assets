@@ -17,7 +17,14 @@ jobs:
           sudo apt install imagemagick-6.q16
       - name: Collecting file paths
         run: |
-          echo "FILE_PATHS=$(find . -type f -name '*.json' -printf '%p,' | sed 's/,$//')" >> $GITHUB_ENV
+          # Collect all JSON files in 'tokens' directories
+          echo "TOKENS_FILE_PATHS=$(find . -type f -path '*/tokens/*.json' -printf '%p,' | sed 's/,$//')" >> $GITHUB_ENV
+
+          # Collect all JSON files in 'accounts' directories
+          echo "ACCOUNTS_FILE_PATHS=$(find . -type f -path '*/accounts/*.json' -printf '%p,' | sed 's/,$//')" >> $GITHUB_ENV
+
+          # Collect all JSON files in 'identities' directories
+          echo "IDENTITIES_FILE_PATHS=$(find . -type f -path '*/identities/*.json' -printf '%p,' | sed 's/,$//')" >> $GITHUB_ENV
       - id: files
         uses: jitterbit/get-changed-files@v1
       - name: Validate file size
@@ -35,8 +42,18 @@ jobs:
       - name: Validate token existence
         run: |
           source .github/snippet.sh; validate_token_existence
-      - name: Validate JSON
+      - name: Validate tokens JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./schema.json
-          INPUT_JSONS: ${{ env.FILE_PATHS }}
+          INPUT_SCHEMA: ./tokens-schema.json
+          INPUT_JSONS: ${{ env.TOKENS_FILE_PATHS }}
+      - name: Validate accounts JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./accounts-schema.json
+          INPUT_JSONS: ${{ env.ACCOUNTS_FILE_PATHS }}
+      - name: Validate identities JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./identities-schema.json
+          INPUT_JSONS: ${{ env.IDENTITIES_FILE_PATHS }}
