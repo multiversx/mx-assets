@@ -4,16 +4,12 @@
     "name": {
       "type": "string"
     },
-    "description": {
-      "type": "string"
-    },
     "owners": {
       "type": "array"
     }
   },
   "required": [
     "name",
-    "description",
     "owners"
   ],
   "additionalProperties": true
