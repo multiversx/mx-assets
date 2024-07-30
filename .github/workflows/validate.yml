@@ -45,15 +45,15 @@ jobs:
       - name: Validate tokens JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./tokens-schema.json
+          INPUT_SCHEMA: ./.github/schemas/tokens-schema.json
           INPUT_JSONS: ${{ env.TOKENS_FILE_PATHS }}
       - name: Validate accounts JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./accounts-schema.json
+          INPUT_SCHEMA: ./.github/schemas/accounts-schema.json
           INPUT_JSONS: ${{ env.ACCOUNTS_FILE_PATHS }}
       - name: Validate identities JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./identities-schema.json
+          INPUT_SCHEMA: ./.github/schemas/identities-schema.json
           INPUT_JSONS: ${{ env.IDENTITIES_FILE_PATHS }}
