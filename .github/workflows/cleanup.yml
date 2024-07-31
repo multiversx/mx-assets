@@ -1,0 +1,38 @@
+name: Cleanup
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Setup pip
+        uses: BSFishy/pip-action@v1
+        with:
+          packages: |
+            requests
+      - name: Execute cleanup script
+        run: |
+          python3 .github/cleanup.py
+      - name: Cleanup
+        run: |
+          git config user.name "GitHub Cleanup Bot"
+          git config user.email "<>"
+
+          STATUS=$(git status)
+          if [ $STATUS != "" ]
+          then
+            git add .
+            git commit -m "Cleanup"
+            git fetch origin master
+            git push origin HEAD:master
+          fi
