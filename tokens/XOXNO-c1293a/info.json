@@ -15,8 +15,15 @@
   "lockedAccounts": {
     "erd1u8j90mxv4wvdj265nffuuguwl4gw8e8mvnkuhd0tt34q8fdc45qsg25jyp": "Minter Manager",
     "erd1qqqqqqqqqqqqqpgqcl3dytkacwp0kkxwmykvag50rh5z27kw45qs5dmpk2": "Vested Tokens Manager",
-    "erd1qqqqqqqqqqqqqpgqxxs3etvwccvq9fcg6cxczuvlp47cp8qtgzmqsqvfcg": "xLaunchpad"
+    "erd1qqqqqqqqqqqqqpgqxxs3etvwccvq9fcg6cxczuvlp47cp8qtgzmqsqvfcg": "xLaunchpad",
+    "erd1qqqqqqqqqqqqqpgqarunmmq8vwaevtnr304wqkwladqc0n9645qsrwxs7f": "Airdrop"
   },
-  "extraTokens": ["LXOXNO-0eb983", "LKXOXNO-b06190", "UXOXNO-e17bc8"],
+  "extraTokens": [
+    "LXOXNO-0eb983",
+    "LKXOXNO-b06190",
+    "UXOXNO-e17bc8",
+    "XOXNOWEGLD-93445e",
+    "ALP-ef193a"
+  ],
   "status": "active"
 }
