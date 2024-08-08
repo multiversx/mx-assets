@@ -1,6 +1,13 @@
 {
   "name": "MateriaPrima: Item Minter",
   "description": "Item Minter is a SC that allows the minting of resources for the MateriaPrima game.",
+  "social": {
+    "website": "https://www.materiaprimanft.com",
+    "email": "contact@materiaprimanft.com",
+    "twitter": "https://twitter.com/MateriaPrimaNFT",
+    "discord": "https://discord.gg/un6hgVdg",
+    "telegram": "https://t.me/MateriaPrimaNFT"
+  },
   "tags": [
     "materiaprima",
     "item",

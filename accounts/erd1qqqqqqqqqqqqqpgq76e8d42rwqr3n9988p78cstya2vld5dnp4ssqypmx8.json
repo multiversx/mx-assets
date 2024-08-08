@@ -1,9 +1,15 @@
 {
-    "name": "Burnify: Predictions",
-    "description": "",
-    "tags": [
-        "burnify",
-        "predictions"
-    ],
-    "icon": "burnify"
+  "name": "Burnify: Predictions",
+  "description": "",
+  "social": {
+    "website": "https://burnify.app",
+    "twitter": "https://twitter.com/BurnifyApp",
+    "whitepaper": "https://litepaper.burnify.app",
+    "telegram": "https://t.me/Burnify"
+  },
+  "tags": [
+    "burnify",
+    "predictions"
+  ],
+  "icon": "burnify"
 }

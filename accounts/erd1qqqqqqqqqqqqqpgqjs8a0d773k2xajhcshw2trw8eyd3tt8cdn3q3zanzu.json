@@ -1,6 +1,9 @@
 {
   "name": "xBulk: SuperRareBears",
   "description": "SuperRareBears distribution contract for xBulk.app",
+  "social": {
+    "website": "https://xbulk.app/"
+  },
   "tags": [
     "commmunity",
     "bulk"

@@ -1,9 +1,12 @@
 {
-    "name": "xBulk: E.V NFT",
-    "description": "E.V NFT distribution contract for xBulk.app",
-    "tags": [
-        "commmunity",
-        "bulk"
-    ],
-    "icon": "xbulk"
+  "name": "xBulk: E.V NFT",
+  "description": "E.V NFT distribution contract for xBulk.app",
+  "social": {
+    "website": "https://xbulk.app"
+  },
+  "tags": [
+    "commmunity",
+    "bulk"
+  ],
+  "icon": "xbulk"
 }

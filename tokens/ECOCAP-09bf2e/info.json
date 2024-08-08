@@ -1,0 +1,15 @@
+{
+    "website": "https://www.ecobottle.io",
+    "description": "The EcoCap token is the utility token of the EcoBottle",
+    "social": {
+        "email": "support@ecobottle.io",
+        "blog": "https://ecobottle.io",
+        "twitter": "https://twitter.com/ecobottlero",
+        "discord": "https://discord.com/invite/ekpe85HyWM",
+        "whitepaper": "https://litepaper.ecobottle.io"
+    },
+    "lockedAccounts": {
+        "erd1a0fwyv0v3e8q0xwdn5dp22r0pqq0yvpq88nk98gxzuq86x4rm7lqntq5av": "Staking Rewards"
+    },
+    "status": "active"
+}

@@ -1,6 +1,12 @@
 {
   "name": "AGERPRES",
   "description": "",
+  "social": {
+    "website": "https://nft.ici.ro/memories-of-future-self",
+    "twitter": "https://twitter.com/ICIBucharest",
+    "facebook": "https://www.facebook.com/ICIBucuresti",
+    "linkedin": "https://www.linkedin.com/company/ici-bucharest"
+  },
   "tags": [
     "memories",
     "nfts"

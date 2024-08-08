@@ -13,27 +13,47 @@ jobs:
       - uses: actions/checkout@v1
       - name: Install Dependencies
         run: |
+          sudo apt-get update
           sudo apt install imagemagick-6.q16
-        shell: bash
       - name: Collecting file paths
         run: |
-          echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
-        shell: bash
+          # Collect all JSON files in 'tokens' directories
+          echo "TOKENS_FILE_PATHS=$(find . -type f -path '*/tokens/*.json' ! -name 'ranks.json' -printf '%p,' | sed 's/,$//')" >> $GITHUB_ENV
+
+          # Collect all JSON files in 'accounts' directories
+          echo "ACCOUNTS_FILE_PATHS=$(find . -type f -path '*/accounts/*.json' -printf '%p,' | sed 's/,$//')" >> $GITHUB_ENV
+
+          # Collect all JSON files in 'identities' directories
+          echo "IDENTITIES_FILE_PATHS=$(find . -type f -path '*/identities/*.json' -printf '%p,' | sed 's/,$//')" >> $GITHUB_ENV
       - id: files
-        name: Validate files
         uses: jitterbit/get-changed-files@v1
-      - run: |
+      - name: Validate file size
+        run: |
           source .github/snippet.sh ; validate_file_size ${{ steps.files.outputs.added_modified }}
+      - name: Validate filenames
+        run: |
           source .github/snippet.sh ; validate_filenames ${{ steps.files.outputs.added_modified }}
+      - name: Validate png dimensions
+        run: |
           source .github/snippet.sh ; validate_png_dimensions ${{ steps.files.outputs.added_modified }}
+      - name: Validate svg square
+        run: |
           source .github/snippet.sh ; validate_svg_square ${{ steps.files.outputs.added_modified }}
-        shell: bash
       - name: Validate token existence
         run: |
           source .github/snippet.sh; validate_token_existence
-        shell: bash
-      - name: Validate JSON
+      - name: Validate tokens JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./schema.json
-          INPUT_JSONS: ${{ env.FILE_PATHS }}
+          INPUT_SCHEMA: ./.github/schemas/tokens-schema.json
+          INPUT_JSONS: ${{ env.TOKENS_FILE_PATHS }}
+      - name: Validate accounts JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./.github/schemas/accounts-schema.json
+          INPUT_JSONS: ${{ env.ACCOUNTS_FILE_PATHS }}
+      - name: Validate identities JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./.github/schemas/identities-schema.json
+          INPUT_JSONS: ${{ env.IDENTITIES_FILE_PATHS }}

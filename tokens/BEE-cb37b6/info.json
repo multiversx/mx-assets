@@ -1,6 +1,7 @@
 {
     "website": "https://globees.fr",
     "description": "Ecologically responsible and sustainable vacation rentals powered by web3",
+    "ledgerSignature": "3045022100becf317b371b3f4c9b388ad85e82e36051f1501a788a448cda5db6cf3b9cc44d022045f5fbef13e07a2af9b0c54946fb0920d8b5c25cdf768e77c6fd33d72c98375e",
     "social": {
         "twitter": "https://twitter.com/Globees_Project",
         "whitepaper": "https://globees.fr/whitepaper-globees"
@@ -17,7 +18,9 @@
       "erd1qqqqqqqqqqqqqpgqtst0lxugvt5e2c3lm8fq6r003qau8uszjn5qlwstfy":	"SC MINT",
       "erd1qqqqqqqqqqqqqpgqm3vlm4cs7m0wc26hh0emx24zacwqehesjn5qg7qcvh":	"SC Distrib rewards",
       "erd1ukd4kd2p5x7fh7qnehct550z9clrznjpes9fxfccq5wyuphgft3sqx9qmt":	"Globeesowner",
-      "erd1l2dqkd5hkg4fqgekq3u7lzq8qrr9a4jw5sdcxsjgdk58rqzs9c8s3v07vc":	"GlobeesLiquidity"
+      "erd1l2dqkd5hkg4fqgekq3u7lzq8qrr9a4jw5sdcxsjgdk58rqzs9c8s3v07vc":	"GlobeesLiquidity",
+      "erd1qqqqqqqqqqqqqpgqedsn6sfnndtlv5wtpdem2jll72fyprxfjn5qy4g3ps":	"StakingrewardSC",
+      "erd1qqqqqqqqqqqqqpgqujj8lqjhr8sqaqs035awjzx8v6l78tm7jn5qtjspqu":	"MultiplierSC"
   },
     "status": "active"
 }
