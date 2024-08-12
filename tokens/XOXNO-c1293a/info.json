@@ -18,6 +18,12 @@
     "erd1qqqqqqqqqqqqqpgqxxs3etvwccvq9fcg6cxczuvlp47cp8qtgzmqsqvfcg": "xLaunchpad",
     "erd1qqqqqqqqqqqqqpgqarunmmq8vwaevtnr304wqkwladqc0n9645qsrwxs7f": "Airdrop"
   },
-  "extraTokens": ["LXOXNO-0eb983", "LKXOXNO-b06190", "UXOXNO-e17bc8"],
+  "extraTokens": [
+    "LXOXNO-0eb983",
+    "LKXOXNO-b06190",
+    "UXOXNO-e17bc8",
+    "XOXNOWEGLD-93445e",
+    "ALP-ef193a"
+  ],
   "status": "active"
 }
