@@ -9,9 +9,8 @@
     },
     "lockedAccounts": {
         "erd10095anqk7acrkt6ax89lxa9j0jafvhest74xqc74rqsx7kam608szqq842": "Cold Wallet",
-        "erd1qqqqqqqqqqqqqpgqztjaxafcz7d90ps4k4pda7vxfvfjaplr27rskc422w": "DAO Wallet",
-        "erd1rz6sfqv8axgfx4gurlc58dd7spkn39tqtpplu268366az47zykwq9un0p6": "ＤＲＩＶΞＲＳ",
-        "erd1p25pluvfx4yny4hsedxvufh3ky7m4s3crhtxhqukcd2m8clfzpcslxdp99": "Airdrop Wallet"
+        "erd1qqqqqqqqqqqqqpgqztjaxafcz7d90ps4k4pda7vxfvfjaplr27rskc422w": "DAO Vault",
+        "erd1ryuzf08m4senh22y3rz7yl3shmeser4m5rplafg0l5ldmptd455qlll7vq": "Burn Wallet"
     },
     "extraTokens": [
         "PLATAWEGLD-c5cb4e",
