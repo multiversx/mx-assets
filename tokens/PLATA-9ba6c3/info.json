@@ -10,7 +10,13 @@
     "lockedAccounts": {
         "erd10095anqk7acrkt6ax89lxa9j0jafvhest74xqc74rqsx7kam608szqq842": "Cold Wallet",
         "erd1qqqqqqqqqqqqqpgqztjaxafcz7d90ps4k4pda7vxfvfjaplr27rskc422w": "DAO Vault",
-        "erd1ryuzf08m4senh22y3rz7yl3shmeser4m5rplafg0l5ldmptd455qlll7vq": "Burn Wallet"
+        "erd1ryuzf08m4senh22y3rz7yl3shmeser4m5rplafg0l5ldmptd455qlll7vq": "Burn Wallet",
+        "erd1qqqqqqqqqqqqqpgqyx7a60m2tqczacwme6sdt74899k7yjcs0pnq4aczq9": "Staking",
+        "erd1qqqqqqqqqqqqqpgqwl5w0rp740uwyq24hx2f702tqsdrwa9ggr9qanf5rf": "Staking",
+        "erd1qqqqqqqqqqqqqpgqkwt9d457frlkq4t4j3awsezc8c8meg8hyl5sp4td7z": "Staking",
+        "erd1qqqqqqqqqqqqqpgqs266zfksqqdds05af2qswk3u4lsex2ma6jtsk8uaz4": "Staking",
+        "erd1qqqqqqqqqqqqqpgq5774jcntdqkzv62tlvvhfn2y7eevpty6mvlszk3dla": "Farms",
+        "erd1qqqqqqqqqqqqqpgqrq6gv0ljf4y9md42pe4m6mh96hcpqnpuusls97tf33": "Farms"
     },
     "extraTokens": [
         "PLATAWEGLD-c5cb4e",
