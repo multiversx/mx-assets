@@ -1,0 +1,17 @@
+{
+    "name": "Valoro: WAGMI Fund",
+    "description": "Valoro's 'We All Gonna Make It' fund is composed of a diverse range of promising tokens within the MultiversX ecosystem.",
+    "social": {
+        "website": "https://valoro.fund/investment-funds/wagmi",
+        "twitter": "https://twitter.com/ValoroFund",
+        "telegram": "https://t.me/valorofund",
+        "whitepaper": "https://docs.valoro.fund/"
+    },
+    "tags": [
+        "valoro",
+        "index-fund",
+        "investment",
+        "wagmi"
+    ],
+    "icon": "valoro"
+}
