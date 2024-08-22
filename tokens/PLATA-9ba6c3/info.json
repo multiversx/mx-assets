@@ -3,8 +3,10 @@
     "description": "PLATA powers the entire Plata Network ecosystem. Pioneer MultiversX Token",
     "ledgerSignature": "304402203f5ed82a4d2dd6d44799a647c134b63574335a9714cde5f998d153bd4f1e3d22022010154f89087af6bfdf1036467b5fdbc3b747c1e5386637d5b72e8e9309b16498",
     "social": {
+        "whitepaper": "https://drive.google.com/file/d/1Tj0MsKKVXnzrt4WvXSJ75N50CBCxfgeh/view?usp=drive_link",
         "twitter": "https://twitter.com/platanetwork",
         "telegram":"https://t.me/plataNetwork",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/plata-network/",
         "coingecko": "https://www.coingecko.com/en/coins/plata-network"
     },
     "lockedAccounts": {
@@ -28,6 +30,7 @@
         "GREENPLATA-c446b6",
         "P1CPLATA-39294f",
         "EBUDPLATA-6fca29",
+        "RICOPLATA-4d7139",        
         ""
     ],
     "status": "active"
