@@ -2,7 +2,8 @@
     "website": "https://swap.onedex.app/swap?firstToken=EGLD&secondToken=GCC-3194ab&state=Lite&type=simple",
     "description": "Gentleman's Crypto Token. Established MMXXI",
     "social": {
-        "twitter": "https://x.com/platanetwork"
+        "whitepaper": "https://drive.google.com/file/d/1Tj0MsKKVXnzrt4WvXSJ75N50CBCxfgeh/view?usp=drive_link",
+        "twitter": "https://x.com/platalegacy"
     },
     "status": "active"
 }
