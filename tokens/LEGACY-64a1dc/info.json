@@ -5,5 +5,8 @@
     },
     "website": "https://swap.onedex.app/swap?firstToken=EGLD&secondToken=LEGACY-64a1dc&state=Pro&type=simple",
     "description": "Plata Network ecosystem TIER 3 member Token",
+        "lockedAccounts": {
+        "erd1ryuzf08m4senh22y3rz7yl3shmeser4m5rplafg0l5ldmptd455qlll7vq": "Burn Wallet"
+    },
     "status": "active"
 }
