@@ -2,7 +2,7 @@
     "social": {
         "twitter": "https://twitter.com/plataNetwork"
     },
-    "website": "https://plata.network/legacy",
+    "website": "https://swap.onedex.app/swap?firstToken=EGLD&secondToken=XAI-f10327&state=Pro&type=simple",
     "description": "Tracker Meme built on Legacy Tokenomics x AI. Powered by PLATA",
     "status": "active"
 }
