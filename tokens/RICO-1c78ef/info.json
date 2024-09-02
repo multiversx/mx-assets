@@ -1,0 +1,12 @@
+{
+   "website":"https://linktr.ee/plataLinks",
+   "description":"Rallying Intense Coin Operations on MultiversX. Powered by ＰＬΛＴΛ",
+       "social": {
+        "whitepaper": "https://drive.google.com/file/d/1Tj0MsKKVXnzrt4WvXSJ75N50CBCxfgeh/view?usp=drive_link",
+        "twitter": "https://twitter.com/plataNetwork"
+    },
+       "lockedAccounts": {
+        "erd1ryuzf08m4senh22y3rz7yl3shmeser4m5rplafg0l5ldmptd455qlll7vq": "Burn Wallet"
+    },
+   "status":"active"
+}
