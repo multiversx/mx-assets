@@ -1,0 +1,11 @@
+{
+    "name": "OneDex: DCA",
+    "description": "Smart Contract used for the Dollar Cost Averaging feature of OneDex.",
+    "website": "https://onedex.app/",
+    "social": {
+        "blog": "https://onedex.app/",
+        "twitter": "https://x.com/OneDex_X"
+    },
+    "icon": "onedex",
+    "tags": []
+}
