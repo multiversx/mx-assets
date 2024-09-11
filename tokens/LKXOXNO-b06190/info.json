@@ -8,8 +8,11 @@
     "discord": "https://discord.gg/xoxno",
     "twitter": "https://x.com/XoxnoNetwork",
     "whitepaper": "https://xoxno.com/whitepaper",
-    "coinmarketcap": "https://coinmarketcap.com/community/profile/XOXNO",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xoxno/",
     "coingecko": "https://www.coingecko.com/en/coins/xoxno"
+  },
+  "priceSource": {
+    "url": "https://api.xoxno.com/tokens?identifier=XOXNO-c1293a"
   },
   "status": "active"
 }
