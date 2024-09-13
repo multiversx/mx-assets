@@ -6,5 +6,10 @@
     "twitter": "https://x.com/syndicateMVX",
     "telegram": "https://t.me/+OLpxjtX2z_ZhZmNk"
   },
-  "status": "active"
+  "status": "active",
+  "lockedAccounts": {
+    "erd1qqqqqqqqqqqqqpgqqnm3x37972323nuv3l3kywev0n8q5n6gyc8qwljqz9": "Coindrip Sreaming Protocol Seed Sale",
+    "erd1ngg6zj409qd32ef048nu3at2jaehssez8pmvcq3x4pcjvcma3peqagueg8": "Private Sale",
+    "erd1fqen50hz7ye5nryyaagwhfw5gxvq3v47zx6r86dg073eg26hz9esw6vnqz": "Reserves"
+  }
 }
