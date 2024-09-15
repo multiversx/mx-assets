@@ -4,5 +4,9 @@
         "social":{
            "twitter":"https://x.com/kmcpg"
         },
+        "lockedAccounts": {
+            "erd16jqfcmu5s7ppmhvj0r78wspryvl8ncxzms58ey68rzmjktk5amqsjhapuc": "Tikawtreasury",
+            "erd1jkmk39ts4glsl5tj2ta4qcgt5c60yqv6stgfljmvnwsayhaxyypq3nwjnk": "Locked tokens"
+    },
         "status":"active"
      }
