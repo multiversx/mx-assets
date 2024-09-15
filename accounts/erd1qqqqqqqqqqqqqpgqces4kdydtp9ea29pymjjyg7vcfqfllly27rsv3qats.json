@@ -1,5 +1,21 @@
 {
   "name": "PeerMe: DAO Template",
   "description": "Template used by the PeerMe DAO Manager to deploy fresh DAOs.",
-  "tags": ["peerme", "dao", "governance"]
+  "social": {
+    "website": "https://peerme.io",
+    "email": "hello@peerme.io",
+    "twitter": "https://twitter.com/PeerMeHQ",
+    "coingecko": "https://www.coingecko.com/en/coins/peerme-super",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superciety",
+    "discord": "https://discord.peerme.io",
+    "telegram": "https://telegram.peerme.io",
+    "youtube": "https://www.youtube.com/@peerme",
+    "github": "https://github.com/PeerMeHQ",
+    "community": "https://egld.community/projects/PeerMe"
+  },
+  "tags": [
+    "peerme",
+    "dao",
+    "governance"
+  ]
 }

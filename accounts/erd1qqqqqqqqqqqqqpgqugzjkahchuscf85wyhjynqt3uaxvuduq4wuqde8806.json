@@ -1,10 +1,16 @@
 {
-    "name": "Burnify: Boosted Rewards",
-    "description": "",
-    "tags": [
-        "burnify",
-        "boost",
-        "burn"
-    ],
-    "icon": "burnify"
+  "name": "Burnify: Boosted Rewards",
+  "description": "",
+  "social": {
+    "website": "https://burnify.app",
+    "twitter": "https://twitter.com/BurnifyApp",
+    "whitepaper": "https://litepaper.burnify.app",
+    "telegram": "https://t.me/Burnify"
+  },
+  "tags": [
+    "burnify",
+    "boost",
+    "burn"
+  ],
+  "icon": "burnify"
 }

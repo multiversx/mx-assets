@@ -1,0 +1,6 @@
+{
+    "name": "CryptGain: Validator Rewards",
+    "description": "CryptGain Validator's Reward Controller",
+    "tags": ["validator", "DAO", "rewards"],
+    "icon": "cryptgain"
+}

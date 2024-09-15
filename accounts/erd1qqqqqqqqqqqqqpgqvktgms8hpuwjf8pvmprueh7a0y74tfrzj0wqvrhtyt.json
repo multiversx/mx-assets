@@ -1,6 +1,18 @@
 {
   "name": "Holoride: NFT Marketplace",
   "description": "",
+  "social": {
+    "website": "https://www.holoride.com",
+    "blog": "https://www.holoride.com/newsroom",
+    "twitter": "https://twitter.com/holoride",
+    "whitepaper": "https://a.storyblok.com/f/113424/x/334861532d/holoride_litepaper_v2-1_nov21.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/holoride/",
+    "coingecko": "https://www.coingecko.com/en/coins/holoride",
+    "telegram": "https://t.me/holoride",
+    "instagram": "https://www.instagram.com/holoride",
+    "discord": "https://discord.gg/ZRF7ZAZ6xV",
+    "youtube": "https://www.youtube.com/c/holoride/featured"
+  },
   "tags": [
     "holoride",
     "nft",

@@ -1,0 +1,15 @@
+{
+    "social": {
+        "twitter": "https://twitter.com/WaveNodeValid",
+        "whitepaper": "https://wdia.wavenode.io/"
+    },
+    "website": "https://wdia.wavenode.io/",
+    "description": "With an initial supply of 3106 tokens, it is distributed for free to WDiamond owners who stake their NFT. 20% of the rewards are injected into the eDIA token and distributed back to the community. Stake at least 1 EGLD regularly for random eDIA AirDrops. Ultimately, eDIA aims to be utilized for interaction within the Wavenode ecosystem on MultiversX.",
+    "lockedAccounts": {
+        "erd1uxqsu6pjf760s0rqry57wlctpy75jutk0czhzz3t07xtxnh75egs4c73j0": "Locked for burn",
+        "erd1a93xltt2d99pv4mc5lq5y7e2xk5anplqxf30dyap88amt0qjrn9s4dtjen": "OGs tresor",
+        "erd1nc8z536qmrc3nu5722r586qnplth7u755ketxuz6969g849s4a6q9f9x7w": "Community tresor",
+        "erd1qqqqqqqqqqqqqpgq4nmdzsfd7llq9gvgdjd6s5wm8qkfu7dws28saszynl": "Staking Smartcontract WDiamond Exrond"
+    },
+    "status": "active"
+}

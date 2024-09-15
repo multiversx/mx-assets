@@ -1,6 +1,9 @@
 {
   "name": "xBulk: Distribution Contract",
   "description": "Generic distribution contract for xBulk.app",
+  "social": {
+    "website": "https://xbulk.app"
+  },
   "tags": [
     "commmunity",
     "bulk"
