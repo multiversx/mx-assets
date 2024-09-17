@@ -1,0 +1,16 @@
+{
+  "name": "xExchange: XMEX Position Creator",
+  "description": "",
+  "social": {
+    "website": "https://xexchange.com",
+    "twitter": "https://twitter.com/xExchangeApp",
+    "telegram": "https://t.me/xExchangeApp",
+    "blog": "https://xexchange.com/x-exchange-economics.pdf"
+  },
+  "tags": [
+    "xexchange",
+    "xmex",
+    "positioncreator"
+  ],
+  "icon": "xexchange"
+}
