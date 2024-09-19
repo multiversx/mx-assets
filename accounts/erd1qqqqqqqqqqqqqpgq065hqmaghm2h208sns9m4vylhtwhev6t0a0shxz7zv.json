@@ -1,0 +1,12 @@
+{
+  "name": "Demiourgos Vesting Maker SC",
+  "description": "The DH™ Vesting Maker SC is the  SC responsible for the making of Vested Ouroboros, Vested Auryn and Vested Elite-Auryn Tokens using inputs of either Ouroboros, Auryn or Elite-Auryn, as well as their transmission to a specified target Address on MultiversX™.",
+  "social": {
+    "website": "https://vestax.finance",
+    "email": "pa.arion@gmail.com",
+    "twitter": "https://www.twitter.com/DemiourgosH",
+    "telegram": "https://t.me/DemiourgosCommunity",
+    "discord": "https://discord.gg/GKKAmPKKNe"
+  },
+  "tags": ["vestax", "liquidstaking", "vegld"]
+}

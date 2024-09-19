@@ -1,0 +1,29 @@
+{
+  "website": "https://xoxno.com",
+  "description": "XOXNO is the utility token of XOXNO Network, a web3 platform that empowers you to explore a new-age economy: collectibles, DeFi and more.",
+  "social": {
+    "email": "contact@xoxno.com",
+    "telegram": "https://xoxno.t.me",
+    "github": "https://github.com/xoxno",
+    "discord": "https://discord.gg/xoxno",
+    "twitter": "https://x.com/XoxnoNetwork",
+    "whitepaper": "https://xoxno.com/whitepaper",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xoxno/",
+    "coingecko": "https://www.coingecko.com/en/coins/xoxno"
+  },
+  "ledgerSignature": "3045022100d1e85750951a85283f5140193646e50f8674156709f799401287a1d8047b4ed902201f99ff2489b206d25e42feb188d3d0492afc7e5a622d0dbf4c8f87ec1047d0b2",
+  "lockedAccounts": {
+    "erd1u8j90mxv4wvdj265nffuuguwl4gw8e8mvnkuhd0tt34q8fdc45qsg25jyp": "Minter Manager",
+    "erd1qqqqqqqqqqqqqpgqcl3dytkacwp0kkxwmykvag50rh5z27kw45qs5dmpk2": "Vested Tokens Manager",
+    "erd1qqqqqqqqqqqqqpgqxxs3etvwccvq9fcg6cxczuvlp47cp8qtgzmqsqvfcg": "xLaunchpad",
+    "erd1qqqqqqqqqqqqqpgqarunmmq8vwaevtnr304wqkwladqc0n9645qsrwxs7f": "Airdrop"
+  },
+  "extraTokens": [
+    "LXOXNO-0eb983",
+    "LKXOXNO-b06190",
+    "UXOXNO-e17bc8",
+    "XOXNOWEGLD-93445e",
+    "ALP-ef193a"
+  ],
+  "status": "active"
+}
