@@ -9,7 +9,7 @@
     "status": "active",
     "priceSource": {
         "type": "customUrl",
-        "url": "https://api.valoro.fund/v1/protocol/tokens",
-        "path": "3.usdPrice"
+        "url": "https://api.valoro.fund/v1/protocol/tokens/VLRHEAVEN-57ca3d",
+        "path": "0.usdPrice"
     }
 }
