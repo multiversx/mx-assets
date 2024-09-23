@@ -6,5 +6,10 @@
         "telegram": "https://t.me/valorofund",
         "whitepaper": "https://docs.valoro.fund/"
     },
-    "status": "active"
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.valoro.fund/v1/protocol/tokens",
+        "path": "1.usdPrice"
+    }
 }
