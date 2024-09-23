@@ -7,5 +7,10 @@
         "telegram": "https://t.me/EmoryaFinanceRO",
         "whitepaper": "https://emorya.com/emorya-white-paper"
     },
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.emorya.com/emrs-price",
+        "path": "0.usdPrice"
+      },
     "status": "active"
 }
