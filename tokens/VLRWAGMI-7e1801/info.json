@@ -9,7 +9,7 @@
     "status": "active",
     "priceSource": {
         "type": "customUrl",
-        "url": "https://api.valoro.fund/v1/protocol/tokens",
-        "path": "5.usdPrice"
+        "url": "https://api.valoro.fund/v1/protocol/tokens/VLRWAGMI-7e1801",
+        "path": "0.usdPrice"
     }
   }
