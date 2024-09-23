@@ -190,11 +190,12 @@ Inside the `info.json` file corresponding to the token, add the following proper
 ```
   "priceSource": {
     "type": "customUrl",
-    "url": "https://your-api.com/your-token-price-endpoint"
+    "url": "https://your-api.com/your-token-price-endpoint",
+    "path": "0.usdPrice"
   },
 ```
 
-The endpoint must return a response that follows this definition:
+Using the above settings, your endpoint must return a response that follows this definition:
 
 ```json
 [
@@ -204,7 +205,7 @@ The endpoint must return a response that follows this definition:
 ]
 ```
 
-The default setting is that the object containing the `usdPrice` is the first entry of an array. 
+The default `path`, also used when nothing is set (`0.usdPrice`), will assume that the object containing the `usdPrice` is the first entry of an array. 
 
 If you want to expose something different on your endpoint, such as:
 
@@ -214,7 +215,7 @@ If you want to expose something different on your endpoint, such as:
 }
 ```
 
-you'll need to update accordingly into `info.json`:
+you'll need to update the `path` field accordingly:
 
 ```
   "priceSource": {
@@ -223,6 +224,3 @@ you'll need to update accordingly into `info.json`:
     "path": "myCustomPriceField"
   },
 ```
-
-The `path` property (if missing) will be set default as `0.usdPrice`, meaning that our backend will try to fetch the `usdPrice` field from the first object of the returned array.
-
