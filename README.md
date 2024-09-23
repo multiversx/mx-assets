@@ -178,3 +178,51 @@ This is done via a message signature verification, where the message is the late
 To do so, on the PR page, go to the `Commits` tab of the Pull Request and copy the latest commit hash (should look similar to `9c6164f1b195ce96bc5b65d6878ebe813e852550`). Then sign 
 that string by using the owner of the asset you are branding. The easiest way is to use our [Utils Dapp](https://utils.multiversx.com) where you should log in with the owner wallet
 and then go to the 'Sign Message' tab and sign the commit hash previously copied. After that, leave a comment inside the Pull Request with the obtained signature.
+
+# Custom token price fetching
+
+By default, tokens issued on MultiversX will have their price displayed on frontend products (such as Explorer, Web Wallet, and so on) only if they have a pair listed on xExchange. 
+
+However, there is the possibility for tokens to provide a custom price source for tokens. Here's how: 
+
+Inside the `info.json` file corresponding to the token, add the following property:
+
+```
+  "priceSource": {
+    "type": "customUrl",
+    "url": "https://your-api.com/your-token-price-endpoint"
+  },
+```
+
+The endpoint must return a response that follows this definition:
+
+```json
+[
+  {
+    "usdPrice": 0.05
+  }
+]
+```
+
+The default setting is that the object containing the `usdPrice` is the first entry of an array. 
+
+If you want to expose something different on your endpoint, such as:
+
+```json
+{
+    "myCustomPriceField": 0.05
+}
+```
+
+you'll need to update accordingly into `info.json`:
+
+```
+  "priceSource": {
+    "type": "customUrl",
+    "url": "https://your-api.com/your-token-price-endpoint",
+    "path": "myCustomPriceField"
+  },
+```
+
+The `path` property (if missing) will be set default as `0.usdPrice`, meaning that our backend will try to fetch the `usdPrice` field from the first object of the returned array.
+
