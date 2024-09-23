@@ -9,7 +9,7 @@
     "status": "active",
     "priceSource": {
         "type": "customUrl",
-        "url": "https://api.valoro.fund/v1/protocol/tokens",
-        "path": "4.usdPrice"
+        "url": "https://api.valoro.fund/v1/protocol/tokens/VLRSQUEEZE-bdb29a",
+        "path": "0.usdPrice"
     }
   }
