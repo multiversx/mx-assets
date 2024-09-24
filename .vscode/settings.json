@@ -1,6 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "githubPullRequests.ignoredPullRequestBranches": [
-    "master"
-  ]
-}
