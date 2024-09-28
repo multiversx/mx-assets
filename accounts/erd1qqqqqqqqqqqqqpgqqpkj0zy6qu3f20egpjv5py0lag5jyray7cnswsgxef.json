@@ -1,0 +1,18 @@
+{
+  "name": "FLIPiX: NFT Marketplace",
+  "description": "Earn Rewards & Trade NFTs with 0% Fees",
+  "social": {
+    "website": "https://flipix.io",
+    "email": "contact@flipix.io",
+    "twitter": "https://twitter.com/flipixio",
+    "telegram": "https://t.me/bhnetwork",
+    "discord": "https://discord.gg/bh.network"
+  },
+  "tags": [
+    "flipix",
+    "nfts",
+    "marketplace",
+    "aggregator"
+  ],
+  "icon": "flipix"
+}
