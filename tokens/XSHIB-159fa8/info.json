@@ -1,0 +1,20 @@
+{
+    "website": "https://www.shibaxnft.com/",
+    "description": "XSHIB serves as the lifeblood of the ShibaX ecosystem, empowering users with unique benefits",
+    "status": "active",
+    "lockedAccounts": {
+        "erd1g46ukpgsjcgz8gug42vagcc7qrywmgx6q833sul0unkgkg50axpqzf9sjv": "ShibaX Pyro Vault",
+        "erd1cjr983lda6f9qukmnpehm7shgcgeywrj6xs5a89heyh00d4qqvhsg3ru5d": "ShibaX Partner Forge",
+        "erd1gtfl85ez2m5tft4cpxm67qhsa5cgytc2exrw69rn9hjlrsaxs2rqu9svlm": "ShibaX Marketing",
+        "erd1rpq3thsgf7h34msfhjs9g87gmcsu4cfl5nnshsq2hhnjfxw4trfs982vml": "ShibaX Team",
+        "erd136737c2s03jkcsuly2fjs8zc5la28f8w6cwq5ncst7p0pdd4mx6qq6nw9x": "ShibaX Drop",
+        "erd18cz236mz7r92zpkqrfvhlf8tlgmnffklrry6gp76yklq50arlf4q74aywy": "ShibaX Staking",
+        "erd1v4uyk7ujvp0ucegn45cu300t3hvwf8ehcklql83fhtf4dv748g0sk83eps": "ShibaX Gift Hub",
+        "erd1tkmw7ux0xvtusd6j97jv4ajdth8ydwfajhpmjrgvy5kexfta8klqa3enlc": "ShibaX DAO",
+        "erd10mujtwnp9dl99mw74xdqxwmf0gest6eq0axmwa90jp0uzatyfz3qum3hd0": "ShibaX Gang Bank"
+    },
+    "social": {
+        "twitter": "https://twitter.com/ShibaXSHIB",
+        "telegram": "https://t.me/+mv84eZWSB-MzMGY0"
+    }
+}
