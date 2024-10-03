@@ -1,8 +1,8 @@
 {
-    "social": {
-        "twitter": "https://twitter.com/Beagle_MvX"
-    },
     "website": "https://x.com/Beagle_MvX",
     "description": "I'm just a beagle, but I'm the only one from MultiversX.\nWoof, woof, let's became friends! ",
-    "status": "active"
+    "status": "active",
+    "social": {
+        "twitter": "https://twitter.com/Beagle_MvX"
+    }
 }
