@@ -1,6 +1,13 @@
 {
   "name": "Exchange: Okex.com",
   "description": "",
+  "social": {
+    "website": "https://www.okx.com",
+    "instagram": "https://www.instagram.com/okx_official",
+    "telegram": "https://t.me/OKXOfficial_English",
+    "tiktok": "https://www.tiktok.com/@okx",
+    "discord": "https://discord.gg/e6EyvM5QwM"
+  },
   "tags": [
     "okex",
     "exchange"

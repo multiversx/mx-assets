@@ -1,0 +1,12 @@
+{
+  "name": "DH NFT Staking SC",
+  "description": "The DH™ NFT Staking SC is the SC responsible for the Staking of all Demiourgos NFTs.",
+  "social": {
+    "website": "https://vestax.finance",
+    "email": "pa.arion@gmail.com",
+    "twitter": "https://www.twitter.com/DemiourgosH",
+    "telegram": "https://t.me/DemiourgosCommunity",
+    "discord": "https://discord.gg/GKKAmPKKNe"
+  },
+  "tags": ["demiourgos", "vestax", "nft", "staking"]
+}

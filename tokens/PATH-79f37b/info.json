@@ -1,0 +1,12 @@
+{
+    "social": {
+        "blog": "https://medium.com/@e-compass",
+        "twitter": "https://twitter.com/eCompass_io"
+    },
+    "website": "https://e-compass.io",
+    "description": "Charts 📈, Monitoring 📊 and statistics tools on MvX ecosystem. Data provider for MultiversX projects. Free to use and constantly evolving !",
+    "lockedAccounts": {
+        "erd18mlkf328c6x4kquyfeek0sn9pw6n2wrtv3unlmdecjhk6g9ddyus9m0t7t": "E-Compass -  Locked Account #1"
+    },
+    "status": "active"
+}

@@ -1,0 +1,12 @@
+{
+    "social": {
+        "whitepaper": "https://drive.google.com/file/d/1Tj0MsKKVXnzrt4WvXSJ75N50CBCxfgeh/view?usp=drive_link",
+        "twitter": "https://twitter.com/platalegacy"
+    },
+        "lockedAccounts": {
+        "erd1ryuzf08m4senh22y3rz7yl3shmeser4m5rplafg0l5ldmptd455qlll7vq": "Burn Wallet"
+    },
+    "website": "https://swap.onedex.app/swap?firstToken=EGLD&secondToken=XAI-f10327&state=Pro&type=simple",
+    "description": "Tracker Meme built on Legacy Tokenomics x AI. Powered by ＰＬΛＴΛ",
+    "status": "active"
+}

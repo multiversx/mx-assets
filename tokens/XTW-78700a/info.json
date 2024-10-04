@@ -1,0 +1,12 @@
+{
+        "website":"https://kmcpg-972.xfabric.com",
+        "description":"The XTW will be the main token of our ecosystem",
+        "social":{
+           "twitter":"https://x.com/kmcpg"
+        },
+        "lockedAccounts": {
+    "erd1jkmk39ts4glsl5tj2ta4qcgt5c60yqv6stgfljmvnwsayhaxyypq3nwjnk": "CrossChain Marketing",
+    "erd13qcj5eck4wrztdrt6cumgnsr4x930efha7v0r8lmx2aa3sqp6lwstwhmaz": "Team Tokens"
+  },
+        "status":"active"
+     }

@@ -1,5 +1,5 @@
 name: Cleanup
-    
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: Checkout repository content
-        uses: actions/checkout@v2 
+        uses: actions/checkout@v2
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
@@ -23,17 +23,16 @@ jobs:
       - name: Execute cleanup script
         run: |
           python3 .github/cleanup.py
-      - name: setup git config
+      - name: Cleanup
         run: |
           git config user.name "GitHub Cleanup Bot"
           git config user.email "<>"
-      - name: check for changes
-        run: git status
-      - name: stage changed files
-        run: git add .
-      - name: commit changed files
-        run: git commit -m "Cleanup"
-      - name: fetch from master
-        run: git fetch origin master
-      - name: push code to master
-        run: git push origin HEAD:master
+
+          STATUS=$(git status)
+          if [ $STATUS != "" ]
+          then
+            git add .
+            git commit -m "Cleanup"
+            git fetch origin master
+            git push origin HEAD:master
+          fi
