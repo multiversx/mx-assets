@@ -1,12 +1,12 @@
 { 
-  "website1":"https://supervictornft.com",
-  "website2":"https://supervictoruniverse.com",
-  "description":"VICTOR is a utility token powering the SuperVictor Universe ecosystem.",
-  "social":{
-    "email":"supervictoruniverse@gmail.com",
-    "twitter":"https://twitter.com/SVictorUniverse",
-    "discord":"https://discord.gg/w6FhnKryGd",
-    "whitepaper":"https://supervictoruniverse.gitbook.io/super-victor-universe"
+  "website1": "https://supervictornft.com",
+  "website2": "https://supervictoruniverse.com",
+  "description": "VICTOR is a utility token powering the SuperVictor Universe ecosystem.",
+  "social": {
+    "email": "supervictoruniverse@gmail.com",
+    "twitter": "https://twitter.com/SVictorUniverse",
+    "discord": "https://discord.gg/w6FhnKryGd",
+    "whitepaper": "https://supervictoruniverse.gitbook.io/super-victor-universe"
   },
-  "status":"active"
+  "status": "active"
 }
