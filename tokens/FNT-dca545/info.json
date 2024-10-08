@@ -1,5 +1,8 @@
 {
     "website": "https://en.wikipedia.org/wiki/The_Flintstones",
-    "description": "Yabba-Dabba Doo!",
-    "status": "active"
+    "description": "Yabba-Dabba Doo!\nLet's bring them back to life!",
+    "status": "active",
+    "social": {
+        "twitter": "https://x.com/flinstonesmvx"
+    }
 }
