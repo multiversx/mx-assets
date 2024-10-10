@@ -1,6 +1,6 @@
 {
-  "name": "PeerMe: Identity Module",
-  "description": "Manages identities inside PeerMe's ecosystem of cryptocompanies, communities and DAOs.",
+  "name": "PeerMe: Stake & Earn Module",
+  "description": "Enables users to stake and earn from MultiSigs and DAOs.",
   "social": {
     "website": "https://peerme.io",
     "email": "hello@peerme.io",
@@ -13,5 +13,14 @@
     "github": "https://github.com/PeerMeHQ",
     "community": "https://egld.community/projects/PeerMe"
   },
-  "tags": ["peerme", "dao", "multisig", "governance", "identity"]
+  "tags": [
+    "peerme",
+    "dao",
+    "multisig",
+    "governance",
+    "staking",
+    "earn",
+    "distribution",
+    "dividends"
+  ]
 }
