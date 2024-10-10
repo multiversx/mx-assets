@@ -1,10 +1,10 @@
 {
-  "name": "PeerMe: Identity Module",
-  "description": "Manages identities inside PeerMe's ecosystem of cryptocompanies, communities and DAOs.",
+  "name": "PeerMe: @cromdao",
+  "description": "Technology & Humans",
   "social": {
     "website": "https://peerme.io",
     "email": "hello@peerme.io",
-    "twitter": "https://twitter.com/PeerMeHQ",
+    "twitter": "https://x.com/PeerMeHQ",
     "coingecko": "https://www.coingecko.com/en/coins/peerme-super",
     "coinmarketcap": "https://coinmarketcap.com/currencies/superciety",
     "discord": "https://discord.peerme.io",
@@ -13,5 +13,6 @@
     "github": "https://github.com/PeerMeHQ",
     "community": "https://egld.community/projects/PeerMe"
   },
-  "tags": ["peerme", "dao", "multisig", "governance", "identity"]
+  "tags": ["peerme", "governance", "dao", "multisig"],
+  "icon": "peerme"
 }
