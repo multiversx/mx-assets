@@ -4,5 +4,8 @@
     "status": "active",
     "social": {
         "twitter": "https://twitter.com/thepawnlegion"
-    }
+    },
+    "extraTokens": [
+        "LOKDWEGLD-699778"
+    ]
 }
