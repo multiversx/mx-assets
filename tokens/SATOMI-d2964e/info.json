@@ -1,8 +1,8 @@
 {
-  "website": "https://x.com/SatomiMvx",
-  "description": "Satomi Token is a digital cryptocurrency designed to foster community engagement and decentralized technology awareness through innovative AI-driven interactions.",
-  "status": "active",
-  "social": {
-    "twitter": "https://x.com/SatomiMvx"
-  }
+    "social": {
+        "twitter": "https://x.com/SatomiMvx"
+    },
+    "website": "https://x.com/SatomiMvx",
+    "description": "Satomi Token represents an innovative approach in blockchain technology, designed for enhancing user engagement and awareness through an AI-driven virtual character.",
+    "status": "active"
 }
