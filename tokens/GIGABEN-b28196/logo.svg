@@ -3,8 +3,8 @@
 
 <svg
    width="200"
-   height="199.98709"
-   viewBox="0 0 52.91666 52.913245"
+   height="200"
+   viewBox="0 0 52.91666 52.91666"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -31,7 +31,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><g
      id="layer2"
      style="fill:url(#linearGradient47);fill-opacity:1"
-     transform="matrix(0.24999997,0,0,0.24930687,-3.1555112e-7,1.4330984e-6)"><ellipse
+     transform="matrix(0.24999996,0,0,0.25000045,0.00153135,-0.00152811)"><ellipse
        id="shape0"
        transform="rotate(-89.904784)"
        cx="-105.65697"
