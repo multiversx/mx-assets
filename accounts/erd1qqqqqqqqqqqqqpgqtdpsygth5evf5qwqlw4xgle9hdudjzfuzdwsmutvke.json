@@ -1,11 +1,24 @@
 {
-    "name": "Vital: Crowdfunding",
-    "description": "",
-    "tags": [
-        "vital",
-        "crowdfunding",
-        "finance",
-        "startup"
-    ],
-    "icon": "vital"
+  "name": "Vital: Crowdfunding",
+  "description": "",
+  "social": {
+    "website": "https://vital-dapp.com",
+    "telegram": "https://t.me/VitalNetwork_EN",
+    "blog": "https://medium.com/@vitalnetwork",
+    "twitter": "https://twitter.com/xVitalNetwork",
+    "instagram": "https://www.instagram.com/vital_dapp",
+    "discord": "http://dsc.gg/Vitaldao",
+    "whitepaper": "https://whitepaper.vital-dapp.com",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/vital",
+    "coingecko": "https://www.coingecko.com/en/coins/vital-network",
+    "linkedin": "https://www.linkedin.com/company/78769713",
+    "youtube": "https://www.youtube.com/channel/UCklvdAY4iL4lPBYip5ZZrxQ"
+  },
+  "tags": [
+    "vital",
+    "crowdfunding",
+    "finance",
+    "startup"
+  ],
+  "icon": "vital"
 }

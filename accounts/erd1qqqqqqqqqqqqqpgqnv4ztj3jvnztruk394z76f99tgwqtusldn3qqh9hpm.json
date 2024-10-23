@@ -1,6 +1,9 @@
 {
   "name": "xBulk: Contract Manager",
   "description": "",
+  "social": {
+    "website": "https://xbulk.app"
+  },
   "tags": [
     "commmunity",
     "bulk"

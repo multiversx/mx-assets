@@ -1,0 +1,10 @@
+{
+    "website": "https://www.multi-fights.com",
+    "description": "The MULTigers collection contains a fixed number of 3,500 characters, with each character containing the following stats: level, attack power, and health points.",
+    "social": {
+        "blog": "https://medium.com/@multifights",
+        "twitter": "https://twitter.com/MultiFights",
+        "whitepaper": "https://whitepaper.multi-fights.com/overview/introduction"
+    },
+    "status": "active"
+}

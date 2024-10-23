@@ -1,6 +1,9 @@
 {
   "name": "xBulk: MiceCity Token Distribution",
   "description": "MiceCity distribution contract for xBulk.app",
+  "social": {
+    "website": "https://xbulk.app"
+  },
   "tags": [
     "commmunity",
     "bulk"
