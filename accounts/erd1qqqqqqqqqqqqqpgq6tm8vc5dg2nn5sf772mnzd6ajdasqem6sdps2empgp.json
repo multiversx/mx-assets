@@ -1,6 +1,13 @@
 {
   "name": "Elrond City: Staking",
   "description": "Earn $ECITY by staking your Elrond City NFTs in this strategy game",
+  "social": {
+    "website": "https://www.elrondcity.com ",
+    "email": "elrondcity@gmail.com",
+    "twitter": "https://twitter.com/ElrondCity ",
+    "discord": "http://discord.elrondcity.com",
+    "whitepaper": "https://wp.elrondcity.com"
+  },
   "tags": [
     "elrondcity",
     "staking",

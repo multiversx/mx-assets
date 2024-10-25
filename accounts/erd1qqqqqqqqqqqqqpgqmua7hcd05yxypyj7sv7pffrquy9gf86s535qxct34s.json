@@ -1,6 +1,10 @@
 {
   "name": "LockedMex.Exchange: Swap",
   "description": "",
+  "social": {
+    "website": "https://lockedmex.exchange",
+    "twitter": "https://twitter.com/LkmexExchange"
+  },
   "tags": [
     "lockedmex.exchange",
     "swap"
