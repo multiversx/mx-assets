@@ -1,6 +1,9 @@
 {
   "name": "xBridge: Polygon Safe",
   "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
   "tags": [
     "xbridge",
     "polygon",

@@ -1,8 +1,10 @@
 {
-  "description": "Staking company situated in Romania operating on MultiversX blockchain.",
-  "name": "Equinoxe Capital",
-  "location": "Romania",
-  "owners": [
-    "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqh0lllls49nadp"
-  ]
+    "name": "Equinoxe Capital",
+    "description": "Staking company situated in Romania operating on MultiversX blockchain with premium hardware and know-how.",
+    "website": "https://...",
+    "location": "Romania",
+    "twitter": "",
+    "owners": [
+        "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqh0lllls49nadp"
+    ]
 }

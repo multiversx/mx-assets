@@ -1,0 +1,11 @@
+{
+  "website": "https://beaconx.app/",
+  "description": "The proof of a subscription issued by the BeaconX infrastructure platform",
+  "ledgerSignature": "",
+  "social": {
+    "email": "contact@buidly.com",
+    "twitter": "https://twitter.com/BeaconXapp",
+    "telegram": "https://t.me/beaconxapp"
+  },
+  "status": "active"
+}
