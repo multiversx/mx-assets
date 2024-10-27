@@ -15,6 +15,6 @@
     "priceSource": {
         "type": "customUrl",
         "url": "https://api.onedex.app/prices/ELMO-223bd0",
-        "path": "usdPrice"
+        "path": "0.usdPrice"
     }
 }
