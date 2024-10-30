@@ -1,8 +1,8 @@
 {
+    "website": "https://assets.multiversx.com",
+    "description": ".",
+    "status": "active",
     "social": {
         "twitter": "https://x.com/roarhighspex?s=21&t=3RjzVZSpOUcDmLrMZd3f-Q"
-    },
-    "website": "https://explorer.multiversx.com/tokens/1UP-b32abe",
-    "description": "1UP is a symbol of digital ownership in a world where scarcity reigns supreme. Its rarity and limited availability make it a coveted prize for collectors and meme enthusiasts alike. By owning 1UP, you're not just acquiring a digital asset; you're joining a select group of individuals who understand the true value of digital uniqueness.",
-    "status": "active"
+    }
 }
