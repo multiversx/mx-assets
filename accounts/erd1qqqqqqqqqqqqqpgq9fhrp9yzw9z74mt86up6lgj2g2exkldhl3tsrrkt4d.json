@@ -1,0 +1,12 @@
+{
+  "name": "Tagrity: Registry",
+  "description": "Registers and manages real world assets and services.",
+  "social": {
+    "website": "https://tagrity.io",
+    "email": "hello@tagrity.io",
+    "twitter": "https://twitter.com/Tagrity",
+    "telegram": "https://telegram.tagrity.io",
+    "github": "https://github.com/TagrityHQ"
+  },
+  "tags": ["tagrity", "rwa", "nft", "assets", "nfc"]
+}
