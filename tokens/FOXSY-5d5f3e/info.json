@@ -1,0 +1,17 @@
+{
+   "website":"https://foxsy.ai",
+   "description":"🦊 🦿 ⚽️ 🥅 🌎 🏆 Basically a dog wif brainz & 𝕏 appeal. Also AI, robotics & web3.",
+   "status":"active",
+   "social":{
+      "email":"contact@foxsy.ai",
+      "telegram":"https://t.me/foxsyai",
+      "twitter":"https://twitter.com/foxsy_ai",
+      "whitepaper":"https://project.docs.foxsy.ai"
+   },
+   "lockedAccounts":{
+      "erd1m767j3xs0e53kxr797rwl4pchydatcyqu3v09tl8202samrz6cys8rezef":"Token",
+      "erd1mnk7prp0u9y4j8y7yn7cdy7efknsmncq2f5nxce7s6awzk2kk65s9vcalp":"Project",
+      "erd1qqqqqqqqqqqqqpgqm4kf7968pxm0r9v33wzf4aqtzlk6ypnr6qlsx44wxa":"Vesting",
+      "erd1qqqqqqqqqqqqqpgqqngprvhxzj9e6zlgeut2kjz4tme4fntvka8q7hpkty":"Pre-Launch"
+   }
+}

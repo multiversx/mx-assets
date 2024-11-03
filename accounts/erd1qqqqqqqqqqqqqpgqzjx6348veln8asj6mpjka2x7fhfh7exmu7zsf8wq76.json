@@ -1,0 +1,17 @@
+{
+    "name": "Valoro: Squeeze Fund",
+    "description": "Valoro Squeeze is a specially curated fund consisting of the three main tokens of the MultiversX ecosystem: EGLD, UTK, and MEX.",
+    "social": {
+        "website": "https://valoro.fund/investment-funds/squeeze",
+        "twitter": "https://twitter.com/ValoroFund",
+        "telegram": "https://t.me/valorofund",
+        "whitepaper": "https://docs.valoro.fund/"
+    },
+    "tags": [
+        "valoro",
+        "index-fund",
+        "investment",
+        "squeeze"
+    ],
+    "icon": "valoro"
+}

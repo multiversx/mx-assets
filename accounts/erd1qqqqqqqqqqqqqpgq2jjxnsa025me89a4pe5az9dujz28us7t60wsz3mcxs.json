@@ -9,13 +9,6 @@
     "discord": "https://discord.com/invite/UyMvcWnz",
     "youtube": "https://www.youtube.com/channel/UCLeUlyFSUA1c7_DVQlgaxrQ"
   },
-  "tags": [
-    "community",
-    "transfers",
-    "smart",
-    "pulsar",
-    "hub",
-    "ecosystem",
-    "payments"
-  ]
+  "tags": ["community", "transfers", "smart", "pulsar", "hub", "ecosystem", "payments"],
+  "icon": "pulsarmoney"
 }
