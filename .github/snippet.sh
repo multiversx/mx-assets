@@ -3,7 +3,7 @@ DIR=""
 validate_filenames() {
   for file in "$@"; do
     echo "Checking filename for $file"
-    if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* && ${file} != *"accounts/"* && ${file} != *".github/"* && ${file} != *"/ranks.json"* && ${file} != *"README.md"* ]]; then
+    if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* && ${file} != *"guilds/"* && ${file} != *".github/"* && ${file} != *"/ranks.json"* && ${file} != *"README.md"* ]]; then
       echo "Filename ${file} isn't expected!"
       exit 1
     fi
@@ -58,11 +58,9 @@ validate_png_dimensions() {
   EXPECTED_PNG_DIMENSIONS="200 x 200"
   for file in "$@"; do
     echo "Checking PNG dimensions for $file"
-    logo_in_tokens="*tokens/*/logo.png"
-    logo_in_identities="*identities/*/logo.png"
-    png_in_accounts="*accounts/*/*.png"
+    png_in_guilds="*guilds/*/*.png"
 
-    if [[ ${file} == ${logo_in_tokens} || ${file} == ${logo_in_identities} || ${file} == ${png_in_accounts} ]]; then
+    if [[ ${file} == ${png_in_guilds} ]]; then
       png_dimensions=$(file $file | grep -E -o "[0-9]+ x [0-9]+" | head -1)
 
       echo "PNG dimensions: $png_dimensions"
@@ -75,31 +73,4 @@ validate_png_dimensions() {
       exit 0;
     fi
   done
-}
-
-validate_token_existence() {
-  urls=( "https://api.multiversx.com/" "https://testnet-api.multiversx.com/" "https://devnet-api.multiversx.com/")
-  for url in ${urls[@]}; do
-    API_TOKEN_URL="$url" 
-    API_TOKEN_URL+="tokens/"
-    API_TOKEN_URL+="$DIR"
-    API_COLLECTION_URL="$url"
-    API_COLLECTION_URL+="collections/"
-    API_COLLECTION_URL+="$DIR"
-
-    HTTP_STATUS=$(curl -s -w "%{http_code}" -o /dev/null "$API_TOKEN_URL")
-    if [[ ${HTTP_STATUS} == 200 ]]; then
-      exit 0
-    fi
-    echo "Failed fetching from $API_TOKEN_URL"
-    
-    HTTP_STATUS=$(curl -s -w "%{http_code}" -o /dev/null "$API_COLLECTION_URL")
-    if [[ ${HTTP_STATUS} == 200 ]]; then
-      exit 0
-    fi
-    echo "Failed fetching from $API_COLLECTION_URL"
-  done
-
-  echo "Invalid token $DIR"
-  exit 1
 }
