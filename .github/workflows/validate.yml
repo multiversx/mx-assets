@@ -17,7 +17,7 @@ jobs:
           sudo apt install imagemagick-6.q16
       - name: Collecting file paths
         run: |
-          echo "FILE_PATHS=$(find ./tokens -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
+          echo "FILE_PATHS=$(find ./guilds -type f -name '*info.json' -printf '%p,'| sed 's/,$//' )" >> $GITHUB_ENV
       - id: files
         uses: jitterbit/get-changed-files@v1
       - name: Validate file size
@@ -32,9 +32,6 @@ jobs:
       - name: Validate svg square
         run: |
           source .github/snippet.sh ; validate_svg_square ${{ steps.files.outputs.added_modified }}
-      - name: Validate token existence
-        run: |
-          source .github/snippet.sh; validate_token_existence
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
