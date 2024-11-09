@@ -1,6 +1,12 @@
 {
   "name": "buidly: xDustConverter",
   "description": "",
+  "social": {
+    "website": "https://beaconx.app",
+    "email": "contact@buidly.com",
+    "twitter": "https://twitter.com/BeaconXapp",
+    "telegram": "https://t.me/beaconxapp"
+  },
   "tags": [
     "buidly",
     "xdustconverter"

@@ -1,6 +1,16 @@
 {
   "name": "Cyberpunk City: CYBER Staking Module",
   "description": "",
+  "social": {
+    "website": "https://cyberpunkcity.com",
+    "email": "info@cyberpunkcity.com",
+    "blog": "https://cyberpunkcity.com/news",
+    "twitter": "https://twitter.com/cyberpunkcity",
+    "discord": "https://discord.gg/cyberpunkcity",
+    "telegram": "https://t.me/cyberpunkcity",
+    "youtube": "https://www.youtube.com/CyberpunkCity",
+    "whitepaper": "https://cyberpunkcity.com/whitepaper"
+  },
   "tags": [
     "metaverse",
     "cyberpunkcity"
