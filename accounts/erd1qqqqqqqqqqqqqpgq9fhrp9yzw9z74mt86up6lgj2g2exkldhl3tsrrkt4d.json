@@ -8,5 +8,6 @@
     "telegram": "https://telegram.tagrity.io",
     "github": "https://github.com/TagrityHQ"
   },
-  "tags": ["tagrity", "rwa", "nft", "assets", "nfc"]
+  "tags": ["tagrity", "rwa", "nft", "assets", "nfc"],
+  "icon": "tagrity"
 }
