@@ -29,14 +29,14 @@ jobs:
 
             while (Date.now() < timeout) {
               // Check if all required checks are successful
-              allChecksPassed = requiredChecks.every(checkName =>
+              allChecksPassed = requiredChecks.every(function(checkName) {
                 const checkRun = prChecks.check_runs.find(run => run.name === checkName);
                 if (checkRun) {
                   console.log(`${checkName}: ${checkRun.conclusion}`);
                   return checkRun.conclusion === 'success';
                 }
                 return false;
-              );
+              });
 
               if (allChecksPassed) {
                 console.log('All checks passed.');
