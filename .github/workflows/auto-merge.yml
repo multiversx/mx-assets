@@ -31,6 +31,8 @@ jobs:
               // Check if all required checks are successful
               allChecksPassed = requiredChecks.every(checkName =>
                 prChecks.check_runs.some(run => run.name === checkName && run.conclusion === 'success')
+                // print status of each check
+                console.log(`${checkName}: ${prChecks.check_runs.find(run => run.name === checkName).conclusion}`)
               );
 
               if (allChecksPassed) {
