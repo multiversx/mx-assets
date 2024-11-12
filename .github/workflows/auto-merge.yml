@@ -31,8 +31,8 @@ jobs:
               // Check if all required checks are successful
               allChecksPassed = requiredChecks.every(function(checkName) {
                 const checkRun = prChecks.check_runs.find(run => run.name === checkName);
+                console.log(`${checkName}: ${checkRun.conclusion}`);
                 if (checkRun) {
-                  console.log(`${checkName}: ${checkRun.conclusion}`);
                   return checkRun.conclusion === 'success';
                 }
                 return false;
