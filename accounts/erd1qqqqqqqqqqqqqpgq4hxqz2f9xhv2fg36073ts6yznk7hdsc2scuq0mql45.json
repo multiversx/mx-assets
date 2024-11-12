@@ -1,6 +1,6 @@
 {
   "name": "Giants Village: Skins Minter",
-  "description": "",
+  "description": "Giants Village buildings skin minter",
   "social": {
     "website": "https://giantsvillage.com",
     "email": "contact@elrondgiants.com",
@@ -13,10 +13,6 @@
     "tiktok": "https://www.tiktok.com/@elrondgiants",
     "facebook": "https://www.facebook.com/elrondgiants"
   },
-  "tags": [
-    "giants",
-    "game",
-    "skins",
-    "minter"
-  ]
+  "tags": ["giants", "game", "skins", "minter"],
+  "icon": "giants"
 }

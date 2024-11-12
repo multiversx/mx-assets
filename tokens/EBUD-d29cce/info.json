@@ -1,16 +1,19 @@
 {
-    "website": "https://ebuds.netlify.app/",
-    "description": "eBuds is a decentralized autonomous community focused on the creation and distribution of non-fungible tokens (NFTs)",
+    "website": "https://www.love-mvx.com",
+    "description": "eBuds is a decentralized autonomous community focused on the creation and distribution of non-fungible tokens (NFTs),the project manages $EBUD and $LUV tokens.",
     "status": "active",
     "social": {
-        "blog": "https://ebuds.medium.com/",
+        "blog": "https://ebuds.medium.com",
         "twitter": "https://twitter.com/eBudsNFT",
-        "whitepaper": "https://ebuds.netlify.app/"
+        "whitepaper": "https://www.love-mvx.com"
     },
     "lockedAccounts": {
         "erd1qqqqqqqqqqqqqpgqt3tr3hdzyaum90nvauzgc0gzr63gz98r5w4sq5l3js": "distribution_sc",
         "erd1qqqqqqqqqqqqqpgqmtv46gqnv0hcj47rlvhpsextapry4m6lkfhq5ulsls": "NFT HOLDERS 2025",
         "erd1qqqqqqqqqqqqqpgq07umryl68rwst0xh4800ujr83g6tlf9vkfhqt0z5pp": "$EBUD HOLDERS 2025",
+        "erd1qqqqqqqqqqqqqpgqq0yx7w5lguw5e5067j2lpl96t5vp3xcu27rswu3eq4": "DAO wallet",
+        "erd10l0mhny35p8gh32vfxteealjaef0rzvpf7ajl3hvsnpvwvn4kfhqf2gqla": "working wallet",
+        "erd1kqfjkdxv4wwjkey29f3zcfgnj570uglxpht85xz9sk80spv6pygs7lxqul": "weekly rewards/drops",
         "erd1qqqqqqqqqqqqqpgq6nur2qzrz8q5fhj6ktmxvj6plznt2lqykfhqu22n69": "Investing Fund"
     }
 }
