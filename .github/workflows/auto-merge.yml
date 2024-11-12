@@ -1,70 +1,31 @@
-name: Auto Merge PR
-
+name: automerge
 on:
   pull_request:
-    types: [opened, synchronize, reopened]
-
+    types:
+      - labeled
+      - unlabeled
+      - synchronize
+      - opened
+      - edited
+      - ready_for_review
+      - reopened
+      - unlocked
+  pull_request_review:
+    types:
+      - submitted
+  check_suite:
+    types:
+      - completed
+  status: {}
 jobs:
-  check-and-merge:
+  automerge:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
-      - name: Wait for all required checks to complete
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const prNumber = context.issue.number;
-            const owner = context.repo.owner;
-            const repo = context.repo.repo;
-
-            // Fetch the status of the PR
-            const { data: prChecks } = await github.rest.checks.listForRef({
-              owner,
-              repo,
-              ref: `refs/pull/${prNumber}/merge`
-            });
-
-            const requiredChecks = ['check-signature', 'validation'];  // Replace with your actual required checks
-            let allChecksPassed = false;
-            const timeout = Date.now() + 10 * 60 * 1000;  // 10 minutes timeout
-
-            while (Date.now() < timeout) {
-              // Check if all required checks are successful
-              allChecksPassed = requiredChecks.every(function(checkName) {
-                const checkRun = prChecks.check_runs.find(run => run.name === checkName);
-                console.log(`${checkName}: ${checkRun.conclusion}`);
-                if (checkRun) {
-                  return checkRun.conclusion === 'success';
-                }
-                return false;
-              });
-
-              if (allChecksPassed) {
-                console.log('All checks passed.');
-                break;
-              }
-
-              console.log('Waiting for checks to pass...');
-              await new Promise(resolve => setTimeout(resolve, 30000));  // Wait for 30 seconds
-            }
-
-            if (allChecksPassed) {
-              // Now that all checks are successful, merge the PR
-              const pr = await github.rest.pulls.get({
-                owner,
-                repo,
-                pull_number: prNumber,
-              });
-
-              if (pr.data.mergeable_state === 'clean' && pr.data.state === 'open') {
-                console.log('Merging PR...');
-                await github.rest.pulls.merge({
-                  owner,
-                  repo,
-                  pull_number: prNumber,
-                });
-              } else {
-                console.log('PR cannot be merged. Mergeable state is not clean.');
-              }
-            } else {
-              console.log('Not all required checks passed in time.');
-            }
+      - id: automerge
+        name: automerge
+        uses: "pascalgn/automerge-action@v0.16.4"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
