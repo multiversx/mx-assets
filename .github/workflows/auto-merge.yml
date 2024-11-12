@@ -5,11 +5,25 @@ on:
     types: [opened, synchronize, reopened]
 
 jobs:
-  merge:
+  check-and-merge:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Check if all checks pass
+      # Wait for each required check to complete
+      - name: Wait for check-signature to complete
+        uses: peter-evans/wait-for-check@v2
+        with:
+          check-name: 'check-signature'  # Replace with the actual name of your CI check
+          interval: 10
+          timeout: 600  # Wait up to 10 minutes (600 seconds)
+
+      - name: Wait for validation check to complete
+        uses: peter-evans/wait-for-check@v2
+        with:
+          check-name: 'validation'  # Replace with the actual name of your build check
+          interval: 10
+          timeout: 600
+
+      - name: Check if PR is mergeable
         uses: actions/github-script@v6
         with:
           script: |
@@ -19,7 +33,7 @@ jobs:
               pull_number: context.issue.number,
             });
 
-            // Check if the PR is not merged and all checks passed
+            // Ensure the PR is mergeable
             if (pr.data.mergeable_state === 'clean' && pr.data.state === 'open') {
               console.log('Merging PR...');
               await github.rest.pulls.merge({
