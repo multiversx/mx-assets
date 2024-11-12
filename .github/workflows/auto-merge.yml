@@ -1,0 +1,32 @@
+name: Auto Merge PR
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check if all checks pass
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const pr = await github.rest.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+            });
+
+            // Check if the PR is not merged and all checks passed
+            if (pr.data.mergeable_state === 'clean' && pr.data.state === 'open') {
+              console.log('Merging PR...');
+              await github.rest.pulls.merge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+              });
+            } else {
+              console.log('PR cannot be merged. Mergeable state is not clean.');
+            }
