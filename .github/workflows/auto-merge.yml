@@ -8,39 +8,58 @@ jobs:
   check-and-merge:
     runs-on: ubuntu-latest
     steps:
-      # Wait for each required check to complete
-      - name: Wait for check-signature to complete
-        uses: peter-evans/wait-for-check@v2
-        with:
-          check-name: 'check-signature'  # Replace with the actual name of your CI check
-          interval: 10
-          timeout: 600  # Wait up to 10 minutes (600 seconds)
-
-      - name: Wait for validation check to complete
-        uses: peter-evans/wait-for-check@v2
-        with:
-          check-name: 'validation'  # Replace with the actual name of your build check
-          interval: 10
-          timeout: 600
-
-      - name: Check if PR is mergeable
+      - name: Wait for all required checks to complete
         uses: actions/github-script@v6
         with:
           script: |
-            const pr = await github.rest.pulls.get({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: context.issue.number,
+            const prNumber = context.issue.number;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+
+            // Fetch the status of the PR
+            const { data: prChecks } = await github.rest.checks.listForRef({
+              owner,
+              repo,
+              ref: `refs/pull/${prNumber}/merge`
             });
 
-            // Ensure the PR is mergeable
-            if (pr.data.mergeable_state === 'clean' && pr.data.state === 'open') {
-              console.log('Merging PR...');
-              await github.rest.pulls.merge({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: context.issue.number,
+            const requiredChecks = ['check-signature', 'validation'];  // Replace with your actual required checks
+            let allChecksPassed = false;
+            const timeout = Date.now() + 10 * 60 * 1000;  // 10 minutes timeout
+
+            while (Date.now() < timeout) {
+              // Check if all required checks are successful
+              allChecksPassed = requiredChecks.every(checkName =>
+                prChecks.check_runs.some(run => run.name === checkName && run.conclusion === 'success')
+              );
+
+              if (allChecksPassed) {
+                console.log('All checks passed.');
+                break;
+              }
+
+              console.log('Waiting for checks to pass...');
+              await new Promise(resolve => setTimeout(resolve, 30000));  // Wait for 30 seconds
+            }
+
+            if (allChecksPassed) {
+              // Now that all checks are successful, merge the PR
+              const pr = await github.rest.pulls.get({
+                owner,
+                repo,
+                pull_number: prNumber,
               });
+
+              if (pr.data.mergeable_state === 'clean' && pr.data.state === 'open') {
+                console.log('Merging PR...');
+                await github.rest.pulls.merge({
+                  owner,
+                  repo,
+                  pull_number: prNumber,
+                });
+              } else {
+                console.log('PR cannot be merged. Mergeable state is not clean.');
+              }
             } else {
-              console.log('PR cannot be merged. Mergeable state is not clean.');
+              console.log('Not all required checks passed in time.');
             }
