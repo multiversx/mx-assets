@@ -1,8 +1,8 @@
 {
-    "website": "https://www.circle.com/eurc",
-    "description": "A fully backed euro stablecoin Bridged from Solana",
+    "website": "https://bridge.onefinity.network/",
+    "description": "A fully backed euro stablecoin",
     "status": "active",
     "social": {
-        "twitter": "https://x.com/circle"
+        "twitter": "https://x.com/onefinitychain"
     }
 }
