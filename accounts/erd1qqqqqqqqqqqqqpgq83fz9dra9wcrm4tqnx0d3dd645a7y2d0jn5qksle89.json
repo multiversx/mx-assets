@@ -1,0 +1,16 @@
+{
+  "name": "Globees: NFT Preminter",
+  "description": "Creator of the Bees Collection",
+  "social": {
+    "website": "https://dapp.globees.io",
+    "email": "contact@globees.fr",
+    "blog": "https://www.globees.co/",
+    "twitter": "https://twitter.com/Globees_Project",
+    "telegram": "https://t.me/globees",
+    "discord": "https://discord.com/invite/ejanxfCqj4",
+    "github": "https://github.com/XGlobees",
+    "whitepaper": "https://globees.fr/whitepaper-globees/"
+  },
+  "tags": ["rwa", "globees", "nft", "hive"],
+  "icon": "globees"
+}
