@@ -1,0 +1,15 @@
+{
+  "website": "https://xoxno.com",
+  "description": "Unbound XOXNO is the official collection issued by XOXNO: Real Yield Staking during the unstaking process. Each token in this collection is unique and contains vital metadata, including the amount of shares unstaked, release time, and the original token amount to be received once the release time has passed. These tokens provide a secure and transparent way to track unstaking operations within the XOXNO ecosystem.",
+  "social": {
+    "email": "contact@xoxno.com",
+    "telegram": "https://xoxno.t.me",
+    "github": "https://github.com/xoxno",
+    "discord": "https://discord.gg/xoxno",
+    "twitter": "https://x.com/XoxnoNetwork",
+    "whitepaper": "https://xoxno.com/whitepaper",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xoxno/",
+    "coingecko": "https://www.coingecko.com/en/coins/xoxno"
+  },
+  "status": "active"
+}
