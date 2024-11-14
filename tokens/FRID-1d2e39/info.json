@@ -1,8 +1,8 @@
 {
-    "social": {
-        "twitter": "https://x.com/JoJoRacoon"
-    },
     "website": "https://jojoprotocol.com/",
     "description": "FRIDA - The Cosmic Squirrel \nby JOJO Protocol",
-    "status": "active"
+    "status": "active",
+    "social": {
+        "twitter": "https://x.com/JoJoRacoon"
+    }
 }
