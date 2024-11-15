@@ -1,6 +1,12 @@
 {
-  "website": "",
+  "website": "https://cantinaroyale.io",
   "description": "The Genesis Space Ape represents the first collection to launch in the Cantina Royale game universe. Holders of the Genesis collection are entitled to 1.2% lifetime earnings of all the future Space Ap...",
-  "social": {},
+  "social": {
+    "blog": "https://blog.cantinaroyale.io",
+    "twitter": "https://twitter.com/CantinaRoyale",
+    "whitepaper": "https://whitepaper.cantinaroyale.io",
+    "telegram": "https://t.me/CantinaRoyale",
+    "discord": "https://discord.gg/cantinaroyale"
+  },
   "status": "active"
 }

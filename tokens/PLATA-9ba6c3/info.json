@@ -1,13 +1,42 @@
 {
-  "website": "https://plata.network",
-  "description": "The PLATA Token powers the entire Plata Network ecosystem. Pioneer MultiversX Token",
-  "ledgerSignature": "304402203f5ed82a4d2dd6d44799a647c134b63574335a9714cde5f998d153bd4f1e3d22022010154f89087af6bfdf1036467b5fdbc3b747c1e5386637d5b72e8e9309b16498",
-  "social": {
-    "whitepaper": "https://plata.network/whitepaper",
-    "twitter": "https://twitter.com/platanetwork",
-    "telegram":"https://t.me/plataNetwork",
-    "coinmarketcap": "https://coinmarketcap.com/currencies/plata-network/",
-    "coingecko": "https://www.coingecko.com/en/coins/plata-network"
-  },
-  "status": "active"
+    "website": "https://linktr.ee/plataLinks",
+    "description": "PLATA powers the entire Plata Network ecosystem. Pioneer MultiversX Token",
+    "ledgerSignature": "304402203f5ed82a4d2dd6d44799a647c134b63574335a9714cde5f998d153bd4f1e3d22022010154f89087af6bfdf1036467b5fdbc3b747c1e5386637d5b72e8e9309b16498",
+    "social": {
+        "whitepaper": "https://drive.google.com/file/d/1Tj0MsKKVXnzrt4WvXSJ75N50CBCxfgeh/view?usp=drive_link",
+        "twitter": "https://x.com/platanetwork",
+        "telegram":"https://t.me/plataNetwork",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/plata-network/",
+        "coingecko": "https://www.coingecko.com/en/coins/plata-network"
+    },
+    "lockedAccounts": {
+        "erd10095anqk7acrkt6ax89lxa9j0jafvhest74xqc74rqsx7kam608szqq842": "Cold Wallet",
+        "erd1qqqqqqqqqqqqqpgqztjaxafcz7d90ps4k4pda7vxfvfjaplr27rskc422w": "DAO Vault",
+        "erd1ryuzf08m4senh22y3rz7yl3shmeser4m5rplafg0l5ldmptd455qlll7vq": "Burn Wallet",
+        "erd1qqqqqqqqqqqqqpgqyx7a60m2tqczacwme6sdt74899k7yjcs0pnq4aczq9": "Staking",
+        "erd1qqqqqqqqqqqqqpgqwl5w0rp740uwyq24hx2f702tqsdrwa9ggr9qanf5rf": "Staking",
+        "erd1qqqqqqqqqqqqqpgqkwt9d457frlkq4t4j3awsezc8c8meg8hyl5sp4td7z": "Staking",
+        "erd1qqqqqqqqqqqqqpgqs266zfksqqdds05af2qswk3u4lsex2ma6jtsk8uaz4": "Staking",
+        "erd1qqqqqqqqqqqqqpgql9z9vm8d599ya2r9seklpkcas6qmude4mvlsgrj7hv": "Staking",
+        "erd1qqqqqqqqqqqqqpgq5re66vt0dlee8v83dtyh6k54qqpjs3ketxfq9tcd29": "Staking",
+        "erd1qqqqqqqqqqqqqpgql6dxenaameqn2uyyru3nmmpf7e95zmlxu7zskzpdcw": "Staking",
+        "erd1qqqqqqqqqqqqqpgq85tlmqudva0fyawkkuc6qga60kclzyzj60ws7kxxf5": "xDrops",
+        "erd1qqqqqqqqqqqqqpgq5774jcntdqkzv62tlvvhfn2y7eevpty6mvlszk3dla": "Farms",
+        "erd1qqqqqqqqqqqqqpgqrq6gv0ljf4y9md42pe4m6mh96hcpqnpuusls97tf33": "Farms"
+    },
+    "extraTokens": [
+        "PLATAWEGLD-c5cb4e",
+        "PLATAWEGLD-9c07ee",
+        "XAIPLATA-9aef13",
+        "LEGACPLATA-a80d23",
+        "CODEXPLATA-c9bdfb",
+        "GCCPLATA-591f5c",
+        "GREENPLATA-c446b6",
+        "P1CPLATA-39294f",
+        "EBUDPLATA-6fca29",
+        "RICOPLATA-4d7139",        
+        "PLATARARE-74cbeb",
+        ""
+    ],
+    "status": "active"
 }
