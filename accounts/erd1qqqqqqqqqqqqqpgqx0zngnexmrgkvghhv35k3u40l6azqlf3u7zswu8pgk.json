@@ -1,0 +1,18 @@
+{
+    "name": "Valoro: Meme2 Fund",
+    "description": "Valoro Meme2 ",
+    "social": {
+        "website": "https://valoro.fund/investment-funds/meme2",
+        "twitter": "https://twitter.com/ValoroFund",
+        "telegram": "https://t.me/valorofund",
+        "whitepaper": "https://docs.valoro.fund/"
+    },
+    "tags": [
+        "valoro",
+        "index-fund",
+        "investment",
+        "meme",
+        "meme2"
+    ],
+    "icon": "valoro"
+}
