@@ -1,0 +1,30 @@
+{
+  "name": "XOXNO: On-Chain Prices Query",
+  "description": "On-Chain Prices Query is a utility smart contract viewer designed to fetch all token pairs listed across different decentralized exchanges (DEXs) and return their liquidity reserves. This contract provides users with real-time data on liquidity pools, facilitating informed trading and investment decisions.",
+  "social": {
+    "email": "contact@xoxno.com",
+    "website": "https://xoxno.com",
+    "discord": "https://discord.gg/xoxno",
+    "twitter": "https://x.com/XoxnoNetwork",
+    "telegram": "https://xoxno.t.me",
+    "instagram": "https://instagram.com/xoxnoNFTs",
+    "github": "https://github.com/XOXNO",
+    "whitepaper": "https://xoxno.com/whitepaper",
+    "linkedin": "https://linkedin.com/company/xoxno",
+    "youtube": "https://www.youtube.com/channel/UCeknNkwBJZhrHcPPEMHAYrg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xoxno/"
+  },
+  "tags": [
+    "XOXNO",
+    "Marketplace",
+    "Launchpad",
+    "Liquid Staking",
+    "Finance",
+    "DeFi",
+    "Ticketing",
+    "L2",
+    "Web2",
+    "Real Yield"
+  ],
+  "icon": "xoxno"
+}
