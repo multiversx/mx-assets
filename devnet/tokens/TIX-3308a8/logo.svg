@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="logo-color-submark"
+   viewBox="0 0 200 200"
+   version="1.1"
+   sodipodi:docname="logo.svg"
+   width="200"
+   height="200"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview128"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="1.219715"
+     inkscape:cx="297.20058"
+     inkscape:cy="420.59007"
+     inkscape:window-width="1920"
+     inkscape:window-height="1482"
+     inkscape:window-x="0"
+     inkscape:window-y="285"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="logo-color-submark" />
+  <defs
+     id="defs113">
+    <style
+       id="style82">.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#Degradado_sin_nombre_52);}.cls-3{fill:url(#Degradado_sin_nombre_18);}.cls-4{fill:url(#Degradado_sin_nombre_18-3);}.cls-5{fill:url(#Degradado_sin_nombre_18-2);}</style>
+    <linearGradient
+       id="Degradado_sin_nombre_18"
+       x1="593.21002"
+       y1="-198.52"
+       x2="283.63"
+       y2="337.69"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#3b00a0"
+         id="stop84" />
+      <stop
+         offset=".18"
+         stop-color="#3e01a2"
+         id="stop86" />
+      <stop
+         offset=".34"
+         stop-color="#4907a8"
+         id="stop88" />
+      <stop
+         offset=".49"
+         stop-color="#5b11b4"
+         id="stop90" />
+      <stop
+         offset=".64"
+         stop-color="#751fc3"
+         id="stop92" />
+      <stop
+         offset=".79"
+         stop-color="#9631d8"
+         id="stop94" />
+      <stop
+         offset=".93"
+         stop-color="#be47f0"
+         id="stop96" />
+      <stop
+         offset="1"
+         stop-color="#d554ff"
+         id="stop98" />
+    </linearGradient>
+    <linearGradient
+       id="Degradado_sin_nombre_18-2"
+       x1="187.66"
+       y1="108.28"
+       x2="112.31"
+       y2="238.78"
+       xlink:href="#Degradado_sin_nombre_18" />
+    <linearGradient
+       id="linear-gradient"
+       x1="557.33002"
+       y1="355.01999"
+       x2="260.85001"
+       y2="526.19"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".31"
+         stop-color="#b13cff"
+         id="stop102" />
+      <stop
+         offset="1"
+         stop-color="#ff4a3a"
+         id="stop104" />
+    </linearGradient>
+    <linearGradient
+       id="Degradado_sin_nombre_52"
+       x1="675.91998"
+       y1="560.44"
+       x2="379.45001"
+       y2="731.60999"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#b13cff"
+         id="stop107" />
+      <stop
+         offset="1"
+         stop-color="#ff4a3a"
+         id="stop109" />
+    </linearGradient>
+    <linearGradient
+       id="Degradado_sin_nombre_18-3"
+       x1="780.34003"
+       y1="-90.480003"
+       x2="529.62"
+       y2="343.78"
+       xlink:href="#Degradado_sin_nombre_18" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Degradado_sin_nombre_18"
+       id="linearGradient290"
+       gradientUnits="userSpaceOnUse"
+       x1="593.21002"
+       y1="-198.52"
+       x2="283.63"
+       y2="337.69" />
+  </defs>
+  <g
+     id="logo"
+     transform="matrix(0.16543568,0,0,0.16543568,22.410666,38.351579)">
+    <g
+       id="T">
+      <polygon
+         class="cls-3"
+         points="937.46,0.24 0.54,0.24 122.85,244.87 815.15,244.87 "
+         id="polygon115"
+         style="fill:url(#linearGradient290)" />
+      <polygon
+         class="cls-5"
+         points="358.31,244.87 0.54,0.24 122.85,244.87 "
+         id="polygon117"
+         style="fill:url(#Degradado_sin_nombre_18-2)" />
+      <polygon
+         class="cls-1"
+         points="358.31,244.87 578.47,391.64 358.31,694.98 "
+         id="polygon119"
+         style="fill:url(#linear-gradient)" />
+      <polygon
+         class="cls-2"
+         points="358.31,694.98 578.47,391.64 578.47,841.76 "
+         id="polygon121"
+         style="fill:url(#Degradado_sin_nombre_52)" />
+      <polygon
+         class="cls-4"
+         points="815.15,244.87 937.46,0.24 358.31,244.87 "
+         id="polygon123"
+         style="fill:url(#Degradado_sin_nombre_18-3)" />
+    </g>
+  </g>
+</svg>

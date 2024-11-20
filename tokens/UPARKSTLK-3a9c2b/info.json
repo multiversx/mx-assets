@@ -1,0 +1,11 @@
+{
+ "website": "https://www.upark.city",
+  "description": "This token tracks your UPARK stake in the staking farm.",
+  "social": {
+    "email": "jakub@upark.city",
+    "twitter": "https://twitter.com/uPark_network",
+    "whitepaper": "https://www.upark.city/documents/uPark_Lightpaper-v1.0.pdf",
+    "telegram_EN": "https://t.me/uPark_city"
+    },
+  "status": "active"
+}

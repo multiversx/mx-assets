@@ -1,0 +1,30 @@
+{
+  "name": "XOXNO: NFT Staking",
+  "description": "NFT Staking allows users to stake their NFTs and earn rewards. Creators are able to create and manage their own staking pools.",
+  "social": {
+    "email": "contact@xoxno.com",
+    "website": "https://xoxno.com",
+    "discord": "https://discord.gg/xoxno",
+    "twitter": "https://x.com/XoxnoNetwork",
+    "telegram": "https://xoxno.t.me",
+    "instagram": "https://instagram.com/xoxnoNFTs",
+    "github": "https://github.com/XOXNO",
+    "whitepaper": "https://xoxno.com/whitepaper",
+    "linkedin": "https://linkedin.com/company/xoxno",
+    "youtube": "https://www.youtube.com/channel/UCeknNkwBJZhrHcPPEMHAYrg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xoxno/"
+  },
+  "tags": [
+    "XOXNO",
+    "Marketplace",
+    "Launchpad",
+    "Liquid Staking",
+    "Finance",
+    "DeFi",
+    "Ticketing",
+    "L2",
+    "Web2",
+    "Real Yield"
+  ],
+  "icon": "xoxno"
+}

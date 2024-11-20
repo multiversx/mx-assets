@@ -1,0 +1,13 @@
+{
+    "website": "https://www.eventivivi.it/nft",
+    "description": "E.V NFT, the first Event Planner Company on MultiversX!",
+    "ledgerSignature": "1234",
+    "social": {
+        "email": "evnftreal@gmail.com",
+        "twitter": "https://twitter.com/EVNFTreal",
+        "whitepaper": "https://drive.google.com/file/d/1K9cVzoz0e9UL99v8i3S1JiTyzWrhmS6S/view",
+        "telegram": "https://t.me/evnftreal",
+        "discord": "https://discord.com/invite/P3CrgJ2XmF"
+    },
+    "status": "active"
+}
