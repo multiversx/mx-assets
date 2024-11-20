@@ -1,7 +1,8 @@
 {
-  "description": "Fostering the xMoney community across the APAC region.",
+  "description": "Fostering the xMoney community across the APAC region, promoting collaboration and engagement within the ecosystem.",
   "name": "APAC Guilds",
-  "website": null,
-  "location": "HK",
-  "owner": "erd1qqqqqqqqqqqqqpgq87e8y3l48ezdv8tt8kmx5cep7c2a5hy5hu4qzwzv4g"
+  "location": "Hong Kong",
+  "owner": "erd1qqqqqqqqqqqqqpgq87e8y3l48ezdv8tt8kmx5cep7c2a5hy5hu4qzwzv4g",
+  "status": "active",
+  "website": null
 }
