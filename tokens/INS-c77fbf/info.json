@@ -1,0 +1,10 @@
+{
+    "website": "https://burnify.app",
+    "description": "Join an Amazing Journey. INSiDERS Have Fun. Not Whitepapers. They BURNiT!",
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/INS-c77fbf",
+        "path": "0.usdPrice"
+    }
+}
