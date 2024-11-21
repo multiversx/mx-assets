@@ -1,0 +1,16 @@
+{
+  "name": "BHero: Build21 Minter",
+  "description": "Build21 Minter via BHero Launchpad",
+  "social": {
+    "blog": "https://build21.io/en/news",
+    "twitter": "https://x.com/Build21io",
+    "whitepaper": "https://whitepaper.build21.io/",
+    "telegram": "https://t.me/Build21_En"
+  },
+  "tags": [
+    "build21",
+    "bhero",
+    "launchpad"
+  ],
+  "icon": "bhero"
+}
