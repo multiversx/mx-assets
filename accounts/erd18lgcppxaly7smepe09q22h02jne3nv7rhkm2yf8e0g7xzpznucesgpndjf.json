@@ -1,0 +1,16 @@
+{
+  "name": "🚀 EDGE Sniper 🚀",
+  "description": "A Project X Telegram bot. Snipe a token faster than anyone else!",
+  "social": {
+    "website": "https://projectx.mx/",
+    "twitter": "https://twitter.com/ProjectX_DAO",
+    "discord": "https://discord.gg/projectx-dao",
+    "whitepaper": "https://docs.projectx.mx/",
+    "medium": "https://medium.com/@ProjectX_dao"
+  },
+  "tags": [
+    "projectx",
+    "bot"
+  ],
+  "icon": "projectx-edge-sniper"
+}
