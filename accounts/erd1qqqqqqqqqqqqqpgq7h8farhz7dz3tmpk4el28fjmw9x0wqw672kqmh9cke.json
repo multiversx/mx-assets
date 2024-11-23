@@ -1,0 +1,17 @@
+{
+  "name": "Ta-da : Staking 1 Month",
+  "description": "One App Infinite Ways To-Earn",
+  "social": {
+    "website": "https://ta-da.io/",
+    "email": "contact@ta-da.io",
+    "twitter": "https://x.com/Ta_da_io",
+    "coingecko": "https://www.coingecko.com/en/coins/ta-da",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ta-da/",
+    "discord": "https://discord.gg/ta-da",
+    "telegram": "https://t.me/Ta_da_announcements"
+  },
+  "tags": [
+    "Ta-da"
+  ],
+  "icon": "tada"
+}
