@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Memecoin built only for MultiversX OGs.",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/ERD-3faa34",
+        "path": "0.usdPrice"
+    }
+}
