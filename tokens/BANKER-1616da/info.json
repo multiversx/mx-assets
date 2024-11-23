@@ -5,5 +5,10 @@
         "telegram": "",
         "twitter": ""
     },
-    "status": "active"
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/BANKER-1616da",
+        "path": "0.usdPrice"
+    }
 }
