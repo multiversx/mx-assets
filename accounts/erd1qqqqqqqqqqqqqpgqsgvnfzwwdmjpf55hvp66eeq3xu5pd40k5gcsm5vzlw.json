@@ -1,0 +1,11 @@
+{
+  "name": "Middle Staking : Dinogazette locker",
+  "description": "Locker for Dinogazette NFTs",
+  "social": {
+    "website": "https://www.middlestaking.fr/",
+    "twitter": "MiddleStaking",
+    "telegram": "https://t.me/middlestaking"
+  },
+  "tags": ["middlestaking", "locker", "game"],
+  "icon": "middle"
+}
