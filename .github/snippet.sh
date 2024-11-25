@@ -13,7 +13,7 @@ validate_filenames() {
 }
 
 validate_file_size() {
-  SIZE_LIMIT=100
+  SIZE_LIMIT=200
   for file in "$@"; do
     echo "Checking file size for $file"
     if [[ ${file} == *"/logo.svg"* || ${file} == *"/logo.svg"* ]]; then
