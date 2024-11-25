@@ -22,7 +22,7 @@
         "erd1qqqqqqqqqqqqqpgql6dxenaameqn2uyyru3nmmpf7e95zmlxu7zskzpdcw": "Staking",
         "erd1qqqqqqqqqqqqqpgq85tlmqudva0fyawkkuc6qga60kclzyzj60ws7kxxf5": "xDrops",
         "erd1qqqqqqqqqqqqqpgq5774jcntdqkzv62tlvvhfn2y7eevpty6mvlszk3dla": "Farms",
-        "erd1qqqqqqqqqqqqqpgqrq6gv0ljf4y9md42pe4m6mh96hcpqnpuusls97tf33": "Farms"
+        "erd1qqqqqqqqqqqqqpgqrq6gv0ljf4y9md42pe4m6mh96hcpqnpuusls97tf3": "Farms"
     },
     "extraTokens": [
         "PLATAWEGLD-c5cb4e",
@@ -35,8 +35,7 @@
         "P1CPLATA-39294f",
         "EBUDPLATA-6fca29",
         "RICOPLATA-4d7139",        
-        "PLATARARE-74cbeb",
-        ""
+        "PLATARARE-74cbeb"
     ],
     "status": "active"
 }
