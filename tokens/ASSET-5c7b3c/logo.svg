@@ -1,7 +1,6 @@
 <svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_4507_4)">
-<rect width="200" height="200" rx="40" fill="#E5FB34"/>
-<rect x="10" y="10" width="180" height="180" rx="40" fill="black" fill-opacity="0.7"/>
+<rect width="200" height="200" rx="40" fill="white"/>
 <g clip-path="url(#clip1_4507_4)">
 <mask id="mask0_4507_4" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="10" y="10" width="180" height="180">
 <path d="M190 10H10V190H190V10Z" fill="white"/>
