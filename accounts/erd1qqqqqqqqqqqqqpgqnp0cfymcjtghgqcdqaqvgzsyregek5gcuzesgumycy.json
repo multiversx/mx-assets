@@ -1,0 +1,16 @@
+{
+  "name": "DinoVox: Box Mint",
+  "description": "DinoBox minting",
+  "social": {
+    "blog": "https://medium.com/dinovox",
+    "twitter": "https://twitter.com/TheDinoVox",
+    "whitepaper": "https://www.dinovox.com/assets/pdf/whitepaper_fr.pdf",
+    "website": "https://www.dinovox.com/",
+    "discord": "https://discord.com/invite/thedinovox",
+    "facebook": "https://www.facebook.com/TheDinoVox",
+    "telegram": "https://t.me/thedinovox",
+    "instagram": "https://www.instagram.com/jointhedinovox/"
+  },
+  "tags": ["dinovox", "mint", "graou"],
+  "icon": "dinovox"
+}
