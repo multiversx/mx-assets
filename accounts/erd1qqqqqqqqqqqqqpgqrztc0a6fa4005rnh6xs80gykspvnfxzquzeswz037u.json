@@ -1,14 +1,16 @@
 {
+  "name": "DinoVox: Staking",
+  "description": "Stake DinoVox, DinoBox and bonus tokens to $GRAOU rewards",
   "social": {
     "blog": "https://medium.com/dinovox",
     "twitter": "https://twitter.com/TheDinoVox",
     "whitepaper": "https://www.dinovox.com/assets/pdf/whitepaper_fr.pdf",
+    "website": "https://www.dinovox.com/",
     "discord": "https://discord.com/invite/thedinovox",
     "facebook": "https://www.facebook.com/TheDinoVox",
     "telegram": "https://t.me/thedinovox",
     "instagram": "https://www.instagram.com/jointhedinovox/"
   },
-  "website": "https://www.dinovox.com/",
-  "description": "$xGRAOU is the precursor to $GRAOU, the official token of DinoVox and FenuaVerse, maintaining a constant 1:1 parity.",
-  "status": "active"
+  "tags": ["dinovox", "staking", "nft", "graou"],
+  "icon": "dinovox"
 }
