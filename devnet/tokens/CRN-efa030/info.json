@@ -1,0 +1,20 @@
+{
+    "social": {
+        "blog": "https://test.com",
+        "twitter": "https://x.com/test",
+        "whitepaper": "https://test.com",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/test",
+        "coingecko": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    "website": "https://3zxtjp1zhzcm.xfabric.com/",
+    "description": "test",
+    "extraTokens": [
+        "WETH-bbe4ab",
+        "UTK-14d57d"
+    ],
+    "lockedAccounts": {
+        "erd1an4xpn58j7ymd58m2jznr32t0vmas75egrdfa8mta6fzvqn9tkxq4jvghn": "Exchange",
+        "erd1devnet6uy8xjusvusfy3q83qadfhwrtty5fwa8ceh9cl60q2p6ysra7aaa": "None"
+    },
+    "status": "active"
+}
