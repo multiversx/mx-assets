@@ -1,0 +1,23 @@
+{
+  "name": "PeerMe: WOJA X INU",
+  "description": "Auto-sustainable MemeCoin Project with utility for MvX Gamers & NFT degens  < WOJA Games > < WOJAX > < WOJAINU > < WOJA LTD > < WSD > < WOJA > < SHTC- Shitcoin >",
+  "social": {
+    "website": "https://peerme.io",
+    "email": "hello@peerme.io",
+    "twitter": "https://x.com/PeerMeHQ",
+    "coingecko": "https://www.coingecko.com/en/coins/peerme-super",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/superciety",
+    "discord": "https://discord.peerme.io",
+    "telegram": "https://telegram.peerme.io",
+    "youtube": "https://www.youtube.com/@peerme",
+    "github": "https://github.com/PeerMeHQ",
+    "community": "https://egld.community/projects/PeerMe"
+  },
+  "tags": [
+    "peerme",
+    "governance",
+    "dao",
+    "multisig"
+  ],
+  "icon": "peerme"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Middle Staking : Stake Contract",
+  "description": "Stake $MID and other tokens to earn rewards",
+  "social": {
+    "website": "https://www.middlestaking.fr/",
+    "twitter": "MiddleStaking",
+    "telegram": "https://t.me/middlestaking"
+  },
+  "tags": ["middlestaking", "staking", "contract"],
+  "icon": "middle"
+}

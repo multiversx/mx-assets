@@ -1,0 +1,13 @@
+{
+  "name": "Hatom: Price Aggregator v2",
+  "description": "Hatom's Price Aggregator v2 module",
+  "tags": [
+    "hatom",
+    "money-market",
+    "lending",
+    "borrowing",
+    "oracle",
+    "pricing"
+  ],
+  "icon": "hatom-lending"
+}
