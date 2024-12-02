@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "A BenAI who speak by himself",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/BENIAMIN-a1a4e0",
+        "path": "0.usdPrice"
+    }
+}
