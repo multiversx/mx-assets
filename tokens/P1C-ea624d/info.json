@@ -1,0 +1,12 @@
+{
+   "website":"https://swap.onedex.app/swap?firstToken=EGLD&secondToken=P1C-ea624d&state=Pro&type=simple",
+   "description":"P1 CORΞ Singularity ESDT. Powered by ＰＬΛＴΛ",
+       "social": {
+        "whitepaper": "https://drive.google.com/file/d/1Tj0MsKKVXnzrt4WvXSJ75N50CBCxfgeh/view?usp=drive_link",
+        "twitter": "https://twitter.com/plataNetwork"
+    },
+       "lockedAccounts": {
+        "erd1ryuzf08m4senh22y3rz7yl3shmeser4m5rplafg0l5ldmptd455qlll7vq": "Burn Wallet"
+    },
+   "status":"active"
+}
