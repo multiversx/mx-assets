@@ -1,12 +1,12 @@
 {
-  "name": "xBridge v2 (deprecated): Ethereum MultiTransfer",
+  "name": "xBridge: Ethereum SC calls executor",
   "description": "",
   "social": {
     "website": "https://bridge.multiversx.com"
   },
   "tags": [
     "xbridge",
-    "ethereum",
+    "bsc",
     "multitransfer"
   ],
   "icon": "multiversx"

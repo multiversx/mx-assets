@@ -1,13 +1,13 @@
 {
-  "name": "xBridge v2 (deprecated): Ethereum MultiTransfer",
+  "name": "xBridge: Bsc Multisig",
   "description": "",
   "social": {
     "website": "https://bridge.multiversx.com"
   },
   "tags": [
     "xbridge",
-    "ethereum",
-    "multitransfer"
+    "bsc",
+    "multisig"
   ],
   "icon": "multiversx"
 }
