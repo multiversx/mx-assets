@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "just a smol monke who just can't stop $jorkin the charts",
+    "social": {
+        "telegram": "https://t.me/jorkinmvx",
+        "twitter": "https://x.com/jorkinonmvx?t=2WlTbMD7cf5vsWHMP5JTnQ&s=09"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/JORKIN-7d6f75",
+        "path": "0.usdPrice"
+    }
+}

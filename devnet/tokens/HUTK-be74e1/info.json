@@ -1,0 +1,12 @@
+{
+  "website": "https://hatom.com/",
+  "description": "HUTK is an interest bearing token representing a UTK supply position on Hatom's Lending & Borrowing Protocol.",
+  "social": {
+    "blog": "https://blog.hatom.com/",
+    "twitter": "https://twitter.com/HatomProtocol"
+  },
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}

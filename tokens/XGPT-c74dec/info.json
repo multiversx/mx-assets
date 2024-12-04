@@ -1,0 +1,14 @@
+{
+    "social": {
+        "twitter": "https://twitter.com/XGPTAILabs",
+        "whitepaper": "https://www.xgpt-ai.com/Whitepaper.pdf",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/x-gpt/",
+        "coingecko": "https://www.coingecko.com/fr/pi%C3%A8ces/x-gpt"
+    },
+    "website": "https://xgpt-ai.com/",
+    "description": "XGPT is an AI-powered tool designed for blockchain use-cases. It integrates various modules like Market Data, Block Explorer, Wallet Info, and Trade, enabling you to have seamless and intuitive interaction with the blockchain.",
+    "lockedAccounts": {
+        "erd1zzjdrjgqe607qy8vmydt6cjv6umhlc7n9up37z95zhkar5wayjcsyqf9ng": "Locked XGPT"
+    },
+    "status": "active"
+}
