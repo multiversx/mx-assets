@@ -1,0 +1,14 @@
+{
+    "name": "My Wallet Account",
+    "description": "Main address of My Wallet Account. Donations are welcome to support the development of the platform.",
+    "social": {
+        "email": "contact@my-wallet-account.com",
+        "blog": "https://my-wallet-account.com/articles",
+        "twitter": "https://x.com/mywalletaccount",
+        "discord": "https://discord.com/invite/hQupETNZvd"
+    },
+    "tags": [
+        "donation"
+    ],
+    "icon": "mywalletaccount"
+}
