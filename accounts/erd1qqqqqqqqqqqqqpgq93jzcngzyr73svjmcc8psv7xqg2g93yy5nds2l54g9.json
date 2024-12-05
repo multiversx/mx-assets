@@ -1,0 +1,14 @@
+{
+    "name": "The Data Machine: Minting",
+    "description": "The smart contract is used to mint The Data Machine's SFTs that are useful on My Wallet Account.",
+    "social": {
+        "email": "contact@my-wallet-account.com",
+        "blog": "https://my-wallet-account.com/articles",
+        "twitter": "https://x.com/mywalletaccount",
+        "discord": "https://discord.com/invite/hQupETNZvd"
+    },
+    "tags": [
+        "mint"
+    ],
+    "icon": "mywalletaccount"
+}
