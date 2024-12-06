@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Multiversx it\u2019s building a team of web3 avengers ",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/AVG-b7d7dc",
+        "path": "0.usdPrice"
+    }
+}
