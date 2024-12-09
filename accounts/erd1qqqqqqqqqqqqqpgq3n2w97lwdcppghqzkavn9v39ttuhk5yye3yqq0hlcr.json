@@ -1,5 +1,5 @@
 {
-  "name": "xBridge v2 (deprecated): Ethereum MultiTransfer",
+  "name": "xBridge: Ethereum Multisig",
   "description": "",
   "social": {
     "website": "https://bridge.multiversx.com"
@@ -7,7 +7,7 @@
   "tags": [
     "xbridge",
     "ethereum",
-    "multitransfer"
+    "multisig"
   ],
   "icon": "multiversx"
 }
