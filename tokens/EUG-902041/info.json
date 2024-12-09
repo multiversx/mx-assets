@@ -1,8 +1,8 @@
 {
+    "website": "https://www.eugenthefarmer.com/",
+    "description": "Farm $EUG on OneDex. Buy , deploy LP , stake LP & farm rewards up to 200% APR!",
+    "status": "active",
     "social": {
         "twitter": "https://x.com/EugenTheFarmer"
-    },
-    "website": "https://www.frigolin.com/",
-    "description": "Farm $EUG on OneDex. Buy , deploy LP , stake LP & farm rewards up to 200% APR!",
-    "status": "active"
+    }
 }
