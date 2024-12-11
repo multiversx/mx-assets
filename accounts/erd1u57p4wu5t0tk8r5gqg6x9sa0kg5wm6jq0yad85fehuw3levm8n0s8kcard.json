@@ -1,6 +1,6 @@
 {
-  "name": "Ofero: Cashback & Rewards",
-  "description": "The Ofero Network's Cashback & Rewards Wallet",
+  "name": "Ofero: Gift Card",
+  "description": "The Ofero Network's Gift Card System",
   "social": {
     "website": "https://www.ofero.network",
     "email": "contact@ofero.network",
@@ -21,10 +21,9 @@
   "tags": [
     "ofero",
     "ofero network",
-    "vip",
-    "cashback",
-    "rewards",
-    "secure",
+    "gift",
+    "giftcard",    
+    "gift card",
     "community"
   ],
   "icon": "oferonetwork"
