@@ -5,5 +5,10 @@
         "telegram": "https://t.me/profetas666_ES",
         "twitter": "https://x.com/Profetas666"
     },
-    "status": "active"
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/P666-f8ac8a",
+        "path": "0.usdPrice"
+    }
 }
