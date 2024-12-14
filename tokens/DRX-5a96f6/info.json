@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Doctor in crypto",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/DRX-5a96f6",
+        "path": "0.usdPrice"
+    }
+}
