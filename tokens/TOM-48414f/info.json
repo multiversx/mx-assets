@@ -5,5 +5,8 @@
     },
     "website": "https://tomcoin.wtf/",
     "description": "hello, i’m tom. i’m bigger, i’m fatter and i believe in myself. \n\nbe like me, be like tom.",
-    "status": "active"
+    "status": "active",
+    "lockedAccounts": {
+        "erd1deaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaqtv0gag": "burned"
+    }
 }
