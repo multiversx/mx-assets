@@ -1,0 +1,11 @@
+{
+    "website": "https://x.com/Test_TokenMVX",
+    "description": "Test Token built on MVX. Providing a functional ESDT for any Educational Purposes or experiments.",
+    "status": "active",
+    "lockedAccounts": {
+        "erd1dhpzga0cheq2u3mvr647xqec6wtemmjdw3zlcflan8drt7py62ksxcp78w": "Burned Tokens"
+    },
+    "social": {
+        "twitter": "https://twitter.com/Test_TokenMVX"
+    }
+}

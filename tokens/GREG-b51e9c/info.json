@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/GREG-b51e9c",
+        "path": "0.usdPrice"
+    }
+}
