@@ -30,7 +30,6 @@
     }
   },
   "required": [
-    "website",
     "description",
     "status"
   ],
