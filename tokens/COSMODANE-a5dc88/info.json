@@ -1,8 +1,11 @@
 {
+    "website": "https://x.com/Cosmodane",
+    "description": "The puppy didn’t go to space—space came to the puppy.",
+    "status": "active",
     "social": {
         "twitter": "https://x.com/Cosmodane"
     },
-    "website": "https://x.com/Cosmodane",
-    "description": "The puppy didn’t go to space—space came to the puppy.",
-    "status": "active"
+    "lockedAccounts": {
+        "erd1deaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaqtv0gag": "DeadWallet"
+    }
 }
