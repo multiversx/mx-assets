@@ -1,0 +1,28 @@
+{
+    "name": "raznaoficial",
+    "identifier": "ROF-c85ab7",
+    "logo_url": "https://axradvertising.de/wp-content/uploads/2024/12/ROF.svg",
+    "description": "Raznaoficial is an experimental token developed by raznaoficial for AxR Advertising, a personalized product and advertising company. While currently serving as an educational and exploratory project, this token represents the first steps toward integrating blockchain technology within the AxR ecosystem.",
+    "website": "https://axradvertising.de/web3-acces/",
+    "socials": {
+      "twitter": "https://twitter.com/andrei_iagaru",
+      "facebook": "https://facebook.com/axradvertising"
+    },
+    "wallet_address": "erd1g2zryg44n64jsqp6zk99vxzd7mdkchgs5r8l88das6ztz9axqdaq5f959n",
+    "properties": {
+      "can_upgrade": true,
+      "can_change_owner": true,
+      "can_pause": true,
+      "paused": false,
+      "can_freeze": true,
+      "can_wipe": true,
+      "can_add_special_role": true
+    },
+    "holders": 23,
+    "transactions": 152,
+    "supply": 3000000,
+    "circulating": 3000000,
+    "decimals": 10
+  }
+
+  
