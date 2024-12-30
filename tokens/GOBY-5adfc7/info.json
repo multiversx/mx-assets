@@ -1,8 +1,12 @@
 {
+    "website": "https://gobyvers.com/",
+    "description": "Dive into the Gobyvers, where $GOBY leads you through a world where NFT gaming, metaverse magic, and DeFi degeneracy intertwine. Discover new dimensions of digital adventure, stake your claim in the multiverse, and navigate through a sea of opportunities with Goby as your guide. Welcome to the future of blockchain exploration !",
+    "status": "active",
     "social": {
         "twitter": "https://x.com/gobyversx"
     },
-    "website": "https://gobyvers.io/",
-    "description": "Dive into the Gobyvers, where $GOBY leads you through a world where NFT gaming, metaverse magic, and DeFi degeneracy intertwine. Discover new dimensions of digital adventure, stake your claim in the multiverse, and navigate through a sea of opportunities with Goby as your guide. Welcome to the future of blockchain exploration !",
-    "status": "active"
+    "lockedAccounts": {
+        "erd1qqqqqqqqqqqqqpgqzhyt6gjex0uarp22mwmflqm09eeznxerzhvsn9ghu8": "Airdrop",
+        "erd1qqqqqqqqqqqqqpgq9rd0krv5du94dztypspz7r99j8hsx465zhvs6gxtzj": "Staking and Community"
+    }
 }
