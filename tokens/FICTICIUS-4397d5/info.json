@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Brasil, Madrid, and now Multiversx\nWhen I score, pockets of my fans get heavy \ud83d\udcb0",
+    "social": {
+        "telegram": "https://t.me/+bZdmPFJyliBlNGRk",
+        "twitter": "https://x.com/suar44033?t=GynXAKjlMe8HW5QixKR4xA&s=08"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/FICTICIUS-4397d5",
+        "path": "0.usdPrice"
+    }
+}
