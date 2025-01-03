@@ -1,0 +1,17 @@
+{
+  "name": "xPortal: Claim XP Shard 0",
+  "description": "On-chain XP system for xPortal users to earn benefits as they achieve higher streaks",
+  "social": {
+    "website": "https://xportal.com/",
+    "twitter": "https://x.com/xPortalApp",
+    "telegram": "https://t.me/xPortalApp",
+    "instagram": "https://www.instagram.com/xportalapp"
+  },
+  "tags": [
+    "xportal",
+    "xp",
+    "onchain",
+    "claim"
+  ],
+  "icon": "xportal"
+}

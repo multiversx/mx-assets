@@ -1,0 +1,13 @@
+{
+    "social": {
+        "blog": "https://hauriu-token.neocities.org/",
+        "twitter": "https://twitter.com/VladHauriu",
+        "whitepaper": "https://hauriu-token.neocities.org/roadmap"
+    },
+    "website": "https://hauriu-token.neocities.org/",
+    "description": "Hauriu Coin is a special currency often used in Turnisor. ",
+    "extraTokens": [
+        "WLRP-b3eec0"
+    ],
+    "status": "active"
+}
