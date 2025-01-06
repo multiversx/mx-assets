@@ -15,6 +15,6 @@
     "type": "customUrl",
     "url": "https://api.xoxno.com/tokens?identifier=XEGLD-e413ed"
   },
-  "ledgerSignature": "",
+  "ledgerSignature": "304402206edb6fd45ec988aa0f737178381177b7ef74f892a01eaab371f2c6ce5225f61502207efa481cd54dcc7ceb1a640a381341b2e88066ba1f4a3c4263fd3d6c17b421d9",
   "status": "active"
 }
