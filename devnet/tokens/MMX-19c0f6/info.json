@@ -1,0 +1,9 @@
+{
+  "website": "https://truthterminal.wiki/",
+  "description": "Create memecoins on MVX with MemExchange",
+  "social": {},
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}
