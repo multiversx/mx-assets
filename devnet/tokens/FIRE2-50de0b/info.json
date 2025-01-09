@@ -1,0 +1,11 @@
+{
+  "website": "https://multiversx.com/",
+  "description": "Lets burn them all!",
+  "social": {
+    "x": "https://x.com/MultiversX"
+  },
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}
