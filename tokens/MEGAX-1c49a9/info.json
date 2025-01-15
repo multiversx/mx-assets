@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Let's make egold great again ! \ud83d\udc8e\ud83d\ude4c",
+    "social": {
+        "telegram": "",
+        "twitter": "https://x.com/MakeEgoldGreat?t=Uo70LZbij89J2cRSKzKpgw&s=09"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/MEGAX-1c49a9",
+        "path": "0.usdPrice"
+    }
+}
