@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "The utility is to get fucking rich and save Gotham at the same time\n\n",
+    "social": {
+        "telegram": "t.me/MultiversXD",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/BATEMAN-f6fd19",
+        "path": "0.usdPrice"
+    }
+}
