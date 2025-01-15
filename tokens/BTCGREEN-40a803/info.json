@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "green btc. a thousand times scarcer than btc, a thousand times more ecological than btc, a thousand times faster than btc. Let's turn off those miners and migrate your btc to green btc, the world will thank you \ud83d\ude02\ud83d\ude02",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/BTCGREEN-40a803",
+        "path": "0.usdPrice"
+    }
+}
