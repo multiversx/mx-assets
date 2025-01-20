@@ -1,14 +1,13 @@
 {
-    "website": "https://fundex.fun",
-    "description": "The utility is to get fucking rich and save Gotham at the same time\n\n",
+    "website": "https://bateman.meme",
+    "description": "Saving Gotham from crime, using crime!",
     "social": {
-        "telegram": "t.me/MultiversXD",
-        "twitter": ""
+        "telegram": "t.me/BatemanKoin",
+        "twitter": "https://x.com/batemankoin",
+        "discord": "https://discord.gg/z4GrHZvhhK"
     },
-    "status": "active",
-    "priceSource": {
-        "type": "customUrl",
-        "url": "https://api.onedex.app/prices/BATEMAN-f6fd19",
-        "path": "0.usdPrice"
-    }
+    "extraTokens": [
+        "BTMANWEGLD-2e7735"
+    ],
+    "status": "active"
 }
