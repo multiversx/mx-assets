@@ -1,0 +1,16 @@
+{
+  "name": "Quasar DV: Development Vault",
+  "description": " The development wallet serves as a crucial entity within our ecosystem, acting as a central hub for managing the resources required for the continuous development and enhancement of our project.",
+  "social": {
+    "website": "https://quasar-mvx.com/",
+    "whitepaper": "https://docs.quasar-mvx.com/",
+    "twitter": "https://twitter.com/quasar_mvx",
+    "telegram": "https://t.me/+vufLg36aeSE0Mzg8",
+    "github": "https://github.com/QuasarMvX"
+  },
+  "tags": [
+    "development",
+    "vault"
+  ],
+  "icon": "quasar"
+}
