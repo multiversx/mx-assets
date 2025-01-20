@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "A cross breed coin of MasterBates Spunky and all Dog INU meme coins, the ultimate abomination.",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/SPUNKYINU-96ddc6",
+        "path": "0.usdPrice"
+    }
+}
