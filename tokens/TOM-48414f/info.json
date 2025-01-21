@@ -1,6 +1,6 @@
 {
     "social": {
-        "blog": "https://t.me/tomcoinmvx",
+        "telegram": "https://t.me/tomcoinmvx",
         "twitter": "https://x.com/TomCoinMvx"
     },
     "website": "https://tomcoin.wtf/",
@@ -8,5 +8,9 @@
     "status": "active",
     "lockedAccounts": {
         "erd1deaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaqtv0gag": "burned"
-    }
+    },
+    "tags": [
+        "tom",
+        "tomcoin"
+    ]
 }
