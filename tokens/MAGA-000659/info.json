@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "",
+    "social": {
+        "telegram": "",
+        "twitter": "https://x.com/melaniatrump?s=21&t=uoHV29mNZMYFq-v7f4-OAA"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/MAGA-000659",
+        "path": "0.usdPrice"
+    }
+}
