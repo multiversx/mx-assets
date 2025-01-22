@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Esther Mincu Official: The First Lady Of MultiversX",
+    "social": {
+        "telegram": "",
+        "twitter": "https://x.com/EstherOfMVX"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/ESTHER-890bda",
+        "path": "0.usdPrice"
+    }
+}
