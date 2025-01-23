@@ -1,0 +1,13 @@
+{
+    "website": "https://hauriucoin.neocities.org/",
+    "description": "Hauriu Coin is the currency used in the Empire of Turnişor.",
+    "status": "active",
+    "extraTokens": [
+        "WLRP-b3eec0"
+    ],
+    "social": {
+        "blog": "https://hauriu-token.neocities.org/",
+        "twitter": "https://x.com/HauriuCoin",
+        "whitepaper": "https://hauriucoin.neocities.org/about"
+    }
+}
