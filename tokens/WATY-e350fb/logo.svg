@@ -1,0 +1,25 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="logo" clip-path="url(#clip0_1137_17)">
+<g id="Clip path group">
+<mask id="mask0_1137_17" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="200" height="200">
+<g id="Coin">
+<path id="Vector" d="M200 0H0V200H200V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_1137_17)">
+<g id="Coin_2">
+<path id="bg" d="M100 200C155.228 200 200 155.228 200 100C200 44.7715 155.228 0 100 0C44.7715 0 0 44.7715 0 100C0 155.228 44.7715 200 100 200Z" fill="black"/>
+<g id="yeti">
+<path id="Trac&#195;&#169; 40" d="M87.074 48.3977V54.8267H74.2161V67.7537H61.29V80.6108H74.2161V158.032H87.074V145.106H112.858V158.032H125.784V132.179H87.074V119.321H100V106.395H125.784V119.321H138.71V106.395H125.784V93.5369H87.074V80.6099H100V67.7527H87.074V54.8267L125.784 54.8257V41.9688H87.074V48.3977ZM87.074 74.1816V80.6099L74.2161 80.6108V67.7537L87.074 67.7527V74.1816Z" fill="#21F1D9"/>
+<path id="Trac&#195;&#169; 41" d="M112.858 74.1819V80.611H125.784V67.7529H112.858V74.1819Z" fill="#21F1D9"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1137_17">
+<rect width="200" height="200" fill="white"/>
+</clipPath>
+</defs>
+</svg>
