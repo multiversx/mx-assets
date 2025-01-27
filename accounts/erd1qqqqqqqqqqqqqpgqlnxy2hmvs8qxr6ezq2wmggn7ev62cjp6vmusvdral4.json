@@ -1,6 +1,13 @@
 {
   "name": "JewelSwap: Farms",
   "description": "",
+  "social": {
+    "website": "https://www.jewelswap.io",
+    "twitter": "https://twitter.com/JewelSwapX",
+    "telegram": "https://t.me/jewelswap",
+    "discord": "https://discord.com/invite/eAaP32ncCb",
+    "linkedin": "https://www.linkedin.com/company/combased/?viewAsMember=true"
+  },
   "tags": [
     "jewelswap",
     "farms"

@@ -1,0 +1,12 @@
+{
+    "name": "DB Coding: Tokens Vesting",
+    "description": "Contract for Tokens Vesting",
+    "website": "",
+    "social": {
+        "blog": "",
+        "twitter": ""
+    },
+    "tags": [
+        "vesting"
+    ]
+}

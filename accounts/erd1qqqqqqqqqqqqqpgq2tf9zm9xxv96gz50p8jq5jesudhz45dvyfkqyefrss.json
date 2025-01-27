@@ -1,6 +1,9 @@
 {
-  "name": "xBridge: Bsc Safe",
+  "name": "xBridge v2 (deprecated): Bsc Safe",
   "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
   "tags": [
     "xbridge",
     "bsc",

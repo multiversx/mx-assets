@@ -1,10 +1,16 @@
 {
-    "name": "QuantumX: AshSwap Aggregator",
-    "description": "The bridge between QuantumX DeFi universe and AshSwap swap aggregator.",
-    "tags": [
-        "quantumx",
-        "swap",
-        "ashswap",
-        "defi"
-    ]
+  "name": "QuantumX: AshSwap Aggregator",
+  "description": "The bridge between QuantumX DeFi universe and AshSwap swap aggregator.",
+  "social": {
+    "website": "https://www.quantumx.network",
+    "twitter": "https://twitter.com/QuantumXnetwork",
+    "telegram": "https://t.me/quantumxnetwork",
+    "blog": "http://docs.quantumx.network"
+  },
+  "tags": [
+    "quantumx",
+    "swap",
+    "ashswap",
+    "defi"
+  ]
 }
