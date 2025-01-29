@@ -1,0 +1,18 @@
+{
+  "name": "Valoro: Infrastructure & Tools Fund",
+  "description": "Valoro Infrastructure & Tools Fund is a portfolio of cutting-edge crypto projects focused on empowering the next wave of Web3 innovation.",
+  "social": {
+      "website": "https://valoro.fund/investment-funds/tools",
+      "twitter": "https://twitter.com/ValoroFund",
+      "telegram": "https://t.me/valorofund",
+      "whitepaper": "https://docs.valoro.fund/"
+  },
+  "tags": [
+      "valoro",
+      "index-fund",
+      "investment",
+      "tools",
+      "infrastructure"
+  ],
+  "icon": "valoro"
+}
