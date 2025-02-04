@@ -1,10 +1,20 @@
 {
   "website": "https://syndicatemvx.com/",
-  "description": "First investment syndicate on MultiversX",
+  "description": "First investment syndicate on MultiversX (Old Logo)",
   "ledgerSignature": "",
   "social": {
     "twitter": "https://x.com/syndicateMVX",
     "telegram": "https://t.me/+OLpxjtX2z_ZhZmNk"
   },
-  "status": "active"
+  "status": "active",
+  "lockedAccounts": {
+    "erd1qqqqqqqqqqqqqpgqqnm3x37972323nuv3l3kywev0n8q5n6gyc8qwljqz9": "Coindrip Streaming Protocol Seed Sale",
+    "erd1ngg6zj409qd32ef048nu3at2jaehssez8pmvcq3x4pcjvcma3peqagueg8": "Private Sale",
+    "erd1fqen50hz7ye5nryyaagwhfw5gxvq3v47zx6r86dg073eg26hz9esw6vnqz": "Reserves",
+    "erd1jmwtzmfvtvuueas4kxlp4pa653a6agv82sy4yrpcphz65x8rap8szr2s7u": "Ecosystem/Marketing",
+    "erd19j4l0xv9tf5yxl56qujk8e4ze7nnzeugrvtv5kyvyhxyama2v4mqlujsul": "Blue SyndicateX",
+    "erd1p4lcukp8ygdxa0d2l0qjua9kjerhmymth5u8tdpz6gqfymxzejdql820ay": "Red SyndicateX",
+    "erd1j8la2922smtg7lw6a0ndwnmeg46lvfwthjg5svm3qrld7eyjcg8qmeetlg": "Pink SyndicateX",
+    "erd1fvvnwgt5erexzt5q5fhgnp2xghd67s9afyjdju5dz27njkq5nl0qwlu39l": "Team Fee"
+  }
 }
