@@ -1,10 +1,10 @@
 {
-  "name": "PeerMe: Burn DAO",
-  "description": "A fitness DAO where we motivate each other to burn calories together.Health is wealth.",
+  "name": "PeerMe: AI DAO",
+  "description": "A slightly mysterious DAO where AI and blockchain flirt with the future. Here, we may or may not be pioneering the next big thing in AI tools.",
   "social": {
     "website": "https://peerme.io",
     "email": "hello@peerme.io",
-    "twitter": "https://twitter.com/PeerMeHQ",
+    "twitter": "https://x.com/PeerMeHQ",
     "coingecko": "https://www.coingecko.com/en/coins/peerme-super",
     "coinmarketcap": "https://coinmarketcap.com/currencies/superciety",
     "discord": "https://discord.peerme.io",
@@ -15,8 +15,9 @@
   },
   "tags": [
     "peerme",
+    "governance",
     "dao",
-    "governance"
+    "multisig"
   ],
   "icon": "peerme"
 }
