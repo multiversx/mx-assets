@@ -1,11 +1,11 @@
 {
+    "website": "https://e-compass.io/token/VILLER-cab1fb",
+    "description": "Staking,Farm/Reword NFT & More",
+    "status": "active",
     "social": {
         "blog": "https://swap.onedex.app/swap?firstToken=EGLD&secondToken=VILLER-cab1fb&state=Pro&type=simple",
         "twitter": "https://x.com/viller0214",
         "coinmarketcap": "https://coinmarketcap.com/currencies/",
         "coingecko": "https://www.coingecko.com/en/coins/"
-    },
-    "website": "https://e-compass.io/token/VILLER-cab1fb",
-    "description": "Staking,Farm/Reword NFT & More",
-    "status": "active"
+    }
 }

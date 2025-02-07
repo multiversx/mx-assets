@@ -1,10 +1,10 @@
 {
     "social": {
         "blog": "https://en.wikipedia.org/wiki/Melon",
-        "twitter": "https://twitter.com/MultiversX",
+        "twitter": "",
         "whitepaper": "https://en.wikipedia.org/wiki/Melon"
     },
-    "website": "https://multiversx.com/",
+    "website": "",
     "description": "Juicy Melon!",
     "status": "active"
 }
