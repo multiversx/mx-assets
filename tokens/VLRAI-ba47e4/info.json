@@ -1,0 +1,15 @@
+{
+    "website": "https://valoro.fund/investment-funds/vlr-ai",
+    "description": "ValoroAI is the token of the Valoro AI Fund.",
+    "social": {
+        "twitter": "https://twitter.com/ValoroFund",
+        "telegram": "https://t.me/valorofund",
+        "whitepaper": "https://docs.valoro.fund/"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.valoro.fund/v1/protocol/tokens/VLRAI-ba47e4",
+        "path": "0.usdPrice"
+    }
+}

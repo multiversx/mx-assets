@@ -1,5 +1,5 @@
 {
-  "name": "PeerMe: Bounties",
+  "name": "PeerMe: Bounty Module",
   "description": "Facilitates end-to-end journeys of bounty tasks, from creation to successful completion.",
   "social": {
     "website": "https://peerme.io",
@@ -13,9 +13,6 @@
     "github": "https://github.com/PeerMeHQ",
     "community": "https://egld.community/projects/PeerMe"
   },
-  "tags": [
-    "peerme",
-    "bounties",
-    "p2p"
-  ]
+  "tags": ["peerme", "bounties", "p2p", "quests"],
+  "icon": "peerme"
 }

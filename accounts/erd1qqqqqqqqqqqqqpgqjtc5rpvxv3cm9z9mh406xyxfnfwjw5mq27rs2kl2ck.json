@@ -4,7 +4,7 @@
   "social": {
     "website": "https://peerme.io",
     "email": "hello@peerme.io",
-    "twitter": "https://twitter.com/PeerMeHQ",
+    "twitter": "https://x.com/PeerMeHQ",
     "coingecko": "https://www.coingecko.com/en/coins/peerme-super",
     "coinmarketcap": "https://coinmarketcap.com/currencies/superciety",
     "discord": "https://discord.peerme.io",
@@ -15,8 +15,9 @@
   },
   "tags": [
     "peerme",
-    "dao",
     "governance",
+    "dao",
+    "multisig",
     "nft",
     "marketplace"
   ],
