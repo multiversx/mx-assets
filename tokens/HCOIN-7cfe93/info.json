@@ -1,13 +1,13 @@
 {
-    "social": {
-        "blog": "https://hauriu-token.neocities.org/",
-        "twitter": "https://twitter.com/VladHauriu",
-        "whitepaper": "https://hauriu-token.neocities.org/roadmap"
-    },
-    "website": "https://hauriu-token.neocities.org/",
-    "description": "Hauriu Coin is a special currency often used in Turnisor. ",
+    "website": "https://hauriucoin.neocities.org/",
+    "description": "Hauriu Coin is the currency used in the Empire of Turnişor.",
+    "status": "active",
     "extraTokens": [
         "WLRP-b3eec0"
     ],
-    "status": "active"
+    "social": {
+        "blog": "https://hauriu-token.neocities.org/",
+        "twitter": "https://x.com/HauriuCoin",
+        "whitepaper": "https://hauriucoin.neocities.org/about"
+    }
 }

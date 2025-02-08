@@ -1,0 +1,12 @@
+{
+  "name": "Bod's Presale & Drop",
+  "description": "Bod's presale & drop contract",
+  "social": {
+    "website": "https://bod.gg/",
+    "twitter": "https://x.bod.gg/",
+    "whitepaper": "https://whitepaper.bod.gg/",
+    "telegram": "https://tg.bod.gg/"
+  },
+  "tags": ["bodcoin", "contract"],
+  "icon": "bodcoin"
+}

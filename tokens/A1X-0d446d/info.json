@@ -1,9 +1,13 @@
 {
+    "website": "https://ainexus.ltd/",
+    "description": "A1X is the utility token of the AI Nexus ecosystem, a gamified social app that enables users to create items, worlds and games with AI tools.",
+    "ledgerSignature": "30450221008cd51cb64635df6ac154a1c68ea10f030ea0cc9af2296b557b6286f0784c82a902202d1cf3f0b2b328eed63fdd5ec91744ecd4ae47a981103e662dbae43f97eec225",
     "social": {
         "twitter": "https://x.com/_AI_Nexus",
         "whitepaper": "https://ainexus.b-cdn.net/whitepaper.pdf"
     },
-    "website": "https://ainexus.ltd/",
-    "description": "A1X is the utility token of the AI Nexus ecosystem, a gamified social app that enables users to create items, worlds and games with AI tools.",
+    "lockedAccounts": {
+        "erd1qqqqqqqqqqqqqpgqcpratednmrj5gttfqq52wq8r683tmk56f0kqzv05wv": "Pulsar.Money Vesting"
+    },
     "status": "active"
 }

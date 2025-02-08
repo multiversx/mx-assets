@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Official SASU meme token on MultiversX",
+    "social": {
+        "telegram": "",
+        "twitter": "https://x.com/robert_on_mvx"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/SASU-cd9e83",
+        "path": "0.usdPrice"
+    }
+}

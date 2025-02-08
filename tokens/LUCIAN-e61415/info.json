@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Don\u2019t miss out this crypto supercycle\u2014$LUCIAN revolution starts now!",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/LUCIAN-e61415",
+        "path": "0.usdPrice"
+    }
+}
