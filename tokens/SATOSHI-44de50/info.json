@@ -1,0 +1,9 @@
+{
+  "website": "https://www.satoshi-token.xyz/",
+  "description": "If you don't believe me or don't get it, I don't have time to try to convince you, sorry.\n\nIt might make sense just to get some in case it catches on.\nIf enough people think the same way, that becomes a self fulfilling prophecy.",
+  "social": {},
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}
