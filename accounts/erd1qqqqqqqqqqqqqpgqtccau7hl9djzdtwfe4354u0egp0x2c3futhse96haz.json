@@ -10,5 +10,6 @@
         "quests",
         "on-chain",
         "pulsar.money"
-    ]
+    ],
+    "icon": "pulsarmoney"
 }
