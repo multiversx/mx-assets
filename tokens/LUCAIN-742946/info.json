@@ -1,0 +1,9 @@
+{
+  "website": "https://lucainofficial.com",
+  "description": "LucAIn Mincu official AI hackaton token.",
+  "social": {},
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}
