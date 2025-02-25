@@ -1,0 +1,13 @@
+{
+  "name": "BOBER Flip",
+  "description": "Flip coins, spin wheels & test your luck in Bober Battle. Win epic rewards & climb the leaderboard. Join the fun & unleash your inner BOBER.",
+  "social": {
+    "website": "https://boberbattle.com",
+    "twitter": "https://x.com/boberbattle",
+    "email": "contact@boberbattle.com",
+    "telegram": "https://t.me/boberonmvx",
+    "blog": "https://dappradar.com/dapp/bober-battle-2"
+  },
+  "tags": ["game", "bober", "flip", "coin", "p2p"],
+  "icon": "bober-battle"
+}

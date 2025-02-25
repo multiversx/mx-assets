@@ -1,0 +1,11 @@
+{
+  "website": "https://memexchange.fun/meme-coins",
+  "description": "Create memecoins on MVX with MemExchange",
+  "social": {
+    "x": "https://x.com/MultiversX"
+  },
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}
