@@ -1,0 +1,15 @@
+{
+    "name": "Pulsar Money Quests",
+    "description": "Quests are a key feature of the Smart Payments Hub, designed to maximize visibility and engagement. Don’t miss out—get involved now!",
+    "website": "https://pulsar.money",
+    "social": {
+        "blog": "https://pulsar.money/blog",
+        "twitter": "https://x.com/PulsarMoneyApp"
+    },
+    "tags": [
+        "quests",
+        "on-chain",
+        "pulsar.money"
+    ],
+    "icon": "pulsarmoney"
+}
