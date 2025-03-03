@@ -1,5 +1,5 @@
 {
-  "name": "Ta-da : prize pool",
+  "name": "Ta-da: Prize Pool",
   "description": "One App Infinite Ways To-Earn",
   "social": {
     "website": "https://ta-da.io/",
@@ -11,7 +11,9 @@
     "telegram": "https://t.me/Ta_da_announcements"
   },
   "tags": [
-    "Ta-da"
+    "tada",
+    "prize",
+    "pool"
   ],
   "icon": "tada"
 }

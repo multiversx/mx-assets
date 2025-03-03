@@ -1,5 +1,5 @@
 {
-  "name": "Hatom: wTAO Interest Rate model",
+  "name": "Hatom: wTAO Interest Rate Model",
   "description": "Hatom's wTAO Lending & Borrowing Protocol Interest Rate Model",
   "social": {
     "website": "https://hatom.com",
@@ -10,6 +10,12 @@
     "twitter": "https://twitter.com/HatomProtocol",
     "linkedin": "https://www.linkedin.com/company/hatomlabs"
   },
-  "tags": ["hatom", "money-market", "lending", "borrowing", "interest-rate"],
+  "tags": [
+    "hatom",
+    "money-market",
+    "lending",
+    "borrowing",
+    "interest-rate"
+  ],
   "icon": "hatom-lending"
 }
