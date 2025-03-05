@@ -1,6 +1,6 @@
 {
     "website": "https://hauriucoin.neocities.org/",
-    "description": "Hauriu Coin is the currency used in the Empire of Turnişor.",
+    "description": "$HCOIN is a community-driven MultiversX token featuring excellent tokenomics, burning & good fundamentals",
     "status": "active",
     "extraTokens": [
         "WLRP-b3eec0"
@@ -9,5 +9,9 @@
         "blog": "https://hauriu-token.neocities.org/",
         "twitter": "https://x.com/HauriuCoin",
         "whitepaper": "https://hauriucoin.neocities.org/about"
+    },
+    "lockedAccounts": {
+        "erd1t3ulxdg7zz8wwpku88assd5fvaq2svxpzgmyh2rd95ztspr7mgqqr5hh7x": "hcoinrewardsallocation",
+        "erd1n8z0mstk9kgmj9ylnfz5uwtzfmucgtvz09lc57xgv8yjepvmsvys9m72s2": "hcointreasurylocked"
     }
 }
