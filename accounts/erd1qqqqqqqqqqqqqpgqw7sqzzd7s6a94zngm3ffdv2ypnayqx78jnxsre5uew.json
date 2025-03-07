@@ -1,0 +1,12 @@
+{
+  "name": "ElrondBet",
+  "description": "ElrondBet is a fully decentralized profit sharing platform offering a wide range of blockchain games on the MultiversX Blockchain.",
+  "social": {
+    "website": "https://https://elrondbet.net/",
+    "twitter": "https://x.com/token_nuts",
+    "email": "contact@nutstoken.net",
+    "telegram": "https://t.me/tokennuts"
+  },
+  "tags": ["games", "staking", "raffle", "flip", "coin", "pvp"],
+  "icon": "elrondbet"
+}
