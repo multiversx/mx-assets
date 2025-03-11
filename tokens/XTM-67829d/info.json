@@ -1,5 +1,9 @@
 {
-    "website": "https://xtime1000xtm.netlify.app/",
-    "description": "Xtime (XTM) token is a project for safe value in the multiversX. The time is power and project stay away from inflation. \n\nToken alocation:",
-    "status": "active"
+    "website": "https://xtime.ink/",
+    "description": "XTM is utility token to xtime. Markets comming soon!",
+    "status": "active",
+    "social": {
+        "blog": "https://t.me/+MP2RwBJtuJA0YzZk",
+        "twitter": "https://x.com/TweetbyAlexe?t=-Tr2lc_Z946agYE2ZnXePg&s=09"
+    }
 }
