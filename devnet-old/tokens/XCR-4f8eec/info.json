@@ -1,0 +1,19 @@
+{
+    "website": "https://pub-devnet.cryptgain.com",
+    "description": "CryptGain is an innovative Referral Rewards Programme (RRP) designed for Proof of Stake (PoS) blockchains that aims to boost user engagement and revenue generation for delegators and staking providers.",
+    "ledgerSignature": "",
+    "social": {
+        "email": "",
+        "blog": "https://www.stakeafrik.com/blog",
+        "twitter": "https://twitter.com/StakeAfrik",
+        "whitepaper": "https://stakeafrik.com/blog/cryptgain-the-referral-rewards-program-for-multiversx-egld-delegationstaking",
+        "coinmarketcap": "",
+        "coingecko": ""
+    },
+    "lockedAccounts": {
+        "erd1572z9p2j2dvluchjn070pdj5tfmgh9qu69yxf2uzaplaq45qfykqxx0utw": "CryptGain Cross Chain",
+        "erd19v5yx6hepz6g6y2z639yezrhy9m3lfpffrrtp3eqkp4htf3lgq6q8tjtwg": "CryptGain MultiversX"
+    },
+    "extraTokens": [],
+    "status": "active"
+}
