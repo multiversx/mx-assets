@@ -1,9 +1,9 @@
 {
+    "website": "https://holabitcoin.es/",
+    "description": "Token nativo de HolaBitcoin, de gran utilidad para explorar el mundo cripto. Desbloquea cursos, descuentos, grupos exclusivos y NFT únicos en nuestra plataforma educativa, impulsando tu aprendizaje y adopción cripto.",
+    "status": "active",
     "social": {
         "blog": "https://holabitcoin.es/novedades/",
         "twitter": "https://x.com/HolaBitcoin_es"
-    },
-    "website": "https://holabitcoin.es/",
-    "description": "HolaBitcoin Token (HIBTC) – La puerta de entrada a la educación y adopción cripto.\n\nHIBTC es el token nativo de HolaBitcoin, una plataforma educativa diseñada para simplificar el aprendizaje sobre Bitcoin y criptomonedas. Con HIBTC, los usuarios pueden acceder a cursos exclusivos, desbloquear contenido premium y participar en incentivos dentro del ecosistema.\n\n🔹 Características clave:\n✔️ Acceso a formación sobre Bitcoin y blockchain 📚\n✔️ Recompensas y beneficios para los estudiantes 🎁\n✔️ Integración con futuras herramientas y servicios de HolaBitcoin ⚡\n✔️ Un token diseñado para facilitar la adopción cripto 🚀\n\nÚnete a la revolución educativa con HIBTC y empieza a aprender de manera fácil y accesible.\n\n🌐 Más información en: https://holabitcoin.es",
-    "status": "active"
+    }
 }
