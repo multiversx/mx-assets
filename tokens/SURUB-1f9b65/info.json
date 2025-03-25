@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Trolling and bringing communities together ! ",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/SURUB-1f9b65",
+        "path": "0.usdPrice"
+    }
+}

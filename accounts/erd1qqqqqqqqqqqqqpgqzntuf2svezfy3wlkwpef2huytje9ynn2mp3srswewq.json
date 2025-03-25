@@ -1,15 +1,15 @@
 {
-
-    "name": "Dynamic Staking SC",
-        "social": {
-          "email": "support@emorya.com",
-          "website": "https://emorya.com",
-          "twitter": "https://twitter.com/EmoryaFinance",
-          "telegram": "https://t.me/EmoryaFinanceRO"
-        },
-        "tags": [
-          "emr",
-          "smartContract"
-        ],
-        "icon": "emr"
-      }
+  "name": "Emorya: Dynamic Staking",
+  "social": {
+    "email": "support@emorya.com",
+    "website": "https://emorya.com",
+    "twitter": "https://twitter.com/EmoryaFinance",
+    "telegram": "https://t.me/EmoryaFinanceRO"
+  },
+  "tags": [
+    "emorya",
+    "dynamic",
+    "staking"
+  ],
+  "icon": "emr"
+}
