@@ -1,5 +1,5 @@
 {
-  "name": "Bod's Treasury",
+  "name": "Bod's: Treasury",
   "description": "Bod's treasury multisig wallet",
   "social": {
     "website": "https://bod.gg/",
@@ -7,6 +7,9 @@
     "whitepaper": "https://whitepaper.bod.gg/",
     "telegram": "https://tg.bod.gg/"
   },
-  "tags": ["bodcoin", "wallet"],
+  "tags": [
+    "bodcoin",
+    "wallet"
+  ],
   "icon": "bodcoin"
 }
