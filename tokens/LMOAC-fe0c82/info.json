@@ -1,0 +1,11 @@
+{
+  "website": "https://x.com/lmaocoinunity?s=21",
+  "description": "{\n  \"name\": \"LMAOCOIN\",\n  \"symbol\": \"LMOAC\",\n  \"decimals\": 18,\n  \"totalSupply\": 1000000000,\n  \"contractAddress\": \"erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqz\",\n  \"creator\": \"erd1vvpgzq3v50cqteyfapdrd3xkrjyg49436k7f96jcrew3\",\n  \"social\": {\n    \"twitter\": \"https://x.com/lmaocoinunity\",\n    \"telegram\": \"https://t.me/+fzJWmhzysKs1ZGVh\"\n  },\n  \"description\": \"Meme coin for decentralization and utility.\",\n  \"launchDate\": \"04-02-2025\",\n  \"network\": \"EGLD\"\n}",
+  "social": {
+    "x ": "https://x.com/lmaocoinunity?s=21"
+  },
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}
