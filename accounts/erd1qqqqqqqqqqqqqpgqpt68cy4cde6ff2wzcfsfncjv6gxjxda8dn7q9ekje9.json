@@ -1,7 +1,14 @@
 {
-    "name": "Home X: Game",
-    "description": "A story-driven Play & Earn game.",
-    "tags": [
-        "homex"
-    ]
+  "name": "Home X: Game",
+  "description": "A story-driven Play & Earn game.",
+  "social": {
+    "website": "https://homex.dev",
+    "email": "homex.nft@gmail.com",
+    "blog": "https://medium.com/@HomeX",
+    "twitter": "https://twitter.com/HomeX_NFT",
+    "discord": "https://discord.gg/homex"
+  },
+  "tags": [
+    "homex"
+  ]
 }

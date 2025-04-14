@@ -1,0 +1,13 @@
+{
+  "name": "vLeap: Warp Registry",
+  "description": "Registers and manages Warps on Multiversᕽ.",
+  "social": {
+    "website": "https://vleap.io",
+    "email": "hello@vleap.io",
+    "twitter": "https://x.com/vLeapGroup",
+    "telegram": "https://telegram.vleap.io",
+    "github": "https://github.com/vLeapGroup"
+  },
+  "tags": ["vleap", "warps", "actions"],
+  "icon": "vleap"
+}

@@ -1,6 +1,6 @@
 {
-    "website": "https://onedex.app",
-    "description": "OneDEX is a Decentralized Exchange made for everybody - Owned By no One, Owned By Everyone",
+    "website": "https://www.onefinity.network",
+    "description": "OneFinity is an EVM-compatible Sovereign Shard: Interchain Innovation, Limitless Expansion, Infinite Scale. Amplify Ethereum’s potential through OneFinity, achieving innovation to the power of X.",
     "ledgerSignature": "3045022100dfef0396a73b5b70409022eb113accc6d6463df97739b4550693ec14c68a2ee20220554243722481f53f7e8eaf7ca630cce6ce03e84f1aaccdfa861705e2be3a4192",
     "social": {
         "twitter": "https://twitter.com/OneFinityChain"
@@ -8,9 +8,6 @@
     "lockedAccounts": {
         "erd1qqqqqqqqqqqqqpgqlvm3ntf9eyurenmdvl4celvlck7dn6gqmvlscg8r3m": "Private Sale Vesting",
         "erd1qqqqqqqqqqqqqpgq49xdh8493ms6qnlc3svkx46vs528jjhsmvlsc2tuk5": "Public Sale Staking",
-        "erd1qqqqqqqqqqqqqpgq8nlmvjm8gum6y2kqe0v296kgu8cm4jlemvlsays3ku": "SFT APR Boost Staking",
-        "erd1qqqqqqqqqqqqqpgq5774jcntdqkzv62tlvvhfn2y7eevpty6mvlszk3dla": "Farm",
-        "erd1qqqqqqqqqqqqqpgql9z9vm8d599ya2r9seklpkcas6qmude4mvlsgrj7hv": "Staking",
         "erd1xkflzkx3hp52szy26zh9m5ts3v3j4dxhqkpxzj9npzp7wyp6qeysfpqz2m": "Burn",
         "erd14kgwftd9gtrweqr0fw6g38lwuaa3cre8vxk0nse7stvu2s5jxagq2l4wj5": "Treasury",
         "erd1qqqqqqqqqqqqqpgqqnm3x37972323nuv3l3kywev0n8q5n6gyc8qwljqz9": "Team Token Coindrip"

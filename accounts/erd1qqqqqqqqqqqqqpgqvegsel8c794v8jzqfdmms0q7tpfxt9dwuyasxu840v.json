@@ -1,6 +1,15 @@
 {
   "name": "Eneftor: Marketplace",
-  "description": "",
+  "description": " ",
+  "social": {
+    "website": "https://www.eneftor.com",
+    "email": "office@eneftor.com",
+    "twitter": "https://twitter.com/EneftorElrond",
+    "discord": "https://discord.gg/uSFWDSNTfM",
+    "telegram": "https://t.me/+j6FYrrdH3HgxNTk0",
+    "whitepaper": "https://eneftor.com/Eneftor_Whitepaper_V1.pdf",
+    "blog": "https://medium.com/@eneftor"
+  },
   "tags": [
     "marketplace"
   ]

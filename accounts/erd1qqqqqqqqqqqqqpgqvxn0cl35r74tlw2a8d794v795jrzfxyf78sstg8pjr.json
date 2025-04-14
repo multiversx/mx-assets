@@ -1,6 +1,15 @@
 {
   "name": "Hatom: USDT Money Market",
   "description": "Hatom's USDT Lending & Borrowing Protocol Money Market",
+  "social": {
+    "website": "https://hatom.com",
+    "discord": "https://discord.gg/upPzjHtjFK",
+    "github": "https://github.com/HatomProtocol",
+    "blog": "https://mirror.xyz/0xDac8B6141d28C46765255607f3572c73A064383f",
+    "telegram": "https://t.me/HatomLabs",
+    "twitter": "https://twitter.com/HatomProtocol",
+    "linkedin": "https://www.linkedin.com/company/hatomlabs"
+  },
   "tags": ["hatom", "money-market", "lending", "borrowing"],
   "icon": "hatom-lending"
 }
