@@ -1,6 +1,9 @@
 {
   "name": "Eldar Finance: Rewards",
   "description": "",
+  "social": {
+    "twitter": "https://twitter.com/eldar_finance"
+  },
   "tags": [
     "eldar",
     "finance",

@@ -1,6 +1,9 @@
 {
   "name": "Exchange: Kucoin",
   "description": "",
+  "social": {
+    "website": "https://www.kucoin.com"
+  },
   "tags": [
     "kucoin",
     "exchange"

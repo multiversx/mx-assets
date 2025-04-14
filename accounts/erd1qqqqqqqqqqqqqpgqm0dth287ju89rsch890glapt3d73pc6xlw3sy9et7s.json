@@ -1,6 +1,14 @@
 {
   "name": "UPARK: Staking",
   "description": "Contract for LKUPARK with unlocked rewards",
+  "social": {
+    "website": "https://upark.city",
+    "email": "jakub@upark.city",
+    "twitter": "https://twitter.com/uPark_network",
+    "whitepaper": "https://upark.city/documents/uPark_Lightpaper-v1.0.pdf",
+    "telegram_EN": "https://t.me/uPark_city",
+    "linkedin": "https://www.linkedin.com/company/upark-city"
+  },
   "tags": [
     "upark",
     "staking"

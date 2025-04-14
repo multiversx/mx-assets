@@ -1,0 +1,17 @@
+{
+    "website": "https://goshit.xyz",
+    "description": "The MEME coin of the MVX that belongs to the community entirely.",
+    "social": {
+    "email": "hit24tkn@gmail.com",
+    "blog": "https://medium.com/@hit24tkn",
+    "twitter": "https://twitter.com/HIT24TKN",
+    "whitepaper": "https://medium.com/@hit24tkn/hit-meme-whitepaper-d305325d899f"
+    },
+    "lockedAccounts": {
+    "erd1deaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaqtv0gag": "Total supply"
+    },
+    "extraTokens": [
+    "HITUSDC-3a7192"
+    ],
+    "status": "active"
+    }

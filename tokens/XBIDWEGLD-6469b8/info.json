@@ -1,0 +1,11 @@
+{
+  "website": "https://www.xbid.app",
+  "description": "Liquidity Provider (LP) Token obtained by adding liquidity in the XBID/EGLD pool on the ONEDEX",
+  "ledgerSignature": "",
+  "social": {
+    "twitter": "https://twitter.com/app_xbid",
+    "whitepaper": "https://xbid.gitbook.io/xbid/",
+    "discord": "https://discord.gg/7tMHeBGa"
+  },
+  "status": "active"
+}

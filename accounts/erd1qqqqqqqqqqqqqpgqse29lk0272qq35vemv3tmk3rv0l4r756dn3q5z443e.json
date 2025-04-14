@@ -1,9 +1,21 @@
 {
-    "name": "E.V Ecosystem: Mystery Box",
-    "description": "E.V CYBORGS Mystery Box Opener",
-    "tags": [
-        "ev",
-        "mystery box"
-    ],
-    "icon": "ev"
+  "name": "E.V Ecosystem: Mystery Box",
+  "description": "E.V CYBORGS Mystery Box Opener",
+  "social": {
+    "website": "https://www.eventivivi.it/nft",
+    "email": "evnftreal@gmail.com",
+    "twitter": "https://twitter.com/EVNFTreal",
+    "instagram": "https://www.instagram.com/evnftreal",
+    "discord": "https://discord.gg/63w5zDujzA",
+    "dApp": "https://dapp.eventivivi.it",
+    "facebook": "https://www.facebook.com/evnftreal",
+    "telegram": "https://t.me/evnftreal",
+    "tiktok": "https://www.tiktok.com/@evnftreal",
+    "whitepaper": "https://e-v-ecosystem.gitbook.io/e.v-ecosystem"
+  },
+  "tags": [
+    "ev",
+    "mystery box"
+  ],
+  "icon": "ev"
 }

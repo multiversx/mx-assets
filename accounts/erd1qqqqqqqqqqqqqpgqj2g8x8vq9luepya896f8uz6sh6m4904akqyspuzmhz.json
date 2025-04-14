@@ -1,5 +1,20 @@
 {
   "name": "ArtCPAclub: Farming",
   "description": "ESDT LP staking",
-  "tags": ["staking", "ESDT", "raffle", "assets", "rewards"]
+  "social": {
+    "website": "https://artcpaclub.com/",
+    "email": "admin@artcpaclub.com",
+    "twitter": "https://twitter.com/_Official_CPA",
+    "discord": "https://discord.gg/t58ZhW688j",
+    "telegram": "https://t.me/+l3Fjd2bULflhZmY0",
+    "youtube": "https://www.youtube.com/@ArtCPAclub_Official/videos",
+    "reddit": "https://www.reddit.com/r/ArtCPAclub"
+  },
+  "tags": [
+    "staking",
+    "ESDT",
+    "raffle",
+    "assets",
+    "rewards"
+  ]
 }

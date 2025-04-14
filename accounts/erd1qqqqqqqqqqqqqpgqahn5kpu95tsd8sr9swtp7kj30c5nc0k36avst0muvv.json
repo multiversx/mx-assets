@@ -1,0 +1,13 @@
+{
+  "name": "JEXchange: WDAI-USDC-USDT LP",
+  "description": "WDAI-USDC-USDT liquidity pool on JEXchangeDefi",
+  "social": {
+    "website": "https://jexchange.io",
+    "blog": "https://medium.com/@JEXchangeDefi",
+    "twitter": "https://twitter.com/JEXchangeDefi",
+    "discord": "https://discord.gg/CuthPz9uxv",
+    "telegram": "https://t.me/JEXAnnouncements"
+  },
+  "tags": ["jexchange", "liquidity", "swap"],
+  "icon": "jexchange"
+}

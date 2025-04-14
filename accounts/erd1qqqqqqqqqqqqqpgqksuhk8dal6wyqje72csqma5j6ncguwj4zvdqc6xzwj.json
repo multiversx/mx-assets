@@ -1,8 +1,16 @@
 {
   "name": "xLaunchpad: Hatom",
   "description": "",
+  "social": {
+    "website": "https://xlaunchpad.com",
+    "twitter": "https://twitter.com/xLaunchpadApp",
+    "telegram": "https://t.me/xLaunchpadApp",
+    "facebook": "https://www.facebook.com/MultiversX",
+    "linkedin": "https://mt.linkedin.com/company/multiversx"
+  },
   "tags": [
     "xlaunchpad",
     "hatom"
-  ]
+  ],
+  "icon": "xlaunchpad"
 }

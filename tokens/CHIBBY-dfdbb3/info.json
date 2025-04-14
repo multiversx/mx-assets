@@ -1,0 +1,16 @@
+{
+    "social": {
+        "twitter": "https://twitter.com/ChibbyMvx"
+    },
+    "website": "https://chibbymvx.com",
+    "description": "CHIBBY, ready to join the Fun Crypto Adventure",
+    "status": "active",
+    "lockedAccounts": {
+        "erd192jlr26zcw0c3xcehfrgqhgcm3avm6968z5tl89e7wtu9qdvkpdqfn4h32": "Rewards Program / Others listing",
+        "erd1mfdj8u4e5xmaddv0aku85qccgm9r3auenze86y45wu6p4mjjnzzqpxphgq": "Development / Marketing",
+        "erd1v7h526v6fer6nd5v3n5nd069qhyhzyghq0extclr7rm00c3t7e4q4c6any": "Reserve / Treasure",
+        "erd1qqqqqqqqqqqqqpgqnuswreelzwp4pummmy9w2fwda5l2t4872jpsywgmv3": "Liquidity",
+        "erd1k3v737evqq3taavrpem7l0xx5skuwquhlwx0srreqdkw67z5lkcsrxrlhf": "Airdrop, NFT & Community Program",
+        "erd1qqqqqqqqqqqqqpgqrq6gv0ljf4y9md42pe4m6mh96hcpqnpuusls97tf33": "NFT Stacking Reward (OneDex)"
+      }
+}
