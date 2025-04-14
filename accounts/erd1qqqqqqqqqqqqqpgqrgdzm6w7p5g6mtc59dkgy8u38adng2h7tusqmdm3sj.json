@@ -1,9 +1,17 @@
 {
-    "name": "ESTAR: xCastle Craft",
-    "description": "",
-    "tags": [
-        "game",
-        "crafting"
-    ],
-    "icon": "estar"
+  "name": "ESTAR: xCastle Craft",
+  "description": "",
+  "social": {
+    "website": "https://estar.games",
+    "twitter": "https://twitter.com/EstarToken",
+    "whitepaper": "https://whitepaper.estar.games",
+    "email": "contact@estar.games",
+    "discord": "https://discord.com/invite/estar",
+    "telegram": "https://t.me/estartoken"
+  },
+  "tags": [
+    "game",
+    "crafting"
+  ],
+  "icon": "estar"
 }

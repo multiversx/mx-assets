@@ -1,0 +1,30 @@
+{
+  "name": "XOXNO: Token Manager",
+  "description": "The Token Manager Account oversees the primary smart contracts associated with the $XOXNO token. This account is responsible for managing key operations and is also the minter of the $XOXNO token, ensuring efficient and secure token issuance and governance within the ecosystem.",
+  "social": {
+    "email": "contact@xoxno.com",
+    "website": "https://xoxno.com",
+    "discord": "https://discord.gg/xoxno",
+    "twitter": "https://x.com/XoxnoNetwork",
+    "telegram": "https://xoxno.t.me",
+    "instagram": "https://instagram.com/xoxnoNFTs",
+    "github": "https://github.com/XOXNO",
+    "whitepaper": "https://xoxno.com/whitepaper",
+    "linkedin": "https://linkedin.com/company/xoxno",
+    "youtube": "https://www.youtube.com/channel/UCeknNkwBJZhrHcPPEMHAYrg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xoxno/"
+  },
+  "tags": [
+    "XOXNO",
+    "Marketplace",
+    "Launchpad",
+    "Liquid Staking",
+    "Finance",
+    "DeFi",
+    "Ticketing",
+    "L2",
+    "Web2",
+    "Real Yield"
+  ],
+  "icon": "xoxno"
+}

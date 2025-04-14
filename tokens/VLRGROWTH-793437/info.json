@@ -1,0 +1,15 @@
+{
+    "website": "https://valoro.fund/investment-funds/growth",
+    "description": "ValoroGrowth is the token of the Valoro Growth Fund.",
+    "social": {
+        "twitter": "https://twitter.com/ValoroFund",
+        "telegram": "https://t.me/valorofund",
+        "whitepaper": "https://docs.valoro.fund/"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.valoro.fund/v1/protocol/tokens/VLRGROWTH-793437",
+        "path": "0.usdPrice"
+    }
+}

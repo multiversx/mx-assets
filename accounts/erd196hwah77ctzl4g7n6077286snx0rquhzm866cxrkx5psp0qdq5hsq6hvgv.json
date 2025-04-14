@@ -1,6 +1,14 @@
 {
   "name": "xPortal: Registration Relayer",
   "description": "",
+  "social": {
+    "twitter": "https://twitter.com/xPortalApp",
+    "facebook": "https://www.facebook.com/xPortalApp",
+    "instagram": "https://www.instagram.com/xportalapp",
+    "telegram": "https://t.me/xPortalApp",
+    "youtube": "https://www.youtube.com/@xportalapp",
+    "website": "https://xportal.com"
+  },
   "tags": [
     "xportal",
     "registration",

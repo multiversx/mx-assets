@@ -1,0 +1,17 @@
+{
+    "name": "Valoro: AI Fund",
+    "description": "Valoro AI is a dedicated fund comprising the leading AI-based projects within the MultiversX ecosystem.",
+    "social": {
+        "website": "https://valoro.fund/investment-funds/vlr-ai",
+        "twitter": "https://twitter.com/ValoroFund",
+        "telegram": "https://t.me/valorofund",
+        "whitepaper": "https://docs.valoro.fund/"
+    },
+    "tags": [
+        "valoro",
+        "index-fund",
+        "investment",
+        "ai"
+    ],
+    "icon": "valoro"
+}

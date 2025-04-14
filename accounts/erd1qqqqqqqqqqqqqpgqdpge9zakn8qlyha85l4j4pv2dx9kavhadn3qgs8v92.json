@@ -1,9 +1,12 @@
 {
-    "name": "xBulk: TIME",
-    "description": "TIME distribution contract for xBulk.app",
-    "tags": [
-        "commmunity",
-        "bulk"
-    ],
-    "icon": "xbulk"
+  "name": "xBulk: TIME",
+  "description": "TIME distribution contract for xBulk.app",
+  "social": {
+    "website": "https://xbulk.app"
+  },
+  "tags": [
+    "commmunity",
+    "bulk"
+  ],
+  "icon": "xbulk"
 }

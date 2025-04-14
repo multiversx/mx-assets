@@ -1,7 +1,10 @@
 {
-  "name": "staking4all",
+  "description": "Validator for Proof of Stake blockchains. Delegate to us for a easy staking experience",
+  "name": "Staking4All",
+  "website": "https://www.staking4all.org/",
+  "twitter": "https://twitter.com/staking4all",
   "owners": [
-    "erd1ce7lgfl20ht30gnunmcy0j0fue4njpqsu2e6me2j97urgd6w6cgqk9llpg",
+    "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqpghllllstr0z2r",
     "erd13uaj9p0rr58ynprqp65ydhugkhwssgmmmhj4ur888cjtgwpxqjlsm8xse2"
   ]
 }

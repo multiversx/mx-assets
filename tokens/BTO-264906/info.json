@@ -1,0 +1,20 @@
+{
+    "website": "https://bto.gitbook.io/burn-to-one/",
+    "description": "BTO is an ESDT with a unique goal: to burn continuously until only one token remains.",
+    "social": {
+        "email": "burntoone@gmail.com",
+        "twitter": "https://twitter.com/BurnToOne",
+        "discord": "https://discord.com/invite/gH6YSyVFD6",
+        "telegram": "https://t.me/BurnToOne"
+    },
+    "lockedAccounts": {
+        "erd1rhdsmz4ag4vnkj85gk7q8j5erpzy3f9szyd0ap8ksdgk42xd23dq7jwdsa": "BTO Treasury",
+        "erd1qqqqqqqqqqqqqpgqxetccmv9rjefu2fwtw7a6kkx0tsqtqxpp4ssj8shz4": "SC Burnify",
+        "erd1qqqqqqqqqqqqqpgqrq6gv0ljf4y9md42pe4m6mh96hcpqnpuusls97tf33": "SC NFT Staking"
+    },
+    "extraTokens": [
+        "BTOWEGLD-7a8ff5",
+        "BTOWEGLD-d28cc6"
+    ],
+    "status": "active"
+}
