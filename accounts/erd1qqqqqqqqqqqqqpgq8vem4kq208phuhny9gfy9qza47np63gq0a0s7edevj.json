@@ -1,0 +1,12 @@
+{
+  "name": "VestaX.Finance™ DEX Router SC",
+  "description": "The VestaX.Finance™ DEX Router SC is the SC responsible for the VestaX.Finance™ DEX Operations.",
+  "social": {
+    "website": "https://vestax.finance",
+    "email": "pa.arion@gmail.com",
+    "twitter": "https://www.twitter.com/DemiourgosH",
+    "telegram": "https://t.me/DemiourgosCommunity",
+    "discord": "https://discord.gg/GKKAmPKKNe"
+  },
+  "tags": ["demiourgos", "vestax", "dex", "router"]
+}

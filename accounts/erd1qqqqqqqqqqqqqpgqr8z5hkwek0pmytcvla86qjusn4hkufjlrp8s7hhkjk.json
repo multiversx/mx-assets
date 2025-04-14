@@ -1,6 +1,11 @@
 {
   "name": "EsdtMarket: P2P swaps module",
   "description": "",
+  "social": {
+    "website": "https://esdt.market",
+    "twitter": "https://twitter.com/EsdtMarket",
+    "telegram": "https://t.co/Pi9YK6xRZu"
+  },
   "tags": [
     "esdtmarket",
     "swap"

@@ -1,0 +1,14 @@
+{ 
+  "website": "youtube.com",
+  "description": "ceva smecher",  
+  "ledgerSignature": "",
+  "social": {
+    "email": "",
+    "blog": "",
+    "twitter": "",
+    "whitepaper": "",
+    "coinmarketcap": "",
+    "coingecko": ""
+  },
+  "status": "active"
+}

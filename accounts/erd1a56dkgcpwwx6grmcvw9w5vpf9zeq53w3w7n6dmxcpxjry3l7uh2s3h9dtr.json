@@ -1,6 +1,13 @@
 {
   "name": "Exchange: Bitfinex.com",
   "description": "",
+  "social": {
+    "website": "https://www.bitfinex.com",
+    "discord": "https://discord.gg/bitfinex",
+    "telegram": "https://t.me/bitfinex",
+    "facebook": "https://www.facebook.com/bitfinex",
+    "instagram": "https://www.instagram.com/bitfinex"
+  },
   "tags": [
     "bitfinex",
     "exchange"

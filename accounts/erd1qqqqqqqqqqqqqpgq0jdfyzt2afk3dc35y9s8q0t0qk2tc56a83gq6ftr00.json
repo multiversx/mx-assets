@@ -1,6 +1,17 @@
 {
   "name": "QoWatt: Gen0 Minter",
   "description": "Smart Contract for Gen0 NFT minting",
+  "social": {
+    "website": "https://qowatt.com",
+    "email": "esdt@qowatt.com",
+    "blog": "https://medium.com/qowatt",
+    "twitter": "https://twitter.com/QoWattEcosystem",
+    "whitepaper": "https://qowatt.network/_doc/QoWatt_Whitepaper_EN.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/qowatt",
+    "coingecko": "https://www.coingecko.com/en/coins/qowatt",
+    "linkedin": "https://fr.linkedin.com/company/qowatt",
+    "facebook": "https://www.facebook.com/QoWatt"
+  },
   "tags": [
     "qowatt",
     "gen0",
