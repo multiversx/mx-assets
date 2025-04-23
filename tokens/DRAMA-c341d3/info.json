@@ -1,9 +1,12 @@
 {
-    "social": {
-        "blog": "https://www.voxels.com/play?coords=W@3402E,1619S",
-        "twitter": "https://x.com/DramaMvX"
-    },
     "website": "https://dramamvx.com/",
     "description": "An abundant energy that initially seemed dramatic and destructive, but was later discovered to have magical, energetic, and memetic properties, $DRAMA Memecoin.",
-    "status": "active"
+    "status": "active",
+    "social": {
+        "blog": "https://www.voxels.com/play?coords=S@3403E,1603S",
+        "twitter": "https://x.com/DramaMvX"
+    },
+    "lockedAccounts": {
+        "erd1deaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaqtv0gag": "Burnd🔥"
+    }
 }
