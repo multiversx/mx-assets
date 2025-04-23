@@ -1,0 +1,14 @@
+{
+  "name": "Philantrify Ltd Factory",
+  "description": "Factory contract for Philantrify Ltd to deploy donation-based charities.",
+  "social": {
+    "website": "https://philantrify.com",
+    "email": "contact@philantrify.com",
+    "twitter": "https://twitter.com/PhilantrifyLtd"
+  },
+  "tags": [
+    "charity",
+    "smartcontract"
+  ],
+  "icon": "philantrify-logo"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Philantrify Ltd Charity",
+  "description": "Charity contract deployed by Philantrify Ltd for donation-based NFT minting.",
+  "social": {
+    "website": "https://philantrify.com",
+    "email": "contact@philantrify.com",
+    "twitter": "https://twitter.com/PhilantrifyLtd"
+  },
+  "tags": [
+    "charity",
+    "smartcontract"
+  ],
+  "icon": "philantrify-logo"
+}
