@@ -1,0 +1,18 @@
+{
+    "website": "https://www.airo.network",
+    "description": "The AIRO token is the utility token of the AIRO Network",
+    "social": {
+        "email": "airsupport@airo.network",
+        "blog": "https://medium.com/@airo.network",
+        "twitter": "https://twitter.com/airosystems",
+        "discord": "https://discord.com/invite/QStMnnErnv",
+        "whitepaper": "https://aironetwork.gitbook.io/airo-network-whitepaper-v1.5"
+    },
+    "lockedAccounts": {
+        "erd1qqqqqqqqqqqqqpgqpt8qksprd987dyy3fqzxuqr9yde7el3q8chqnvyc93": "Miner Rewards and Team Vesting",
+        "erd1khx8yznaucxq0xfxd37tsavv0wnvq50u7z6564nua7a8han33k8qu3gace": "Staking Rewards",
+        "erd19fh2k00mgzfx07j8ch9l5p850fn5vjdmwws4j4czsrj70j5qrw5qg2s4z6": "AIRO DAO",
+        "erd1ngj2ezctw2nuj0z8uau7mcpz7gdv4rk2u550nuxeq0t7g084cajqa9musr": "Development Fund"
+    },
+    "status": "active"
+}

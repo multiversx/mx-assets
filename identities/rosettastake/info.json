@@ -1,9 +1,7 @@
 {
-  "description": "The Unknown Journey is ongoing",
+  "description": "We offer reliable staking services with maximum security, uptime, efficiency, and a fair fee structure.",
   "name": "RosettaStake",
-  "website": "RosettaStake.com",
+  "website": "https://rosettastake.com",
   "twitter": "RosettaStake",
-  "owners": [
-    "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrlllllsyprnh6"
-  ]
+  "owners": ["erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrlllllsyprnh6"]
 }

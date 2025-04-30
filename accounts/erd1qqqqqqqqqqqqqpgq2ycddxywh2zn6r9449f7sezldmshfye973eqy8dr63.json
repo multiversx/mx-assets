@@ -1,9 +1,16 @@
 {
-    "name": "JEXchange: Raffle Module",
-    "description": "",
-    "tags": [
-        "jexchange",
-        "raffle"
-    ],
-    "icon": "jexchange"
+  "name": "JEXchange: Raffle Module",
+  "description": "",
+  "social": {
+    "website": "https://jexchange.io/",
+    "blog": "https://medium.com/@JEXchangeDefi",
+    "twitter": "https://twitter.com/JEXchangeDefi",
+    "discord": "https://discord.gg/CuthPz9uxv",
+    "telegram": "https://t.me/JEXAnnouncements"
+  },
+  "tags": [
+    "jexchange",
+    "raffle"
+  ],
+  "icon": "jexchange"
 }

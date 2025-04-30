@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "$FROSTI-A penguin trying to stay cool\ud83d\ude0e\ud83d\udc27",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/FROSTI-31faaa",
+        "path": "0.usdPrice"
+    }
+}

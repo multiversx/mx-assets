@@ -1,6 +1,12 @@
 {
   "name": "Exchange: Crypto.com",
   "description": "",
+  "social": {
+    "website": "https://crypto.com",
+    "facebook": "https://www.facebook.com/CryptoComOfficial",
+    "telegram": "https://blog.crypto.com/official-crypto-com-telegram-communities",
+    "instagram": "https://www.instagram.com/cryptocomofficial"
+  },
   "tags": [
     "crypto.com",
     "exchange"

@@ -1,6 +1,16 @@
 {
   "name": "FITNESSVERSE: Claim Rewards",
   "description": "",
+  "social": {
+    "website": "https://sense4fit.io",
+    "twitter": "https://twitter.com/sense4fit",
+    "telegram": "https://t.me/Sense4FIT_Official",
+    "whitepaper": "https://sense4fit.gitbook.io/whitepaper",
+    "facebook": "https://www.facebook.com/Sense4Fit",
+    "youtube": "https://www.youtube.com/channel/UCmNPZOr2snlXIG7bGQSYZbg",
+    "instagram": "https://www.instagram.com/sense_4_fit",
+    "tiktok": "https://www.tiktok.com/@sense4fit"
+  },
   "tags": [
     "fitnessverse",
     "claim",

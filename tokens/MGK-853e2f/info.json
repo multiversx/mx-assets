@@ -1,0 +1,18 @@
+{
+    "website": "https://www.magestikthegame.com",
+    "description": "MGK is the utility token of the MagestiK game.",
+    "status": "active",
+    "extraTokens": [
+        "MGKWEGLD-be7f62",
+        "MGKUSDC-aa1924",
+        "MGKWEGLD-550a6f"
+    ],
+    "social": {
+        "blog": "https://discord.gg/kZvwC9KRMx",
+        "twitter": "https://twitter.com/MagestiKTheGame",
+        "whitepaper": "https://magestik.gitbook.io/magestik-whitepaper/"
+    },
+    "lockedAccounts": {
+        "erd15pamw7cs32mvkqlyq36tju2fp0eqjux8fyp5yltjygcw5jae0tts6h37np": "@magestikthegame"
+    }
+}

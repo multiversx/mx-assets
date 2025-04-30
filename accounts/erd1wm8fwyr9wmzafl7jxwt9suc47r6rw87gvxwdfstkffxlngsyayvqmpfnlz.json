@@ -1,0 +1,17 @@
+{
+  "name": "Divergent Club",
+  "description": "A subDAO of Project X",
+  "social": {
+    "website": "https://divergentclub.xyz",
+    "twitter": "https://twitter.com/DivergentClub_",
+    "discord": "https://discord.gg/ProjectX-DAO",
+    "github": "https://github.com/DivergentClub/",
+    "community": "https://egld.community/projects/divergent-club"
+  },
+  "tags": [
+    "commmunity",
+    "dao",
+    "projectx"
+  ],
+  "icon": "divergentclub"
+}

@@ -1,6 +1,13 @@
 {
   "name": "xSpotlight: NFT Marketplace",
   "description": "",
+  "social": {
+    "website": "https://xspotlight.com",
+    "twitter": "https://twitter.com/xSpotlightWeb3",
+    "facebook": "https://www.facebook.com/MultiversX",
+    "instagram": "https://www.instagram.com/multiversxofficial",
+    "telegram": "https://t.me/multiversx"
+  },
   "tags": [
     "xspotlight",
     "nft",

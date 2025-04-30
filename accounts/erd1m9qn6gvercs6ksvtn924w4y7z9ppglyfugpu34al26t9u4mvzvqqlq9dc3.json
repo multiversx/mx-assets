@@ -1,6 +1,9 @@
 {
   "name": "Exchange: Coinbase",
   "description": "",
+  "social": {
+    "website": "https://www.coinbase.com"
+  },
   "tags": [
     "coinbase",
     "exchange"

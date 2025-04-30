@@ -1,6 +1,11 @@
 {
   "name": "Exchange: Gate.io",
   "description": "",
+  "social": {
+    "website": "https://www.gate.io",
+    "facebook": "https://www.facebook.com/gateioglobal",
+    "instagram": "https://www.instagram.com/gateioglobal"
+  },
   "tags": [
     "gate.io",
     "exchange"

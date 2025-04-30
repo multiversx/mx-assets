@@ -1,9 +1,0 @@
-{
-    "name": "xLaunchpad: Liquid Stake Locking",
-    "description": "Contract to facilitate the calculation of user's liquid staking participation in xLaunchpad tiers.",
-    "tags": [
-        "liquid",
-        "staking",
-        "launchpad"
-    ]
-}
