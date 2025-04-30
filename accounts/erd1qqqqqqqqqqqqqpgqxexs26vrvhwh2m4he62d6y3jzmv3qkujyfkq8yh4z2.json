@@ -1,6 +1,9 @@
 {
-  "name": "xBridge: Ethereum Multisig",
+  "name": "xBridge v2 (deprecated): Ethereum Multisig",
   "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
   "tags": [
     "xbridge",
     "ethereum",

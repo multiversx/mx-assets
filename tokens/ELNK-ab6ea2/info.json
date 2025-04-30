@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Whether you're looking to maximize your crypto investments or dive into the world of staking, EarnLink is your key to unlocking premium rewards and a more profitable staking journey at Ceausescu Staking. Hold EarnLink, stake smarter, and watch your assets grow like never before.",
+    "social": {
+        "telegram": "https://t.me/CeausescuStaking",
+        "twitter": "https://x.com/CeausescuStake"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/ELNK-ab6ea2",
+        "path": "0.usdPrice"
+    }
+}

@@ -1,6 +1,13 @@
 {
   "name": "Proteo: Elite eGLD Farm",
   "description": "",
+  "social": {
+    "website": "https://proteodefi.com",
+    "twitter": "https://twitter.com/proteodefi",
+    "whitepaper": "https://docs.proteodefi.com/tokenomics/sproteo-token",
+    "telegram": "https://t.me/proteodefi",
+    "youtube": "https://www.youtube.com/@proteodefi"
+  },
   "tags": [
     "proteo",
     "farm"

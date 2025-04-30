@@ -1,0 +1,13 @@
+{
+    "social": {
+        "twitter": "https://twitter.com/OneDex_X"
+    },
+    "website": "https://onedex.app/",
+    "description": "OneDex Governance Token ",
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/RONE-bb2e69",
+        "path": "0.usdPrice"
+    }
+}

@@ -11,11 +11,12 @@
     "coingecko": "https://www.coingecko.com/en/coins/zoid-pay"
   },
   "lockedAccounts": {
-    "erd136kalm60ndyyps7paexvz38pf09f58f7nzqg8tw60p9pq7ygyspsx6ux89": "Owner Account"
+    "erd136kalm60ndyyps7paexvz38pf09f58f7nzqg8tw60p9pq7ygyspsx6ux89": "Company Treasury",
+    "erd1qqqqqqqqqqqqqpgqlk8qkw057h97vkexdzwxkvpasyyckq58gurq7qvhpn": "Team Tokens",
+    "erd1x7qhrt4gk9pwg689l66fl0cw3ln3v6x2dmsnvhljjwkt40qw0kdq23nr9r": "Bridge",
+    "erd1un4zagg2zh6rr6y0tvy8pzcpcqv59sns0yqd4enhhzc85hg9vhust5zfcf": "Staking Rewards",
+    "erd19p6uye2gtv9f9g8gspqldzw9kkp3qs37y670z40cwdhehtz4selqgwlawt": "Buyback"
   },
   "status": "active",
-  "extraTokens": [
-    "ZPAYWEGLD-34e5c1",
-    "SZPAY-9f1b39"
-  ]
+  "extraTokens": ["ZPAYWEGLD-34e5c1", "SZPAY-9f1b39"]
 }

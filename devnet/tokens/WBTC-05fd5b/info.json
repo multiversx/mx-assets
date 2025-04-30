@@ -1,0 +1,9 @@
+{
+  "website": "https://xexchange.com",
+  "description": "WBTC originating on Ethereum, bridged as an ESDT token on MultiversX. 1 WBTC = 1 WrappedBTC",
+  "ledgerSignature": "3044022052f1faa6b68b2e85a96346b51d738ae79159b3701fd53a7fb643aa715e7f5860022036dafa59691e4f48af2307d912fbbf3fa2feb15e01382bc78343c7121a367956",
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}

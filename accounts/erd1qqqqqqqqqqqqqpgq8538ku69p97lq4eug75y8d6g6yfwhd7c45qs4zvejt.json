@@ -1,0 +1,30 @@
+{
+  "name": "XOXNO: Accumulator",
+  "description": "The XOXNO Accumulator serves as the central hub for XOXNO liquid stakers' utility. This smart contract aggregates $XOXNO tokens and other assets, including eGLD, from various platform activities such as market fees, launchpad fees, lending/borrowing interest and liquidation fees, eGLD liquid staking, and NFT ticketing. At the end of each day, the contract converts all accumulated tokens to $XOXNO by purchasing them from the open market (xExchange). The acquired $XOXNO tokens are then distributed as rewards to the XOXNO: Real Yield Staking, allocated to the treasury, and partially burned. Additionally, it collects all creator royalties, which are distributed and auto-compounded daily.",
+  "social": {
+    "email": "contact@xoxno.com",
+    "website": "https://xoxno.com",
+    "discord": "https://discord.gg/xoxno",
+    "twitter": "https://x.com/XoxnoNetwork",
+    "telegram": "https://xoxno.t.me",
+    "instagram": "https://instagram.com/xoxnoNFTs",
+    "github": "https://github.com/XOXNO",
+    "whitepaper": "https://xoxno.com/whitepaper",
+    "linkedin": "https://linkedin.com/company/xoxno",
+    "youtube": "https://www.youtube.com/channel/UCeknNkwBJZhrHcPPEMHAYrg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xoxno/"
+  },
+  "tags": [
+    "XOXNO",
+    "Marketplace",
+    "Launchpad",
+    "Liquid Staking",
+    "Finance",
+    "DeFi",
+    "Ticketing",
+    "L2",
+    "Web2",
+    "Real Yield"
+  ],
+  "icon": "xoxno"
+}
