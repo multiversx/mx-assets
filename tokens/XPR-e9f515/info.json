@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "My main goal is to bring money from real businesses into the crypto space, not the other way around... REAL BUSINESS and REAL PROFIT which will be used to buy back this token...",
+    "social": {
+        "telegram": "",
+        "twitter": "https://x.com/Print__X"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/XPR-e9f515",
+        "path": "0.usdPrice"
+    }
+}
