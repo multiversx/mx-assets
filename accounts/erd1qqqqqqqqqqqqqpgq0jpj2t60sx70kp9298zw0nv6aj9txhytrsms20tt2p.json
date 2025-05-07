@@ -1,5 +1,5 @@
 {
-  "name": "Pulsar.Money - Smart Payments Hub [#breakMVX]",
+  "name": "Pulsar Money: Smart Payments Hub [#breakMVX]",
   "description": "The ultimate challenge to push MultiversX to its limits and beyond.",
   "social": {
     "website": "https://www.pulsar.money",
@@ -10,6 +10,15 @@
     "youtube": "https://www.youtube.com/channel/UCLeUlyFSUA1c7_DVQlgaxrQ"
   },
   "website": "https://www.pulsar.money/",
-  "tags": ["chain", "payments", "break", "smartpaymentshub", "pulsarmoney", "ecosystem", "social", "community"],
+  "tags": [
+    "chain",
+    "payments",
+    "break",
+    "smartpaymentshub",
+    "pulsarmoney",
+    "ecosystem",
+    "social",
+    "community"
+  ],
   "icon": "pulsarmoney"
 }
