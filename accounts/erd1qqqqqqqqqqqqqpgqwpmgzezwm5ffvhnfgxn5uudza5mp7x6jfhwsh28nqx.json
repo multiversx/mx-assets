@@ -1,6 +1,6 @@
 {
-  "name": "FUD OUT",
-  "description": "PvP battle, where FUD goes to die. You vote for the next fighters!",
+  "name": "SRBLABS: FUD OUT",
+  "description": "PvP battle, where FUD goes to die. You vote for the next fighters and/or tokens!",
   "social": {
       "website": "https://fudout.superrarebears.com",
       "twitter": "https://twitter.com/SuperRare_Bears",
@@ -12,7 +12,10 @@
       "fudout",
       "game",
       "1v1",
-      "pvp"
+      "pvp",
+      "vote",
+      "votefighter",
+      "votetoken"
   ],
   "icon": "fudout"
 }
