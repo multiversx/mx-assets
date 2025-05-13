@@ -1,0 +1,11 @@
+{
+  "website": "https://github.com/bbarr3/INDY",
+  "description": "A coin to represent the true fanhood of the Indiana Pacers. This token is for the fans who appreciate the sport because of their team, the atmosphere, and their Pacers. This token represents the frustrated fans that can no longer afford lower level seating because of corporate America backed. This will help increase youth sports participation for mental health awareness and involvement, increase diversity, and ultimately increase the competitive play for all professional athletes. Go Pacers!!",
+  "social": {
+    "twitter": "https://x.com/pacersdogeguy?s=21"
+  },
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}
