@@ -1,0 +1,10 @@
+{
+    "name": "KwakWar : RandGenerator",
+    "description": "Technical contract generating random numbers for the KwakWar ecosystem",
+    "website": "https://kwakwar.kwak.lol",
+    "social": {
+        "blog": "",
+        "twitter": "https://x.com/kwakdotlol"
+    },
+    "tags": []
+}
