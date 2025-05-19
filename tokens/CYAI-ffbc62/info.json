@@ -1,0 +1,12 @@
+{
+    "social": {
+        "blog": "https://cyberaria.com/blog",
+        "twitter": "https://twitter.com/cyberariacyai",
+        "whitepaper": "https://cyberaria.com/whitepaper.pdf",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/CyberarIA/",
+        "coingecko": "https://www.coingecko.com/en/coins/CyberarIA"
+    },
+    "website": "https://cyberaria.com",
+    "description": "CyberarIA: Ethical Cyber Defense Agent",
+    "status": "active"
+}
