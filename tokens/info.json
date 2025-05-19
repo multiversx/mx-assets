@@ -1,0 +1,13 @@
+{
+  "name": "CyberarIA",
+  "ticker": "CYAI",
+  "decimals": 18,
+  "identifier": "CYAI-ffbc62",
+  "description": "AI-powered cybersecurity token to access the CyberarIA defense platform.",
+  "website": "https://cyberaria.com",
+  "social": {
+    "twitter": "https://twitter.com/cyberariacyai",
+    "github": "https://github.com/cyberaria",
+    "whitepaper": "https://cyberaria.com/whitepaper.pdf"
+  }
+}
