@@ -8,5 +8,11 @@
     "erd1jkmk39ts4glsl5tj2ta4qcgt5c60yqv6stgfljmvnwsayhaxyypq3nwjnk": "CrossChain Marketing",
     "erd13qcj5eck4wrztdrt6cumgnsr4x930efha7v0r8lmx2aa3sqp6lwstwhmaz": "Team Tokens"
   },
-        "status":"active"
+        "status":"active",
+
+        "priceSource": {
+         "type": "customUrl",
+         "url": "https://api.onedex.app/prices/XTW-78700a",
+         "path": "0.usdPrice"
+     }
      }

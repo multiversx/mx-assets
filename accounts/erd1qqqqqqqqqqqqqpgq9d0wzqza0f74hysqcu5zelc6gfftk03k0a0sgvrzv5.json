@@ -1,5 +1,5 @@
 {
-  "name": "Demiourgos Vesting SC",
+  "name": "VestaX: Demiourgos Vesting SC",
   "description": "The DH™ Vesting SC is SC responsible for the management of Vested Ouroboros, Vested Auryn and Vested Elite-Auryn Tokens on MultiversX™.",
   "social": {
     "website": "https://vestax.finance",
@@ -8,5 +8,9 @@
     "telegram": "https://t.me/DemiourgosCommunity",
     "discord": "https://discord.gg/GKKAmPKKNe"
   },
-  "tags": ["vestax", "liquidstaking", "vegld"]
+  "tags": [
+    "vestax",
+    "liquidstaking",
+    "vegld"
+  ]
 }

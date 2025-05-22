@@ -1,11 +1,13 @@
 {
-   "website":"https://linktr.ee/plataLinks",
+   "website":"https://swap.onedex.app/swap?firstToken=EGLD&secondToken=RICO-1c78ef&state=Pro&type=simple",
    "description":"Rallying Intense Coin Operations on MultiversX. Powered by ＰＬΛＴΛ",
        "social": {
         "whitepaper": "https://drive.google.com/file/d/1Tj0MsKKVXnzrt4WvXSJ75N50CBCxfgeh/view?usp=drive_link",
-        "twitter": "https://twitter.com/plataNetwork"
+        "twitter": "https://x.com/plataNetwork"
     },
        "lockedAccounts": {
+        "erd1qqqqqqqqqqqqqpgq5re66vt0dlee8v83dtyh6k54qqpjs3ketxfq9tcd29": "Staking",
+        "erd1qqqqqqqqqqqqqpgq85tlmqudva0fyawkkuc6qga60kclzyzj60ws7kxxf5": "xDrops",  
         "erd1ryuzf08m4senh22y3rz7yl3shmeser4m5rplafg0l5ldmptd455qlll7vq": "Burn Wallet"
     },
    "status":"active"
