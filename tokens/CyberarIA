@@ -1,0 +1,5 @@
+logo.png: 200x200 pixels, under 100KB
+
+logo.svg: Square format, under 100KB
+
+info.json: Contains token metadata
