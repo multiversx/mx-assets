@@ -1,0 +1,11 @@
+{
+    "website": "https://raceledger.xyz",
+    "description": "Immortalise your races, powered by Strava and Gaupa Login.",
+    "ledgerSignature": "1234",
+    "social": {
+        "email": "mail@raceledger.xyz",
+        "twitter": "https://twitter.com/Raceledger",
+        "instagram": "https://www.instagram.com/raceledger",
+    },
+    "status": "active"
+}
