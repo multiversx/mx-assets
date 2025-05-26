@@ -1,0 +1,14 @@
+{
+  "name": "Philanthrify Factory",
+  "description": "A factory contract for deploying Philanthrify Charity DAOs to manage charitable projects like NewCharity. Properties: Upgradeable, Readable, Payable, Payable by Smart Contract.",
+  "social": {
+    "website": "https://philanthrify.co.uk",
+    "linkedin": "https://www.linkedin.com/company/philanthrify/posts/?feedView=all",
+    "twitter": "https://x.com/philanthrifyapp"
+  },
+  "tags": [
+    "factory",
+    "smartcontract"
+  ],
+  "icon": "factory-logo"
+}
