@@ -1,0 +1,11 @@
+{
+  "website": "https://andromediusII.ro",
+  "description": "L.Andromedius II",
+  "social": {
+    "x": "https://x.com/lucianmincu"
+  },
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}
