@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Your launchpad for tokens, liquidity, farming ➕ staking agency. All open. All automated. EVM with Axelar integration. 💫 $ELNK",
+    "social": {
+        "telegram": "https://t.me/EarnLinkDeFi",
+        "twitter": "https://x.com/EarnLinkDeFi"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/ELNK-ab6ea2",
+        "path": "0.usdPrice"
+    }
+}

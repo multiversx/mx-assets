@@ -1,6 +1,6 @@
 {
   "name": "Giants Village: The Farm",
-  "description": "",
+  "description": "Giants Village farm building manager",
   "social": {
     "website": "https://giantsvillage.com",
     "email": "contact@elrondgiants.com",
@@ -13,9 +13,6 @@
     "tiktok": "https://www.tiktok.com/@elrondgiants",
     "facebook": "https://www.facebook.com/elrondgiants"
   },
-  "tags": [
-    "giants",
-    "game",
-    "farm"
-  ]
+  "tags": ["giants", "game", "farm"],
+  "icon": "giants"
 }
