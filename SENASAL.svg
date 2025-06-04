@@ -1,0 +1,43 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+	<title>SENASAL</title>
+	<defs>
+		<radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(94.676,0,0,94.676,99.846,99.846)">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#fffef9"/>
+		</radialGradient>
+		<radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(86.061,0,0,86.061,100.359,99.077)">
+			<stop offset="0" stop-color="#ff713c"/>
+			<stop offset="1" stop-color="#ff3500"/>
+		</radialGradient>
+		<radialGradient id="g3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(87.028,0,0,87.028,100.769,99.897)">
+			<stop offset="0" stop-color="#68f942"/>
+			<stop offset="1" stop-color="#2cbd06"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: #111212 } 
+	</style>
+	<g id="PathID_1">
+		<path class="s0" d="m194.5 86.6v26.5q0 33.7-23.8 57.6-23.9 23.8-57.6 23.8h-26.5q-33.7 0-57.6-23.8-23.8-23.9-23.8-57.6v-26.5q0-33.7 23.8-57.6 23.9-23.8 57.6-23.8h26.5q33.7 0 57.6 23.8 23.8 23.9 23.8 57.6z"/>
+	</g>
+	<g id="PathID_2">
+	</g>
+	<g id="PathID_3">
+		<path class="s1" d="m142.5 45.1l9.9 3.5q11.1 4.9 19.3 13.1 25.6 26.2 8.4 74.6-5.8-5-14-9.3-16.7-8.6-30.5-4.7 26.4-18.1 26.6-42.3 0.5-22.8-19.7-34.9zm-77.2 30.8q-26.4 17.8-26.8 42.3-0.2 22.8 20 34.8l-9.9-3.4q-11.4-5-19.4-13.3-25.5-26-8.3-74.4l13.3 9q16.3 8.2 31.1 5z"/>
+	</g>
+	<g id="PathID_4">
+	</g>
+	<g id="PathID_5">
+		<path class="s2" d="m123.3 43.2q-25.8-0.2-44 17.2l12.4 20.4-78-5.4 34.9-64.2 10.3 16.3q39.9-22.4 81.2-0.2 40.2 21.7 46 64.6-24.7-48.3-62.8-48.7zm29.7 145.4l-10.3-16.3q-40 22.4-81.3 0.2-40.1-21.7-45.9-64.7 24.7 48.4 62.7 48.8 25.8 0.2 44.1-17.2l-12.5-20.4 78 5.4z"/>
+	</g>
+	<g id="PathID_6">
+	</g>
+	<g id="PathID_7">
+		<path class="s3" d="m111.6 91.3h-4.1q-0.3-1.9-1-2.9-0.6-0.7-2.5-1.6v10.6q8.4 2.2 8.4 8.6 0 4.8-4.7 7.5-1.6 0.8-3.7 1.2v5h-2.6v-4.7h-3v4.7h-2.7v-5.2q-3.8-0.6-5.9-2.6-2.9-2.7-2.9-6.7v-0.3h4.1q0 4.3 4.7 6.2v-11.9q-2.7-0.6-4.2-1.6-3.9-2.2-3.9-6.3 0-3.8 3.4-6.2 1.6-1.1 4.7-1.8v-4.2h2.7v3.8h3v-3.8h2.6v4.2q4.4 0.9 6.2 3.5 1.3 1.9 1.4 4.5zm-13.2-5.2v10.2l3 0.6v-10.8zm-5.5 2.1q-1.2 1.2-1.2 3 0 2.9 4.1 4.5v-9.1q-2 0.8-2.9 1.6zm5.5 11.7v11.9h3.1v-11.3zm10.1 6.3q0-3.6-4.5-5.2v10q4.5-1.8 4.5-4.8z"/>
+	</g>
+	<g id="PathID_8">
+	</g>
+</svg>
