@@ -1,0 +1,27 @@
+{
+  "name": "SENASAL",
+  "identifier": "NAL-19d7ed",
+  "description": "SENASAL is a sole proprietorship of CEO Snar Sal, designed to represent his official brand identity in the digital asset space.",
+  "decimals": 18,
+  "ticker": "SENASAL",
+  "owner": "senasal",
+  "isUpgradeable": true,
+  "isMintable": false,
+  "isBurnable": false,
+  "canPause": true,
+  "canFreeze": true,
+  "canWipe": true,
+  "canChangeOwner": true,
+  "canAddSpecialRoles": true,
+  "isPaused": false,
+  "supply": "84000000",
+  "circulatingSupply": "84000000",
+  "holders": 1,
+  "transactions": 1,
+  "social": {
+    "website": "https://senasal.com",
+    "twitter": "https://twitter.com/c_snarsal",
+    "facebook": "https://facebook.com/c_snarsal",
+    "instagram": "https://instagram.com/c_snarsal"
+  }
+}
