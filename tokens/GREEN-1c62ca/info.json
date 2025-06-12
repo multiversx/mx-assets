@@ -4,5 +4,10 @@
     },
     "website": "https://green.gd",
     "description": "Best Degen Weed Shop in Thailand 🇹🇭🙏",
-    "status": "active"
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/GREEN-1c62ca",
+        "path": "0.usdPrice"
+    }
 }
