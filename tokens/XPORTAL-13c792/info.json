@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "xPortal is a cryptocurrency wallet and global payment app developed by MultiversX",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/XPORTAL-13c792",
+        "path": "0.usdPrice"
+    }
+}
