@@ -1,5 +1,5 @@
 {
-  "website": "https://swap.onedex.app/swap?firstToken=EGLD&secondToken=GREEN-1c62ca",
-  "description": "Liquidity Provider (LP) Token obtained by adding liquidity in the PLATA/GREEN pool on OneDex.",
+  "website": "https://swap.onedex.app/pool",
+  "description": "Liquidity Provider (LP) Token obtained by adding liquidity in the GREEN/PLATA pool on OneDex.",
   "status": "active"
 }
