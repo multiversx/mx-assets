@@ -1,5 +1,8 @@
 {
     "website": "https://lomaha.io",
-    "description": "LOMA Token was created to represent the building of a financial civilization in the world of cryptocurrency and blockchain",
-    "status": "active"
+    "description": "Changing the money game from a zero-sum game to a positive-sum game",
+    "status": "active",
+    "social": {
+        "twitter": "https://x.com/lomaha2024"
+    }
 }
