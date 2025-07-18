@@ -1,0 +1,14 @@
+{
+    "website": "https://profetas666.com/",
+    "description": "Token de https://t.me/profetas666_ES donde aprender\u00e1s trade gratis, tendr\u00e1s regalos, hay juegos y profec\u00edas de precios. Divi\u00e9rtete",
+    "social": {
+        "telegram": "https://t.me/profetas666_ES",
+        "twitter": "https://x.com/Profetas666"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/LOLO-084843",
+        "path": "0.usdPrice"
+    }
+}

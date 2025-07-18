@@ -1,15 +1,16 @@
 {
-
-    "name": "EMRS/EMR Liquidity SC",
-        "social": {
-          "email": "support@emorya.com",
-          "website": "https://emorya.com",
-          "twitter": "https://twitter.com/EmoryaFinance",
-          "telegram": "https://t.me/EmoryaFinanceRO"
-        },
-        "tags": [
-          "emrs",
-          "smartContract"
-        ],
-        "icon": "emr"
-      }
+  "name": "Emorya: EMRS/EMR Liquidity",
+  "social": {
+    "email": "support@emorya.com",
+    "website": "https://emorya.com",
+    "twitter": "https://twitter.com/EmoryaFinance",
+    "telegram": "https://t.me/EmoryaFinanceRO"
+  },
+  "tags": [
+    "emorya",
+    "emrs",
+    "emr",
+    "liquidity"
+  ],
+  "icon": "emr"
+}
