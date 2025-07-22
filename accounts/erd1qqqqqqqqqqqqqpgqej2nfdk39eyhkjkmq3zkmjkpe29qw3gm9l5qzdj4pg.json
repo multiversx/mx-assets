@@ -1,0 +1,12 @@
+{
+    "name": "test",
+    "description": "dsadsa",
+    "website": "https://test.com",
+    "social": {
+        "blog": "",
+        "twitter": ""
+    },
+    "tags": [
+        "asda"
+    ]
+}
