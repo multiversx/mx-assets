@@ -1,0 +1,9 @@
+{
+    "website": "https://boberonmvx.com/",
+    "description": "test coin devnet",
+    "status": "active",
+    "lockedAccounts": {
+        "erd1deaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaqtv0gag": "Burn",
+        "erd1dkh6hh6h6kc3k8ygsk7yypnmwzu7cpthvpsqa869ka2shsmayppsa0pwre": "Stake"
+    }
+}

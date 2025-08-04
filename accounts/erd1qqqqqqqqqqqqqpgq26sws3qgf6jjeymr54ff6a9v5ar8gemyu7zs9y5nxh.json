@@ -1,0 +1,18 @@
+{
+    "name": "Valoro: MemeX Fund",
+    "description": "Valoro MemeX is a lighthearted fund dedicated to supporting and growing the meme culture.",
+    "social": {
+        "website": "https://valoro.fund/investment-funds/memex",
+        "twitter": "https://twitter.com/ValoroFund",
+        "telegram": "https://t.me/valorofund",
+        "whitepaper": "https://docs.valoro.fund/"
+    },
+    "tags": [
+        "valoro",
+        "index-fund",
+        "investment",
+        "meme",
+        "memex"
+    ],
+    "icon": "valoro"
+}
