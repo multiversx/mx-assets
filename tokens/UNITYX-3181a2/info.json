@@ -1,0 +1,20 @@
+{
+    "website": "https://www.eventivivi.it/nft",
+    "description": "The community-owned governance token of the E.V Ecosystem.",
+    "status": "active",
+    "lockedAccounts": {
+        "erd1qqqqqqqqqqqqqpgqwcywk6z2mx6apxcyy6ngkxene9844lahdn3qczrxkf": "Vesting Contract"
+    },
+    "extraTokens": [
+        "UNITYWEGLD-c20c3a",
+        "LKUNITYX-f0ace3"
+    ],
+    "ledgerSignature": "1234",
+    "social": {
+        "email": "evnftreal@gmail.com",
+        "twitter": "https://twitter.com/evcyborgs",
+        "instagram": "https://www.instagram.com/evnftreal/",
+        "discord": "https://discord.gg/63w5zDujzA",
+        "dApp": "https://dapp.eventivivi.it/"
+    }
+}
