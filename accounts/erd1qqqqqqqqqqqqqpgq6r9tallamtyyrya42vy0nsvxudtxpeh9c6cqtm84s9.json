@@ -1,0 +1,13 @@
+{
+  "name": "xBridge v2 (deprecated): Polygon Multisig",
+  "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
+  "tags": [
+    "xbridge",
+    "polygon",
+    "multisig"
+  ],
+  "icon": "multiversx"
+}

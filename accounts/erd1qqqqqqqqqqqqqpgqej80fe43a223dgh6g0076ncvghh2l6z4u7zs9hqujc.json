@@ -1,0 +1,17 @@
+{
+  "name": "Hoot Network",
+  "description": "",
+  "social": {
+    "website": "https://www.quantumx.network",
+    "twitter": "https://twitter.com/QuantumXnetwork",
+    "telegram": "https://t.me/quantumxnetwork",
+    "blog": "http://docs.quantumx.network"
+  },
+  "tags": [
+    "hoot",
+    "hootnetwork",
+    "quantumx",
+    "quantumxnetwork"
+  ],
+  "icon": "hootnetwork"
+}

@@ -1,13 +1,13 @@
 {
     "website": "https://cyberpunkcity.com",
     "description": "CYBER token is the default currency used within Cyberpunk City Metaverse.",
-    "ledgerSignature": "",
+    "ledgerSignature": "304502210094c9f17267c893ca9d8b6f03dbfb3ae2b61418aa24d32e74a6d6daf174ec937002200a24ccafbadcbb2cc61bcf798105e1c02ff322db79423401442e1e39496d7375",
     "social": {
         "email": "info@cyberpunkcity.com",
         "blog": "https://cyberpunkcity.com/news",
         "twitter": "https://twitter.com/cyberpunkcity",
         "discord": "https://discord.gg/cyberpunkcity",
-        "telegram": "https://t.me/CyberpunkCityCom",
+        "telegram": "https://t.me/cyberpunkcity",
         "youtube": "https://www.youtube.com/CyberpunkCity",
         "whitepaper": "https://cyberpunkcity.com/whitepaper"
     },

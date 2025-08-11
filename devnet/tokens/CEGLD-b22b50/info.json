@@ -1,0 +1,17 @@
+{
+    "website": "https://pub-devnet.cryptgain.com",
+    "description": "CryptERD is the Liquid Version of Staked EGLD on the CryptGain Platform",
+    "status": "active",
+    "social": {
+        "blog": "https://stakeafrik.com/blog",
+        "twitter": "https://x.com/CryptGainSA"
+    },
+    "extraTokens": [
+        "XCR-010281",
+        "LKXGT-bad6ad",
+        "CEGLDXCR-701cd5",
+        "CEGLDONE-e819dc",
+        "CEGLDXCR-c2bb86",
+        "CEGLDWEGLD-c47244"
+    ]
+}

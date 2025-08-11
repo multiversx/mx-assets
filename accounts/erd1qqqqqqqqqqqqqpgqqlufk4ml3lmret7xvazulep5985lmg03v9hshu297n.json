@@ -1,0 +1,12 @@
+{
+  "name": "Demiourgos Transfer SC",
+  "description": "The DH™ Transfer SC is the SC responsible for the transfer of transfer restricted Tokens, like Auryn, Elite-Auryn and Blessed Vesta. Future transfer restricted Tokens will also be handled by this SC.",
+  "social": {
+    "website": "https://vestax.finance",
+    "email": "pa.arion@gmail.com",
+    "twitter": "https://www.twitter.com/DemiourgosH",
+    "telegram": "https://t.me/DemiourgosCommunity",
+    "discord": "https://discord.gg/GKKAmPKKNe"
+  },
+  "tags": ["demiourgos", "vestax", "transfer"]
+}

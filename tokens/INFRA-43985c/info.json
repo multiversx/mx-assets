@@ -1,0 +1,14 @@
+{
+    "website": "https://bwarelabs.com",
+    "description": "The INFRA token is serving as the driving force behind the entire Bware Labs ecosystem",
+    "ledgerSignature": "30440220017c61932243fd95a8725db11dc5dc1e579c0cd85693b193dd3321ff88094cb802205e658c82f1688ea064c0cf49ef937b925cc9221a5cf8149a8fad83acffe712b4",
+    "social": {
+        "email": "info@bwarelabs.com",
+        "blog": "https://medium.com/bware-labs",
+        "discord": "https://discord.gg/bwarelabs",
+        "twitter": "https://twitter.com/bwarelabs",
+        "whitepaper": "https://medium.com/bware-labs/bware-labs-litepaper-a921a8decab5",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/bware-labs/"
+    },
+    "status": "active"
+}

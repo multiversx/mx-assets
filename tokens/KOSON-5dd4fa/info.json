@@ -1,11 +1,41 @@
 {
-    "website": "https://ageofzalmoxis.com",
-    "description": "KOSON is the ESDT token for Age of Zalmoxis - AAA MMORPG with NFT integration in a fantasy version of the Dacian Empire grounded in history where threats from other realms converge.",
-    "social": {
-        "email": "info@wenmoonstudios.com",
-        "blog": "https://blog.ageofzalmoxis.com",
-        "twitter": "https://twitter.com/ageofzalmoxis",
-        "whitepaper": "https://whitepaper.ageofzalmoxis.com"
-    },
-    "status": "active"
-}
+     "website": "https://ageofzalmoxis.com",
+     "description": "KOSON is the ESDT token for Age of Zalmoxis - AAA Battle Royale MMORPG with NFT integration in a fantasy version of the Dacian Kingdom grounded in history where threats from other realms converge.",
+     "status": "active",
+     "social": {
+         "email": "Demiourgos.Holdings@protonmail.com",
+         "blog": "https://blog.ageofzalmoxis.com",
+         "x": "https://x.com/ageofzalmoxis",
+         "whitepaper": "https://whitepaper.ageofzalmoxis.com"
+     },
+     "lockedAccounts": {
+         "erd1l2at0l68kah7hp8lwfkldrcqdk33n6a8zj7daaueea9cqp3n4kusm5389s": "Demiourgos Team",
+         "erd1ysdu54475hpd2c4fet29yzugecjdfl6ckhjdegxpmq0p3pg955vqzpvlej": "Play to Earn Rewards",
+         "erd13eppuy5el3jch9kv5ta3ustuvpmdvlcnck30nxzyduejwtknh8pqttw98z": "Staking Rewards",
+         "erd1xdk897zfqjce730klxwsvrrd873a6k46gumczvwj5cuny4df42xql8d3ew": "Marketing",
+         "erd1vqry4sj27ukaplwpdzqrk4u607auccqq5pggznzw4rj7cqqdy07slf42m9": "Ecosystem",
+         "erd1f738p5fnmgnn6p05f5vx0hwh7us3n4gs7dlh5nn3n3jk9hx56jfq9vm0mx": "Seed & Private",
+         "erd1qqqqqqqqqqqqqpgqyg86jc0u9tuxyn49fzcyygjtpcqjmzajyl5sep0a4g": "Land Staking SC",
+         "erd1qqqqqqqqqqqqqpgqe5nrv2wpcq8jrc307klfhpg7xxc2xszqlwfqymjaxd": "Seed & Private SC",
+         "erd1qqqqqqqqqqqqqpgqz5jh90tx3d45rjxd8yqkmgt69dqp5ckeyl5s34wdmf": "Soul NFT SC",
+         "erd1qqqqqqqqqqqqqpgqhp5ex0at4e8fy2gen0vl2a8k6ln7f325yl5sk3yzk8": "Basileus Koson Pool SC",
+         "erd1qqqqqqqqqqqqqpgqrg2yady60jezk3zpks0hr4uzq9cslt4jyl5s2rdn3h": "Plebea Koson Pool SC",
+         "erd1qqqqqqqqqqqqqpgqvlnjqtqnxpyt87qgczgj5tc08n3007aqyl5sp726e9": "Tarabostes Koson Pool SC",
+         "erd1qqqqqqqqqqqqqpgqt2czgzjm4j7enrer9uqxyd0tdvkkqaw2yl5sdpmuk9": "Pileati Koson Pool SC",
+         "erd1qqqqqqqqqqqqqpgqk05lklxqd679zf30qfc90wl3ahcf4s0myl5slvw9xz": "Strategos Koson Pool SC",
+         "erd1qqqqqqqqqqqqqpgqgts4dfjyh28p07zjye326kwdqq58wsasyl5s2duk0j": "Comati Koson Pool SC",
+         "erd1qqqqqqqqqqqqqpgqcuws9ujvmp984x53y3f4dg7h66axualuyl5sxdhdxw": "Summoning SC",
+         "erd1qqqqqqqqqqqqqpgq68rc5hdt9ssnzvufe056sc5nxelqygjtyl5s066emh": "Land Chest Sale SC"
+     },
+      "extraTokens": [
+        "KOSONUSDC-d8ab6b",
+        "VVEGDKOSON-cebb95",
+        "SKOSON-1dd90e",
+        "SKOSON-491e23",
+        "SKOSON-75b733",
+        "SKOSON-eaa2d2",
+        "SKOSON-10c2de",
+        "SKOSON-fe3fca"
+    ],
+      "status": "active"
+ }
