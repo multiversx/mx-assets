@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="200px" height="200px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 200 200"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID1" horiz-adv-x="671" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="600">
+	<font-face 
+		font-family="Segoe UI Semibold">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="X" horiz-adv-x="619"><path d="M609.848 0l-139.201 0 -143.459 256.84c-4.16742,7.83656 -9.01431,18.844 -14.1783,33.1582l-1.99311 0c-2.85378,-7.15709 -7.83656,-18.1645 -14.6766,-33.1582l-147.853 -256.84 -140.152 0 229.48 352.011 -210.998 348.161 142.191 0 126.336 -236.32c8.15365,-15.5372 15.4919,-31.1651 21.9696,-46.8382l1.54013 0c9.46729,20.4747 17.6662,36.8273 24.461,48.8313l131.364 234.327 130.821 0 -215.845 -347.164 220.194 -353.008z"/></glyph>
+  </font>
+  <font id="FontID0" horiz-adv-x="645" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Segoe UI">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="t" horiz-adv-x="338"><path d="M312.992 4.83207c-18.8331,-10.33 -43.8301,-15.5036 -74.6666,-15.5036 -87.6603,0 -131.32,48.833 -131.32,146.499l0 295.832 -86.0041 0 0 68.332 86.0041 0 0 122.014 79.9939 25.9873 0 -148.001 125.992 0 0 -68.332 -125.992 0 0 -281.831c0,-33.5001 5.66872,-57.336 17.1598,-71.6615 11.3374,-14.3255 30.1706,-21.4967 56.6701,-21.4967 20.1649,0 37.4955,5.49798 52.1625,16.6647l0 -68.5027z"/></glyph>
+   <glyph unicode="n" horiz-adv-x="566"><path d="M496.167 0l-80.1646 0 0 285.161c0,106.169 -38.6737,159.168 -116.175,159.168 -39.9884,0 -73.1641,-14.9914 -99.3221,-45.162 -26.3459,-30.1706 -39.3396,-68.1613 -39.3396,-114.006l0 -285.161 -80.1646 0 0 499.991 80.1646 0 0 -82.999 1.99771 0c37.6663,63.1755 92.3387,94.6779 164,94.6779 54.6724,0 96.5049,-17.6721 125.497,-52.9991 29.0095,-35.1734 43.5057,-86.3456 43.5057,-153.004l0 -305.667z"/></glyph>
+   <glyph unicode="r" horiz-adv-x="347"><path d="M341.831 419.007c-14.0011,10.6545 -34.166,15.9988 -60.4948,15.9988 -34.3367,0 -62.834,-15.9988 -85.8333,-48.3378 -22.8286,-32.1683 -34.3367,-76.1692 -34.3367,-131.832l0 -254.836 -80.1646 0 0 499.991 80.1646 0 0 -102.993 1.99771 0c11.3374,35.1734 28.668,62.5096 52.1625,82.3331 23.5115,19.6698 49.6696,29.5047 78.6791,29.5047 20.8308,0 36.6589,-2.3392 47.8256,-6.82978l0 -82.999z"/></glyph>
+   <glyph unicode="P" horiz-adv-x="560"><path d="M173.835 264.671l0 -264.671 -82.0086 0 0 700.172 192.344 0c74.8374,0 132.822,-18.1672 174.16,-54.6724 41.1665,-36.5052 61.673,-87.831 61.673,-154.336 0,-66.3343 -22.8286,-120.665 -68.6735,-162.993 -45.6571,-42.3447 -107.501,-63.4999 -185.155,-63.4999l-92.3387 0zm0 361.33l0 -287.175 86.0041 0c56.4994,0 99.8344,13.0107 129.493,38.8444 29.8291,25.8337 44.6668,62.4925 44.6668,109.669 0,92.4924 -54.6724,138.662 -164,138.662l-96.1634 0z"/></glyph>
+   <glyph unicode="i" horiz-adv-x="242"><path d="M121.997 627.008c-14.1718,0 -26.4996,4.83207 -36.5052,14.6499 -10.1593,9.68122 -15.1621,22.009 -15.1621,37.0004 0,15.0085 5.00282,27.507 15.1621,37.3418 10.0056,10.0056 22.3334,14.9914 36.5052,14.9914 14.667,0 27.1655,-4.98574 37.4955,-14.9914 10.1764,-9.83489 15.3329,-22.3334 15.3329,-37.3418 0,-14.3255 -5.15649,-26.4996 -15.3329,-36.4881 -10.33,-10.1764 -22.8286,-15.1621 -37.4955,-15.1621zm39.1688 -627.008l-80.1646 0 0 499.991 80.1646 0 0 -499.991z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Segoe UI Semibold";src:url("#FontID1") format(svg)}
+    @font-face { font-family:"Segoe UI";src:url("#FontID0") format(svg)}
+    .str0 {stroke:#2B2A29;stroke-width:0.900007}
+    .fil0 {fill:none}
+    .fil1 {fill:#2B2A29}
+    .fil2 {fill:#22ADCF}
+    .fnt1 {font-weight:600;font-size:26.0742px;font-family:'Segoe UI Semibold'}
+    .fnt0 {font-weight:normal;font-size:69.1742px;font-family:'Segoe UI'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="200" height="200"/>
+  <g id="_2693871825632">
+   <text x="14" y="131"  class="fil1 fnt0">Print</text>
+   <g transform="matrix(-7.95475E-014 1 -0.999999 -7.95475E-014 255.73 -33.5225)">
+    <text x="100" y="100"  class="fil2 fnt1">X</text>
+   </g>
+   <circle class="fil0 str0" cx="165" cy="75" r="15"/>
+  </g>
+ </g>
+</svg>
