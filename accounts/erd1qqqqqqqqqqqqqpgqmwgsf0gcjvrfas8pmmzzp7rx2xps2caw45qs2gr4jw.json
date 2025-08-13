@@ -1,6 +1,6 @@
 {
-  "name": "XOXNO: xLend - Controller",
-  "description": "xLend - Controller is responsible for all entry points related to the Lending and Borrowing protocol, including user interactions and liquidity layer management.",
+  "name": "XOXNO: xLend - Liquidity Layer Template",
+  "description": "xLend - Liquidity Layer Template contract source code is the one used when new liquidity layers are created or upgraded!",
   "social": {
     "email": "contact@xoxno.com",
     "website": "https://xoxno.com",
