@@ -1,6 +1,6 @@
 {
   "name": "Giants: NFT Staking",
-  "description": "",
+  "description": "Giants and Female Giants NFT staking",
   "social": {
     "website": "https://giantsvillage.com",
     "email": "contact@elrondgiants.com",
@@ -13,9 +13,6 @@
     "tiktok": "https://www.tiktok.com/@elrondgiants",
     "facebook": "https://www.facebook.com/elrondgiants"
   },
-  "tags": [
-    "giants",
-    "nft",
-    "staking"
-  ]
+  "tags": ["giants", "nft", "staking"],
+  "icon": "giants"
 }

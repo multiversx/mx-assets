@@ -1,8 +1,15 @@
 {
-    "social": {
-        "twitter": "https://twitter.com/HighSpeXHF"
-    },
-    "website": "https://www.frameit.gg/marketplace/HSXGEN-858f65/mint?sp=true",
+    "website": "https://x.com/ROARHighSpeX",
     "description": "DAO COMMUNITY driven token Fair launch staking rewards and community utility driven token Real Organization Automatic Rewards",
-    "status": "active"
+    "status": "active",
+    "lockedAccounts": {
+        "erd1qqqqqqqqqqqqqpgqrq6gv0ljf4y9md42pe4m6mh96hcpqnpuusls97tf33": "HSXGEN SFT mining",
+        "erd1qqqqqqqqqqqqqpgq5774jcntdqkzv62tlvvhfn2y7eevpty6mvlszk3dla": "OneDex Farming pool",
+        "erd1qqqqqqqqqqqqqpgq57eam5ws2gyfuep6d4jrkc40qak4f36c7yqseestm5": "LiquidStaking Contract",
+        "erd1qqqqqqqqqqqqqpgqfnrln7ygyxdj96749e586lqwl8wr2fxskp2skn495u": "Native xExchange Staking Contract",
+        "erd1deaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaqtv0gag": "DEAD WALLET (BURNED ROAR)"
+    },
+    "social": {
+        "twitter": "https://twitter.com/ROARHighSpeX"
+    }
 }

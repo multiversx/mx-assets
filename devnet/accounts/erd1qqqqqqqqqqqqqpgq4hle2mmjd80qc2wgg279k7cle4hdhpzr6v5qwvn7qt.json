@@ -1,0 +1,14 @@
+{
+  "name": "Project Contract",
+  "description": "A project contract deployed by the Charity Contract for the NewCharity project, minting NFTs to track donations.",
+  "social": {
+    "website": "https://philanthrify.co.uk",
+    "linkedin": "https://www.linkedin.com/company/philanthrify/posts/?feedView=all",
+    "twitter": "https://x.com/philanthrifyapp"
+  },
+  "tags": [
+    "project",
+    "smartcontract"
+  ],
+  "icon": "philanthrify-logo"
+}
