@@ -1,12 +1,8 @@
 {
-  "website": "https://the-butler-collection.com",
-  "description": "BTLR Token – parte din ecosistemul The Butler Hospitality Collection, folosit pentru acces la conținut și beneficii în cadrul comunității.",
-  "ledgerSignature": "",
-  "social": {
-    "facebook": "https://www.facebook.com/profile.php?id=61578866768015",
-    "linkedin": "https://www.linkedin.com/company/the-butler-hospitality-collection/posts/?feedView=all",
-    "instagram": "https://www.instagram.com/the_butler_collection/",
-    "tiktok": "https://www.tiktok.com/@thebutlercollectiongroup"
-  },
-  "status": "active"
+    "website": "https://the-butler-collection.com",
+    "description": "The Butler oferă educație și resurse digitale pentru profesioniștii din HoReCa, sprijinind dezvoltarea și colaborarea în comunitate.",
+    "lockedAccounts": {
+        "erd1njusl6q8r9w5q8779fqcw0up4dpn3yx8g03xezkc938a6ja32yvqp4eu9l": "Paun Viorel"
+    },
+    "status": "active"
 }
