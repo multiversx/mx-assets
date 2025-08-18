@@ -1,11 +1,12 @@
 {
-  "website": "https://thebutlercollection.com",
-  "description": "BTLR Token - parte din ecosistemul The Butler Hospitality Collection, folosit pentru acces la conținut și beneficii în cadrul comunității.",
+  "website": "https://the-butler-collection.com",
+  "description": "BTLR Token – parte din ecosistemul The Butler Hospitality Collection, folosit pentru acces la conținut și beneficii în cadrul comunității.",
   "ledgerSignature": "",
   "social": {
-    "twitter": "https://twitter.com/TheButlerApp",
-    "facebook": "https://facebook.com/TheButlerApp",
-    "instagram": "https://instagram.com/TheButlerApp"
+    "facebook": "https://www.facebook.com/profile.php?id=61578866768015",
+    "linkedin": "https://www.linkedin.com/company/the-butler-hospitality-collection/posts/?feedView=all",
+    "instagram": "https://www.instagram.com/the_butler_collection/",
+    "tiktok": "https://www.tiktok.com/@thebutlercollectiongroup"
   },
   "status": "active"
 }
