@@ -3,12 +3,12 @@
   "description": "Official wallet for OFERO.RO S.R.L., integrated within the Ofero Network.",
   "social": {
     "website": "https://www.ofero.ro",
-    "email": "support@oferoro",
+    "email": "support@ofero.ro"
   },
   "tags": [
     "ofero",
     "ofero network",
-    "ofero.ro",
+    "ofero.ro"
   ],
   "icon": "oferonetwork"
 }
