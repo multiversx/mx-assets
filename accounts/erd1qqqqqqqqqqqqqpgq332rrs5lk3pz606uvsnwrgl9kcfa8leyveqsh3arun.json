@@ -1,0 +1,12 @@
+{
+  "name": "BOBER Piggy",
+  "description": "This wallet fuels the future of BOBER. Contribute to fund exciting initiatives like CEX/DEX listings, impactful marketing campaigns, and further development on MultiversX, driving growth and expanding our reach.",
+  "social": {
+    "website": "https://boberonmvx.com",
+    "twitter": "https://x.com/BoberCTO",
+    "telegram": "https://t.me/boberonmvx",
+    "blog": "https://linktr.ee/BOBERMVX"
+  },
+  "tags": ["bober", "community", "fundraise", "meme", "moon"],
+  "icon": "bober-piggy"
+}
