@@ -1,9 +1,11 @@
 {
-  "website": "https://snoppits.gitbook.io",
+  "website": "https://www.snoppits.com",
   "description": "SNP is the utility token for the Snoppits ecosystem.",
   "social": {
     "telegram": "https://t.me/snoppits_community",
-    "github": "https://github.com/snoppits"
+    "github": "https://github.com/snoppits",
+    "whitepaper": "https://snoppits.gitbook.io",
+    "dApp": "https://app.snoppits.com"
   },
   "status": "active"
 }
