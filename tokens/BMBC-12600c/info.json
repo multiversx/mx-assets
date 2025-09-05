@@ -1,1 +1,8 @@
-
+{
+    "social": {
+        "whitepaper": "https://bmbcoin.vercel.app"
+    },
+    "website": "https://bmbcoin.vercel.app",
+    "description": "BMBC este o monedă digitală construită pe blockchain-ul MultiversX, creată pentru a oferi tranzacții rapide, sigure și cu taxe reduse. Proiectul urmărește să devină un instrument util în economie digitală și comunitatea crypto.",
+    "status": "active"
+}
