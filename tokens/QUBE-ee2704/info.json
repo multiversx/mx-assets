@@ -1,5 +1,8 @@
 {
-    "website": "https://t.me/QUBEhouse",
-    "description": "Just an experiment. What would you do if you suddenly received a cube? An ultra rare collection for select collectors.",
-    "status": "active"
+    "website": "https://oni0nx.com",
+    "description": "QUBEs are the visual representation of the MultiversX blockchain. From blocks to QUBEs, the step is purely creative.",
+    "status": "active",
+    "social": {
+        "twitter": "https://x.com/onionxlabs"
+    }
 }
