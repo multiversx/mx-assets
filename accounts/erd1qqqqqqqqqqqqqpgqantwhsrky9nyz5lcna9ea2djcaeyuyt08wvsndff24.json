@@ -1,6 +1,6 @@
 {
-  "name": "vLeap: Warp Registry",
-  "description": "Registers and manages Warps on Multiversᕽ.",
+  "name": "vLeap: Relay",
+  "description": "Manages the vLeap Relay network which provides gasless transactions for any project on MultiversX.",
   "social": {
     "website": "https://vleap.ai",
     "email": "hello@vleap.ai",
@@ -8,6 +8,6 @@
     "telegram": "https://telegram.vleap.ai",
     "github": "https://github.com/vLeapGroup"
   },
-  "tags": ["vleap", "warps", "actions"],
+  "tags": ["vleap", "relay"],
   "icon": "vleap"
 }
