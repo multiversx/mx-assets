@@ -1,10 +1,10 @@
 {
   "name": "OOX: Marketplace",
-  "description": "A marketplace created by OnionX for artists!",
+  "description": "A marketplace created by OnionX Labs for artists!",
   "social": {
-    "website": "https://ooxart.art",
-    "twitter": "https://x.com/Oni0nX",
-    "telegram": "https://t.me/OnionxClub"
+    "website": "https://oox.art",
+    "twitter": "https://x.com/OnionXLabs",
+    "telegram": "https://t.me/OnionXLabs"
   },
   "tags": [
     "oox",
@@ -12,4 +12,5 @@
     "marketplace"
   ],
   "icon": "oox"
+
 }
