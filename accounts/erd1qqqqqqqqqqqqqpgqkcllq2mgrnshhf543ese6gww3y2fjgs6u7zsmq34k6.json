@@ -1,0 +1,18 @@
+{
+    "name": "Valoro: Fees Distributor",
+    "description": "Valoro's SC for collecting fees from Funds orders and distributing them to the shareholders.",
+    "social": {
+      "website": "https://valoro.fund/",
+      "twitter": "https://twitter.com/ValoroFund",
+      "telegram": "https://t.me/valorofund",
+      "whitepaper": "https://docs.valoro.fund/"
+    },
+    "tags": [
+      "valoro",
+      "index-funds",
+      "investments",
+      "defi",
+      "fees-distributor"
+    ],
+    "icon": "valoro"
+  }

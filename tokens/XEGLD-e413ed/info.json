@@ -1,0 +1,20 @@
+{
+  "website": "https://xoxno.com",
+  "description": "xEGLD is a liquid staking derivative (LSD) token of EGLD, seamlessly integrated throughout the XOXNO protocol. By depositing EGLD into XOXNO, you receive xEGLD in return—enabling you to earn staking rewards while retaining the freedom to engage with DeFi opportunities. Pegged to EGLD, xEGLD’s value grows in line with staking accrual, offering a flexible and powerful way to maximize yield without sacrificing liquidity across the XOXNO ecosystem.",
+  "social": {
+    "email": "contact@xoxno.com",
+    "telegram": "https://xoxno.t.me",
+    "github": "https://github.com/xoxno",
+    "discord": "https://discord.gg/xoxno",
+    "twitter": "https://x.com/XoxnoNetwork",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xoxno/",
+    "coingecko": "https://www.coingecko.com/en/coins/xoxno",
+    "whitepaper": "https://xoxno.com/whitepaper"
+  },
+  "priceSource": {
+    "type": "customUrl",
+    "url": "https://api.xoxno.com/tokens?identifier=XEGLD-e413ed"
+  },
+  "ledgerSignature": "304402206edb6fd45ec988aa0f737178381177b7ef74f892a01eaab371f2c6ce5225f61502207efa481cd54dcc7ceb1a640a381341b2e88066ba1f4a3c4263fd3d6c17b421d9",
+  "status": "active"
+}

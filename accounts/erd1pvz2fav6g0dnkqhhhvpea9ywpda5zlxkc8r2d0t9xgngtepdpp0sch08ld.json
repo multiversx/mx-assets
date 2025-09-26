@@ -1,0 +1,16 @@
+{
+  "name": "Quasar LCV: Liquid Control Vault",
+  "description": "This specialized address facilitates the availability of funds required for trading and contributes to the enhancement of $QUASAR token liquidity.",
+  "social": {
+    "website": "https://quasar-mvx.com/",
+    "whitepaper": "https://docs.quasar-mvx.com/",
+    "twitter": "https://twitter.com/quasar_mvx",
+    "telegram": "https://t.me/+vufLg36aeSE0Mzg8",
+    "github": "https://github.com/QuasarMvX"
+  },
+  "tags": [
+    "liquidity",
+    "vault"
+  ],
+  "icon": "quasar"
+}

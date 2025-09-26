@@ -1,14 +1,13 @@
 {
-  "name": "Arda: Compound",
+  "name": "xBoard: Compound",
   "description": "",
   "social": {
-    "website": "https://arda.run",
-    "twitter": "https://twitter.com/arda_project",
-    "telegram": "https://t.co/PkTUYkUjtk",
-    "blog": "https://docs.arda.run"
+    "website": "https://xboard.run",
+    "twitter": "https://x.com/xboard_app",
+    "telegram": "https://t.me/xboard_app"
   },
   "tags": [
-    "arda",
+    "xboard",
     "compound"
   ]
 }

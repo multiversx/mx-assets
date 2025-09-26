@@ -1,0 +1,12 @@
+{
+    "name": "Monster Staking",
+    "description": "Stake Medallions & Mini monsters collections in dedicated pools and earn tokens",
+    "website": "https://staking.monstersquad.io",
+    "social": {
+        "blog": "https://www.monstersquad.io",
+        "twitter": "https://twitter.com/MonsterSquadMVX"
+    },
+    "extraTokens": [
+        "MON-58cc32"
+    ]
+}

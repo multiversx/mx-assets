@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "$STONED - The token for those who want to aim \"high\"!\ud83e\udeb4",
+    "social": {
+        "telegram": "https://t.me/+NwSxx0wryiMyZDQ0",
+        "twitter": "https://x.com/STONED_MVX"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/STONED-1afaaf",
+        "path": "0.usdPrice"
+    }
+}

@@ -1,6 +1,6 @@
 {
-  "name": "PeerMe: Identities",
-  "description": "Manages identities inside PeerMe's ecosystem of DAOs.",
+  "name": "PeerMe: Identity Module",
+  "description": "Manages identities inside PeerMe's ecosystem of cryptocompanies, communities and DAOs.",
   "social": {
     "website": "https://peerme.io",
     "email": "hello@peerme.io",
@@ -13,10 +13,6 @@
     "github": "https://github.com/PeerMeHQ",
     "community": "https://egld.community/projects/PeerMe"
   },
-  "tags": [
-    "peerme",
-    "dao",
-    "governance",
-    "identity"
-  ]
+  "tags": ["peerme", "dao", "multisig", "governance", "identity"],
+  "icon": "peerme"
 }
