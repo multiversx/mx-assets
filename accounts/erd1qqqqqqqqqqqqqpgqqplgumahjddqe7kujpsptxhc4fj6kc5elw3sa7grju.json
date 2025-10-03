@@ -1,6 +1,14 @@
 {
   "name": "UPARK: Forwarder Shard 1",
   "description": "",
+  "social": {
+    "website": "https://upark.city",
+    "email": "jakub@upark.city",
+    "twitter": "https://twitter.com/uPark_network",
+    "whitepaper": "https://upark.city/documents/uPark_Lightpaper-v1.0.pdf",
+    "telegram_EN": "https://t.me/uPark_city",
+    "linkedin": "https://www.linkedin.com/company/upark-city/"
+  },
   "tags": [
     "upark",
     "forwarder",

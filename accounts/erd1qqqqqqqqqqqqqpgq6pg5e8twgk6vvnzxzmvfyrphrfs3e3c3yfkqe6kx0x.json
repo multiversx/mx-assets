@@ -1,6 +1,9 @@
 {
-  "name": "xBridge: Bsc Multisig",
+  "name": "xBridge v2 (deprecated): Bsc Multisig",
   "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
   "tags": [
     "xbridge",
     "bsc",

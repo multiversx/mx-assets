@@ -1,6 +1,12 @@
 {
   "name": "Smart Send: Source",
   "description": "Smart Send source contract by Remarkable Tools",
+  "social": {
+    "website": "https://devnet.remarkable.tools",
+    "twitter": "https://twitter.com/RemarkableTools",
+    "discord": "https://discord.com/invite/PFPzywPhR6",
+    "telegram": "https://t.me/RemarkableTools"
+  },
   "tags": [
     "smart send",
     "source contract",

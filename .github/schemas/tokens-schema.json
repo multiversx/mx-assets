@@ -1,0 +1,37 @@
+{
+  "type": "object",
+  "properties": {
+    "website": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "social": {
+      "type": "object",
+      "properties": {
+        "email": {
+          "type": "string"
+        },
+        "blog": {
+          "type": "string"
+        },
+        "whitepaper": {
+          "type": "string"
+        },
+        "twitter": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "required": [
+    "description",
+    "status"
+  ],
+  "additionalProperties": true
+}

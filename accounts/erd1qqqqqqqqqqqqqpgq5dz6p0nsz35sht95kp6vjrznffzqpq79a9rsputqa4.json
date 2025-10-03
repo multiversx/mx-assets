@@ -1,6 +1,14 @@
 {
   "name": "CantinaRoyale: Rewards System",
   "description": "",
+  "social": {
+    "website": "https://cantinaroyale.io",
+    "blog": "https://blog.cantinaroyale.io",
+    "twitter": "https://twitter.com/CantinaRoyale",
+    "whitepaper": "https://whitepaper.cantinaroyale.io",
+    "telegram": "https://t.me/CantinaRoyale",
+    "discord": "https://discord.gg/cantinaroyale"
+  },
   "tags": [
     "cantinaroyale",
     "rewards",

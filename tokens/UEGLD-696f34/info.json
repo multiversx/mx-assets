@@ -1,0 +1,20 @@
+{
+  "website": "https://xoxno.com",
+  "description": "UEGLD is an interim token issued upon withdrawing xEGLD, representing the 10-day unbonding period. It ensures your stake is tracked and redeemable for EGLD after the waiting period concludes.",
+  "social": {
+    "email": "contact@xoxno.com",
+    "telegram": "https://xoxno.t.me",
+    "github": "https://github.com/xoxno",
+    "discord": "https://discord.gg/xoxno",
+    "twitter": "https://x.com/XoxnoNetwork",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xoxno/",
+    "coingecko": "https://www.coingecko.com/en/coins/xoxno",
+    "whitepaper": "https://xoxno.com/whitepaper"
+  },
+  "priceSource": {
+    "type": "customUrl",
+    "url": "https://api.xoxno.com/tokens?identifier=UEGLD-696f34"
+  },
+  "ledgerSignature": "",
+  "status": "active"
+}
