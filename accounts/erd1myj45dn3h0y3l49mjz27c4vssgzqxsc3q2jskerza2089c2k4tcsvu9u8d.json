@@ -1,6 +1,18 @@
 {
   "name": "Exchange: BitMart.com",
   "description": "",
+  "social": {
+    "website": "https://www.bitmart.com",
+    "twitter": "https://twitter.com/BitMartExchange",
+    "telegram": "https://t.me/BitmartExchange",
+    "discord": "https://discord.gg/Qmb4pqtNgW",
+    "facebook": "https://www.facebook.com/bitmartexchange",
+    "instagram": "https://www.instagram.com/bitmart_exchange",
+    "youtube": "https://www.youtube.com/c/BitMartExchange",
+    "blog": "https://bitmart-exchange.medium.com",
+    "linkedin": "https://www.linkedin.com/company/bitmart",
+    "tiktok": "https://www.tiktok.com/@bitmart.exchange"
+  },
   "tags": [
     "bitmart",
     "exchange"

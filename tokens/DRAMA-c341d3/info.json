@@ -1,0 +1,17 @@
+{
+    "website": "https://dramamvx.com/",
+    "description": "DramaMvX is the first Brazilian Memecoin of the MultiversX network, born from the chaos of the $DRAMA of the MvX community.",
+    "status": "active",
+    "lockedAccounts": {
+        "erd1deaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaqtv0gag": "Burned🔥",
+        "erd1qqqqqqqqqqqqqpgqn983cq0f7klhpaeln4p6cfyt8ydsnde4m5pqqwxc8f": "NFT Stake Locked funds🔒",
+        "erd1qqqqqqqqqqqqqpgqhlclz638y4t9ws85hv2jlhfhy9w2qmtxm5pq9l7zzw": "Farm Locked funds🚜",
+        "erd1qqqqqqqqqqqqqpgqjps5kqqn02xvx379jw9nc6m4yatp946lm5pq397ypx": "Stake Locked funds🥩",
+        "erd1qqqqqqqqqqqqqpgqcwpj46vfykhjuf53zhp255h8hedkleynm5pq9gfa2m": "Team Vesting Locked 2030🥶",
+        "erd1qqqqqqqqqqqqqpgq9jkradt39r3dqux9tjqk0lhan8amlh3mm5pqvkccwz": "xQueen Airdrop🌬"
+    },
+    "social": {
+        "blog": "https://www.voxels.com/play?coords=W@3402E,1616S",
+        "twitter": "https://x.com/DramaMvX"
+    }
+}

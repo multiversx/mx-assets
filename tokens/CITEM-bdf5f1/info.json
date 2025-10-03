@@ -1,0 +1,15 @@
+{
+  "website": "https://knights-of-cathena.com",
+  "description": "Wield this mighty gear in Knights of Cathena",
+  "ledgerSignature": "",
+  "social": {
+    "email": "info@knights-of-cathena.com",
+    "blog": "https://knights-of-cathena.com/blog",
+    "twitter": "https://twitter.com/CathenaKnights",
+    "telegram": "https://t.me/fivefingergames",
+    "discord": "https://discord.com/invite/r8BwB8UaWx"
+  },
+  "status": "active",
+  "lockedAccounts": {},
+  "extraTokens": []
+}

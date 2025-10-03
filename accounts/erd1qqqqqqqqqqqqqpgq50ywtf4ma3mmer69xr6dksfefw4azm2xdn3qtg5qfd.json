@@ -1,6 +1,9 @@
 {
   "name": "xBulk: ESTAR.GAMES",
   "description": "ESTAR.GAMES distribution contract for xBulk.app",
+  "social": {
+    "website": "https://xbulk.app"
+  },
   "tags": [
     "commmunity",
     "bulk"

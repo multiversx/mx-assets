@@ -1,6 +1,9 @@
 {
-  "name": "xBridge: Bsc MultiTransfer",
+  "name": "xBridge v2 (deprecated): Bsc MultiTransfer",
   "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
   "tags": [
     "xbridge",
     "bsc",

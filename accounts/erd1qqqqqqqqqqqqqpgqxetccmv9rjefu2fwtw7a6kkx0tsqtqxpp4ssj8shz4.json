@@ -1,10 +1,16 @@
 {
-    "name": "Burnify: Minter",
-    "description": "",
-    "tags": [
-        "burnify",
-        "minter",
-        "burn"
-    ],
-    "icon": "burnify"
+  "name": "Burnify: Minter",
+  "description": "",
+  "social": {
+    "website": "https://burnify.app",
+    "twitter": "https://twitter.com/BurnifyApp",
+    "whitepaper": "https://litepaper.burnify.app",
+    "telegram": "https://t.me/Burnify"
+  },
+  "tags": [
+    "burnify",
+    "minter",
+    "burn"
+  ],
+  "icon": "burnify"
 }

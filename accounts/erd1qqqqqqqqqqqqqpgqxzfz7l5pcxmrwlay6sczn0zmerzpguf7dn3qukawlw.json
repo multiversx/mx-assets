@@ -1,9 +1,12 @@
 {
-    "name": "xBulk: Evoload Rewards",
-    "description": "Evoload distribution contract for xBulk.app",
-    "tags": [
-        "commmunity",
-        "bulk"
-    ],
-    "icon": "xbulk"
+  "name": "xBulk: Evoload Rewards",
+  "description": "Evoload distribution contract for xBulk.app",
+  "social": {
+    "website": "https://xbulk.app"
+  },
+  "tags": [
+    "commmunity",
+    "bulk"
+  ],
+  "icon": "xbulk"
 }

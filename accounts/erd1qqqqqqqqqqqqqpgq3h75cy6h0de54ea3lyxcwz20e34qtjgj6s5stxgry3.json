@@ -1,6 +1,13 @@
 {
   "name": "Elrond City: City Wallet DAO Module",
   "description": "The City Wallet is a DAO that lets $ECITY holders invest and earn together",
+  "social": {
+    "website": "https://www.elrondcity.com ",
+    "email": "elrondcity@gmail.com",
+    "twitter": "https://twitter.com/ElrondCity ",
+    "discord": "http://discord.elrondcity.com",
+    "whitepaper": "https://wp.elrondcity.com/"
+  },
   "tags": [
     "elrondcity",
     "dao",
