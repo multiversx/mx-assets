@@ -1,8 +1,13 @@
 {
-  "name": "Arda: Swap",
+  "name": "xBoard: Swap",
   "description": "",
+  "social": {
+    "website": "https://xboard.run",
+    "twitter": "https://x.com/xboard_app",
+    "telegram": "https://t.me/xboard_app"
+  },
   "tags": [
-    "arda",
+    "xboard",
     "swap"
   ]
 }

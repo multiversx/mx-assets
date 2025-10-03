@@ -9,5 +9,12 @@
         "discord": "https://discord.gg/63w5zDujzA",
         "dApp": "https://dapp.eventivivi.it/"
     },
+    "lockedAccounts": {
+        "erd1qqqqqqqqqqqqqpgqwcywk6z2mx6apxcyy6ngkxene9844lahdn3qczrxkf": "Vesting Contract"
+    },
+    "extraTokens": [
+        "UNITYWEGLD-c20c3a",
+        "LKUNITYX-f0ace3"
+    ],
     "status": "active"
 }

@@ -1,0 +1,17 @@
+{
+    "name": "Valoro: DeFi Fund",
+    "description": "Valoro DeFi is a comprehensive fund that includes the top three DeFi projects within the MultiversX ecosystem.",
+    "social": {
+        "website": "https://valoro.fund/investment-funds/defi",
+        "twitter": "https://twitter.com/ValoroFund",
+        "telegram": "https://t.me/valorofund",
+        "whitepaper": "https://docs.valoro.fund/"
+    },
+    "tags": [
+        "valoro",
+        "index-fund",
+        "investment",
+        "defi"
+    ],
+    "icon": "valoro"
+}

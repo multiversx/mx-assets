@@ -1,6 +1,17 @@
 {
   "name": "Exchange: Kraken",
   "description": "",
+  "social": {
+    "website": "https://www.kraken.com",
+    "twitter": "https://twitter.com/krakenfx",
+    "telegram": "https://t.me/kraken_exchange_official",
+    "instagram": "https://www.instagram.com/krakenfx",
+    "facebook": "https://www.facebook.com/KrakenFX",
+    "linkedin": "https://www.linkedin.com/company/krakenfx",
+    "youtube": "https://www.youtube.com/c/KrakenBitcoinExchange",
+    "tiktok": "https://www.tiktok.com/@krakenfx",
+    "reddit": "https://www.reddit.com/r/Kraken"
+  },
   "tags": [
     "kraken",
     "exchange"

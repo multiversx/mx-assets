@@ -1,9 +1,15 @@
 {
-    "name": "Burnify: NFT Staking",
-    "description": "",
-    "tags": [
-        "burnify",
-        "nft-staking"
-    ],
-    "icon": "burnify"
+  "name": "Burnify: NFT Staking",
+  "description": "",
+  "social": {
+    "website": "https://burnify.app",
+    "twitter": "https://twitter.com/BurnifyApp",
+    "whitepaper": "https://litepaper.burnify.app",
+    "telegram": "https://t.me/Burnify"
+  },
+  "tags": [
+    "burnify",
+    "nft-staking"
+  ],
+  "icon": "burnify"
 }
