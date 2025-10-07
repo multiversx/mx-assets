@@ -1,9 +1,13 @@
 {
+    "website": "https://acronixmvx.github.io/website/",
+    "description": "Scarcity & Safety by default with $NIX. On the most advanced blockchain architecture today - MultiversX.",
+    "status": "active",
     "social": {
         "blog": "https://linktr.ee/acronixmvx",
         "twitter": "https://x.com/AcroniXMVX"
     },
-    "website": "https://acronixmvx.github.io/website/",
-    "description": "Tokenized Applications, Scarcity and long-term utility with $NIX. On the most scalable blockchain architecture today - MultiversX.",
-    "status": "active"
+    "lockedAccounts": {
+        "erd1fprdx06en67hc7e6vfz64462pdr88txm3ear0nu37yr67ts7psys9qecfz": "Future Liquidity Injections",
+        "erd1xutnds088f38efyln48spl6w047w9jpaahcq7uy8efvc7gj944aqgwtyjx": "AcroniX Treasury"
+    }
 }
