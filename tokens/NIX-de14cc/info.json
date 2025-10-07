@@ -1,13 +1,16 @@
 {
     "website": "https://acronixmvx.github.io/website/",
-    "description": "Scarcity & Safety by default with $NIX. On the most advanced blockchain architecture today - MultiversX.",
+    "description": "True value. Safety by default 🛡️  -- Community driven 🛠️ // Buyback Strategies 📈 | Bringing it home with $NIX. On MultiversX.",
     "status": "active",
+    "lockedAccounts": {
+        "erd1fprdx06en67hc7e6vfz64462pdr88txm3ear0nu37yr67ts7psys9qecfz": "Future Liquidity Injections",
+        "erd1xutnds088f38efyln48spl6w047w9jpaahcq7uy8efvc7gj944aqgwtyjx": "AcroniX Treasury",
+        "erd125pc69seafqrsd5tedrumq0vyf3jrc9fec67795a0pjqqe22624sgcrv43": "NIX Buyback",
+        "erd16jvue53n3n3tgl9dvksaxfv5r2z24rsf9s6yvm40hdts9n69renst289t0": "Locked Tokens",
+        "erd1deaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaqtv0gag": "Burned NIX"
+    },
     "social": {
         "blog": "https://linktr.ee/acronixmvx",
         "twitter": "https://x.com/AcroniXMVX"
-    },
-    "lockedAccounts": {
-        "erd1fprdx06en67hc7e6vfz64462pdr88txm3ear0nu37yr67ts7psys9qecfz": "Future Liquidity Injections",
-        "erd1xutnds088f38efyln48spl6w047w9jpaahcq7uy8efvc7gj944aqgwtyjx": "AcroniX Treasury"
     }
 }
