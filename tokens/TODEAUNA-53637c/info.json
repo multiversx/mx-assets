@@ -1,0 +1,14 @@
+{
+    "website": "https://multiversx.com/",
+    "description": "Don\u2019t miss out this crypto supercycle\u2014$TODEA revolution starts now!",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/TODEAUNA-53637c",
+        "path": "0.usdPrice"
+    }
+}
