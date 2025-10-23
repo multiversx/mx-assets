@@ -1,5 +1,8 @@
 {
-  "name": "Erod",
-  "description": "Erod is the future of true valeu - a Bitcoin-backed token with no ICO, no HYPE, only PURE liquidity and unshakable trust.",
-  "status": "active"
+    "social": {
+        "twitter": "https://x.com/erd4d25d5"
+    },
+    "website": "https://x.com/erd4d25d5",
+    "description": "Meme community token for Elrond old times",
+    "status": "active"
 }
