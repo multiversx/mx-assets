@@ -1,8 +1,8 @@
 {
-    "social": {
-        "twitter": "https://x.com/GrokMVX"
-    },
     "website": "https://grokmeme.club/",
     "description": "I WANA GROKUPY MULTIVERSX",
-    "status": "active"
+    "status": "active",
+    "social": {
+        "twitter": "https://x.com/GrokMVX"
+    }
 }
