@@ -1,0 +1,14 @@
+{
+    "name": "Lucky Birds Labs",
+    "description": "Software Company building on MultiversX.",
+    "social": {
+        "twitter": "https://x.com/LuckyBirdsLabs",
+        "telegram": "https://t.me/ProjectX_DAO",
+        "discord": "https://discord.projectx.mx"
+    },
+    "tags": [
+        "projectx",
+        "company"
+    ],
+    "icon": "lucky-birds-labs"
+}
