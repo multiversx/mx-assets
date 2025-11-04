@@ -1,6 +1,6 @@
 {
-  "name": "Hatom: USDC Interest Rate model (deprecated)",
-  "description": "Hatom's USDC Lending & Borrowing Protocol Interest Rate Model",
+  "name": "Hatom: USDT Interest Rate model",
+  "description": "Hatom's USDT Lending & Borrowing Protocol Interest Rate Model",
   "social": {
     "website": "https://hatom.com",
     "discord": "https://discord.gg/upPzjHtjFK",

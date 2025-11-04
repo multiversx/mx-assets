@@ -1,6 +1,6 @@
 {
-  "name": "Hatom: USDC Interest Rate model (deprecated)",
-  "description": "Hatom's USDC Lending & Borrowing Protocol Interest Rate Model",
+  "name": "Hatom: sEGLD Vote Delegation",
+  "description": "Enables sEGLD holders to vote on MultiversX governance proposals",
   "social": {
     "website": "https://hatom.com",
     "discord": "https://discord.gg/upPzjHtjFK",
@@ -12,10 +12,11 @@
   },
   "tags": [
     "hatom",
-    "money-market",
-    "lending",
-    "borrowing",
-    "interest-rate"
+    "voting",
+    "segld",
+    "governance",
+    "multiversx",
+    "liquid-staking"
   ],
-  "icon": "hatom-lending"
+  "icon": "hatom"
 }
