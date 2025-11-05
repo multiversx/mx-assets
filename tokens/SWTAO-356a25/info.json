@@ -9,5 +9,10 @@
     "twitter": "https://twitter.com/HatomProtocol",
     "linkedin": "https://www.linkedin.com/company/hatomlabs"
   },
-  "status": "active"
+  "status": "active",
+  "priceSource": {
+    "type": "customUrl",
+    "url": "https://app.hatom.com/api/swtao/price",
+    "path": "0.usdPrice"
+  }
 }
