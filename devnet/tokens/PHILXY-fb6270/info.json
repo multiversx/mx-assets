@@ -1,11 +1,12 @@
 {
-    "website": "https://philanthrify.com",
-    "description": "Philanthropify Donor NFT Collection - Representing charitable contributions with tiered rewards (Bronze, Silver, Gold). Each NFT tracks donation history and grants donors special recognition.",
+    "website": "https://philanthrify.co.uk",
+    "description": "Philanthrify Donor NFT Collection - Soulbound NFTs that track every donation made by donors and serve as on-chain proof of the transactions executed by the system. Fully verifiable, transparent, and immutable — building unbreakable trust in every contribution.",
     "social": {
-        "email": "contact@philanthrify.com",
-        "twitter": "https://twitter.com/philanthrify",
-        "github": "https://github.com/philanthrify"
+        "email": "hello@philanthrify.co.uk",
+        "twitter": "https://x.com/philanthrifyapp",
+        "github": "https://github.com/Philanthrify",
+        "linkedin": "https://www.linkedin.com/company/philanthrify",
+        "phone": "+447875 018658"
     },
     "status": "active"
 }
-
