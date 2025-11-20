@@ -11,8 +11,6 @@
   },
   "status": "active",
   "priceSource": {
-    "type": "customUrl",
-    "url": "https://app.hatom.com/api/swtao/price",
-    "path": "0.usdPrice"
+    "type": "dataApi"
   }
 }
