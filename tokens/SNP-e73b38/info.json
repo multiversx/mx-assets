@@ -9,5 +9,9 @@
     "twitter": "https://x.com/snoppits_com",
     "linktree": "https://linktr.ee/snoppits"
   },
-  "status": "active"
+  "status": "active",
+  "lockedAccounts": {
+    "erd1deaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaqtv0gag": "Burned 🔥",
+    "erd1qqqqqqqqqqqqqpgqs38cscwrmrfl85mtehluczdgq9xcjhgxf0kqfy0eta": "Pulsar Money - Vesting contract 🔒"
+  }
 }
