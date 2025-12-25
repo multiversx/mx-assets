@@ -5,13 +5,13 @@
    "social":{
       "email":"contact@foxsy.ai",
       "telegram":"https://t.me/foxsyai",
-      "twitter":"https://twitter.com/foxsy_ai",
-      "whitepaper":"https://project.docs.foxsy.ai"
+      "twitter":"https://x.com/foxsy_ai",
+      "whitepaper":"https://whitepaper.foxsy.ai"
    },
    "lockedAccounts":{
       "erd1m767j3xs0e53kxr797rwl4pchydatcyqu3v09tl8202samrz6cys8rezef":"Token",
       "erd1qqqqqqqqqqqqqpgq3q24epjrv4t9sxsn0ekw9lpshksptvhkhj7slzfmcp":"Burned",
       "erd1qqqqqqqqqqqqqpgqm4kf7968pxm0r9v33wzf4aqtzlk6ypnr6qlsx44wxa":"Vesting",
-      "erd1qqqqqqqqqqqqqpgqqngprvhxzj9e6zlgeut2kjz4tme4fntvka8q7hpkty":"Pre-Launch"
+      "erd1qqqqqqqqqqqqqpgqs38cscwrmrfl85mtehluczdgq9xcjhgxf0kqfy0eta":"Vesting"
    }
 }
