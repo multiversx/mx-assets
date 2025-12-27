@@ -1,9 +1,9 @@
 {
-    "social": {
-        "blog": "https://bento.me/olivedao",
-        "whitepaper": "https://xspotlight.com/collections/OLVP-e06a55"
-    },
     "website": "https://olivedao.gitbook.io/olivedao",
     "description": "The Olive Pantheon NFT Collection is where mythology, history, and pop culture collide — all reimagined through the playful form of cartoon olives. Blending humor, artistry, and timeless myth, the collection offers a unique journey through culture and imagination — with every olive carrying both charm and collectible value.",
-    "status": "active"
+    "status": "active",
+    "social": {
+        "blog": "https://oox.art/marketplace/collections/OLVP-e06a55",
+        "whitepaper": "https://xspotlight.com/collections/OLVP-e06a55"
+    }
 }
