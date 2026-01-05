@@ -2,13 +2,15 @@
   "name": "DCAi: EGLD Sovereign",
   "description": "Secure, permissionless vault executing automated EGLD allocations. Orchestrates AI-managed trade logic and real-time performance tracking directly on-chain.",
   "social": {
-    "website": "https://dcai-virid.vercel.app"
+    "website": "https://dcai-mvx.vercel.app"
   },
   "tags": [
-    "defi",
-    "vault",
-    "automation",
-    "ai",
-    "dca"
-  ]
+    "DeFi",
+    "DCA",
+    "AI-Managed",
+    "Automation",
+    "Vault",
+    "Limit-Orders"
+  ],
+  "icon": "dcaiegld"
 }
