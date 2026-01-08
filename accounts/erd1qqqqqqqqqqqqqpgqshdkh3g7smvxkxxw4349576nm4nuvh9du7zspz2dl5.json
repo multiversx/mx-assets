@@ -1,0 +1,16 @@
+{
+  "name": "DCAi: HTM Sovereign",
+  "description": "Secure, permissionless vault executing automated HTM allocations. Orchestrates AI-managed trade logic and real-time performance tracking directly on-chain.",
+  "social": {
+    "website": "https://dcai-mvx.vercel.app"
+  },
+  "tags": [
+    "DeFi",
+    "DCA",
+    "AI-Managed",
+    "Automation",
+    "Vault",
+    "Limit-Orders"
+  ],
+  "icon": "dcaihtm"
+}
