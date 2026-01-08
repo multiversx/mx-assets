@@ -1,0 +1,13 @@
+{
+    "name": "AnotherViral: Reward Distributor",
+    "description": "Smart-contract module that batches and distributes rewards to verified participants.",
+    "website": "https://anotherviral.com/",
+    "social": {
+        "blog": "",
+        "twitter": "https://x.com/kmcpg"
+    },
+    "tags": [
+        "KMCPG",
+        "Another"
+    ]
+}
