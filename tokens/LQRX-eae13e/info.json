@@ -1,5 +1,5 @@
 {
-    "website": "https://liquorix-mvx.vercel.app",
+    "website": "https://liquorix.vercel.app",
     "description": "Liquorix’s yield-bearing receipt token. LQRX represents your share of the vault’s total liquidity. It automatically appreciates in value against EGLD by capturing all protocol profits, compound interest, and rewards into a single, liquid asset.",
     "status": "active"
 }
