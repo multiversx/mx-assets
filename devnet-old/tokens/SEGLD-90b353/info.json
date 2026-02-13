@@ -1,0 +1,9 @@
+{
+    "social": {
+        "blog": "https://blog.hatom.com/",
+        "twitter": "https://twitter.com/HatomProtocol"
+    },
+    "website": "https://hatom.com/",
+    "description": "sEGLD is a digital token representing EGLD staked on nodes via the Hatom Liquid Staking Protocol. By combining the initial deposit with staking rewards, sEGLD allows users to earn staking rewards while also benefiting from DeFi yields. The value of sEGLD is pegged to EGLD and increases in value following an exchange rate.",
+    "status": "active"
+}
