@@ -1,0 +1,30 @@
+{
+  "name": "XOXNO: Launchpad Manager",
+  "description": "XOXNO Launchpad Manager allows creators and organizers to register and deploy their own managed child contracts, enabling them to launch their own events and collectibles.",
+  "social": {
+    "email": "contact@xoxno.com",
+    "website": "https://xoxno.com",
+    "discord": "https://discord.gg/xoxno",
+    "twitter": "https://x.com/XoxnoNetwork",
+    "telegram": "https://xoxno.t.me",
+    "instagram": "https://instagram.com/xoxnoNFTs",
+    "github": "https://github.com/XOXNO",
+    "whitepaper": "https://xoxno.com/whitepaper",
+    "linkedin": "https://linkedin.com/company/xoxno",
+    "youtube": "https://www.youtube.com/channel/UCeknNkwBJZhrHcPPEMHAYrg",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xoxno/"
+  },
+  "tags": [
+    "XOXNO",
+    "Marketplace",
+    "Launchpad",
+    "Liquid Staking",
+    "Finance",
+    "DeFi",
+    "Ticketing",
+    "L2",
+    "Web2",
+    "Real Yield"
+  ],
+  "icon": "xoxno"
+}

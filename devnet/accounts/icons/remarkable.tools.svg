@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #1b1c1e;
+      }
+
+      .cls-3 {
+        fill: #cdcdcd;
+      }
+    </style>
+  </defs>
+  <g id="bg">
+    <circle class="cls-2" cx="64" cy="64" r="64"/>
+  </g>
+  <g id="R">
+    <path id="R-2" data-name="R" class="cls-1" d="m79.38,75.98l10.64-6.22-.03-26.48-15.23-15.23h-21.54l-15.23,15.23v56.56l26-14.87,6.61,3.78,19.42,11.09v-17.72l-7.27-4.2-3.37-1.94Zm-.35-16.24l-21.21,12.26-8.79-8.79v-12.42l8.79-8.79h12.43l8.78,8.79v8.95Z"/>
+    <polygon id="shadow" class="cls-3" points="82.75 77.92 79.38 75.98 63.99 84.97 70.6 88.75 82.75 77.92"/>
+  </g>
+</svg>

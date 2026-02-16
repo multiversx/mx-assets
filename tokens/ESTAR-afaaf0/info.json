@@ -1,0 +1,14 @@
+{
+    "website": "https://swap.estar.games",
+    "description": "Swap for ESTAR-461bab",
+    "status": "active",
+    "social": {
+        "email": "contact@estar.games",
+        "blog": "https://blog.estar.games",
+        "twitter": "https://twitter.com/estartoken",
+        "whitepaper": "https://whitepaper.estar.games/"
+    },
+    "extraTokens": [
+        "ESTAR-461bab"
+    ]
+}

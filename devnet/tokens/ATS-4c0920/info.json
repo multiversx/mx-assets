@@ -1,0 +1,15 @@
+{
+  "website": "https://devnet.autoscale.finance",
+  "description": "Autoscale is the first yield optimizer on MultiversX that allows users to earn better interest on their cryptos.",
+  "social": {
+    "blog": "https://medium.com/@autoscalefinance",
+    "twitter": "https://twitter.com/autoscale_",
+    "telegram": "https://t.me/autoscaleapp",
+    "discord": "https://discord.gg/dMFnmK7wdg"
+  },
+  "status": "active",
+  "extraTokens": [
+    "SATS-c7f9c6",
+    "BATS-937479"
+  ]
+}

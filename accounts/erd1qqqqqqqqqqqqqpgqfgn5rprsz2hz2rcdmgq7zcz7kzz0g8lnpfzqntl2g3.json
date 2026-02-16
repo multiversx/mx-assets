@@ -1,0 +1,13 @@
+{
+  "name": "Protocol Sustainability Fund",
+  "description": "The goal of this bucket is to ensure protocol competitiveness, funding a world-class engineering team and a research and development department to place the network at the frontier of innovation. This bucket is not used in staking, growth dividend and in ecosystem growth. Funds core protocol development, research, and infrastructure maintenance, ensuring the network remains competitive and robust. This maintains the existing funding level for core operations.",
+  "social": {
+    "website": "https://multiversx.com",
+    "twitter": "https://x.com/multiversx",
+    "telegram": "https://t.me/MultiversX",
+    "youtube": "https://youtube.com/@MultiversXOfficial",
+    "github": "https://github.com/MultiversX"
+  },
+  "tags": ["protocol", "governance", "fund"],
+  "icon": "multiversx"
+}

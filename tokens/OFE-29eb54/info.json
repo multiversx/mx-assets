@@ -1,10 +1,26 @@
 {
-  "website": "https://www.ofero.network/",
-  "description": "The OFERO Token is the utility coin of the Ofero Network.",
-  "social": {
-    "email": "contact@ofero.network",
-    "twitter": "https://twitter.com/oferonetwork",
-    "whitepaper": "https://ofero.network/documents/whitepaper.pdf"
-  },
-  "status": "active"
+    "website": "https://www.ofero.network/",
+    "description": "The utility token for Ofero Network an On-chain Financial Ecosystem (OFE)",
+    "name": "Ofero",
+    "ledgerSignature": "3045022100a7b92f1fbd418e42d551a81d9b1c090e4e5bc620669ef3df2454e8711bda345e02205a023ef734acefdaf243dcaa6652e8486e2e8d3ec6d097305e6dd03155965ff2",
+    "social": {
+        "email": "contact@ofero.network",
+        "twitter": "https://twitter.com/oferonetwork",
+        "whitepaper": "https://ofero.network/documents/whitepaper.pdf",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/ofero-network/",
+        "coingecko": "https://www.coingecko.com/en/coins/ofero",
+        "telegram": "https://t.me/oferonetwork",
+        "youtube": "https://www.youtube.com/@oferonetwork",
+        "facebook": "https://www.facebook.com/oferonetwork",
+        "instagram": "http://instagram.com/oferonetwork",
+        "linkedin": "https://www.linkedin.com/company/oferonetwork/",
+        "linktree": "https://linktr.ee/oferonetwork",
+        "discord": "https://discord.gg/PrKZpqbwk4",
+        "blog": "https://medium.com/@oferonetwork",
+        "reddit": "https://www.reddit.com/r/ofero_network/"
+    },
+    "status": "active",
+    "extraTokens": [
+        "OFEWEGLD-73840b"
+    ]
 }

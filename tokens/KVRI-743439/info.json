@@ -1,0 +1,13 @@
+{ 
+"website": "https://kavarii.com/",
+"description": "Decentralized NFT Video sharing platform using web3 technologies",  "ledgerSignature": "",
+"social": {
+    "email": "support@kavarii.com",
+    "blog": "",
+    "twitter": "https://twitter.com/KavariiOfficial",
+    "whitepaper": "",
+    "coinmarketcap": "",
+    "coingecko": ""
+  },
+"status": "active"
+}

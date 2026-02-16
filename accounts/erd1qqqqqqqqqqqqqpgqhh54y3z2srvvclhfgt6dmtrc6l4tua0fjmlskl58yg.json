@@ -1,0 +1,13 @@
+{
+  "name": "Growth Dividend Fund for Users",
+  "description": "The goal of this bucket is to maximize usage and velocity of capital within the network to stimulate growth of network KPIs such as TVL, transaction volume, and stablecoin liquidity, incentivise intra-network spending. A new and simple way to enable everyday users to participate in productive strategies to contribute to the protocol activity and potentially receive rewards. Directed to a DAO-governed smart contract to reward users who actively participate in the MultiversX economy. This incentivizes activities beyond simple staking, such as providing liquidity, using core DeFi applications, and engaging with ecosystem dApps. This pool of capital is a strategic tool designed to deepen onchain liquidity.",
+  "social": {
+    "website": "https://multiversx.com",
+    "twitter": "https://x.com/multiversx",
+    "telegram": "https://t.me/MultiversX",
+    "youtube": "https://youtube.com/@MultiversXOfficial",
+    "github": "https://github.com/MultiversX"
+  },
+  "tags": ["protocol", "governance", "fund"],
+  "icon": "multiversx"
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200px" height="200px" viewBox="0 0 200 200" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="12.2" y1="100" x2="187.8" y2="100" gradientTransform="matrix(1,0,0,-1,0,200)">
+<stop offset="0.00167387" style="stop-color:rgb(100%,76.470588%,0%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(97.647059%,59.607843%,5.098039%);stop-opacity:1;"/>
+</linearGradient>
+<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="100" cy="100" fx="100" fy="100" r="77.2" gradientTransform="matrix(1,0,0,-1,0,200)">
+<stop offset="0" style="stop-color:rgb(0%,11.372549%,23.921569%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(0%,3.137255%,7.843137%);stop-opacity:1;"/>
+</radialGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="151.908" y1="144.192" x2="53.5668" y2="45.8508" gradientTransform="matrix(1,0,0,-1,0,200)">
+<stop offset="0.00167386" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(86.666667%,86.666667%,86.666667%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface2">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 187.800781 100 C 187.800781 148.492188 148.492188 187.800781 100 187.800781 C 51.507812 187.800781 12.199219 148.492188 12.199219 100 C 12.199219 51.507812 51.507812 12.199219 100 12.199219 C 148.492188 12.199219 187.800781 51.507812 187.800781 100 Z M 187.800781 100 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial0);" d="M 177.199219 100 C 177.199219 142.636719 142.636719 177.199219 100 177.199219 C 57.363281 177.199219 22.800781 142.636719 22.800781 100 C 22.800781 57.363281 57.363281 22.800781 100 22.800781 C 142.636719 22.800781 177.199219 57.363281 177.199219 100 Z M 177.199219 100 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 98.800781 108.101562 L 132.5 108.101562 L 145.101562 91.199219 L 98.800781 91.199219 L 98.800781 76.5 L 140.300781 76.5 L 154 57.898438 L 80 57.898438 C 79.101562 58 78.300781 59.199219 77.800781 59.800781 C 73.601562 71.699219 67.601562 89.800781 67.601562 89.800781 C 67.601562 89.800781 53.199219 92.300781 43.398438 93.601562 C 42.5 93.601562 41.5 94.898438 41.5 95.5 C 41 96.800781 41.5 98 42 98.601562 C 49.398438 107.300781 60.101562 121.101562 60.101562 121.101562 C 60.101562 121.101562 57.300781 140.398438 55 153.5 C 55 154.800781 55 156 55.898438 156.601562 C 56.800781 157.898438 57.800781 157.898438 58.699219 157.199219 C 66.601562 151.300781 78.601562 142.101562 80 141.101562 L 137.898438 141.101562 L 151.699219 122.5 L 98.800781 122.5 Z M 98.800781 108.101562 "/>
+</g>
+</svg>

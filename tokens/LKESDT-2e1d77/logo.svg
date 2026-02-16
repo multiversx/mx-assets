@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="200" height="200" transform="translate(0 0.653)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="logo" transform="translate(0 -0.653)" clip-path="url(#clip-path)">
+    <path id="Path_17" data-name="Path 17" d="M100,200.653a100,100,0,1,0-100-100A100,100,0,0,0,100,200.653Z" transform="translate(0 0)" fill="#fff"/>
+    <path id="Path_18" data-name="Path 18" d="M167.333,87.431A80.556,80.556,0,1,1,86.778,6.875,80.556,80.556,0,0,1,167.333,87.431Zm-8.333,0A72.222,72.222,0,1,1,86.778,15.209,72.222,72.222,0,0,1,159,87.431Z" transform="translate(13.222 13.222)" fill="#a5a9b3" fill-rule="evenodd"/>
+    <path id="Path_19" data-name="Path 19" d="M33.41,21.32h0A31.25,31.25,0,0,1,64.66,52.57H33.41Z" transform="translate(70.996 43.918)" fill="#8b8f99"/>
+    <path id="Path_20" data-name="Path 20" d="M20.632,34.1h31.25v31.25h0A31.25,31.25,0,0,1,20.632,34.1Z" transform="translate(43.843 71.072)" fill="#8b8f99"/>
+    <path id="Path_21" data-name="Path 21" d="M20.682,52.671a31.25,31.25,0,0,1,31.25-31.25h0v31.25Z" transform="translate(43.949 44.131)" fill="#8b8f99"/>
+    <path id="Path_22" data-name="Path 22" d="M33.41,34.148H64.66A31.25,31.25,0,0,1,33.41,65.4h0Z" transform="translate(70.996 71.178)" fill="#8b8f99"/>
+    <path id="Path_23" data-name="Path 23" d="M32,75.278A40.625,40.625,0,0,0,72.625,115.9c12.5-3.125,20.676-7.012,28.125-15.625,6.16-7.122,12.5-14.844,12.5-25a40.625,40.625,0,0,0-81.25,0Z" transform="translate(68 72.25)" fill="#fff"/>
+    <path id="Path_24" data-name="Path 24" d="M66.351,100.354A31.351,31.351,0,1,0,35,69,31.35,31.35,0,0,0,66.351,100.354Z" transform="translate(74.375 78.625)" fill="#7894c3"/>
+    <path id="Path_25" data-name="Path 25" d="M66.325,56.365H64.761v-4.7a9.913,9.913,0,0,0-19.825,0v4.7H43.372A3.131,3.131,0,0,0,40.24,59.5V72.022a3.131,3.131,0,0,0,3.132,3.131H66.325a3.132,3.132,0,0,0,3.131-3.131V59.5a3.132,3.132,0,0,0-3.131-3.132Zm-6.782,0H50.149v-4.7a4.7,4.7,0,1,1,9.394,0Z" transform="translate(85.51 87.346)" fill="#fff"/>
+  </g>
+</svg>

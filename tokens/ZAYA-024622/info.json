@@ -1,0 +1,15 @@
+{
+    "social": {
+        "twitter": "https://twitter.com/ZayaAI_PathDx",
+        "whitepaper": "https://rb.gy/kg8d8"
+    },
+    "website": "https://zayablockchain.com/",
+    "description": "ZayaAI is a comprehensive ecosystem designed to fight cancer and promote healthy living through the use of cutting-edge AI technologies and advanced medical screening techniques (henceforth also referred to as the „ZayaAI ecosystem”). The ecosystem is projected to be built on the MultiversX blockchain and to revolve around the $ZAYA utility token, which connects the products and services offered by three core business units: Zaya Artificial Intelligence, Zaya Medical Clinic, Zaya Pathology Lab. The token is envisioned to offer various use cases, including rewards , staking and other functionalities meant to offer access, in particular conditions, to products and services within the ZayaAI ecosystem. ",
+    "extraTokens": [
+        "ZAYA-024622"
+    ],
+    "lockedAccounts": {
+        "erd17hse4qpm4vaglwv307g4m5sghqlr2rk4rshvjflnmwdsrujrkn3sl7adsq": "ZAYA-024622"
+    },
+    "status": "active"
+}

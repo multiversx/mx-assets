@@ -1,10 +1,13 @@
 {
   "website": "https://middlestaking.fr",
-  "description": "The $MID is a service Token allowing users to get involved into staking without a full EGLD.",
+  "description": "MID enables users to participate into staking with ESDT.",
   "social": {
-    "email": "esdt@middlestaking.fr",
     "twitter": "https://twitter.com/MiddleStaking",
-    "whitepaper": "https://files.middlestaking.fr/mid-whitepaper.pdf"
+    "whitepaper": "https://files.middlestaking.fr/mid-whitepaper.pdf",
+    "telegram": "https://t.me/MiddleStaking"
+  },
+  "lockedAccounts": {
+      "erd1z9f7ujxr2j2am6g36hgx2yhn2jvu39fudtz4hkkxmzjp8dv0apqsxe6hjv": "Staking rewards"
   },
   "status": "active"
 }
