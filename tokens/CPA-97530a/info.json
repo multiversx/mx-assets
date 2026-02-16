@@ -1,12 +1,12 @@
 {
-    "website": "https://artcpaclub.com/",
-    "description": "$CPA is the fuel to power ArtCPAclub ecosystem, built on the MultiversX Blockchain", "ledgerSignature": "",
+    "website": "https://www.trad3ex.com/",
+    "description": "$CPA is the token to power the Trad3ex ecosystem, built on the MultiversX Blockchain",
+    "status": "active",
     "social": {
         "email": "admin@artcpaclub.com",
-        "twitter": "https://twitter.com/_Official_CPA",
+        "twitter": "https://x.com/Trad3EX",
         "discord": "https://discord.gg/t58ZhW688j",
         "telegram": "https://t.me/+l3Fjd2bULflhZmY0",
-        "whitepaper": "https://artcpaclub.com/static/media/ArtCPA_Whitepaper.5dcf3863.pdf"
-    },
-    "status": "active"
+        "whitepaper": "https://blog.artcpaclub.com/2024/01/12/whitepaper-token/"
+    }
 }
