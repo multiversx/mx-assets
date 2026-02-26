@@ -1,8 +1,8 @@
 {
-    "social": {
-        "twitter": "https://x.com/xAgent7777?t=t6LaRdwLKLsKSeaTdkW8aQ&s=09"
-    },
     "website": "https://x.com/xAgent7777?t=t6LaRdwLKLsKSeaTdkW8aQ&s=09",
     "description": "The ULTIMATE AI agent of MultiversX and xPortal. Just call me xAgent.",
-    "status": "active"
+    "status": "active",
+    "social": {
+        "twitter": "https://x.com/xAgent7777?t=t6LaRdwLKLsKSeaTdkW8aQ&s=09"
+    }
 }
