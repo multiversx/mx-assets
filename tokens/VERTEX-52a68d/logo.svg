@@ -1,0 +1,70 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="256px" height="256px" viewBox="0 0 256 256">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="-86.92500000000001" y1="46.95" x2="-17.074999999999996" y2="46.95" spreadMethod="pad">
+<stop  offset="16.470588235294116%" stop-color="#EC008C"/>
+
+<stop  offset="100%" stop-color="#000000"/>
+</linearGradient>
+
+<linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="-28.05" y1="10" x2="86.95" y2="10" spreadMethod="pad">
+<stop  offset="0%" stop-color="#000000"/>
+
+<stop  offset="85.09803921568627%" stop-color="#00AEEF"/>
+</linearGradient>
+
+<linearGradient id="Gradient_3" gradientUnits="userSpaceOnUse" x1="-86.92500000000001" y1="-37" x2="-17.074999999999996" y2="-37" spreadMethod="pad">
+<stop  offset="12.941176470588236%" stop-color="#EC008C"/>
+
+<stop  offset="100%" stop-color="#000000"/>
+</linearGradient>
+
+<g id="Symbol_7_0_Layer0_0_FILL">
+<path fill="#FFFF00" stroke="none" d="
+M -73.6 -101.3
+Q -70.4 -104.5 -70.4 -109 -70.4 -113.6 -73.6 -116.9 -76.9 -120 -81.4 -120 -86 -120 -89.1 -116.9 -92.4 -113.6 -92.4 -109 -92.4 -104.5 -89.1 -101.3 -86 -98 -81.4 -98 -76.9 -98 -73.6 -101.3 Z"/>
+</g>
+
+<path id="Layer0_0_1_STROKES" stroke="#00AEEF" stroke-width="11" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M -81.4 93.95
+L 81.45 -0.05 -81.4 -94.05"/>
+
+<path id="Layer0_0_2_STROKES" stroke="url(#Gradient_1)" stroke-width="11" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M -22.55 -0.05
+L -81.4 93.95"/>
+
+<path id="Layer0_0_MEMBER_0_1_STROKES" stroke="url(#Gradient_2)" stroke-width="11" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M -22.55 10
+L 81.45 10"/>
+
+<path id="Layer0_0_MEMBER_0_2_STROKES" stroke="url(#Gradient_3)" stroke-width="11" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M -22.55 10
+L -81.4 -84"/>
+
+<path id="Layer0_0_MEMBER_1_1_STROKES" stroke="#EC008C" stroke-width="11" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M -81.4 104
+L -81.4 -84"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 155,128.05) ">
+<use xlink:href="#Layer0_0_1_STROKES"/>
+
+<use xlink:href="#Layer0_0_2_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 155,118) ">
+<use xlink:href="#Layer0_0_MEMBER_0_1_STROKES"/>
+
+<use xlink:href="#Layer0_0_MEMBER_0_2_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 155,118) ">
+<use xlink:href="#Layer0_0_MEMBER_1_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 132.45,128) ">
+<g transform="matrix( 1, 0, 0, 1, 81.4,109) ">
+<use xlink:href="#Symbol_7_0_Layer0_0_FILL"/>
+</g>
+</g>
+</svg>
