@@ -1,8 +1,9 @@
 {
-    "social": {
-        "twitter": "https://x.com/pm_conchi39202"
-    },
     "website": "https://juegosweb.eth.limo/",
-    "description": "BOOTY-25c990 no es solo un token, es el inicio de una historia que acaba de empezar en MultiversX. Formando parte de una narrativa en serie donde cada transacción cuenta un capítulo. 100.000 millones de unidades preparadas para conquistar la red. ¿Te unes al guion o te quedas de espectador? 🍑🚀\"",
-    "status": "active"
+    "social": {
+    "description": "BOOTY-25c990 no es solo un token, es el inicio de una historia que acaba de empezar en MultiversX. Formando parte de una narrativa en serie donde cada transacción cuenta un capítulo. 100.000 millones de unidades preparadas para conquistar la red. ¿Te unes al guion o te quedas de espectador? 🍑🚀",
+     "social": {
+    "twitter": "https://x.com/pm_conchi39202"
+  },
+  "status": "active"
 }
