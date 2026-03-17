@@ -1,0 +1,11 @@
+
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="100" fill="#007BFF"/>
+  <g transform="translate(50, 50)">
+    <polygon points="25,0 50,25 25,50 0,25" fill="#00BFFF"/>
+    <polygon points="75,0 100,25 75,50 50,25" fill="#1E90FF"/>
+    <polygon points="25,50 50,75 25,100 0,75" fill="#1E90FF"/>
+    <polygon points="75,50 100,75 75,100 50,75" fill="#00BFFF"/>
+  </g>
+  <text x="100" y="170" font-family="Arial, sans-serif" font-size="22" fill="white" text-anchor="middle">XCross</text>
+</svg>

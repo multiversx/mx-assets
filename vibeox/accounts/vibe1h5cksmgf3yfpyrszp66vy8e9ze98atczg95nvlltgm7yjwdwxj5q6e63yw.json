@@ -1,0 +1,11 @@
+{
+  "name": "VibeOX Streaming",
+  "description": "This account streams VIBE tokens to users as part of the VibeOX distribution system",
+  "social": {
+    "website": "https://vibeox.ai"
+  },
+  "tags": [
+    "vibeox"
+  ],
+  "icon": "vibeox"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Aureus",
+  "symbol": "AURX",
+  "type": "ESDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "AURX-6d7c04",
+  "website": "https://aureusaurx.carrd.co",
+  "description": "AURX is a community-driven utility token built on MultiversX (Elrond) blockchain.",
+  "explorer": "https://explorer.multiversx.com/tokens/AURX-6d7c04",
+  "socials": {
+    "telegram": "https://t.me/aureusaurx",
+    "discord": "https://discord.gg/aureusaurx"
+  }
+}

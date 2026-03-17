@@ -1,0 +1,14 @@
+{
+    "website": "nicusordan.ro",
+    "description": "Un pre\u0219edinte pentru Europa!\nRom\u00e2nia \u00eenainte! ",
+    "social": {
+        "telegram": "",
+        "twitter": "https://x.com/NicusorDanRO"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/NICUDAN-8b588d",
+        "path": "0.usdPrice"
+    }
+}

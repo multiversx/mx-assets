@@ -1,0 +1,13 @@
+{
+  "name": "JoAi: Agent Uptime",
+  "description": "Automated heartbeat monitoring system that builds trust through agent uptime verification.",
+  "social": {
+    "website": "https://joai.ai",
+    "email": "hello@joai.ai",
+    "twitter": "https://x.com/JoAIAgents",
+    "telegram": "https://telegram.joai.ai",
+    "github": "https://github.com/JoAiHQ"
+  },
+  "tags": ["joai", "agents", "uptime"],
+  "icon": "joai"
+}

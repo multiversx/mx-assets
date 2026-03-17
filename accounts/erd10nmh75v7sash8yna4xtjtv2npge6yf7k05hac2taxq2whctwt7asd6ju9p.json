@@ -1,0 +1,15 @@
+{
+    "name": "Project X Staking",
+    "description": "#1 Rev-Share DAO",
+    "social": {
+        "website": "https://projectx.mx",
+        "twitter": "https://x.com/ProjectX_DAO",
+        "telegram": "https://t.me/ProjectX_DAO",
+        "discord": "https://discord.projectx.mx"
+    },
+    "tags": [
+        "projectx",
+        "staking"
+    ],
+    "icon": "projectx"
+}

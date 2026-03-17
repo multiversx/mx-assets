@@ -1,0 +1,15 @@
+{
+    "name": "Titans VC",
+    "description": "Project X Titans VC",
+    "social": {
+        "website": "https://projectx.mx",
+        "twitter": "https://x.com/ProjectX_DAO",
+        "telegram": "https://t.me/ProjectX_DAO",
+        "discord": "https://discord.projectx.mx"
+    },
+    "tags": [
+        "projectx",
+        "titans"
+    ],
+    "icon": "projectx-titans"
+}
