@@ -9,5 +9,8 @@
     "twitter": "https://twitter.com/HatomProtocol",
     "linkedin": "https://www.linkedin.com/company/hatomlabs"
   },
-  "status": "active"
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
 }

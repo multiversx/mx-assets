@@ -1,0 +1,12 @@
+{
+  "name": "Exchange: HitBTC",
+  "description": "Exchange: HitBTC",
+  "social": {
+    "website": "https://hitbtc.com",
+    "twitter": "https://x.com/hitbtc"
+  },
+  "tags": [
+    "exchange",
+    "hitbtc"
+  ]
+}

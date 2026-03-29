@@ -1,0 +1,13 @@
+{
+    "name": "🤖 Booga Bot",
+    "description": "A bot interacting with the Boogas community",
+    "social": {
+        "website": "https://boogas.io",
+        "twitter": "https://x.com/BoogasX",
+        "telegram": "https://boogatown.boogas.io"
+    },
+    "tags": [
+        "community"
+    ],
+    "icon": "booga-bot"
+}

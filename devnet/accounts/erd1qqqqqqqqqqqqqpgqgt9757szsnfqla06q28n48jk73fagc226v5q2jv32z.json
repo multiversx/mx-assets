@@ -1,0 +1,14 @@
+{
+  "name": "Charity Contract",
+  "description": "A charitable DAO deployed by the Philanthrify Factory to manage the NewCharity project, accepting donations and minting NFTs for donors.",
+  "social": {
+    "website": "https://philanthrify.co.uk",
+    "linkedin": "https://www.linkedin.com/company/philanthrify/posts/?feedView=all",
+    "twitter": "https://x.com/philanthrifyapp"
+  },
+  "tags": [
+    "charity",
+    "smartcontract"
+  ],
+  "icon": "philanthrify-logo"
+}
