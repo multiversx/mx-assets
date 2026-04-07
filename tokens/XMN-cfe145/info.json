@@ -8,5 +8,9 @@
     },
     "website": "https://www.xmoney.com",
     "description": "xMoney powers global payments and helps businesses move faster, smarter, and more securely. $XMN is the token that fuels the entire ecosystem.",
-    "status": "active"
+    "status": "active",
+    "extraTokens": [
+        "XMNFARM-e56b74",
+        "LXMN-3872a8"
+    ]
 }
