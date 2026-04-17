@@ -1,0 +1,15 @@
+{
+    "social": {
+        "blog": "https://bidxbots.gitbook.io/bidxbot-trending-and-buybot-on-multiversx",
+        "twitter": "https://x.com/bidxbot",
+        "whitepaper": "https://bidxbots.gitbook.io/bidxbot-trending-and-buybot-on-multiversx"
+    },
+    "website": "https://x.com/@Bidxbot",
+    "description": "BUY BOT TOKEN/NFTs Monitor & TRENDING CHANNEL MultiversX\n\nAll this eases the experience of $EGLD holders on Telegram",
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/BIDXBOT-9a8b6b",
+        "path": "0.usdPrice"
+    }
+}

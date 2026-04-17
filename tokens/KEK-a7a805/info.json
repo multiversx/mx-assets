@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Interplanetary coin",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/KEK-a7a805",
+        "path": "0.usdPrice"
+    }
+}

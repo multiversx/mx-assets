@@ -1,0 +1,9 @@
+{
+  "website": "https://multiversx.com/",
+  "description": "Pnut-unicorn Fart Dust encapsulates the playful, speculative spirit of memecoins, uniting two vibrant communities in a celebration of humor and creativity.",
+  "social": {},
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}

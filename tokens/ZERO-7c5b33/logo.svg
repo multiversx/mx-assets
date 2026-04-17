@@ -1,0 +1,6 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Transparent background by default -->
+
+  <!-- Empty circle -->
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#FFFFFF" stroke-width="8"></circle>
+</svg>

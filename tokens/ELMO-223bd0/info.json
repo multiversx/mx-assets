@@ -8,7 +8,13 @@
         "BFY-8344ff"
     ],
     "lockedAccounts": {
-        "erd12z5extcjj34ccpgmcszlegx8eyf8n4t94swhl9r704tam54j0a7q022a0w": "Burnify Discount"
+        "erd12z5extcjj34ccpgmcszlegx8eyf8n4t94swhl9r704tam54j0a7q022a0w": "Burnify Discount",
+        "erd1deaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaqtv0gag": "Burned"
     },
-    "status": "active"
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/ELMO-223bd0",
+        "path": "0.usdPrice"
+    }
 }

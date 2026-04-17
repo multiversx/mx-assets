@@ -1,0 +1,13 @@
+{
+  "name": "xBridge: Ethereum SC calls executor",
+  "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
+  "tags": [
+    "xbridge",
+    "bsc",
+    "multitransfer"
+  ],
+  "icon": "multiversx"
+}

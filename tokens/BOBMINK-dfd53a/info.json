@@ -1,0 +1,9 @@
+{
+  "website": "https://boberbattle.com",
+  "description": "Boberiamin Mincu – Lower your expectations, but not your decentralization. A token inspired by Beniamin Mincu, blending innovation with a dose of realism.",
+  "social": {},
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}

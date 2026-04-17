@@ -1,0 +1,18 @@
+{
+    "name": "Valoro: MemeXtreme Fund",
+    "description": "Valoro MemeXtreme is a high-risk, high-reward meme token portfolio for those ready to gamble on the wildest trends.",
+    "social": {
+        "website": "https://valoro.fund/investment-funds/memextreme",
+        "twitter": "https://twitter.com/ValoroFund",
+        "telegram": "https://t.me/valorofund",
+        "whitepaper": "https://docs.valoro.fund/"
+    },
+    "tags": [
+        "valoro",
+        "index-fund",
+        "investment",
+        "meme",
+        "memextreme"
+    ],
+    "icon": "valoro"
+}

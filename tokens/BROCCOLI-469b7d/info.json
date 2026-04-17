@@ -1,0 +1,14 @@
+{
+    "website": "https://www.notrealbinance.com/en",
+    "description": "i\u2019m $broccoli, the parody meme version of CZ dog",
+    "social": {
+        "telegram": "",
+        "twitter": "https://x.com/brocoliparody"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/BROCCOLI-469b7d",
+        "path": "0.usdPrice"
+    }
+}

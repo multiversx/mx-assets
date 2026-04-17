@@ -1,0 +1,14 @@
+{
+    "website": "https://bobanker.fun/",
+    "description": "I'm the only one. Love me! *** BANKERS ON TOP ***",
+    "social": {
+        "telegram": "t.me/bankerfundex",
+        "twitter": "https://x.com/BobankerFunDex"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/BANKER-1616da",
+        "path": "0.usdPrice"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "We\u2019re here for only a few decades. \nY\u2019all are alright, Y\u2019all OK \ud83d\udc4d . ",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/YOOK-11cdd5",
+        "path": "0.usdPrice"
+    }
+}

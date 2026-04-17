@@ -1,0 +1,12 @@
+{
+    "website": "https://discord.gg/wuJ3KVBAGC",
+    "description": "The Erebor token is the utility token of EREBOR Ecosystem Token",
+    "social": {
+      "email": "ereborrpg@gmail.com",
+      "discord": "https://discord.gg/wuJ3KVBAGC"
+    },
+    "lockedAccounts": {
+        "erd1hm85sucd2qv3gvx5ttrtac3mk00aq55hjj8ykayjnscwfarah3jsk63xvj": "Token Faucet"
+    },
+    "status": "active"
+  }

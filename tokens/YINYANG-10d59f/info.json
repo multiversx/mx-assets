@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "A balanced and harmonious cryptocurrency symbolizing duality and unity. YinYang combines opposites to create equilibrium, offering innovative solutions with a focus on sustainability, inclusivity, and growth.",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/YINYANG-10d59f",
+        "path": "0.usdPrice"
+    }
+}

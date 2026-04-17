@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Tired of waiting for $EGLD to moon? Enter Obiwenwifhat,  Jedi hamster. \ud83d\udc39\u2728\ud83e\udd84\ud83e\udd84\ud83e\udd84\ud83e\udd84\ud83e\udd84\nHis mission: seize the power of the leather jacket and lure new investors.\n\nIn the multiversx, there\u2019s no patience\u2014only MOON. \ud83d\ude80\nWill you join his galactic journey? \ud83c\udf0c\nNo more wen wen wen...Lets go to Onedex",
+    "social": {
+        "telegram": "https://t.me/+CZyDfIDXNhxiNjlk",
+        "twitter": "https://x.com/obiwenwifhat?t=8-Lcjhme1cKgRE9U5_Mohw&s=09"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/OBIWEN-fa8bf6",
+        "path": "0.usdPrice"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "website": "https://btcgreen-bidding-house.vercel.app/",
+    "description": "Meme coin btc green in MultiversX. a thousand times more ecological than btc, a thousand times faster than btc. Let's turn off those miners \ud83d\ude02\ud83d\ude02",
+    "social": {
+        "telegram": "https://t.me/BTCGREEN_MULTIVERSX",
+        "twitter": " https://x.com/BTCGREEN2024"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/BTCGREEN-40a803",
+        "path": "0.usdPrice"
+    }
+}

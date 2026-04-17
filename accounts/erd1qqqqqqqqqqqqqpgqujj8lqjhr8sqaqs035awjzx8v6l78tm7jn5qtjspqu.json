@@ -1,0 +1,17 @@
+{
+  "name": "Globees: Multiplier Rewards",
+  "description": "Vault for the Multiplier Rewards",
+  "social": {
+    "website": "https://globees.co",
+    "dApp": "https://dapp.globees.io",
+    "email": "contact@globees.fr",
+    "blog": "https://www.globees.co",
+    "twitter": "https://twitter.com/Globees_Project",
+    "telegram": "https://t.me/globees",
+    "discord": "https://discord.com/invite/ejanxfCqj4",
+    "github": "https://github.com/XGlobees",
+    "whitepaper": "https://globees.fr/whitepaper-globees/"
+  },
+  "tags": ["RWA", "Travel", "NFT", "Staking"],
+  "icon": "globees"
+}

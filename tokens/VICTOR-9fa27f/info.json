@@ -1,12 +1,19 @@
-{ 
-  "website": "https://supervictornft.com",
-  "website2": "https://supervictoruniverse.com",
-  "description": "VICTOR is a utility token powering the SuperVictor Universe ecosystem.",
-  "social": {
-    "email": "supervictoruniverse@gmail.com",
-    "twitter": "https://twitter.com/SVictorUniverse",
-    "discord": "https://discord.gg/w6FhnKryGd",
-    "whitepaper": "https://supervictoruniverse.gitbook.io/super-victor-universe"
-  },
-  "status": "active"
+{
+    "website": "https://supervictornft.com",
+    "description": "VICTOR is a utility token powering the SuperVictor Universe ecosystem.",
+    "status": "active",
+    "website2": "https://supervictoruniverse.com",
+    "social": {
+        "email": "supervictoruniverse@gmail.com",
+        "twitter": "https://twitter.com/SVictorUniverse",
+        "discord": "https://discord.gg/w6FhnKryGd",
+        "whitepaper": "https://supervictoruniverse.gitbook.io/super-victor-universe"
+    },
+    "lockedAccounts": {
+        "erd1202azk6fzy3lwrjka48pph6adhly8f69t2r33e9372yfqchlmwesrqrdzs": "SVU Development",
+        "erd10g0phds60v99jk0t8fk8rh3avtlpdadweaxlzz8pg9khn6cnlthsruwxnz": "SVU Growth and Strategic Reserve",
+        "erd1qy65fax5cqs6ar6j8qkls8dttwscjmnc3hwycvjh8fn0wyvc5zmqvfc2t5": "SVU Treasury",
+        "erd1kh5cerkgttzvqul85p9ts3pnjz0l70wmhrk77qdjqjy3l6ha4pysczpyfe": "SVU Team",
+        "erd1e7ffczdzaj7xa95elrhep9uycvg5f0krf2ucys4d8tvrjtqswtnqnkke5n": "SVU Tools and Rewards"
+    }
 }

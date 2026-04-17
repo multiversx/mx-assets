@@ -13,5 +13,6 @@
     "github": "https://github.com/PeerMeHQ",
     "community": "https://egld.community/projects/PeerMe"
   },
-  "tags": ["peerme", "payments", "saleries", "payouts", "grants", "kyc", "p2p"]
+  "tags": ["peerme", "payments", "saleries", "payouts", "grants", "kyc", "p2p"],
+  "icon": "peerme"
 }

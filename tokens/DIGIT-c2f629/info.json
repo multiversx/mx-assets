@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "AI-assisted decentralized anarchic governance combines the principles of decentralized governance and anarchism with the capabilities of artificial AI to enhance decision-making, coordination, and resource management.",
+    "social": {
+        "telegram": "https://t.me/+lnSIm0eYp6wzZjY0",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/DIGIT-c2f629",
+        "path": "0.usdPrice"
+    }
+}
