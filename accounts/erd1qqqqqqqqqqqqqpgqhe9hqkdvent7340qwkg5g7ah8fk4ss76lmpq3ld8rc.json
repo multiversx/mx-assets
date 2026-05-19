@@ -1,0 +1,12 @@
+{
+    "name": "Anchor Contract",
+    "description": "EduChain Curriculum Anchor\nDescription: On-chain hash registry that anchors curriculum documents and learning materials to the MultiversX blockchain. Any stakeholder can verify content integrity using the published SHA-256 hash.",
+    "website": "",
+    "social": {
+        "blog": "",
+        "twitter": ""
+    },
+    "tags": [
+        "education, anchor, curriculum, integrity, hash"
+    ]
+}
