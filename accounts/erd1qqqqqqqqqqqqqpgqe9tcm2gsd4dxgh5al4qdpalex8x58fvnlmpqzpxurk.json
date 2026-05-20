@@ -1,0 +1,12 @@
+{
+    "name": "NFT Certificate Contract",
+    "description": "Mints and manages verifiable educational certificate NFTs (SFTs) on MultiversX. Each token represents a tamper-proof academic credential issued to a learner by an authorized institution.",
+    "website": "",
+    "social": {
+        "blog": "",
+        "twitter": ""
+    },
+    "tags": [
+        "education, nft, certificate, credentials, soulbound"
+    ]
+}
