@@ -1,0 +1,12 @@
+{
+    "name": "EduChain Token Contract",
+    "description": "Description: Issues and manages the EduChain Token (ECT) — a fungible ESDT used to reward learners, incentivize mentors, and power the EduChain credentialing ecosystem on MultiversX.",
+    "website": "",
+    "social": {
+        "blog": "",
+        "twitter": ""
+    },
+    "tags": [
+        "education, token, rewards, educhain, esdt"
+    ]
+}
