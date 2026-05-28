@@ -1,0 +1,6 @@
+{
+  "name": "Staked Tokens Escrow",
+  "description": "Liquidity-pool desk that swaps staked Meta-ESDT positions for free tokens at user-set discounts.",
+  "website": "https://escrow.djooga.com",
+  "icon": "logo"
+}
