@@ -1,0 +1,15 @@
+{
+    "name": "KEPLER",
+    "description": "High-performance backend infrastructure for MultiversX builders.",
+    "social": {
+        "website": "https://projectx.mx",
+        "twitter": "https://x.com/ProjectX_DAO",
+        "telegram": "https://t.me/ProjectX_DAO",
+        "discord": "https://discord.projectx.mx"
+    },
+    "tags": [
+        "projectx",
+        "infrastructure"
+    ],
+    "icon": "projectx"
+}

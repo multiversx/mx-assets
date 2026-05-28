@@ -1,0 +1,17 @@
+{
+  "name": "OOX: NFT Staking",
+  "description": "OOX Marketplace Smart Contract for NFT Staking",
+  "social": {
+    "website": "https://oox.art",
+    "twitter": "https://x.com/OnionXLabs",
+    "telegram": "https://t.me/OnionXLabs"
+  },
+  "tags": [
+    "oox",
+    "nft",
+    "marketplace",
+    "staking"
+  ],
+  "icon": "oox"
+
+}

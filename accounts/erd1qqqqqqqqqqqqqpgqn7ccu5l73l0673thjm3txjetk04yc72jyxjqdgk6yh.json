@@ -1,0 +1,16 @@
+{
+    "name": "xMoney: XMN Vault",
+    "description": "",
+    "social": {
+        "website": "https://app.xmoney.com",
+        "telegram": "https://t.me/xMoney",
+        "youtube": "https://www.youtube.com/@xMoney.com.official",
+        "github": "https://github.com/xMoney-Payments",
+        "twitter": "https://x.com/xMoney_com"
+    },
+    "tags": [
+        "XMN",
+        "xMoney"
+    ],
+    "icon": "xmn-vault"
+}

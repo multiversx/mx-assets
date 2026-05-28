@@ -1,0 +1,15 @@
+{
+    "name": "EDGE",
+    "description": "The fastest Telegram bot on MultiversX.",
+    "social": {
+        "website": "https://projectx.mx",
+        "twitter": "https://x.com/ProjectX_DAO",
+        "telegram": "https://t.me/ProjectX_DAO",
+        "discord": "https://discord.projectx.mx"
+    },
+    "tags": [
+        "projectx",
+        "bot"
+    ],
+    "icon": "projectx-edge"
+}

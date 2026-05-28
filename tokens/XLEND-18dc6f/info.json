@@ -1,0 +1,16 @@
+{
+  "website": "https://xoxno.com",
+  "description": "This collection represents xLend account NFTs: transferable wallets-as-tokens that own your lending position. One NFT can encapsulate many supplied and borrowed assets, tracking collateral and debt in a single, composable container. Ownership of the NFT = ownership of the position. Guard it.",
+  "social": {
+    "email": "contact@xoxno.com",
+    "telegram": "https://xoxno.t.me",
+    "github": "https://github.com/xoxno",
+    "discord": "https://discord.gg/xoxno",
+    "twitter": "https://x.com/XoxnoNetwork",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xoxno/",
+    "coingecko": "https://www.coingecko.com/en/coins/xoxno",
+    "whitepaper": "https://xoxno.com/whitepaper"
+  },
+  "ledgerSignature": "",
+  "status": "active"
+}

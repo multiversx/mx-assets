@@ -1,5 +1,8 @@
 {
     "website": "https://www.youtube.com/shorts/5eTRlqvK3DU",
     "description": "MEX Whales tokens of the MultiversX.",
-    "status": "active"
+    "status": "active",
+    "social": {
+        "twitter": "https://x.com/xwhaleofficial?s=11"
+    }
 }
