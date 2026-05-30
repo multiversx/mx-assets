@@ -1,10 +1,13 @@
 {
-"website": "https://projectx.mx/",
-"description": "Subject X is a digital collection of 5.000 randomly generated PFPs that powers the Project X DAO",
-"social": {
+  "website": "https://projectx.mx/",
+  "description": "Subject X is a digital collection of 5.000 randomly generated PFPs that powers the Project X DAO",
+  "social": {
     "blog": "https://medium.com/@ProjectX_DAO",
-    "twitter": "https://twitter.com/ProjectX_DAO",
-    "discord": "http://discord.gg/ProjectX-DAO"
+    "twitter": "https://x.com/ProjectX_DAO",
+    "discord": "https://discord.projectx.mx",
+    "telegram": "https://t.me/ProjectX_DAO",
+    "whitepaper": "https://docs.projectx.mx/"
   },
-"status": "active"
+  "status": "active",
+  "preferredRankAlgorithm": "custom"
 }
