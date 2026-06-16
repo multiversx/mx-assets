@@ -1,0 +1,17 @@
+{
+  "name": "PredictX",
+  "description": "Decentralized World Cup 2026 prediction platform. Predict match outcomes, bet EGLD, win from the pool. Fully on-chain pari-mutuel betting.",
+  "social": {
+    "website": "https://predictmvx.com",
+    "twitter": "https://twitter.com/PredictMvx",
+    "telegram": "https://t.me/predictmvx"
+  },
+  "tags": [
+    "dapp",
+    "smartcontract",
+    "prediction",
+    "betting",
+    "sports"
+  ],
+  "icon": "predictx"
+}
