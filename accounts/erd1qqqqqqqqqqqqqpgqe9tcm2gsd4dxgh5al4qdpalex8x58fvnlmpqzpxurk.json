@@ -1,12 +1,10 @@
 {
-    "name": "NFT Certificate Contract",
-    "description": "Mints and manages verifiable educational certificate NFTs (SFTs) on MultiversX. Each token represents a tamper-proof academic credential issued to a learner by an authorized institution.",
-    "website": "",
-    "social": {
-        "blog": "",
-        "twitter": ""
-    },
-    "tags": [
-        "education, nft, certificate, credentials, soulbound"
-    ]
+  "name": "EduChain: Certificates Smart Contract",
+  "description": "Smart Contract responsible for issuing and revoking Soulbound educational Certificates (SBTs) containing off-chain cryptographic metadata verification hashes.",
+  "icon": "educhain",
+  "website": "https://github.com/DevmindRO/eduChain",
+  "social": {
+    "github": "https://github.com/DevmindRO/eduChain"
+  },
+  "tags": ["dapp", "smartcontract"]
 }

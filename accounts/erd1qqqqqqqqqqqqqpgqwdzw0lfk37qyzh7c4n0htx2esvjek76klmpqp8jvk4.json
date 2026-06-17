@@ -1,12 +1,10 @@
 {
-    "name": "EduChain Escrow",
-    "description": "Trustless escrow contract that locks ECT tokens for mentoring or tutoring sessions. Funds are released to the mentor upon session confirmation, ensuring fair payment without intermediaries.",
-    "website": "",
-    "social": {
-        "blog": "",
-        "twitter": ""
-    },
-    "tags": [
-        "education, escrow, mentoring, defi, educhain"
-    ]
+  "name": "EduChain: Escrow Smart Contract",
+  "description": "Smart Contract responsible for locking and releasing P2P student-to-mentor payments with dual-confirmations.",
+  "icon": "educhain",
+  "website": "https://github.com/DevmindRO/eduChain",
+  "social": {
+    "github": "https://github.com/DevmindRO/eduChain"
+  },
+  "tags": ["dapp", "smartcontract"]
 }
