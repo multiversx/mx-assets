@@ -1,0 +1,12 @@
+{
+    "name": "Test2",
+    "description": "Test2",
+    "website": "https://github.com/radumojic",
+    "social": {
+        "blog": "",
+        "twitter": ""
+    },
+    "tags": [
+        "test"
+    ]
+}
