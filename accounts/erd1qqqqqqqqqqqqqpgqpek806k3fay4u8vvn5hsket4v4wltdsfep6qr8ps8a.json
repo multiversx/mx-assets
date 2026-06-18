@@ -1,0 +1,12 @@
+{
+    "name": "Test",
+    "description": "Test Desc",
+    "website": "https://multiversx.com/",
+    "social": {
+        "blog": "",
+        "twitter": ""
+    },
+    "tags": [
+        "test"
+    ]
+}
