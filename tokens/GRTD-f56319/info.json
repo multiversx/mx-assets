@@ -1,8 +1,8 @@
 {
-    "social": {
-        "twitter": "https://x.com/MrsClausGRTD"
-    },
     "website": "https://x.com/MrsClausGRTD",
     "description": "Gertrude Claus, first and the only one #GRTD",
-    "status": "active"
+    "status": "active",
+    "social": {
+        "twitter": "https://x.com/MrsClausGRTD"
+    }
 }
