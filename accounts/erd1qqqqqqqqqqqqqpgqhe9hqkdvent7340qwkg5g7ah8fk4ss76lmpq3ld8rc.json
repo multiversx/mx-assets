@@ -1,0 +1,10 @@
+{
+  "name": "EduChain: Anchor Smart Contract",
+  "description": "Smart Contract registry serving as a proof-of-existence log for student curriculums, courses, and educational documents.",
+  "icon": "educhain",
+  "website": "https://github.com/DevmindRO/eduChain",
+  "social": {
+    "github": "https://github.com/DevmindRO/eduChain"
+  },
+  "tags": ["dapp", "smartcontract"]
+}
