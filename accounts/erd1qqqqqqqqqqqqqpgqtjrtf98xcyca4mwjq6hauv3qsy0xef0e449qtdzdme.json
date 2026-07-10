@@ -1,5 +1,5 @@
 {
-  "name": "Ta-da : user vesting reward",
+  "name": "Ta-da: User Vesting Reward",
   "description": "One App Infinite Ways To-Earn",
   "social": {
     "website": "https://ta-da.io/",
@@ -11,7 +11,10 @@
     "telegram": "https://t.me/Ta_da_announcements"
   },
   "tags": [
-    "Ta-da"
+    "tada",
+    "user",
+    "vesting",
+    "reward"
   ],
   "icon": "tada"
 }

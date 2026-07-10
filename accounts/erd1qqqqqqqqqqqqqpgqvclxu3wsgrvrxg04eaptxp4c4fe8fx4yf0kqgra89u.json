@@ -1,0 +1,15 @@
+{
+    "name": "A1X VLaunch distribution by Pulsar Money",
+    "description": "This smart contract is utilised in order to perform the distribution for the A1X VLaunch launchpad campaign",
+    "website": "https://pulsar.money",
+    "social": {
+        "blog": "",
+        "twitter": "https://x.com/PulsarMoneyApp"
+    },
+    "tags": [
+        "vesting",
+        "A1X",
+        "pulsarmoney",
+        "vlaunch"
+    ]
+}

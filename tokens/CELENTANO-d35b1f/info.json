@@ -1,0 +1,14 @@
+{
+    "website": "https://linktr.ee/celentanomeme",
+    "description": "You callin' me a bevvy head? Crypto is the wine of the future. EGLD believer | Memes, dreams, and a touch of madness \ud83d\ude80 ",
+    "social": {
+        "telegram": "",
+        "twitter": "https://x.com/celentanoMeme"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/CELENTANO-d35b1f",
+        "path": "0.usdPrice"
+    }
+}

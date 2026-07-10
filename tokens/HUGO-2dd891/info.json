@@ -1,0 +1,14 @@
+{
+    "website": "https://qowatt.network/fr/",
+    "description": "Don\u2019t miss out this crypto supercycle\u2014$HUGO revolution starts now!",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/HUGO-2dd891",
+        "path": "0.usdPrice"
+    }
+}

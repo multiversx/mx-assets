@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "CrytoSugi",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/PLM-fa34f2",
+        "path": "0.usdPrice"
+    }
+}

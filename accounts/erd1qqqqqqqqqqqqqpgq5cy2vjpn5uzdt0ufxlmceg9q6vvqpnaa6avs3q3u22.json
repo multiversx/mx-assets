@@ -1,11 +1,14 @@
 {
-  "name": "Kwak - Unwanted Kwak SC",
+  "name": "Kwak: Unwanted Kwak",
   "description": "",
   "social": {
     "website": "https://kwak.lol",
     "telegram": "https://t.me/dakwakklub",
     "twitter": "https://x.com/kwakdotlol"
   },
-  "tags": ["kwak"],
+  "tags": [
+    "kwak",
+    "unwanted"
+  ],
   "icon": ""
 }

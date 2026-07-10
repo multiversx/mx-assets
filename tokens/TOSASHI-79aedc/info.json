@@ -1,0 +1,14 @@
+{
+    "website": "https://www.tosashi.io/",
+    "description": "The Legend of AI Agent $TOSASHI on MultiversX",
+    "social": {
+        "telegram": "https://t.me/tosashiAI",
+        "twitter": "https://x.com/tosashiAI"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/TOSASHI-79aedc",
+        "path": "0.usdPrice"
+    }
+}

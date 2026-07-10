@@ -1,0 +1,11 @@
+{
+  "website": "https://lulo.fi/",
+  "description": "The modern way to grow your wealth.",
+  "social": {
+    "x": "https://x.com/uselulo"
+  },
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}

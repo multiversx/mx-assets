@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Sharing my dog story as well. \n\nI call him dawg.\n\nLucian Mincu",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/DAWG-26683a",
+        "path": "0.usdPrice"
+    }
+}

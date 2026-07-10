@@ -1,5 +1,5 @@
 {
-  "name": "Ta-da : burn",
+  "name": "Ta-da: Burn",
   "description": "One App Infinite Ways To-Earn",
   "social": {
     "website": "https://ta-da.io/",
@@ -11,7 +11,8 @@
     "telegram": "https://t.me/Ta_da_announcements"
   },
   "tags": [
-    "Ta-da"
+    "tada",
+    "burn"
   ],
   "icon": "tada"
 }

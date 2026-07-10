@@ -1,0 +1,9 @@
+{
+  "website": "https://mvxbrand.fun",
+  "description": "The first Trump/Pepe meme on Multiversx!",
+  "social": {},
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}

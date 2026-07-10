@@ -3,8 +3,12 @@
   "description": "HsEGLD is an interest bearing token representing a sEGLD supply position on Hatom's Lending & Borrowing Protocol.",
   "ledgerSignature": "30440220674dd6edba401de11d2296eca6eccd09ae7480c3fd29244c0a9681e2aab864e202203c849a6aba92a59ce27f365d96d58c45ef0966868baf84b734dbdd6e94f3f5db",
   "social": {
-    "blog": "https://blog.hatom.com/",
-    "twitter": "https://twitter.com/HatomProtocol"
+    "discord": "https://discord.gg/upPzjHtjFK",
+    "github": "https://github.com/HatomProtocol",
+    "blog": "https://mirror.xyz/0xDac8B6141d28C46765255607f3572c73A064383f",
+    "telegram": "https://t.me/HatomLabs",
+    "twitter": "https://twitter.com/HatomProtocol",
+    "linkedin": "https://www.linkedin.com/company/hatomlabs"
   },
   "status": "active",
   "priceSource": {

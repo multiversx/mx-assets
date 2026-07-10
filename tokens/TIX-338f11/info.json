@@ -1,0 +1,11 @@
+{
+    "social": {
+        "blog": "https://timeworx.io/blog",
+        "twitter": "https://x.com/timeworx_io",
+        "whitepaper": "https://docs.timeworx.io",
+        "coingecko": "https://www.coingecko.com/en/coins/timeworx"
+    },
+    "website": "https://timeworx.io",
+    "description": "TIX is the utility token of Timeworx.io, the data processing layer for next-gen AI.",
+    "status": "active"
+}

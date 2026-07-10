@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "We have no affiliation with Haliey Welch, we are fans who love the meme. #Hawktuah",
+    "social": {
+        "telegram": "",
+        "twitter": "https://x.com/hawktuah_mvx/status/1864990823491805344?s=46"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/HAWKTUAH-253ca9",
+        "path": "0.usdPrice"
+    }
+}

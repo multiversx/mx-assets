@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "Rise, shine, and create the future with LuciferX!\nLuciferX \u2013 The cryptocurrency that dares to light up the darkness.\nInspired by the most beautiful and enigmatic angel, LuciferX is the symbol of digital revolution and financial freedom. With a captivating story and an innovative ecosystem, we empower you to shine on your journey to success. ",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/LUCX-ae33bd",
+        "path": "0.usdPrice"
+    }
+}
