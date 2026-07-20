@@ -4,5 +4,10 @@
     },
     "website": "https://onedex.app/",
     "description": "OneDex Governance Token ",
-    "status": "active"
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/RONE-bb2e69",
+        "path": "0.usdPrice"
+    }
 }

@@ -1,0 +1,15 @@
+{
+    "name": "MemeversX: Factory",
+    "description": "MemeversX is a fair-launch platform that allows anyone to create their meme tokens in an easy, secure and transparent way.",
+    "website": "https://memeversx.com/",
+    "social": {
+        "blog": "https://medium.com/@buidly/memeversx-47fcb591c22e",
+        "twitter": "https://twitter.com/memevers_x"
+    },
+    "tags": [
+        "memeversx",
+        "fairlaunch",
+        "factory"
+    ],
+    "icon": "memeversx"
+}

@@ -1,0 +1,15 @@
+{
+    "website": "https://valoro.fund/investment-funds/tools",
+    "description": "ValoroTools is the token of the Valoro Infrastructure & Tools Fund.",
+    "social": {
+        "twitter": "https://twitter.com/ValoroFund",
+        "telegram": "https://t.me/valorofund",
+        "whitepaper": "https://docs.valoro.fund/"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.valoro.fund/v1/protocol/tokens/VLRTOOLS-744af2",
+        "path": "0.usdPrice"
+    }
+}

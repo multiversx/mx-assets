@@ -11,5 +11,10 @@
 	"extraTokens": [
 		"METASNUTS-496432"
 	],
-	"status": "active"
+	"status": "active",
+	"priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/NUTS-8ad81a",
+        "path": "0.usdPrice"
+    }
 }

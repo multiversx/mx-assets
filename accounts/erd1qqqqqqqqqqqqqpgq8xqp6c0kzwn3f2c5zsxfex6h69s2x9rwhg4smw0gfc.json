@@ -1,0 +1,16 @@
+{
+  "name": "Protocol: Vega Governance",
+  "description": "",
+  "social": {
+    "website": "http://multiversx.com",
+    "twitter": "https://twitter.com/intent/user?screen_name=multiversx",
+    "telegram": "https://t.me/MultiversX",
+    "youtube": "https://youtube.com/@MultiversXOfficial",
+    "github": "https://github.com/MultiversX"
+  },
+  "tags": [
+    "protocol",
+    "governance"
+  ],
+  "icon": "multiversx"
+}

@@ -1,0 +1,9 @@
+{
+    "social": {
+        "blog": "https://veropay.ro",
+        "twitter": "https://x.com/veropay_ro"
+    },
+    "website": "https://vero.ro",
+    "description": "Internal token for NFC Cashless Payments",
+    "status": "active"
+}

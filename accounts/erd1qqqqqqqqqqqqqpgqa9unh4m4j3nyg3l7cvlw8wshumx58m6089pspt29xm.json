@@ -1,0 +1,13 @@
+{
+  "name": "Ecosystem Growth Fund for Builders",
+  "description": "The goal of this bucket is to maximize network usage and revenue by offering growth credits tied to strategic KPIs to builders to create a secondary compounding network token sink, and incentivise intra-network spending. A new DAO-governed fund fostering innovation and a diverse application layer. These funds will be distributed as grants to builders, developers, and projects based on achieving predefined Key Performance Indicators (e.g. active users, transaction volume, revenue, TVL).",
+  "social": {
+    "website": "https://multiversx.com",
+    "twitter": "https://x.com/multiversx",
+    "telegram": "https://t.me/MultiversX",
+    "youtube": "https://youtube.com/@MultiversXOfficial",
+    "github": "https://github.com/MultiversX"
+  },
+  "tags": ["protocol", "governance", "fund"],
+  "icon": "multiversx"
+}

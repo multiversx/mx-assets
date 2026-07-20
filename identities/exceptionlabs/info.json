@@ -1,6 +1,11 @@
 {
   "name": "ExceptionLabs",
+  "description": "Exceptional staking services(^_^)",
+  "website": "https://exceptionlabs.net",
+  "location": "https://t.me/exceptionlabs",
+  "twitter": "exceptionlabs_",
   "owners": [
-    "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqpphllllswjz5dt"
+    "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqpphllllswjz5dt",
+    "erd18ymr64hf5mw03lz4yc4gpl8za6l9jn0uz3q24p9v35633v3g73dqa08puj"
   ]
 }

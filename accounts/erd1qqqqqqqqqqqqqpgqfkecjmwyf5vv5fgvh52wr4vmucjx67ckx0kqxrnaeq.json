@@ -1,6 +1,6 @@
 {
   "name": "Giants: Female Minter",
-  "description": "",
+  "description": "Giants female minter",
   "social": {
     "website": "https://giantsvillage.com",
     "email": "contact@elrondgiants.com",
@@ -13,9 +13,6 @@
     "tiktok": "https://www.tiktok.com/@elrondgiants",
     "facebook": "https://www.facebook.com/elrondgiants"
   },
-  "tags": [
-    "giants",
-    "female",
-    "minter"
-  ]
+  "tags": ["giants", "female", "minter"],
+  "icon": "giants"
 }

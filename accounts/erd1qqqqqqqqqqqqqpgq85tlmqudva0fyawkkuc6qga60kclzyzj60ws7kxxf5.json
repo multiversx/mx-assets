@@ -1,5 +1,5 @@
 {
-  "name": "Pulsar Money - Smart Payments Hub [Social Pay]",
+  "name": "Pulsar Money: Smart Payments Hub [Social Pay]",
   "description": "Pulsar Money is a Smart Payments Hub reshaping on-chain payments through advanced transfer modules. Among them, Social Payments brings the convenience of social media to digital payments, while enabling transfers over social media channels.",
   "social": {
     "website": "https://www.pulsar.money",
@@ -20,5 +20,6 @@
     "hub",
     "social",
     "transfers"
-  ]
+  ],
+  "icon": "pulsarmoney"
 }

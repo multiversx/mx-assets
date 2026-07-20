@@ -1,0 +1,17 @@
+{
+    "name": "Valoro: Growth Fund",
+    "description": "Valoro Growth is crafted for investors aiming to tap into high-potential projects within the MultiversX ecosystem, with a focus on real-world applications and dynamic growth sectors.",
+    "social": {
+        "website": "https://valoro.fund/investment-funds/growth",
+        "twitter": "https://twitter.com/ValoroFund",
+        "telegram": "https://t.me/valorofund",
+        "whitepaper": "https://docs.valoro.fund/"
+    },
+    "tags": [
+        "valoro",
+        "index-fund",
+        "investment",
+        "growth"
+    ],
+    "icon": "valoro"
+}

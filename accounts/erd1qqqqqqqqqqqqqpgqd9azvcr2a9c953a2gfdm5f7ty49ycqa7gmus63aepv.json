@@ -1,0 +1,12 @@
+{
+  "name": "BOBER Battle",
+  "description": "BoberBattle.com - 1v1 PvP coin toss on MvX. Powered by Project X. Win or lose, it's fun!",
+  "social": {
+    "website": "https://boberbattle.com/"
+  },
+  "tags": [
+    "game",
+    "bober"
+  ],
+  "icon": "bober-battle"
+}

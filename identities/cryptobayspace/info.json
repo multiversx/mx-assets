@@ -1,9 +1,8 @@
 {
-  "description": "Service Stacking Provider",
+  "description": "CryptoBay creates and maintains tools for users and builders within the ecosystem. Our wallet manager simplifies the management and compounding of your investments with ease. We also provide comprehensive documentation and videos to support builders in adopting MultiversX.",
   "name": "CryptoBay",
-  "twitter": "https://twitter.com/cryptobayspace",
-  "location": "Earth",
-  "owners": [
-    "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqq8llllls4xn0vm"
-  ]
+  "website": "https://cryptobay.space",
+  "twitter": "CryptoBaySpace",
+  "location": "Europe",
+  "owners": ["erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqq8llllls4xn0vm"]
 }

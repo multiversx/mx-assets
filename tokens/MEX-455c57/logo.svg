@@ -1,19 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="198" height="198" viewBox="0 0 198 198" className="expanded">
-  <defs>
-    <linearGradient id="mex" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#1a45c2"/>
-      <stop offset="1" stop-color="#001f9c"/>
-    </linearGradient>
-    <linearGradient id="mex-2" x1="0.5" y1="0.491" x2="0.5" y2="0.009" xlink:href="#mex"/>
-  </defs>
-  <g transform="translate(0.237 0.236)">
-    <circle cx="99" cy="99" r="99" transform="translate(-0.237 -0.236)" fill="#fff"/>
-    <g transform="translate(56.084 37.645)">
-      <g>
-        <path d="M378.85,152.213l-10.414,48.375H342.182Z" transform="translate(-323.013 -152.213)" fill-rule="evenodd" fill="url(#mex)"/>
-        <path d="M380.4,271.184l-19.166,25.487H295.04l19.169-25.487Z" transform="translate(-295.04 -222.808)" fill="#1a45c2" fill-rule="evenodd"/>
-        <path d="M404.314,333.864,367.646,382.24l10.414-48.376Z" transform="translate(-338.123 -260.002)" fill-rule="evenodd" fill="url(#mex-2)"/>
-      </g>
-    </g>
-  </g>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="200" rx="100" fill="#007CFF"/>
+<path d="M126.445 56.2195L110.325 93.7047H133.773C136.494 93.7047 139.007 95.3707 140.053 97.8697C140.891 100.577 140.263 103.493 138.169 105.367L84.5735 152.015C82.0612 153.889 78.7115 154.098 76.1991 152.223C73.6868 150.557 72.6401 147.225 73.8962 144.31L90.0168 106.825H66.778C63.847 106.825 61.3347 105.159 60.4973 102.659C59.4505 99.9522 60.0786 97.0367 62.1721 95.1624L115.768 48.5142C118.28 46.6399 121.63 46.4316 124.142 48.3059C126.655 49.9719 127.701 53.3039 126.445 56.2195Z" fill="white"/>
 </svg>

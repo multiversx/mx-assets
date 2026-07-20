@@ -1,0 +1,16 @@
+{
+    "name": "Project X - In wallet staking",
+    "description": "The first of its kind, most secure, and simple token mining experience on MultiversX.",
+    "social": {
+        "website": "https://projectx.mx",
+        "twitter": "https://x.com/ProjectX_DAO",
+        "telegram": "https://t.me/ProjectX_DAO",
+        "discord": "https://discord.projectx.mx"
+    },
+    "tags": [
+        "projectx",
+        "IWS",
+        "DAO"
+    ],
+    "icon": "projectx"
+}

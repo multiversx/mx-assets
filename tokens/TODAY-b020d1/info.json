@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "They laughed at Doge. They laughed at Shiba. Don\u2019t let them laugh at you when TODAY becomes the next big meme coin!  \n#TodayToTheMoon",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/TODAY-b020d1",
+        "path": "0.usdPrice"
+    }
+}

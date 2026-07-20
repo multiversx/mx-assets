@@ -1,0 +1,20 @@
+{
+    "website": "https://starlessx.com/",
+    "description": "StarlessX Gaming Token (SGX) allows earning tokens through games and activities, removing the need for initial investments and offering a safe environment for exploring cryptocurrencies.",
+    "social": {
+        "email": "contact@starlessx.com",
+        "whitepaper": "https://starlessx.com/whitepaper",
+        "twitter": "https://x.com/StarlessXCore",
+        "instagram": "https://www.instagram.com/starlessxcore"
+    },
+    "lockedAccounts": {
+        "erd1kssna3tl94we9ym4djg3dexuh7wvtuupnxh85lpcadjachzn4upsxx6wyu": "Core Team",
+        "erd17dq5dsxa4rpcukqljnlh2mwp7j57han6rfl0g4089kzpgr9r6jaqkv2f2z": "ICO Tokens",
+        "erd1rg70hnjghnph0v6l3rrdmtk5ff54xu87vdzr9lfunyjw05769czscraqxp": "Marketing & Development",
+        "erd19e6g9p734zjye23qmsgn6xjflz3jyydrmuc9a9edwenqvw7y9sus060lyq": "Gaming Rewards",
+        "erd17vpa3jqlu3cwwmcgn9wm7hxtsp8sy8l8w8tqv9zjlalayvaqjvps2l9d49": "Liquidity Pool",
+        "erd1ngtc723x79rmjqyykahuy2wskh2s8486pa9pe5fueqt5gtu59zxskhfvlw": "Airdrop",
+        "erd1nggawusxws5gatpu4a07v9llhwlgegwl4pgts07gxd4pn9kcppuszm8ca4": "Special Partnership"
+    },
+    "status": "active"
+}

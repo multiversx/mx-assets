@@ -10,6 +10,12 @@
   "lockedAccounts": {
     "erd1qqqqqqqqqqqqqpgq2jjxnsa025me89a4pe5az9dujz28us7t60wsz3mcxs": "Vesting",
     "erd1qqqqqqqqqqqqqpgqp8v47r80n2see9a2g77j3qm56gyz279aa7aq460szc": "Launchpad",
-    "erd1ec8xj629h55d7v7s6fz39h690vk9zs5dvdxk8lp4ct9k6vhgttuqaaj34x": "Token"
+    "erd1ec8xj629h55d7v7s6fz39h690vk9zs5dvdxk8lp4ct9k6vhgttuqaaj34x": "Token",
+    "erd1jpl9j43009umxt95y2f434zu4ydus9dq9q936haq5yk7cduvjzyq77zc29": "Vested Treasury",
+    "erd175an8tzc3z6s6d9n4estrclja9xapgmf0gctar2sx9p8xg2kmqas6lc3k5": "Vested Community",
+    "erd1z4zcmxqflfxcmvt5l89dj37q896ylhfjnz0hwkhkyyjqkav8gums4qarj2": "Vested Ecosystem",
+    "erd1h646907zl973t8x53xd9zzklm84tumunc70lcgtjq30ue07clpmqd0q6xp": "Vested Advisor",
+    "erd1a5adfzswmy0c2c23tl82l2rc888d6t4h4l044kkvsl065ej2z3ssddesj0": "Vested Team",
+    "erd14ncar6q8eguaj2qkp3l48v32g3alpq0604w6saj6qr86t8ldgzrskhaj56": "Vested Growth"
   }
 }

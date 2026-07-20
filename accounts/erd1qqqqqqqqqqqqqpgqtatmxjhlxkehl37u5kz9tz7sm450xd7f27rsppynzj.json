@@ -13,9 +13,6 @@
     "github": "https://github.com/PeerMeHQ",
     "community": "https://egld.community/projects/PeerMe"
   },
-  "tags": [
-    "peerme",
-    "dao",
-    "governance"
-  ]
+  "tags": ["peerme", "dao", "governance"],
+  "icon": "peerme"
 }

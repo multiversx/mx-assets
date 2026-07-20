@@ -1,0 +1,13 @@
+{
+    "name": "KwakWar : The Battlefield",
+    "description": "Main contract managing wars between clans including power handling events and rewards",
+    "social": {
+        "website": "https://kwakwar.kwak.lol",
+        "twitter": "https://x.com/kwakdotlol"
+    },
+    "tags": [
+        "kwak",
+        "game"
+    ],
+    "icon": "kwakwars"
+}

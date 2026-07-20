@@ -1,0 +1,18 @@
+{
+  "name": "SRBLABS: Wheel of Fomo (shard 2)",
+  "description": "Spinning wheel within FUDOUT dApp. Like to degen & feeling lucky? Wheel of Fomo is for you. Provable odds.",
+  "social": {
+      "website": "https://fudout.superrarebears.com/wof",
+      "twitter": "https://twitter.com/SuperRare_Bears",
+      "telegram": "https://t.me/superrarebears"
+  },
+  "tags": [
+      "srb",
+      "superrarebears",
+      "fudout",
+      "wof",
+      "wheeloffomo",
+      "game"
+  ],
+  "icon": "wof"
+}

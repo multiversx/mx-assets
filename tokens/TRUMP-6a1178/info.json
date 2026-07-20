@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "The real TRUMP",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/TRUMP-6a1178",
+        "path": "0.usdPrice"
+    }
+}

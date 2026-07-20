@@ -1,0 +1,18 @@
+{
+  "website": "https://xoxno.com",
+  "description": "Locked XOXNO (LKXOXNO) is the vested utility token of the XOXNO Network, a Web3 platform enabling engagement with the new-age economy, including collectibles, DeFi, and more. LKXOXNO tokens are locked in various batches for different periods, yet remain transferable between users at will. Once unlocked, LKXOXNO can be redeemed at a 1:1 ratio for the original XOXNO token.",
+  "social": {
+    "email": "contact@xoxno.com",
+    "telegram": "https://xoxno.t.me",
+    "github": "https://github.com/xoxno",
+    "discord": "https://discord.gg/xoxno",
+    "twitter": "https://x.com/XoxnoNetwork",
+    "whitepaper": "https://xoxno.com/whitepaper",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/xoxno/",
+    "coingecko": "https://www.coingecko.com/en/coins/xoxno"
+  },
+  "priceSource": {
+    "url": "https://api.xoxno.com/tokens?identifier=XOXNO-c1293a"
+  },
+  "status": "active"
+}

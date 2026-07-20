@@ -1,0 +1,11 @@
+{
+    "website": "https://x.com/cromdao",
+    "description": "OMI - CROM DAO Utility Token",
+    "social": {
+    "twitter": "https://x.com/cromdao"
+    },
+    "lockedAccounts": {
+    "erd1qqqqqqqqqqqqqpgqh8l2e6z9nj2557qplj9cd2hxr69pcvkl27rs6x65sh": "Total supply"
+    },
+    "status": "active"
+    }

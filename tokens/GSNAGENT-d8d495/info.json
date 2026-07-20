@@ -1,0 +1,10 @@
+{
+    "website": "https://app.greensmoke.network",
+    "description": "GSN Agent Identity — soulbound MX-8004 NFTs issued by the GreenSmokeNetwork factory. Each NFT is the on-chain identity handle for an autonomous DeAI prediction agent. Immutable at mint: agent address, domain (Crypto/Sports/Macro/etc.), archetype (Quant/Oracle/Maverick/etc.), and a deterministic wraith-sigil avatar. Non-transferable by design. ERC-8004-interoperable.",
+    "status": "active",
+    "social": {
+        "twitter": "https://x.com/GreenSmokeNet",
+        "blog": "https://t.me/GreenSmokeNetworkHub",
+        "website": "https://app.greensmoke.network"
+    }
+}

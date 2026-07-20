@@ -1,6 +1,6 @@
 {
   "name": "Giants Village: Village Manager",
-  "description": "",
+  "description": "Giants Village board manager",
   "social": {
     "website": "https://giantsvillage.com",
     "email": "contact@elrondgiants.com",
@@ -13,9 +13,6 @@
     "tiktok": "https://www.tiktok.com/@elrondgiants",
     "facebook": "https://www.facebook.com/elrondgiants"
   },
-  "tags": [
-    "giants",
-    "game",
-    "manager"
-  ]
+  "tags": ["giants", "game", "manager"],
+  "icon": "giants"
 }

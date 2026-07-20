@@ -1,0 +1,13 @@
+{
+    "website": "https://www.seb_tokenn.com",
+    "description": "Sebastian's Token",
+    "social": {
+        "email": "egld-token@multiversx.com",
+        "blog": "https://www.multiversxtoken.com/EGLD-token-blog",
+        "twitter": "https://twitter.com/EGLD-token-twitter",
+        "whitepaper": "https://www.multiversxtoken.com/EGLD-token-whitepaper.pdf",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/EGLD-token",
+        "coingecko": "https://www.coingecko.com/en/coins/EGLD-token"
+    },
+    "status": "active"
+}
