@@ -1,0 +1,8 @@
+{
+  "website": "https://github.com/DevmindRO/eduChain",
+  "description": "EduChain: Provenance Anchors is the collection of Soulbound NFTs automatically minted by the EduChain content-anchoring registry whenever a document or dataset hash is anchored on-chain, providing cryptographic proof of authorship and timestamp for the anchored content.",
+  "status": "active",
+  "social": {
+    "email": "costin.carabas@gmail.com"
+  }
+}
