@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Dark background -->
+  <rect width="200" height="200" fill="#0A0F0D" rx="12"/>
+  <!-- Hexagon shape -->
+  <polygon points="100,12 172,53 172,147 100,188 28,147 28,53"
+           fill="none" stroke="#39ff8e" stroke-width="3" filter="url(#glow)"/>
+  <!-- Inner glow ring -->
+  <polygon points="100,20 164,57 164,143 100,180 36,143 36,57"
+           fill="none" stroke="#39ff8e" stroke-width="1" opacity="0.3"/>
+  <!-- = symbol -->
+  <line x1="72" y1="88" x2="128" y2="88" stroke="#39ff8e" stroke-width="8" stroke-linecap="round" filter="url(#glow)"/>
+  <line x1="72" y1="108" x2="128" y2="108" stroke="#39ff8e" stroke-width="8" stroke-linecap="round" filter="url(#glow)"/>
+  <!-- / symbol -->
+  <line x1="112" y1="120" x2="136" y2="72" stroke="#39ff8e" stroke-width="8" stroke-linecap="round" filter="url(#glow)"/>
+</svg>

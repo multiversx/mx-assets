@@ -1,0 +1,27 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5eead4"/>
+      <stop offset="50%" stop-color="#4ade80"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <linearGradient id="silverGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#94a3b8"/>
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="90" fill="none" stroke="url(#greenGrad)" stroke-width="6" opacity="0.95"/>
+  <g transform="translate(2,8)">
+    <path d="M 52 58 L 52 148 L 72 148 L 72 116 L 90 116 Q 116 116 116 87 Q 116 58 90 58 Z M 72 75 L 86 75 Q 96 75 96 87 Q 96 99 86 99 L 72 99 Z" fill="url(#silverGrad)"/>
+    <path d="M 96 98 L 116 98 L 128 118 L 140 98 L 160 98 L 138 132 L 160 166 L 140 166 L 128 146 L 116 166 L 96 166 L 118 132 Z" fill="url(#greenGrad)"/>
+  </g>
+  <g transform="translate(146, 54)">
+    <circle cx="0" cy="0" r="26" fill="#ffffff" stroke="#1e293b" stroke-width="2.5"/>
+    <polygon points="0,-11 10,-3.5 6.5,8 -6.5,8 -10,-3.5" fill="#1e293b"/>
+    <line x1="0" y1="-11" x2="0" y2="-26" stroke="#1e293b" stroke-width="2"/>
+    <line x1="10" y1="-3.5" x2="24" y2="-9" stroke="#1e293b" stroke-width="2"/>
+    <line x1="6.5" y1="8" x2="15" y2="20" stroke="#1e293b" stroke-width="2"/>
+    <line x1="-6.5" y1="8" x2="-15" y2="20" stroke="#1e293b" stroke-width="2"/>
+    <line x1="-10" y1="-3.5" x2="-24" y2="-9" stroke="#1e293b" stroke-width="2"/>
+  </g>
+</svg>

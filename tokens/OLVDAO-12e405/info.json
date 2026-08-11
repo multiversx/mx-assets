@@ -1,5 +1,9 @@
 {
-    "website": "https://olivedao.gitbook.io/olivedao",
+    "website": "https://olivemvx.gitbook.io/olivemvx",
     "description": "A limited series of semi-fungible tokens from the Olive ecosystem. Built for real utility, these SFTs strengthen engagement and unlock unique opportunities inside Olive DAO.",
-    "status": "active"
+    "status": "active",
+    "social": {
+        "blog": "https://linktr.ee/olivemvx",
+        "twitter": "https://x.com/OliveMVX"
+    }
 }

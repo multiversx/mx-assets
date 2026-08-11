@@ -1,6 +1,6 @@
 {
-  "name": "DinoVox: Marketplace",
-  "description": "DinoVox marketplace",
+  "name": "DinoVox: deprecated marketplace",
+  "description": "DinoVox deprecated marketplace",
   "social": {
     "blog": "https://medium.com/dinovox",
     "twitter": "https://twitter.com/TheDinoVox",
@@ -11,6 +11,6 @@
     "telegram": "https://t.me/thedinovox",
     "instagram": "https://www.instagram.com/jointhedinovox/"
   },
-  "tags": ["dinovox", "marketplace", "graou"],
+  "tags": ["dinovox", "deprecated", "graou"],
   "icon": "dinovox"
 }

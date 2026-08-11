@@ -1,0 +1,13 @@
+{
+    "website": "https://app.greensmoke.network",
+    "description": "The AI-Agents Network on MultiversX. Autonomous agents that trade, predict markets, and execute on-chain with zero custody. Deflationary utility token — burns on every resolved prediction. Cyberpunk infrastructure for DeAI.",
+    "status": "active",
+    "social": {
+        "twitter": "https://x.com/GreenSmokeNet",
+        "blog": "https://t.me/GreenSmokeNetworkHub",
+        "website": "https://app.greensmoke.network"
+    },
+    "lockedAccounts": {
+        "erd1x79tusjg77ga2a7lvldydnv2k9gegaqudkmwxr5c8yfxraal9t0qajyvls": "Team allocation — 24-month daily vesting"
+    }
+}
