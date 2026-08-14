@@ -1,0 +1,17 @@
+{
+  "name": "Snoppits Team Wallet",
+  "description": "Snoppits team wallet, the team has full flexibility over its use.",
+  "social": {
+    "website": "https://www.snoppits.com",
+    "telegram": "https://t.me/snoppits_community",
+    "github": "https://github.com/snoppits",
+    "whitepaper": "https://snoppits.gitbook.io",
+    "dApp": "https://app.snoppits.com",
+    "twitter": "https://x.com/snoppits_com",
+    "linktree": "https://linktr.ee/snoppits"
+  },
+  "tags": [
+    "snoppits",
+    "team"
+  ]
+}
