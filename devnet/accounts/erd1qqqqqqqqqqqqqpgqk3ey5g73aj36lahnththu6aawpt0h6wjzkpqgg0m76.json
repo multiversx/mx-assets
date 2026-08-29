@@ -1,0 +1,10 @@
+{
+    "name": "Factory Contract for Philanthrify",
+    "description": "A factory contract for deploying Philanthrify Charity DAOs to manage charitable projects like NewCharity.",
+    "website": "https://philanthrify.co.uk",
+    "social": {
+        "blog": "",
+        "twitter": "https://x.com/philanthrifyapp"
+    },
+    "tags": []
+}
