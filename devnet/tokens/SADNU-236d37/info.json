@@ -1,0 +1,12 @@
+{
+    "social": {
+        "blog": "https://gov.md/sadnu-blog",
+        "twitter": "https://twitter.com/sadnu",
+        "whitepaper": "https://gov.md/sadnu-whitepaper",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/SADNU-token",
+        "coingecko": "https://www.coingecko.com/en/coins/SADNU-token"
+    },
+    "website": "https://gov.md/sadnu",
+    "description": "This is the utility token of Moldovan Government",
+    "status": "active"
+}
