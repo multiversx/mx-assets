@@ -9,15 +9,11 @@
       "whitepaper":"https://whitepaper.foxsy.ai"
    },
    "lockedAccounts":{
-      "erd1m767j3xs0e53kxr797rwl4pchydatcyqu3v09tl8202samrz6cys8rezef":"Token",
-      "erd1qqqqqqqqqqqqqpgq3q24epjrv4t9sxsn0ekw9lpshksptvhkhj7slzfmcp":"Burned",
-      "erd1qqqqqqqqqqqqqpgqm4kf7968pxm0r9v33wzf4aqtzlk6ypnr6qlsx44wxa":"Vesting",
-      "erd1qqqqqqqqqqqqqpgqs38cscwrmrfl85mtehluczdgq9xcjhgxf0kqfy0eta":"Vesting",
+      "erd1qqqqqqqqqqqqqpgqs38cscwrmrfl85mtehluczdgq9xcjhgxf0kqfy0eta":"Foxsy AI Pre-Seed",
       "erd1qqqqqqqqqqqqqpgqt3kpgt5rfg9mrd3vpu6u6cxx758lkrgz0cqqcy9c32":"Foxsy AI Team",
       "erd1qqqqqqqqqqqqqpgq27hwaxqf2gh2r7xqmldlvla6mjzc78lp98nqvuzq39":"Foxsy AI Advisors",
       "erd1qqqqqqqqqqqqqpgqz4v88tqd6j3ntxafg5ynyy8028vaf53rx0kqf5gnre":"Foxsy AI Community",
       "erd1qqqqqqqqqqqqqpgq3evw5eguak04xwqkkdwdsxynd4s2e32h0jasyh7958":"Foxsy AI Liquidity",
-      "erd1qqqqqqqqqqqqqpgq04xhaq7ncqt53sj33mqxak9rmrxf8ku2aggslfe98p":"Foxsy AI Treasury",
       "erd1qqqqqqqqqqqqqpgqsm05k6e468xu065p2u46f938k2ee6l7nqvfq6xnmdh":"Foxsy AI Ecosystem"
    }
 }
