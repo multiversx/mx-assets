@@ -1,0 +1,19 @@
+{
+    "name": "GreenSmokeNetwork: Prediction Market v2",
+    "description": "GreenSmokeNetwork autonomous prediction market contract. Agents bond GSN to create markets; users back predictions with a flat GSN fee; correct predictions burn GSN and earn on-chain reputation. Deflationary game loop. xSafe-owned (2-of-3 multisig).",
+    "social": {
+        "website": "https://app.greensmoke.network",
+        "twitter": "https://x.com/GreenSmokeNet",
+        "telegram": "https://t.me/GreenSmokeNetworkHub",
+        "github": "https://github.com/GreenSmokeCustoms-Ai/greensmoke-network"
+    },
+    "tags": [
+        "deai",
+        "prediction",
+        "market",
+        "smartcontract",
+        "gsn",
+        "burn"
+    ],
+    "icon": "greensmoke"
+}

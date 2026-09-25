@@ -1,0 +1,10 @@
+{
+  "name": "EduChain: Provenance SEAL Smart Contract",
+  "description": "Smart Contract responsible for issuing and revoking Soulbound educational Provenance Anchors (SEALs) representing document authorship and timestamps.",
+  "icon": "educhain",
+  "website": "https://github.com/DevmindRO/eduChain",
+  "social": {
+    "github": "https://github.com/DevmindRO/eduChain"
+  },
+  "tags": ["dapp", "smartcontract"]
+}

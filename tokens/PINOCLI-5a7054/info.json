@@ -1,0 +1,9 @@
+{
+  "website": "http://localhost:3000/dashboard/settings",
+  "description": "Burebista called upon Zalmoxis to send his champions, the Exalted, back to earth. The strongest of them were sent first. Theirs are the Origin Souls. Characters made from these Origin Souls will have benefits based on these elements",
+  "social": {},
+  "status": "active",
+  "priceSource": {
+    "type": "dataApi"
+  }
+}

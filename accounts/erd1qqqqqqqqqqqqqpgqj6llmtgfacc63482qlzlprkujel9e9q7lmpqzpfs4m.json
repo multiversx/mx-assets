@@ -1,0 +1,10 @@
+{
+  "name": "EduChain: Gamification Badges Smart Contract",
+  "description": "Smart Contract responsible for issuing and revoking Soulbound achievement Badges representing educational milestones and student rewards.",
+  "icon": "educhain",
+  "website": "https://github.com/DevmindRO/eduChain",
+  "social": {
+    "github": "https://github.com/DevmindRO/eduChain"
+  },
+  "tags": ["dapp", "smartcontract"]
+}

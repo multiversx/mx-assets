@@ -1,0 +1,17 @@
+{
+  "name": "JEX: BOBER-PADAWAN LP",
+  "description": "BOBER-PADAWAN liquidity pool on JEX",
+  "social": {
+    "website": "https://jexchange.io",
+    "blog": "https://medium.com/@JEXchangeDefi",
+    "twitter": "https://x.com/JEXchangeDefi",
+    "discord": "https://discord.gg/VRbSx3S5Yw",
+    "telegram": "https://t.me/JEXAnnouncements"
+  },
+  "tags": [
+    "jexchange",
+    "liquidity",
+    "swap"
+  ],
+  "icon": "jexchange"
+}

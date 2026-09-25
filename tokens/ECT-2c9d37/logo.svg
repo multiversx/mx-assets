@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#86EFAC" />
+      <stop offset="50%" stop-color="#22C55E" />
+      <stop offset="100%" stop-color="#166534" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <!-- Circular glowing wave/ring -->
+  <path d="M50,15 C69.33,15 85,30.67 85,50 C85,69.33 69.33,85 50,85 C42,85 32,80 32,80" fill="none" stroke="url(#greenGrad)" stroke-width="6" stroke-linecap="round" opacity="0.85" filter="url(#glow)" />
+  
+  <!-- Stylized letter D path matching the logo's geometry -->
+  <path d="M32,20 L50,20 C66.57,20 80,33.43 80,50 C80,66.57 66.57,80 50,80 L32,80 Z" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+</svg>

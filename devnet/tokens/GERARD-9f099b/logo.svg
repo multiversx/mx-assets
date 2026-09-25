@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="120" fill="#0F1016"/>
+  <!-- Simbolul MultiversX stilizat pe Galben/Gold -->
+  <path d="M140 160 L210 120 L290 230 L220 270 Z" fill="#FFD700"/>
+  <path d="M372 160 L302 120 L222 230 L292 270 Z" fill="#FFC107"/>
+  <path d="M140 352 L210 392 L290 282 L220 242 Z" fill="#FFC107"/>
+  <path d="M372 352 L302 392 L222 282 L292 242 Z" fill="#FFD700"/>
+  <!-- Litera G de la GerardCoin integrata perfect in centru -->
+  <path d="M256 170 C208 170 170 208 170 256 C170 304 208 342 256 342 C304 342 342 304 342 256 L342 240 L256 240 L256 270 L312 270 C306 292 284 310 256 310 C226 310 202 286 202 256 C202 226 226 202 256 202 C274 202 290 211 300 224 L326 200 C310 181 285 170 256 170 Z" fill="#FFE500"/>
+</svg>

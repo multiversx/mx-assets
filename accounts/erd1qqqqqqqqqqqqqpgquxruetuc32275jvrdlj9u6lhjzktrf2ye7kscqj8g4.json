@@ -1,0 +1,15 @@
+{
+    "name": "StakeNEST World Cup On-Chain",
+    "description": "World Cup On-Chain is a football prediction competition built by StakeNEST on MultiversX. Players predict matches, compete on a live leaderboard, and battle for an EGLD prize pool secured through the smart contract.",
+    "website": "https://stakenest.io/ecosystem/worldcup",
+    "social": {
+        "blog": "",
+        "twitter": "https://x.com/stakenest_io"
+    },
+    "tags": [
+        "World Cup",
+        "Football",
+        "Prediction",
+        "Competition"
+    ]
+}

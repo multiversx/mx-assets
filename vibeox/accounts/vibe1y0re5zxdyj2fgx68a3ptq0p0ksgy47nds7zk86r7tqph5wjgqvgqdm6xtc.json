@@ -1,0 +1,11 @@
+{
+  "name": "VibeOX Stream Manager",
+  "description": "The account who manages the VibeOX Smart Contract",
+  "social": {
+    "website": "https://vibeox.ai"
+  },
+  "tags": [
+    "vibeox"
+  ],
+  "icon": "vibeox"
+}

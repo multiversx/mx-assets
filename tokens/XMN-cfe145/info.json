@@ -1,0 +1,16 @@
+{
+    "social": {
+        "twitter": "https://x.com/xMoney_com",
+        "whitepaper": "https://www.xmoney.com/legal/white-paper-xmn-2",
+        "blog": "https://www.xmoney.com/blog",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/xmoney/",
+        "coingecko": "https://www.coingecko.com/en/coins/xmoney"
+    },
+    "website": "https://www.xmoney.com",
+    "description": "xMoney powers global payments and helps businesses move faster, smarter, and more securely. $XMN is the token that fuels the entire ecosystem.",
+    "status": "active",
+    "extraTokens": [
+        "XMNFARM-e56b74",
+        "LXMN-3872a8"
+    ]
+}
