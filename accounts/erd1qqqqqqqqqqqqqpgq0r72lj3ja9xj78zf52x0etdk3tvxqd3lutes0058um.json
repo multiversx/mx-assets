@@ -1,6 +1,6 @@
 {
   "name": "FoxLeague Players",
-  "description": "Player cards of FoxLeague, the AI football league on MultiversX.",
+  "description": "Player cards of FoxLeague, the AI soccer league on MultiversX.",
   "social": {
     "website": "https://foxleague.ai",
     "twitter": "https://x.com/foxsy_ai",
@@ -11,7 +11,7 @@
     "foxsy",
     "gaming",
     "nft",
-    "football"
+    "soccer"
   ],
   "icon": "foxleague"
 }
