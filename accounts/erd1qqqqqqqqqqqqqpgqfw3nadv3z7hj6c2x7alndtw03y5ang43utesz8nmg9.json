@@ -1,0 +1,17 @@
+{
+  "name": "FoxLeague Tournaments",
+  "description": "Tournament entry fees and prizes of FoxLeague, the AI football league on MultiversX.",
+  "social": {
+    "website": "https://foxleague.ai",
+    "twitter": "https://x.com/foxsy_ai",
+    "telegram": "https://t.me/foxsyai"
+  },
+  "tags": [
+    "foxleague",
+    "foxsy",
+    "gaming",
+    "tournaments",
+    "football"
+  ],
+  "icon": "foxleague"
+}
