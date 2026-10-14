@@ -6,7 +6,9 @@
       "email":"contact@foxsy.ai",
       "telegram":"https://t.me/foxsyai",
       "twitter":"https://x.com/foxsy_ai",
-      "whitepaper":"https://whitepaper.foxsy.ai"
+      "whitepaper":"https://whitepaper.foxsy.ai",
+      "coinmarketcap":"https://coinmarketcap.com/currencies/foxsy-ai/",
+      "coingecko":"https://www.coingecko.com/en/coins/foxsy-ai"
    },
    "lockedAccounts":{
       "erd1qqqqqqqqqqqqqpgqs38cscwrmrfl85mtehluczdgq9xcjhgxf0kqfy0eta":"Foxsy AI Pre-Seed",
