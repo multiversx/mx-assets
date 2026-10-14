@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" fill="none">
+  <title>Bitcoin neon blue</title>
+  <g transform="translate(100 100) scale(0.75) rotate(14) translate(-113.5 -99.5)" fill="#23F7FF">
+    <path fill-rule="evenodd" d="M65 40H118C141 40 154 51 154 69C154 81 148 89 138 94C153 98 162 108 162 123C162 145 146 158 120 158H65V143H77V55H65V40ZM98 59V88H116C128 88 134 83 134 73C134 64 128 59 116 59H98ZM98 107V139H119C133 139 141 134 141 123C141 113 133 107 119 107H98Z"/>
+    <path d="M94 24H105V45H94ZM116 24H127V45H116ZM94 153H105V175H94ZM116 153H127V175H116Z"/>
+  </g>
+</svg>
