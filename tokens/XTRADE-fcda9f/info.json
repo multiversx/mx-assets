@@ -1,5 +1,8 @@
 {
     "website": "https://mvxtrade.app",
     "description": "The Ultimate MultiversX Trading Hub",
-    "status": "active"
+    "status": "active",
+    "social": {
+        "twitter": "https://x.com/mvxtradeapp?s=11&t=HCy4g7lg1AhQjx4MKmp28Q"
+    }
 }
