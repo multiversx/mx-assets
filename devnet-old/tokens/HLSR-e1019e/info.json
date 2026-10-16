@@ -1,0 +1,9 @@
+{
+    "social": {
+        "blog": "https://blog.hatom.com/",
+        "twitter": "https://twitter.com/HatomProtocol"
+    },
+    "website": "https://hatom.com/",
+    "description": "This NFT represents the receipt of your unstaking position within the Hatom Liquid Staking Protocol. It is required to be able to claim your EGLD at the end of the unstaking period. If you exchange or lose this NFT, you will lose access to your EGLD.",
+    "status": "active"
+}
