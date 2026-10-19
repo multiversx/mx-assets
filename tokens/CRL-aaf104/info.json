@@ -1,0 +1,15 @@
+{
+    "social": {
+        "blog": "https://co-relayer.com/blog",
+        "twitter": "https://x.com/co_relayer",
+        "whitepaper": "https://co-relayer.com/papers/corelayer-units-whitepaper.pdf"
+    },
+    "website": "https://co-relayer.com",
+    "description": "Corelayer Units (CRL) is the ecosystem token of CoRelayer, a cooperative relayer infrastructure designed to power gas-sponsored transactions for applications and autonomous AI agents. Its economic model incorporates liquidity support as part of the long-term development of the CoRelayer ecosystem.",
+    "lockedAccounts": {
+        "erd1mf4u0jr6786wtz7s7dj6gmpyfafg8e0exh5wvye5cygvvxyyxhpsmj8q0e": "CoRelayer: Treasury",
+        "erd1sdnv72exza83t9pggltfffyznj5kn7gee984rs45npympayaxucsneh83z": "CoRelayer: Team",
+        "erd19yslnn8kdv4jfetqwqhwxue3d4w0srzk9k0ak8f0gz6duky6p4zsxupw7m": "CoRelayer: Ecosystem & Marketing"
+    },
+    "status": "active"
+}
