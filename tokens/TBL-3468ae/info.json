@@ -1,5 +1,8 @@
 {
     "website": "https://t.me/cyberaria",
-    "description": "{\n  \"website\": \"https://t.me/cyberaria\",\n  \"description\": {\n    \"en\": \"TriPool is a decentralized raffle protocol. It enables smart, social investment through structured token and liquidity pooling mechanisms.\"\n  },\n  \"social\": {\n    \"twitter\": \"https://x.com/rcvcoin\"\n  },\n  \"status\": \"active\"\n}",
-    "status": "active"
+    "description": "TriPool is a decentralized raffle protocol. It enables smart, social investment through structured token and liquidity pooling mechanisms.",
+    "status": "active",
+    "social": {
+        "twitter": "https://x.com/rcvcoin"
+    }
 }
