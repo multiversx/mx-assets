@@ -1,0 +1,13 @@
+{
+  "name": "ROAR CASINO",
+  "description": "On-chain dice for EGLD and ROAR. The bankroll stays in the contract.",
+  "social": {
+    "website": "https://linktr.ee/ROARHighSpeX",
+    "twitter": "https://x.com/ROARHighSpeX"
+  },
+  "tags": [
+    "dapp",
+    "smartcontract",
+    "casino"
+  ]
+}

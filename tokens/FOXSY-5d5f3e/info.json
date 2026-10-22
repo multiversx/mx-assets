@@ -1,18 +1,22 @@
 {
    "website":"https://foxsy.ai",
    "description":"🦊 🦿 ⚽️ 🥅 🌎 🏆 Basically a dog wif brainz & 𝕏 appeal. Also AI, robotics & web3.",
+   "ledgerSignature":"3044022069bed6de3f3aa211c7d1d1fe93ffba124ccefa554ccc93be9c36d85d4a857fe102205ac9e79fe6df65ff1d834127cd68eac19f67533d5c957800ca5e8d31581e9741",
    "status":"active",
    "social":{
       "email":"contact@foxsy.ai",
       "telegram":"https://t.me/foxsyai",
       "twitter":"https://x.com/foxsy_ai",
-      "whitepaper":"https://whitepaper.foxsy.ai"
+      "whitepaper":"https://whitepaper.foxsy.ai",
+      "coinmarketcap":"https://coinmarketcap.com/currencies/foxsy-ai/",
+      "coingecko":"https://www.coingecko.com/en/coins/foxsy-ai"
    },
    "lockedAccounts":{
-      "erd1m767j3xs0e53kxr797rwl4pchydatcyqu3v09tl8202samrz6cys8rezef":"Token",
-      "erd1qqqqqqqqqqqqqpgq3q24epjrv4t9sxsn0ekw9lpshksptvhkhj7slzfmcp":"Burned",
-      "erd1qqqqqqqqqqqqqpgqm4kf7968pxm0r9v33wzf4aqtzlk6ypnr6qlsx44wxa":"Vesting",
-      "erd1qqqqqqqqqqqqqpgqs38cscwrmrfl85mtehluczdgq9xcjhgxf0kqfy0eta":"Vesting",
-      "erd1k0fl52zss8a855gtz4csrqexczx9v7e90x54mpvx6lpmfmfy5m6qv8w4d6":"Foxsy AI Foundation"
+      "erd1qqqqqqqqqqqqqpgqs38cscwrmrfl85mtehluczdgq9xcjhgxf0kqfy0eta":"Foxsy AI Pre-Seed",
+      "erd1qqqqqqqqqqqqqpgqt3kpgt5rfg9mrd3vpu6u6cxx758lkrgz0cqqcy9c32":"Foxsy AI Team",
+      "erd1qqqqqqqqqqqqqpgq27hwaxqf2gh2r7xqmldlvla6mjzc78lp98nqvuzq39":"Foxsy AI Advisors",
+      "erd1qqqqqqqqqqqqqpgqz4v88tqd6j3ntxafg5ynyy8028vaf53rx0kqf5gnre":"Foxsy AI Community",
+      "erd1qqqqqqqqqqqqqpgq3evw5eguak04xwqkkdwdsxynd4s2e32h0jasyh7958":"Foxsy AI Liquidity",
+      "erd1qqqqqqqqqqqqqpgqsm05k6e468xu065p2u46f938k2ee6l7nqvfq6xnmdh":"Foxsy AI Ecosystem"
    }
 }

@@ -1,0 +1,17 @@
+{
+  "name": "Popu Market Operator",
+  "description": "Operator wallet of Popu Market. It sends the settlement, swap and withdrawal transactions to the Popu Market custody contract and receives the 1% exchange fee.",
+  "social": {
+    "website": "https://popumarket.com",
+    "twitter": "https://twitter.com/thecursedland",
+    "telegram": "https://t.me/TheCursedLand_Community",
+    "discord": "https://discord.com/invite/NAbQ5WChrs"
+  },
+  "tags": [
+    "popumarket",
+    "marketplace",
+    "gaming",
+    "thecursedland"
+  ],
+  "icon": "popumarket"
+}

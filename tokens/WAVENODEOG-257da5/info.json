@@ -1,10 +1,9 @@
 {
-   "website":"https://wavenode.io",
-   "description":"Wavenode OG, is a roleplay game to earn $eDIA on the Wavenode ecosystem",
-   "ledgerSignature":"",
-   "social":{
-      "email":"wdiamond@wavenode.io",
-      "twitter": "https://www.twitter.com/wavenodevalid"
-       },
-  "status": "active"
+    "website": "https://wavenode.fr",
+    "description": "Wavenode OG",
+    "status": "active",
+    "social": {
+        "email": "wdiamond@wavenode.io",
+        "twitter": "https://www.twitter.com/wavenodevalid"
+    }
 }

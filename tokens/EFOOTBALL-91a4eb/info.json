@@ -1,13 +1,13 @@
 {
-  "website": "https://www.elrond-football.com",
-    "description": "⚽EFootball-X NFTs - Own at least 3 NFTs to receive passive income.",
+    "website": "https://efoo.optibase.ro",
+    "description": "EFootball-X Squad (Sunday League Degen FC) - 628 verified generative football player NFTs on MultiversX featuring Romanian Liga 1, Champions League, and crypto degen traits. Official NFT collection of the $EFOO meme token ecosystem.",
     "social": {
-      "email": "contact@elrond-football.com",
-      "blog": "https://medium.com/@elrondfootball",
-      "twitter": "https://twitter.com/EFootball_X",
-      "whitepaper": "https://medium.com/@elrondfootball/elrond-football-projects-whitepaper-5184093adb20",
-      "telegram": "https://t.me/elrondfootball",
-      "discord": "https://discord.gg/c4ds7WzvKc"
+        "email": "office@optibase.ro",
+        "blog": "https://medium.com/@elrondfootball",
+        "twitter": "https://x.com/EFootball_X",
+        "whitepaper": "https://medium.com/@elrondfootball/elrond-football-projects-whitepaper-5184093adb20",
+        "telegram": "https://t.me/elrondfootball",
+        "discord": "https://discord.gg/c4ds7WzvKc"
     },
     "status": "active"
-  }
+}

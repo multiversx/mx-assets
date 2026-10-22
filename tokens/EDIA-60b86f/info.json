@@ -1,6 +1,6 @@
 {
-    "website": "https://twitter.com/wavenodeValid",
-    "description": "Edia is the ecosystem token of Wavenode, powered by “Burning Days” and community rewards. On Burning Days, 100% of the protocol rewards are used to buy Edia on the market and permanently burn it, reducing supply in a fully transparent way. In addition, Edia is regularly gifted to people who stake with Wavenode as a community reward, and holders can also earn Edia by staking a Wdiamond NFT. The long-term goal is to build a scarcer, community-driven token that supports the growth of the validator ecosystem.",
+    "website": "https://www.wavenode.fr",
+    "description": "Edia is the ecosystem token of Wavenode. Edia is regularly gifted to people who stake with Wavenode as a community reward, and holders can also earn Edia by staking a Wdiamond NFT. The long-term goal is to build a scarcer, community-driven token that supports the growth of the validator ecosystem.",
     "status": "active",
     "lockedAccounts": {
         "erd1uxqsu6pjf760s0rqry57wlctpy75jutk0czhzz3t07xtxnh75egs4c73j0": "Locked for burn",
@@ -11,6 +11,6 @@
     },
     "social": {
         "twitter": "https://twitter.com/wavenodeValid",
-        "whitepaper": "https://twitter.com/wavenodeValid"
+        "whitepaper": "https://www.wavenode.fr"
     }
 }
