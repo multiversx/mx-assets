@@ -1,9 +1,8 @@
 {
-  "name": "SplitSlip",
-  "description": "SLIP is the utility token of SplitSlip, used for receipt scanning, expense splitting, and rewards.",
-  "website": "https://splitslip.com",
-  "social": {
-    "twitter": "https://x.com/SplitSlipApp"
-  },
-  "status": "active"
+    "social": {
+        "twitter": "https://x.com/SplitSlipApp"
+    },
+    "website": "https://splitslip.com/",
+    "description": "SplitSlip, an app for sharing digital receipts, splitting expenses, and tracking shared costs. Built on MultiversX, SLIP supports rewards and community participation within the SplitSlip ecosystem.",
+    "status": "active"
 }
