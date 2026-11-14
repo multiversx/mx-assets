@@ -1,0 +1,10 @@
+{
+  "name": "EduChain: Token Smart Contract",
+  "description": "Treasury and reward distribution system for the EduChain Utility Token ($ECT).",
+  "icon": "educhain",
+  "website": "https://github.com/DevmindRO/eduChain",
+  "social": {
+    "github": "https://github.com/DevmindRO/eduChain"
+  },
+  "tags": ["dapp", "smartcontract"]
+}

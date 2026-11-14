@@ -1,0 +1,14 @@
+{
+    "website": "https://www.draculacoin.net/",
+    "description": "$Dracula is poised to capture the attention and imagination of crypto enthusiasts. It endeavors to create a vibrant and engaging community, where the power of memes meets the possibilities of blockchain technology",
+    "social": {
+        "telegram": "https://t.me/draculameme",
+        "twitter": "https://twitter.com/Dracula_meme"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/DRA-94a7ed",
+        "path": "0.usdPrice"
+    }
+}

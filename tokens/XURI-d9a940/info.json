@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "$Xuri, a tear born of fear, guides traders and dreamers, reminding them: courage grows where uncertainty thrives.",
+    "social": {
+        "telegram": "",
+        "twitter": "https://twitter.com/XURItoken"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/XURI-d9a940",
+        "path": "0.usdPrice"
+    }
+}

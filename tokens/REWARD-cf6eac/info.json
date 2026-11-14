@@ -1,10 +1,10 @@
 {
     "website": "https://www.hodl-token.club",
-    "description": "As an utility token of the HODL Token Club, $REWARD serves the purpose of providing a passive income stream to its investors. By holding $REWARD, you can earn rewards just by being a member of the HODL Token Club community.",
+    "description": "$REWARD is the core utility and reward token of the HODL Token Club ecosystem, built for long-term holders who value sustainable growth. It powers in-wallet staking rewards for NFT holders, provides liquidity incentives for DeFi participants, and serves as a transaction token within MakeX applications. Fairness and sustainability are at its foundation - $REWARD launched with equitable distribution, with the majority of supply allocated to the community. \nThe Club treasury earns tokens through the same DeFi mechanisms as members, ensuring both scarcity and transparency. In HODL Token Club, commitment drives results: secure your position, stake with confidence, and thrive with $REWARD.",
+    "status": "active",
     "social": {
         "email": "hodl.token.club@gmail.com",
-        "twitter": "https://https://twitter.com/HodlTokenClub",
-        "whitepaper": "https://drive.google.com/file/d/1H4KJ1Fl0lrQRyJ6xPUSymlz_YnncCCLc/view?usp=sharing"
-    },
-    "status": "active"
+        "twitter": "https://x.com/HodlTokenClub",
+        "whitepaper": "https://hodltokenclub.gitbook.io/hodl-token-club-litepaper-v2"
+    }
 }

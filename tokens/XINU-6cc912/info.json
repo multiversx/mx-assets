@@ -1,0 +1,14 @@
+{
+    "website": "https://www.xinu.live/",
+    "description": "Xinu had entered MultiversX\u2014a digital universe full of endless possibilities. This was no ordinary world. It was a place where the rules of reality were constantly changing, and every corner held new challenges, mysteries, and wonders.",
+    "social": {
+        "telegram": "https://t.me/xinumeme",
+        "twitter": "https://x.com/Xinumeme"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/XINU-6cc912",
+        "path": "0.usdPrice"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "social": {
+        "twitter": "https://x.com/dogecoin",
+        "whitepaper": "https://whitepaper.io/document/672/dogecoin-whitepaper",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/dogecoin/",
+        "coingecko": "https://www.coingecko.com/en/coins/dogecoin"
+    },
+    "website": "https://solvexnetworkmvx.github.io/website/",
+    "description": "Dogecoin ($DOGE): The iconic crypto memecoin, now live on the MultiversX Devnet, Brought by SolveX Network ($SVX).",
+    "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+    "website": "https://linktr.ee/RoyalDogRDG",
+    "description": "The most beautiful Dog of the Kingdom, Meme RDG Token \u2728\u2728\u2728\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+    "social": {
+        "telegram": "https://t.me/+mA2Q66oDV4A5NDYy",
+        "twitter": "https://x.com/fulisshovna?s=21"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/RDG-e413f1",
+        "path": "0.usdPrice"
+    }
+}

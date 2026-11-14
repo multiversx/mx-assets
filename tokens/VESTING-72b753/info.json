@@ -1,0 +1,8 @@
+{
+    "social": {
+        "twitter": "https://x.com/PulsarMoneyApp"
+    },
+    "website": "https://pulsar.money/",
+    "description": "Pulsar Money SFT that is associated with a vesting amount. The owner of this SFT can claim the streamed tokens once the vesting period has completed",
+    "status": "active"
+}

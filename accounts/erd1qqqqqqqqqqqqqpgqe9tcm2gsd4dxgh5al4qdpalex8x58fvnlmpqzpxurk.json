@@ -1,0 +1,10 @@
+{
+  "name": "EduChain: Certificates Smart Contract",
+  "description": "Smart Contract responsible for issuing and revoking Soulbound educational Certificates (SBTs) containing off-chain cryptographic metadata verification hashes.",
+  "icon": "educhain",
+  "website": "https://github.com/DevmindRO/eduChain",
+  "social": {
+    "github": "https://github.com/DevmindRO/eduChain"
+  },
+  "tags": ["dapp", "smartcontract"]
+}

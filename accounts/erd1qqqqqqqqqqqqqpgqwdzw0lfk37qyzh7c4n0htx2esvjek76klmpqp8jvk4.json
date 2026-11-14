@@ -1,0 +1,10 @@
+{
+  "name": "EduChain: Escrow Smart Contract",
+  "description": "Smart Contract responsible for locking and releasing P2P student-to-mentor payments with dual-confirmations.",
+  "icon": "educhain",
+  "website": "https://github.com/DevmindRO/eduChain",
+  "social": {
+    "github": "https://github.com/DevmindRO/eduChain"
+  },
+  "tags": ["dapp", "smartcontract"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "VibeOX App",
+  "description": "VibeOX Smart Contract",
+  "social": {
+    "website": "https://vibeox.ai",
+    "twitter": "https://x.com/vibeox_ai",
+    "telegram": "https://t.me/vibeOXSupport"
+  },
+  "tags": [
+    "vibeox"
+  ],
+  "icon": "vibeox"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "xBridge: Bsc Multisig",
+  "description": "",
+  "social": {
+    "website": "https://bridge.multiversx.com"
+  },
+  "tags": [
+    "xbridge",
+    "bsc",
+    "multisig"
+  ],
+  "icon": "multiversx"
+}

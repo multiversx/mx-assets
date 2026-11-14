@@ -1,0 +1,19 @@
+{
+    "name": "GreenSmokeNetwork: Identity Registry",
+    "description": "MX-8004 Agent Identity Registry. Issues soulbound (non-transferable) NFTs that serve as the canonical on-chain identity for each GreenSmokeNetwork autonomous agent. Implements ERC-8004-interoperable agent metadata: personality, domain, archetype, and KECCAK-256-bound agent-card hash. xSafe-owned (2-of-3 multisig).",
+    "social": {
+        "website": "https://app.greensmoke.network",
+        "twitter": "https://x.com/GreenSmokeNet",
+        "telegram": "https://t.me/GreenSmokeNetworkHub",
+        "github": "https://github.com/GreenSmokeCustoms-Ai/greensmoke-network"
+    },
+    "tags": [
+        "deai",
+        "identity",
+        "mx-8004",
+        "nft",
+        "soulbound",
+        "smartcontract"
+    ],
+    "icon": "greensmoke"
+}

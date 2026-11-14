@@ -1,6 +1,6 @@
 {
-  "name": "Ofero: VIP Cashback",
-  "description": "The Ofero Network's VIP Cashback Wallet",
+  "name": "Ofero: Cashback & Rewards",
+  "description": "The Ofero Network's Cashback & Rewards Wallet",
   "social": {
     "website": "https://www.ofero.network",
     "email": "contact@ofero.network",
@@ -23,6 +23,7 @@
     "ofero network",
     "vip",
     "cashback",
+    "rewards",
     "secure",
     "community"
   ],

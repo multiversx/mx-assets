@@ -1,9 +1,9 @@
 {
-    "social": {
-        "twitter": "https://twitter.com/HodlTokenClub",
-        "whitepaper": "https://drive.google.com/file/d/1H4KJ1Fl0lrQRyJ6xPUSymlz_YnncCCLc/view?usp=sharing"
-    },
     "website": "https://www.hodl-token.club",
-    "description": "HodlTokenClub was created to disturb the way tokens and rewards are distributed in the blockchain space. We noticed that most wealthy investors capture the majority of rewards leaving dust to the smallest investors in the market. Hold Club is here to change that and our solution is simple, yet unique in the blockchain space.  Our economic model based on random tokens and rewards distribution enables both parties to get return on investment over the time. Hold Club is truly community owned business as its wealth is shared among investors through very first ESDT shares on MultiversX Network leveraging $HODL token which is fully backed by LP position on xExchange and therefore fully community owned as 90% of supply is distributed using HodlClubNFTs collection.",
-    "status": "active"
+    "description": "$HODL is a scarce ESDT on the MultiversX blockchain, granting holders an equitable stake in the HODL Token Club ecosystem. With a hard cap of just 1,111 tokens, it emphasizes community ownership: 1,000 were distributed through NFT mints (500 via GH-NFTs, 500 via Empyreans), 20 were set aside for development and giveaways, 80 for liquidity pools, and 11 reserved for the founder. \nIts strength lies in scarcity, fair launch, and ecosystem integration. Liquidity pools connect $HODL to both $REWARD and $EGLD, with value further supported by MakeX app fees and DeFi demand, while Empyrean mint proceeds reinforce pool stability. \nDesigned without insider advantages, $HODL ensures fairness and rewards true community engagement. It can be acquired through Empyrean NFT mints carrying the H attribute (direct mints only with instant airdrops) or by swapping on OneDEX. \nClaim your share. Hold strong.",
+    "status": "active",
+    "social": {
+        "twitter": "https://x.com/HodlTokenClub",
+        "whitepaper": "https://hodltokenclub.gitbook.io/hodl-token-club-litepaper-v2"
+    }
 }

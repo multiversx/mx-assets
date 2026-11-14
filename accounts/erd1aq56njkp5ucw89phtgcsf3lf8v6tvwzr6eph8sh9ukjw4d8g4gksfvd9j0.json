@@ -1,0 +1,15 @@
+{
+    "name": "Saturn",
+    "description": "Powering Web3 Communities with maximum efficiency.",
+    "social": {
+        "website": "https://projectx.mx",
+        "twitter": "https://x.com/ProjectX_DAO",
+        "telegram": "https://t.me/ProjectX_DAO",
+        "discord": "https://discord.projectx.mx"
+    },
+    "tags": [
+        "projectx",
+        "bot"
+    ],
+    "icon": "projectx-saturn"
+}

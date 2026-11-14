@@ -1,0 +1,29 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+
+  <circle cx="100" cy="100" r="95" fill="#ff9800"/>
+
+  <circle cx="100" cy="95" r="45" fill="#f57c00"/>
+  <circle cx="100" cy="105" r="35" fill="#ffe0b2"/>
+
+  <circle cx="82" cy="95" r="4" fill="#000"/>
+  <circle cx="118" cy="95" r="4" fill="#000"/>
+
+  <polygon points="100,105 92,115 108,115" fill="#000"/>
+  <path d="M85 120 Q100 130 115 120" stroke="#000" stroke-width="2" fill="none"/>
+
+  <!-- Coins (ASCII text instead of symbols) -->
+  <circle cx="60" cy="60" r="14" fill="#fbc02d"/>
+  <text x="60" y="65" font-size="8" text-anchor="middle">BTC</text>
+
+  <circle cx="140" cy="60" r="14" fill="#90caf9"/>
+  <text x="140" y="65" font-size="8" text-anchor="middle">ETH</text>
+
+  <circle cx="100" cy="40" r="14" fill="#ffd54f"/>
+  <text x="100" y="45" font-size="8" text-anchor="middle">DOGE</text>
+
+  <rect x="30" y="145" width="140" height="30" rx="8" fill="#b71c1c"/>
+  <text x="100" y="165" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">
+    ELIONKING
+  </text>
+
+</svg>

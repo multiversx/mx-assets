@@ -1,8 +1,13 @@
 {
-  "social": {
-    "twitter": "https://twitter.com/OneDex_X"
-  },
-  "website": "https://onedex.app/",
-  "description": "Liquid token rewarded for staking OneDex Governance Token",
-  "status": "active"
+    "social": {
+        "twitter": "https://twitter.com/OneDex_X"
+    },
+    "website": "https://onedex.app/",
+    "description": "Liquid token rewarded for staking OneDex Governance Token",
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/LRONE-c13024",
+        "path": "0.usdPrice"
+    }
 }

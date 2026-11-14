@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "#MEME season, is opened by the most real NINJA !",
+    "social": {
+        "telegram": "https://t.me/longincto",
+        "twitter": "https://x.com/LonginNinj43024"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/LONGIN-0edda4",
+        "path": "0.usdPrice"
+    }
+}

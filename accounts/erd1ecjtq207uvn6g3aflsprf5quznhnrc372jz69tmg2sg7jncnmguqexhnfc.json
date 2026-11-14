@@ -1,0 +1,13 @@
+{
+  "name": "Vero: NFC Cashless Payments",
+  "description": "VeroPay master wallet",
+  "social": {
+    "website": "https://vero.ro",
+    "twitter": "https://x.com/veropay_ro"
+  },
+  "tags": [
+    "vero",
+    "NFC Payments"
+  ],
+  "icon": "vero"
+}

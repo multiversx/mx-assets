@@ -1,0 +1,17 @@
+{
+  "name": "Popu Market",
+  "description": "TCL custody smart contract of Popu Market, the player marketplace of The Cursed Land. It holds the TCL players deposit; every swap, purchase and withdrawal settles here, including the 5% TCL burn and the 1% exchange fee.",
+  "social": {
+    "website": "https://popumarket.com",
+    "twitter": "https://twitter.com/thecursedland",
+    "telegram": "https://t.me/TheCursedLand_Community",
+    "discord": "https://discord.com/invite/NAbQ5WChrs"
+  },
+  "tags": [
+    "popumarket",
+    "marketplace",
+    "gaming",
+    "thecursedland"
+  ],
+  "icon": "popumarket"
+}

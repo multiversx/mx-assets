@@ -1,0 +1,16 @@
+{
+  "website": "https://syndicatemvx.com/",
+  "description": "First investment syndicate on MultiversX",
+  "ledgerSignature": "",
+  "social": {
+    "twitter": "https://x.com/syndicateMVX",
+    "telegram": "https://t.me/+OLpxjtX2z_ZhZmNk"
+  },
+  "status": "active",
+  "lockedAccounts": {
+    "erd1fqen50hz7ye5nryyaagwhfw5gxvq3v47zx6r86dg073eg26hz9esw6vnqz": "SyndicateX AI Reserves",
+    "erd1j8la2922smtg7lw6a0ndwnmeg46lvfwthjg5svm3qrld7eyjcg8qmeetlg": "Pink SyndicateX",
+    "erd1p4lcukp8ygdxa0d2l0qjua9kjerhmymth5u8tdpz6gqfymxzejdql820ay": "Red SyndicateX",
+    "erd19j4l0xv9tf5yxl56qujk8e4ze7nnzeugrvtv5kyvyhxyama2v4mqlujsul": "Blue SyndicateX"
+  }
+}

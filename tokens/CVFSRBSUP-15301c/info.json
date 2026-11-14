@@ -1,0 +1,15 @@
+{
+    "website": "https://valoro.fund/investment-funds/srbsupporters",
+    "description": "SRBsupporters is the token of the Community Valoro Fund dedicated to the Supporters of the SuperRareBears ecosystem.",
+    "social": {
+        "twitter": "https://twitter.com/ValoroFund",
+        "telegram": "https://t.me/valorofund",
+        "whitepaper": "https://docs.valoro.fund/"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.valoro.fund/v1/protocol/tokens/CVFSRBSUP-15301c",
+        "path": "0.usdPrice"
+    }
+}

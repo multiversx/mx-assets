@@ -1,0 +1,14 @@
+{
+    "website": "https://www.tazcrypto.com/",
+    "description": "Taz  is not just another cryptocurrency. It\u2019s an exciting journey inspired by the iconic Taz-Mania animated series, where we bring the untamed energy of the Tasmanian Devil to the world of blockchain. We believe in the power of memes, innovation, and community, and we invite you to join us on this thrilling crypto adventure.",
+    "social": {
+        "telegram": "https://t.me/taz_bsc",
+        "twitter": "https://x.com/taz_bsc"
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/TAZ-8babcf",
+        "path": "0.usdPrice"
+    }
+}

@@ -1,0 +1,10 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD700"></stop>
+      <stop offset="100%" stop-color="#FFA500"></stop>
+    </linearGradient>
+  </defs>
+  <circle cx="128" cy="128" r="123" fill="url(#goldGradient)" stroke="black" stroke-width="3"></circle>
+  <text x="50%" y="55%" text-anchor="middle" font-size="64" font-family="Arial Black" fill="white" stroke="black" stroke-width="2">AURX</text>
+</svg>

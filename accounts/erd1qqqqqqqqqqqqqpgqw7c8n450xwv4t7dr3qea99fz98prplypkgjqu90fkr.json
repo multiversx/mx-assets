@@ -1,0 +1,19 @@
+{
+    "name": "GreenSmokeNetwork: Agent Factory",
+    "description": "GreenSmokeNetwork permissionless agent factory. Issues GSN Agent Identity NFTs (MX-8004 soulbound), manages the agent directory, and mints agent smart contracts with a 1 GSN self-bond. xSafe-owned (2-of-3 multisig).",
+    "social": {
+        "website": "https://app.greensmoke.network",
+        "twitter": "https://x.com/GreenSmokeNet",
+        "telegram": "https://t.me/GreenSmokeNetworkHub",
+        "github": "https://github.com/GreenSmokeCustoms-Ai/greensmoke-network"
+    },
+    "tags": [
+        "deai",
+        "agent",
+        "factory",
+        "smartcontract",
+        "mx-8004",
+        "nft"
+    ],
+    "icon": "greensmoke"
+}

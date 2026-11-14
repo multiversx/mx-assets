@@ -1,0 +1,14 @@
+{
+    "website": "https://fundex.fun",
+    "description": "The ultimate meme coin inspired by the iconic Nyan Cat! Combining pixelated charm, a vibrant rainbow trail, and cosmic vibes, NyanCoin brings fun and nostalgia to the crypto universe. Join the Nyaniverse and let your investments soar to the stars with this playful and community-driven token!",
+    "social": {
+        "telegram": "https://t.me/+uzlFQqw2yyAxMThk",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/NYAN-944bc2",
+        "path": "0.usdPrice"
+    }
+}

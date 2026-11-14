@@ -1,0 +1,11 @@
+{
+    "website": "https://pell.network",
+    "description": "The $PELL token is the native token of Pell Network, which serves as the foundation for participation, governance, and incentives across our ecosystem. Designed to empower token holders, the PELL token ensures long-term alignment between users and the growth of the Pell Network.",
+    "social": {
+        "email": "hi@pell.network",
+        "blog": "https://pell-network.medium.com/",
+        "twitter": "https://x.com/Pell_Network",
+        "whitepaper": "https://pell.gitbook.io/pell-network-docs"
+    },
+    "status": "active"
+}

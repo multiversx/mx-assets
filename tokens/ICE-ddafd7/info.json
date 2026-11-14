@@ -1,0 +1,12 @@
+{
+    "social": {
+        "blog": "https://ice.io/blog",
+        "twitter": "https://x.com/ice_blockchain",
+        "whitepaper": "https://ice.io/whitepaper",
+        "coinmarketcap": "https://coinmarketcap.com/currencies/ice-decentralized-future/",
+        "coingecko": "https://www.coingecko.com/en/coins/ice-network"
+    },
+    "website": "https://ice.io",
+    "description": "Ice Open Network (ION) drives Web3 forward with its ultra-fast L1 blockchain, empowering anyone to build scalable, privacy-focused decentralized apps.",
+    "status": "active"
+}

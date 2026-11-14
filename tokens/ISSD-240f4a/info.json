@@ -1,0 +1,14 @@
+{
+    "website": "https://en.wikipedia.org/wiki/IShowSpeed",
+    "description": "We love Speed and we are his crazy fans",
+    "social": {
+        "telegram": "",
+        "twitter": ""
+    },
+    "status": "active",
+    "priceSource": {
+        "type": "customUrl",
+        "url": "https://api.onedex.app/prices/ISSD-240f4a",
+        "path": "0.usdPrice"
+    }
+}

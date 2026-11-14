@@ -1,0 +1,12 @@
+{
+  "name": "xAlliance: XP System",
+  "description": "Onchain XP system with tiers that enables voting in the xAlliance DAO on PeerMe.",
+  "social": {
+    "website": "https://xalliance.io",
+    "twitter": "https://x.com/xalliancedao",
+    "discord": "https://discord.xalliance.io",
+    "github": "https://github.com/xAllianceDAO"
+  },
+  "tags": ["xalliance", "xp", "system"],
+  "icon": "xalliance"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Liquorix: AI Yield Reactor",
+  "description": "An autonomous yield reactor built on MultiversX that acts as a strategy layer over xLend. The protocol accepts EGLD and xEGLD (Xoxno’s Liquid Staking Token), utilizing an AI-driven loop to borrow stablecoins and leverage positions. By automatically managing collateral ratios and executing leverage/deleverage cycles to accumulate more EGLD, the reactor maximizes lending APY while actively monitoring risk factors to protect capital.",
+  "social": {
+    "website": "https://liquorix.vercel.app"
+  },
+  "tags": [
+    "DeFi",
+    "Yield Farming",
+    "AI-Managed",
+    "Automation",
+    "Leverage",
+    "xLend"
+  ],
+  "icon": "liquorix"
+}
