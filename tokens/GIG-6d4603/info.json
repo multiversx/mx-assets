@@ -1,8 +1,8 @@
 {
-    "social": {
-        "twitter": "https://twitter.com/GiggleTheCoin"
-    },
     "website": "https://gigglecoin.meme",
     "description": "Meme coin with a humorous twist and a hint of AI, powered by MultiversX.",
-    "status": "active"
+    "status": "active",
+    "social": {
+        "twitter": "https://twitter.com/GiggleTheCoin"
+    }
 }
