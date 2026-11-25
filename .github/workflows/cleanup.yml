@@ -2,16 +2,11 @@ name: Cleanup
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 1"
   workflow_dispatch:
-    inputs:
-      dry_run:
-        description: "Only list the folders that would be removed"
-        type: boolean
-        default: true
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
   group: cleanup
@@ -27,21 +22,5 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Execute cleanup script
-        env:
-          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
-        run: |
-          python3 .github/cleanup.py $([ "$DRY_RUN" = "true" ] && echo --dry-run)
-      - name: Commit and push removals
-        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
-        run: |
-          if [ -z "$(git status --porcelain -- tokens testnet/tokens devnet/tokens)" ]; then
-            echo "Nothing to clean up."
-            exit 0
-          fi
-          git config user.name "GitHub Cleanup Bot"
-          git config user.email "<>"
-          git add -A tokens testnet/tokens devnet/tokens
-          git commit -m "Cleanup"
-          git pull --rebase origin master
-          git push origin HEAD:master
+      - name: List folders that would be removed
+        run: python3 .github/cleanup.py --dry-run
