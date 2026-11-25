@@ -3,36 +3,45 @@ name: Cleanup
 on:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Only list the folders that would be removed"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cleanup
+  cancel-in-progress: false
 
 jobs:
   cleanup:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository content
-        uses: actions/checkout@v2
+        uses: actions/checkout@v7
       - name: Setup Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.8
-      - name: Setup pip
-        uses: BSFishy/pip-action@v1
-        with:
-          packages: |
-            requests
+          python-version: "3.12"
       - name: Execute cleanup script
+        env:
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
         run: |
-          python3 .github/cleanup.py
-      - name: Cleanup
+          python3 .github/cleanup.py $([ "$DRY_RUN" = "true" ] && echo --dry-run)
+      - name: Commit and push removals
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
         run: |
+          if [ -z "$(git status --porcelain -- tokens testnet/tokens devnet/tokens)" ]; then
+            echo "Nothing to clean up."
+            exit 0
+          fi
           git config user.name "GitHub Cleanup Bot"
           git config user.email "<>"
-
-          STATUS=$(git status)
-          if [ $STATUS != "" ]
-          then
-            git add .
-            git commit -m "Cleanup"
-            git fetch origin master
-            git push origin HEAD:master
-          fi
+          git add -A tokens testnet/tokens devnet/tokens
+          git commit -m "Cleanup"
+          git pull --rebase origin master
+          git push origin HEAD:master

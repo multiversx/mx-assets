@@ -1,105 +1,132 @@
-DIR=""
+# Validation helpers used by .github/workflows/validate.yml.
+# Usage: source .github/snippet.sh; validate_<check> <changed files...>
+# Each function checks every file it is given, reports all problems, and
+# returns non-zero if any check failed (it never exits the calling shell).
+
+SIZE_LIMIT_KB=100
+EXPECTED_PNG_DIMENSIONS="200 x 200"
+
+# True for logos/icons that the image checks apply to.
+is_asset_image() {
+  [[ $1 == *tokens/*/logo.png || $1 == *tokens/*/logo.svg ||
+     $1 == *identities/*/logo.png || $1 == *identities/*/logo.svg ||
+     $1 == *accounts/*/*.png || $1 == *accounts/*/*.svg ]]
+}
 
 validate_filenames() {
+  local failed=0
   for file in "$@"; do
     echo "Checking filename for $file"
-    if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* && ${file} != *"accounts/"* && ${file} != *".github/"* && ${file} != *"/ranks.json"* && ${file} != *"README.md"* ]]; then
+    if [[ ${file} != *"/info.json"* && ${file} != *"/logo.png"* && ${file} != *"/logo.svg"* && ${file} != *"accounts/"* && ${file} != *".github/"* && ${file} != *"/ranks.json"* && ${file} != *"README.md"* && ${file} != "CLAUDE.md" ]]; then
       echo "Filename ${file} isn't expected!"
-      exit 1
+      failed=1
     fi
-
-    DIR=`basename $(dirname $file)`
   done
+  return $failed
 }
 
 validate_file_size() {
-  SIZE_LIMIT=100
+  local failed=0
   for file in "$@"; do
+    [[ -f $file ]] && is_asset_image "$file" || continue
     echo "Checking file size for $file"
-    if [[ ${file} == *"/logo.svg"* || ${file} == *"/logo.svg"* ]]; then
-      file_size_blocks=$(ls -sh ${file} | grep -o -E '^[0-9]+')
-      file_size_kb=$(expr ${file_size_blocks} / 2)
-
-      if [[ ${file_size_kb} -gt $SIZE_LIMIT ]]; then
-        echo "File ${file} is too large! (${file_size_kb} KB)"
-        exit 1
-      fi
+    local size_bytes
+    size_bytes=$(wc -c < "$file" | tr -d ' ')
+    if (( size_bytes > SIZE_LIMIT_KB * 1024 )); then
+      echo "File ${file} is too large! ($(( (size_bytes + 1023) / 1024 )) KB, limit is ${SIZE_LIMIT_KB} KB)"
+      failed=1
     fi
   done
+  return $failed
+}
+
+# Prints the root <svg> tag's "width height", taken from its viewBox when present,
+# otherwise from its width/height attributes. Prints nothing if neither is usable.
+svg_dimensions() {
+  local svg_tag view_box width height
+  svg_tag=$(tr '\n\r\t' '   ' < "$1" | grep -o -E '<svg[^>]*>' | head -1)
+  view_box=$(echo "$svg_tag" | grep -o -E "viewBox=[\"'][^\"']*[\"']" | head -1 | sed -E "s/^viewBox=[\"']//; s/[\"']$//" | tr ',' ' ')
+  if [[ -n $view_box ]]; then
+    echo "$view_box" | awk 'NF == 4 { print $3, $4 }'
+    return
+  fi
+  width=$(echo "$svg_tag" | grep -o -E "[[:space:]]width=[\"'][0-9.]+(px)?[\"']" | head -1 | grep -o -E '[0-9.]+' | head -1)
+  height=$(echo "$svg_tag" | grep -o -E "[[:space:]]height=[\"'][0-9.]+(px)?[\"']" | head -1 | grep -o -E '[0-9.]+' | head -1)
+  if [[ -n $width && -n $height ]]; then
+    echo "$width $height"
+  fi
 }
 
 validate_svg_square() {
+  local failed=0
   for file in "$@"; do
+    [[ -f $file && $file == *.svg ]] && is_asset_image "$file" || continue
     echo "Checking if SVG is square for $file"
-    if [[ ${file} == *"/logo.svg"* ]]; then
-      view_box=$(cat $file | grep -E " viewBox" | grep -E -o "(([0-9]*\.[0-9]+|[0-9]+) ){3,3}([0-9]*\.[0-9]+|[0-9]+)" | head -1)
-
-      if [[ $view_box != "" ]]; then
-        echo "Extracting width and height from view box: $view_box"
-
-        width=$(echo $view_box | grep -E -o "([0-9]*\.[0-9]+|[0-9]+)" | tail -2 | head -1)
-        echo "Width:$width"
-
-        height=$(echo $view_box | grep -E -o "([0-9]*\.[0-9]+|[0-9]+)" | tail -1)
-        echo "Height:$height"
-
-        if [[ $width != $height ]];then
-          echo "SVG not a square!( w:$width h:$height )"
-          exit 1
-        fi
-
-        exit 0;
-      fi
+    local dimensions width height
+    dimensions=$(svg_dimensions "$file")
+    if [[ -z $dimensions ]]; then
+      echo "Could not read dimensions of ${file}: the root <svg> needs a viewBox (or numeric width and height)"
+      failed=1
+      continue
     fi
-  done 
+    IFS=' ' read -r width height <<< "$dimensions"
+    echo "Width:$width Height:$height"
+    # Allow 1% difference so exporter rounding (e.g. 150 vs 149.999998) passes.
+    if ! awk -v w="$width" -v h="$height" 'BEGIN { w += 0; h += 0; d = w - h; if (d < 0) d = -d; exit !(w > 0 && h > 0 && d <= 0.01 * (w > h ? w : h)) }'; then
+      echo "SVG not a square! ( w:$width h:$height )"
+      failed=1
+    fi
+  done
+  return $failed
 }
 
 validate_png_dimensions() {
-  EXPECTED_PNG_DIMENSIONS="200 x 200"
+  local failed=0
   for file in "$@"; do
+    [[ -f $file && $file == *.png ]] && is_asset_image "$file" || continue
     echo "Checking PNG dimensions for $file"
-    logo_in_tokens="*tokens/*/logo.png"
-    logo_in_identities="*identities/*/logo.png"
-    png_in_accounts="*accounts/*/*.png"
-
-    if [[ ${file} == ${logo_in_tokens} || ${file} == ${logo_in_identities} || ${file} == ${png_in_accounts} ]]; then
-      png_dimensions=$(file $file | grep -E -o "[0-9]+ x [0-9]+" | head -1)
-
-      echo "PNG dimensions: $png_dimensions"
-
-      if [[ $png_dimensions != $EXPECTED_PNG_DIMENSIONS ]]; then
-        echo "Invalid dimensions for PNG! ( $png_dimensions )"
-        exit 1
-      fi
-
-      exit 0;
+    local png_dimensions
+    png_dimensions=$(file "$file" | grep -E -o "[0-9]+ x [0-9]+" | head -1)
+    echo "PNG dimensions: $png_dimensions"
+    if [[ $png_dimensions != "$EXPECTED_PNG_DIMENSIONS" ]]; then
+      echo "Invalid dimensions for PNG ${file}! ( ${png_dimensions:-unreadable}, expected $EXPECTED_PNG_DIMENSIONS )"
+      failed=1
     fi
   done
+  return $failed
 }
 
+# Checks that every token folder touched by the changed files exists as a token
+# or collection on the API of the environment the folder belongs to.
 validate_token_existence() {
-  urls=( "https://api.multiversx.com/" "https://testnet-api.multiversx.com/" "https://devnet-api.multiversx.com/")
-  for url in ${urls[@]}; do
-    API_TOKEN_URL="$url" 
-    API_TOKEN_URL+="tokens/"
-    API_TOKEN_URL+="$DIR"
-    API_COLLECTION_URL="$url"
-    API_COLLECTION_URL+="collections/"
-    API_COLLECTION_URL+="$DIR"
+  local failed=0 checked=" "
+  for file in "$@"; do
+    local api_url token_id
+    file=${file#./}
+    case $file in
+      tokens/*/*)         api_url="https://api.multiversx.com" ;;
+      testnet/tokens/*/*) api_url="https://testnet-api.multiversx.com" ;;
+      devnet/tokens/*/*)  api_url="https://devnet-api.multiversx.com" ;;
+      *) continue ;;
+    esac
+    token_id=$(echo "$file" | sed -E 's#^((testnet|devnet)/)?tokens/([^/]+)/.*#\3#')
+    [[ $checked == *" $api_url/$token_id "* ]] && continue
+    checked+="$api_url/$token_id "
 
-    HTTP_STATUS=$(curl -s -w "%{http_code}" -o /dev/null "$API_TOKEN_URL")
-    if [[ ${HTTP_STATUS} == 200 ]]; then
-      exit 0
+    echo "Checking that $token_id exists on $api_url"
+    local endpoint status found=0
+    for endpoint in tokens collections; do
+      status=$(curl -s -o /dev/null -w "%{http_code}" --retry 3 --retry-all-errors --max-time 30 "$api_url/$endpoint/$token_id" || true)
+      if [[ $status == 200 ]]; then
+        found=1
+        break
+      fi
+      echo "  $api_url/$endpoint/$token_id returned HTTP $status"
+    done
+    if (( ! found )); then
+      echo "Invalid token $token_id: not found as a token or collection on $api_url"
+      failed=1
     fi
-    echo "Failed fetching from $API_TOKEN_URL"
-    
-    HTTP_STATUS=$(curl -s -w "%{http_code}" -o /dev/null "$API_COLLECTION_URL")
-    if [[ ${HTTP_STATUS} == 200 ]]; then
-      exit 0
-    fi
-    echo "Failed fetching from $API_COLLECTION_URL"
   done
-
-  echo "Invalid token $DIR"
-  exit 1
+  return $failed
 }
