@@ -65,7 +65,7 @@ Here’s a prefilled template for the .json file to get you started:
 - mandatory when opening a pull request
 - must have a resolution of 200x200 pixels
 
-| ![RIDE png](https://github.com/multiversx/mx-assets/blob/master/tokens/RIDE-7d18e9/logo.png?raw=true) |
+| ![USDC png](https://github.com/multiversx/mx-assets/blob/master/tokens/USDC-c76f1f/logo.png?raw=true) |
 | :---------------------------------------------------------------------------------------------------: |
 |                                               *Example*                                               |
 
@@ -74,7 +74,7 @@ Here’s a prefilled template for the .json file to get you started:
 - mandatory when opening a pull request
 - must have a square format
 
-| ![RIDE svg](https://github.com/multiversx/mx-assets/blob/master/tokens/RIDE-7d18e9/logo.svg?raw=true) |
+| ![USDC svg](https://github.com/multiversx/mx-assets/blob/master/tokens/USDC-c76f1f/logo.svg?raw=true) |
 | :---------------------------------------------------------------------------------------------------: |
 |                                               *Example*                                               |
 
