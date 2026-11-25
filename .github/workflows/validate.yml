@@ -11,10 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Install Dependencies
-        run: |
-          sudo apt-get update
-          sudo apt install imagemagick-6.q16
       - name: Collecting file paths
         run: |
           # Collect all JSON files in 'tokens' directories
@@ -41,7 +37,7 @@ jobs:
           source .github/snippet.sh ; validate_svg_square ${{ steps.files.outputs.added_modified }}
       - name: Validate token existence
         run: |
-          source .github/snippet.sh; validate_token_existence
+          source .github/snippet.sh; validate_token_existence ${{ steps.files.outputs.added_modified }}
       - name: Validate tokens JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
